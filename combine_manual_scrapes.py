@@ -80,26 +80,35 @@ def combine_manual_scrapes():
                         product['availability'] = 'Unknown'
 
                     # Fix missing category - try to infer from product URL or name
-                    if not product.get('category') or product.get('category') == 'null':
+                    if not product.get('category') or product.get('category') == 'null' or product.get('category') == 'Other':
                         url = product.get('url', '').lower()
                         name = product.get('name', '').lower()
 
                         # Try to determine category from URL or product name
-                        if any(x in url or x in name for x in ['pant', 'jogger', 'short', 'bottom']):
+                        # Check outerwear first (more specific)
+                        if any(x in url or x in name for x in ['jacket', 'hoodie', 'vest', 'fleece', 'blazer', 'cardigan', 'sweater', 'pullover', 'zip', 'shacket']):
+                            product['category'] = 'Outerwear'
+                        # Accessories
+                        elif any(x in url or x in name for x in ['beanie', 'hat', 'cap', 'sock', 'glove', 'belt', 'bag', 'backpack', 'headband', 'wristband']):
+                            product['category'] = 'Accessories'
+                        # Bottoms
+                        elif any(x in url or x in name for x in ['trouser', 'pant', 'jogger', 'short', 'bottom', 'sweatpant']):
                             if 'short' in url or 'short' in name:
                                 product['category'] = 'Shorts'
                             else:
                                 product['category'] = 'Bottoms'
-                        elif any(x in url or x in name for x in ['shirt', 'tee', 'tank', 'polo', 'top', 'henley', 'vneck', 'sleeve']):
+                        # Tops
+                        elif any(x in url or x in name for x in ['shirt', 'tee', 'tank', 'polo', 'top', 'henley', 'vneck', 'sleeve', 'crewneck']):
                             product['category'] = 'Tops'
-                        elif any(x in url or x in name for x in ['jacket', 'hoodie', 'vest', 'fleece', 'blazer', 'cardigan', 'sweater', 'pullover']):
-                            product['category'] = 'Outerwear'
+                        # Sports Bras
                         elif any(x in url or x in name for x in ['bra', 'sports-bra']):
                             product['category'] = 'Sports Bras'
+                        # Leggings
                         elif 'legging' in url or 'legging' in name:
                             product['category'] = 'Leggings'
+                        # Default to Tops if we can't determine
                         else:
-                            product['category'] = 'Other'
+                            product['category'] = 'Tops'
 
                     # Fix gender detection
                     url = product.get('url', '').lower()

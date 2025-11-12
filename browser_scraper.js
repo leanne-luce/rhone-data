@@ -113,7 +113,17 @@
             // Extract color options/swatches
             const colors = [];
 
-            // Method 1: Color swatches with data attributes
+            // Method 1: Swatch option buttons (like swatch-option--color)
+            const swatchButtons = card.querySelectorAll('button[class*="swatch-option"][class*="color"]');
+            swatchButtons.forEach(button => {
+                const colorName = button.getAttribute('title') ||
+                                button.getAttribute('aria-label');
+                if (colorName && !colors.includes(colorName)) {
+                    colors.push(colorName.trim());
+                }
+            });
+
+            // Method 2: Color swatches with data attributes
             const colorSwatches = card.querySelectorAll('[class*="color-swatch"], [class*="ColorSwatch"], [data-color], .swatch');
             colorSwatches.forEach(swatch => {
                 const colorName = swatch.getAttribute('data-color') ||
@@ -124,7 +134,7 @@
                 }
             });
 
-            // Method 2: Color dropdown or list
+            // Method 3: Color dropdown or list
             const colorOptions = card.querySelectorAll('option[value*="color"], [class*="variant"] option');
             colorOptions.forEach(option => {
                 const colorName = option.textContent.trim();
@@ -133,7 +143,7 @@
                 }
             });
 
-            // Method 3: Check for color in product name
+            // Method 4: Check for color in product name (fallback)
             if (colors.length === 0 && product.name) {
                 const colorKeywords = [
                     'black', 'white', 'blue', 'red', 'green', 'navy', 'grey', 'gray',

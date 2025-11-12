@@ -1,0 +1,780 @@
+[
+  {
+    "scraped_at": "2025-11-12T05:24:20.030Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-trucker-hat/",
+    "product_id": "womens-trucker-hat",
+    "name": "Trucker Hat",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "Navy Blue"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/TruckerHat-Black-200708-003_3_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-trucker-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.031Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-trucker-hat/",
+    "product_id": "womens-trucker-hat",
+    "name": "Trucker Hat",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Navy Blue",
+      "Black"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/TruckerHat-NavyBlue-200708-405_037_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-trucker-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.031Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-ringo-pro-bottle-sip-lid/",
+    "product_id": "womens-ringo-pro-bottle-sip-lid",
+    "name": "Ringo Pro Bottle Sip Lid 24oz",
+    "price": 56,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Ivory",
+      "Black"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Ringo_waterbottle_0029_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-ringo-pro-bottle-sip-lid"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.031Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-ringo-pro-bottle-sip-lid/",
+    "product_id": "womens-ringo-pro-bottle-sip-lid",
+    "name": "Ringo Pro Bottle Sip Lid 24oz",
+    "price": 56,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "Ivory"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Ringo_waterbottle_0006_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-ringo-pro-bottle-sip-lid"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.031Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-half-crew-sock/",
+    "product_id": "womens-half-crew-sock",
+    "name": "Half Crew Sock",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Bright White",
+      "Black"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/HalfCrewSock-BrightWhite_0007_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-half-crew-sock"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.032Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-active-hat/",
+    "product_id": "womens-everyday-active-hat",
+    "name": "Everyday Active Hat",
+    "price": 34,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "White",
+      "Stone"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayActiveHat-Black-200710-001_15_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-active-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.032Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-hat/",
+    "product_id": "womens-everyday-hat",
+    "name": "Everyday Hat",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "White",
+      "Khaki",
+      "Navy Blue"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Hat-Black_0036_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.032Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-active-hat/",
+    "product_id": "womens-everyday-active-hat",
+    "name": "Everyday Active Hat",
+    "price": 34,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Stone",
+      "Black",
+      "White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayActiveHat-Stone-200710-230_11_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-active-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-hat/",
+    "product_id": "womens-everyday-hat",
+    "name": "Everyday Hat",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "White",
+      "Khaki"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayHat-NavyBlue-200289-405_51_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-hat/",
+    "product_id": "womens-everyday-hat",
+    "name": "Everyday Hat",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Khaki",
+      "Navy Blue",
+      "Black",
+      "White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Hat-Biege_0173_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-active-hat/",
+    "product_id": "womens-everyday-active-hat",
+    "name": "Everyday Active Hat",
+    "price": 34,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "White",
+      "Stone",
+      "Black"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayActiveHat-White-200710-101_01_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-active-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-hat/",
+    "product_id": "womens-everyday-hat",
+    "name": "Everyday Hat",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "White",
+      "Khaki",
+      "Navy Blue",
+      "Black"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Hat-White_0017_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-visor/",
+    "product_id": "womens-visor",
+    "name": "The Visor",
+    "price": 34,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "White",
+      "Black",
+      "Khaki"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Visor-White_0009_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-visor"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-visor/",
+    "product_id": "womens-visor",
+    "name": "The Visor",
+    "price": 34,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "White",
+      "Khaki"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Visor-Black_0009_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-visor"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-golf-glove/",
+    "product_id": "womens-golf-glove",
+    "name": "Women's Golf Glove",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/WomensGolfGlove_086_a2fdb12e-d041-472b-b40b-c626f339a1c8_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-golf-glove"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-visor/",
+    "product_id": "womens-visor",
+    "name": "The Visor",
+    "price": 34,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Khaki",
+      "Black",
+      "White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Visor-Biege_0016_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-visor"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.033Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/miir-all-day-cup/",
+    "product_id": "miir-all-day-cup",
+    "name": "MiiR All Day Straw Cup 32 oz.",
+    "price": 42,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Sandstone",
+      "White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/RhonexMiir-Cup-Sand_005_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "miir-all-day-cup"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/miir-all-day-cup/",
+    "product_id": "miir-all-day-cup",
+    "name": "MiiR All Day Straw Cup 32 oz.",
+    "price": 42,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "White",
+      "Sandstone"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/MiiRAllDayStrawCup32oz-102233-100_a_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "miir-all-day-cup"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-half-crew-sock/",
+    "product_id": "womens-half-crew-sock",
+    "name": "Half Crew Sock",
+    "sale_price": 12.8,
+    "price": 16,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "Bright White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/HalfCrewSock-Black_004_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-half-crew-sock"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-xox-hat/",
+    "product_id": "womens-everyday-xox-hat",
+    "name": "Everyday XOX Hat",
+    "sale_price": 25.6,
+    "price": 32,
+    "on_sale": true,
+    "colors": [
+      "Khaki",
+      "White",
+      "Pink"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayXOXHat-Khaki-200593-212_006_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-xox-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-xox-hat/",
+    "product_id": "womens-everyday-xox-hat",
+    "name": "Everyday XOX Hat",
+    "sale_price": 25.6,
+    "price": 32,
+    "on_sale": true,
+    "colors": [
+      "White",
+      "Khaki",
+      "Pink"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayXOXHat-White-200593-101_c1_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-xox-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-everyday-xox-hat/",
+    "product_id": "womens-everyday-xox-hat",
+    "name": "Everyday XOX Hat",
+    "sale_price": 25.6,
+    "price": 32,
+    "on_sale": true,
+    "colors": [
+      "Pink",
+      "White",
+      "Khaki"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/EverydayXOXHat-Pink-200593-659_c1_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-everyday-xox-hat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-revive-trouser/",
+    "product_id": "womens-revive-trouser",
+    "name": "Revive™ Trouser",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Pure Black",
+      "Navy Blue"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/ReviveTrouser-PureBlack-WS-200640-010_6_fa07fc97-77a2-4bfa-b7e0-7a76ed1bff5f_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-revive-trouser"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-revive-legging/",
+    "product_id": "womens-revive-legging",
+    "name": "Revive 7/8 Legging",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "Mulberry Houndstooth",
+      "Pure Black Houndstooth",
+      "Wild Forest",
+      "Navy Blue",
+      "Green Smoke",
+      "Dark Espresso",
+      "Asphalt",
+      "Gray Lilac",
+      "Taupe Mist"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/Revive-7_8Legging-Black_0011_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-revive-legging"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-revive-full-length-pocket-legging/",
+    "product_id": "womens-revive-full-length-pocket-legging",
+    "name": "Revive™ Full Length Pocket Legging",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Pure Black",
+      "Navy Blue"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/ReviveFullLengthPocketLegging-PureBlack-200834-010_72_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-revive-full-length-pocket-legging"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-commuter-sleeveless-blazer/",
+    "product_id": "womens-commuter-sleeveless-blazer",
+    "name": "Commuter® Sleeveless Blazer",
+    "sale_price": 88.8,
+    "price": 148,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "Ivory Pinstripe"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/CommuterSleevelessBlazer-Black-200376-003_c1_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-commuter-sleeveless-blazer"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.034Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-horizon-square-neck-tank/",
+    "product_id": "womens-horizon-square-neck-tank",
+    "name": "Horizon Square Neck Tank",
+    "sale_price": 78.4,
+    "price": 98,
+    "on_sale": true,
+    "colors": [
+      "Pure Black",
+      "Summer Sand",
+      "Blue Pearl"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/HorizonSquareNeckTank-PureBlack-200649-010_82_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-horizon-square-neck-tank"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-chalet-quilted-jacket/",
+    "product_id": "womens-chalet-quilted-jacket",
+    "name": "Chalet Quilted Jacket",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Pure Black",
+      "Salt"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/ChaletQuiltedJacket-PureBlack-WS-200622-010_63_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-chalet-quilted-jacket"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-monterey-quilted-jacket/",
+    "product_id": "womens-monterey-quilted-jacket",
+    "name": "Monterey Quilted Jacket",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Desert Taupe",
+      "Golden Flax",
+      "Grey Sky",
+      "Pure Black"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/MontereyQuiltedJacket-DesertTaupe-200571-209_71_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-monterey-quilted-jacket"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-chalet-quilted-vest/",
+    "product_id": "womens-chalet-quilted-vest",
+    "name": "Chalet Quilted Vest",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Pure Black",
+      "Salt"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/ChaletQuiltedVest-PureBlack-WS-200661-010_058_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-chalet-quilted-vest"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-ace-longline-bra/",
+    "product_id": "womens-ace-longline-bra",
+    "name": "Ace Longline Bra",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Navy Blue",
+      "Black",
+      "Snow White"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/AceLonglineBra-NavyBlue-200435-405_c1_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-ace-longline-bra"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-satin-cami/",
+    "product_id": "womens-satin-cami",
+    "name": "Satin Cami",
+    "sale_price": 50.4,
+    "price": 84,
+    "on_sale": true,
+    "colors": [
+      "Black",
+      "Oats"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/SatinCami-Black-200349-003_c1_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-satin-cami"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-utility-trench-coat/",
+    "product_id": "womens-utility-trench-coat",
+    "name": "Utility Trench Coat",
+    "price": 328,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Beige Safari",
+      "Black",
+      "Grey Green"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/UtilityTrenchCoat-BeigeSafari-200258-251_c1_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-utility-trench-coat"
+  },
+  {
+    "scraped_at": "2025-11-12T05:24:20.035Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "url": "https://www.rhone.com/products/womens-westside-full-zip-cardigan/",
+    "product_id": "womens-westside-full-zip-cardigan",
+    "name": "Westside Full Zip Cardigan",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": true,
+    "colors": [
+      "Camel Tan",
+      "Sand Stone",
+      "Golden Flax"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0249/7784/files/WestsideFullZipCardigan-CamelTan-200570-903_51_850x.jpg"
+    ],
+    "is_best_seller": false,
+    "sku": "womens-westside-full-zip-cardigan"
+  }
+]

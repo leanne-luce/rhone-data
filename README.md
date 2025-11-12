@@ -79,6 +79,7 @@ cp .env.example .env
 ```
 SUPABASE_URL=your_supabase_url_here
 SUPABASE_KEY=your_supabase_anon_key_here
+ANTHROPIC_API_KEY=your_anthropic_api_key_here  # Optional: for Data Chat feature
 ```
 
 6. Run the database schema in your Supabase SQL Editor:
@@ -143,9 +144,9 @@ The dashboard will open in your browser at `http://localhost:8501`
 1. **Overview** - High-level metrics and category distribution
 2. **Category Analysis** - Detailed product breakdown by category and gender
 3. **Color Analysis** - Color trends and distribution across categories
-4. **Fabric Analysis** - Fabric composition and usage patterns
-5. **Best Sellers** - Top performing products by gender and category
-6. **Homepage Products** - Analysis of products featured on the homepage
+4. **Sales & Pricing** - Sales analysis, pricing trends, and promotional insights
+5. **Line Plan** - Strategic recommendations and product drop planning
+6. **Data Chat** - AI-powered chat to ask questions about your product data (requires Anthropic API key)
 7. **Raw Data** - Filterable table view with CSV export
 
 ### Key Insights
@@ -153,9 +154,25 @@ The dashboard will open in your browser at `http://localhost:8501`
 The dashboard answers questions like:
 - How many products does Rhone offer?
 - What are the most popular colors?
-- Which fabrics are most commonly used?
-- What are the best sellers in each category?
-- Which products are featured on the homepage?
+- Which categories have the most items on sale?
+- What are the pricing trends by gender and category?
+- What strategic recommendations can optimize the product line?
+
+### Data Chat Feature
+
+The **Data Chat** tab provides an AI-powered assistant that can answer custom questions about your product data. It uses Claude AI to analyze your data and provide insights.
+
+**Example questions you can ask:**
+- "What's the average price of women's tops?"
+- "Which categories have the most products on sale?"
+- "What are the most common colors in men's outerwear?"
+- "Show me all products under $50"
+- "Which gender has more variety in color options?"
+
+**Setup:**
+1. Get an Anthropic API key from [console.anthropic.com](https://console.anthropic.com)
+2. Add it to your `.env` file: `ANTHROPIC_API_KEY=your_key_here`
+3. The chat will only reference your actual product data - no hallucinations!
 
 ## Data Model
 

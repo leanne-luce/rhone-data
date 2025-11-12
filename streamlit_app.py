@@ -6,6 +6,8 @@ from datetime import datetime
 import json
 import sys
 from pathlib import Path
+import os
+from anthropic import Anthropic
 
 # Add database module to path
 sys.path.append(str(Path(__file__).parent / "database"))
@@ -75,6 +77,7 @@ def display_overview(df):
     """Display overview metrics"""
     st.markdown('<div class="section-header">📊 Overview</div>', unsafe_allow_html=True)
 
+    # Overall stats
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
@@ -85,63 +88,169 @@ def display_overview(df):
         st.metric("Categories", categories)
 
     with col3:
-        best_sellers = df["is_best_seller"].sum() if "is_best_seller" in df.columns else 0
-        st.metric("Best Sellers", int(best_sellers))
+        mens_count = len(df[df["gender"] == "Men"]) if "gender" in df.columns else 0
+        st.metric("Men's Products", mens_count)
 
     with col4:
-        homepage_products = df["is_homepage_product"].sum() if "is_homepage_product" in df.columns else 0
-        st.metric("Homepage Products", int(homepage_products))
+        womens_count = len(df[df["gender"] == "Women"]) if "gender" in df.columns else 0
+        st.metric("Women's Products", womens_count)
+
+    # Gender breakdown
+    st.markdown('<div class="section-header">👥 Products by Gender & Category</div>', unsafe_allow_html=True)
+
+    if "gender" in df.columns and "category" in df.columns:
+        # Create two columns for Men's and Women's
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### 👔 Men's Products")
+            mens_df = df[df["gender"] == "Men"]
+            st.metric("Total Men's Products", len(mens_df))
+
+            if len(mens_df) > 0:
+                mens_by_category = mens_df.groupby("category").size().sort_values(ascending=False)
+
+                # Display as a table
+                mens_category_df = pd.DataFrame({
+                    'Category': mens_by_category.index,
+                    'Count': mens_by_category.values,
+                    'Percentage': (mens_by_category.values / len(mens_df) * 100).round(1)
+                })
+                st.dataframe(
+                    mens_category_df,
+                    hide_index=True,
+                    use_container_width=True
+                )
+
+                # Pie chart
+                fig = px.pie(
+                    mens_category_df,
+                    values='Count',
+                    names='Category',
+                    title="Men's Products by Category"
+                )
+                st.plotly_chart(fig, use_container_width=True)
+
+        with col2:
+            st.markdown("### 👗 Women's Products")
+            womens_df = df[df["gender"] == "Women"]
+            st.metric("Total Women's Products", len(womens_df))
+
+            if len(womens_df) > 0:
+                womens_by_category = womens_df.groupby("category").size().sort_values(ascending=False)
+
+                # Display as a table
+                womens_category_df = pd.DataFrame({
+                    'Category': womens_by_category.index,
+                    'Count': womens_by_category.values,
+                    'Percentage': (womens_by_category.values / len(womens_df) * 100).round(1)
+                })
+                st.dataframe(
+                    womens_category_df,
+                    hide_index=True,
+                    use_container_width=True
+                )
+
+                # Pie chart
+                fig = px.pie(
+                    womens_category_df,
+                    values='Count',
+                    names='Category',
+                    title="Women's Products by Category"
+                )
+                st.plotly_chart(fig, use_container_width=True)
 
 
 def display_category_analysis(df):
     """Display category analysis"""
-    st.markdown('<div class="section-header">📦 Products per Category</div>', unsafe_allow_html=True)
+    # This function is now called from the Category Analysis tab
+    # Duplicate visualizations have been removed from Overview tab
+    pass
 
-    if "category" not in df.columns:
-        st.warning("Category data not available")
-        return
 
-    # Products per category
-    category_counts = df["category"].value_counts().reset_index()
-    category_counts.columns = ["Category", "Count"]
+def get_color_hex(color_name):
+    """Map color names to hex values for visualization"""
+    color_name_lower = str(color_name).lower()
 
-    col1, col2 = st.columns([2, 1])
+    # Color mapping dictionary - maps common color names to hex codes
+    color_map = {
+        # Blacks and Grays
+        'black': '#000000',
+        'charcoal': '#36454F',
+        'slate': '#708090',
+        'gray': '#808080',
+        'grey': '#808080',
+        'silver': '#C0C0C0',
+        'smoke': '#738276',
 
-    with col1:
-        fig = px.bar(
-            category_counts,
-            x="Category",
-            y="Count",
-            title="Products by Category",
-            color="Count",
-            color_continuous_scale="Blues"
-        )
-        fig.update_layout(showlegend=False, xaxis_tickangle=-45)
-        st.plotly_chart(fig, use_container_width=True)
+        # Whites and Creams
+        'white': '#FFFFFF',
+        'cream': '#FFFDD0',
+        'ivory': '#FFFFF0',
+        'bone': '#E3DAC9',
+        'sand': '#C2B280',
 
-    with col2:
-        st.dataframe(
-            category_counts,
-            hide_index=True,
-            use_container_width=True
-        )
+        # Blues
+        'navy': '#000080',
+        'blue': '#0000FF',
+        'cobalt': '#0047AB',
+        'royal': '#4169E1',
+        'sky': '#87CEEB',
+        'teal': '#008080',
+        'aqua': '#00FFFF',
+        'turquoise': '#40E0D0',
 
-    # Products per category by gender
-    if "gender" in df.columns:
-        st.subheader("Products by Category and Gender")
+        # Greens
+        'green': '#008000',
+        'olive': '#808000',
+        'forest': '#228B22',
+        'sage': '#9DC183',
+        'mint': '#98FF98',
+        'lime': '#00FF00',
+        'emerald': '#50C878',
 
-        gender_category = df.groupby(["category", "gender"]).size().reset_index(name="count")
+        # Reds and Pinks
+        'red': '#FF0000',
+        'maroon': '#800000',
+        'burgundy': '#800020',
+        'crimson': '#DC143C',
+        'pink': '#FFC0CB',
+        'rose': '#FF007F',
+        'coral': '#FF7F50',
 
-        fig = px.bar(
-            gender_category,
-            x="category",
-            y="count",
-            color="gender",
-            title="Products by Category and Gender",
-            barmode="group"
-        )
-        fig.update_layout(xaxis_tickangle=-45)
-        st.plotly_chart(fig, use_container_width=True)
+        # Oranges and Yellows
+        'orange': '#FFA500',
+        'rust': '#B7410E',
+        'copper': '#B87333',
+        'gold': '#FFD700',
+        'yellow': '#FFFF00',
+        'amber': '#FFBF00',
+        'tan': '#D2B48C',
+        'beige': '#F5F5DC',
+        'camel': '#C19A6B',
+
+        # Purples
+        'purple': '#800080',
+        'violet': '#8F00FF',
+        'lavender': '#E6E6FA',
+        'plum': '#DDA0DD',
+        'mauve': '#E0B0FF',
+
+        # Browns
+        'brown': '#964B00',
+        'chocolate': '#7B3F00',
+        'coffee': '#6F4E37',
+        'mocha': '#967969',
+        'taupe': '#483C32',
+    }
+
+    # Try to find a match in the color map
+    for color_key, hex_value in color_map.items():
+        if color_key in color_name_lower:
+            return hex_value
+
+    # Default to a neutral gray if no match found
+    return '#808080'
 
 
 def display_color_analysis(df):
@@ -164,6 +273,14 @@ def display_color_analysis(df):
     color_counts = colors_df["colors"].value_counts().head(20).reset_index()
     color_counts.columns = ["Color", "Count"]
 
+    # Calculate percentage
+    total_color_mentions = len(colors_df)
+    color_counts["Percent"] = (color_counts["Count"] / total_color_mentions * 100).round(1)
+    color_counts["Percent"] = color_counts["Percent"].apply(lambda x: f"{x}%")
+
+    # Map colors to hex values
+    color_counts["hex"] = color_counts["Color"].apply(get_color_hex)
+
     col1, col2 = st.columns([2, 1])
 
     with col1:
@@ -172,15 +289,15 @@ def display_color_analysis(df):
             x="Color",
             y="Count",
             title="Top 20 Most Common Colors",
-            color="Count",
-            color_continuous_scale="Viridis"
+            color="Color",
+            color_discrete_map={row["Color"]: row["hex"] for _, row in color_counts.iterrows()}
         )
         fig.update_layout(showlegend=False, xaxis_tickangle=-45)
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
         st.dataframe(
-            color_counts,
+            color_counts[["Color", "Count", "Percent"]],
             hide_index=True,
             use_container_width=True
         )
@@ -195,16 +312,130 @@ def display_color_analysis(df):
         # Top 5 colors per category
         top_colors_per_category = category_colors.groupby("category").head(5)
 
+        # Create color mapping for all unique colors
+        unique_colors = top_colors_per_category["colors"].unique()
+        color_discrete_map = {color: get_color_hex(color) for color in unique_colors}
+
         fig = px.bar(
             top_colors_per_category,
             x="category",
             y="count",
             color="colors",
             title="Top 5 Colors per Category",
-            barmode="stack"
+            barmode="stack",
+            color_discrete_map=color_discrete_map
         )
         fig.update_layout(xaxis_tickangle=-45)
         st.plotly_chart(fig, use_container_width=True)
+
+        # Add visual representation of top colors by category
+        st.markdown("#### Color Distribution by Category")
+
+        # Create a pivot table showing top 3 colors per category
+        category_breakdown = []
+        for category in sorted(colors_df["category"].unique()):
+            cat_colors = colors_df[colors_df["category"] == category]["colors"].value_counts().head(3)
+            row = {"Category": category}
+            for i, (color, count) in enumerate(cat_colors.items(), 1):
+                row[f"#{i} Color"] = color
+                row[f"#{i} Count"] = count
+            category_breakdown.append(row)
+
+        if category_breakdown:
+            breakdown_df = pd.DataFrame(category_breakdown)
+
+            # Fill missing values
+            for i in range(1, 4):
+                if f"#{i} Color" not in breakdown_df.columns:
+                    breakdown_df[f"#{i} Color"] = "-"
+                    breakdown_df[f"#{i} Count"] = 0
+                else:
+                    breakdown_df[f"#{i} Color"] = breakdown_df[f"#{i} Color"].fillna("-")
+                    breakdown_df[f"#{i} Count"] = breakdown_df[f"#{i} Count"].fillna(0)
+
+            # Create display dataframe with color chips using HTML
+            def format_color_with_chip(color, count):
+                if color == "-":
+                    return "-"
+                hex_color = get_color_hex(color)
+                # Create a small colored square followed by the color name and count
+                return f'<span style="display:inline-block;width:15px;height:15px;background-color:{hex_color};border:1px solid #ccc;margin-right:5px;vertical-align:middle;"></span>{color} ({int(count)})'
+
+            display_df = pd.DataFrame({
+                "Category": breakdown_df["Category"],
+                "Top Color": breakdown_df.apply(lambda row: format_color_with_chip(row['#1 Color'], row['#1 Count']), axis=1),
+                "2nd Color": breakdown_df.apply(lambda row: format_color_with_chip(row['#2 Color'], row['#2 Count']), axis=1),
+                "3rd Color": breakdown_df.apply(lambda row: format_color_with_chip(row['#3 Color'], row['#3 Count']), axis=1),
+            })
+
+            # Display as HTML to render color chips
+            st.markdown(display_df.to_html(escape=False, index=False), unsafe_allow_html=True)
+
+    # Colors by gender
+    if "gender" in df.columns:
+        st.subheader("Colors by Gender")
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### 👔 Men's Top Colors")
+            mens_colors = colors_df[colors_df["gender"] == "Men"]
+            if len(mens_colors) > 0:
+                mens_color_counts = mens_colors["colors"].value_counts().head(10).reset_index()
+                mens_color_counts.columns = ["Color", "Count"]
+
+                # Calculate percentage
+                total_mens_colors = len(mens_colors)
+                mens_color_counts["Percent"] = (mens_color_counts["Count"] / total_mens_colors * 100).round(1)
+                mens_color_counts["Percent"] = mens_color_counts["Percent"].apply(lambda x: f"{x}%")
+
+                # Create color mapping
+                color_discrete_map = {color: get_color_hex(color) for color in mens_color_counts["Color"]}
+
+                fig = px.bar(
+                    mens_color_counts,
+                    x="Color",
+                    y="Count",
+                    title="Top 10 Colors in Men's Products",
+                    color="Color",
+                    color_discrete_map=color_discrete_map
+                )
+                fig.update_layout(showlegend=False, xaxis_tickangle=-45)
+                st.plotly_chart(fig, use_container_width=True)
+
+                st.dataframe(mens_color_counts[["Color", "Count", "Percent"]], hide_index=True, use_container_width=True)
+            else:
+                st.info("No men's color data available")
+
+        with col2:
+            st.markdown("### 👗 Women's Top Colors")
+            womens_colors = colors_df[colors_df["gender"] == "Women"]
+            if len(womens_colors) > 0:
+                womens_color_counts = womens_colors["colors"].value_counts().head(10).reset_index()
+                womens_color_counts.columns = ["Color", "Count"]
+
+                # Calculate percentage
+                total_womens_colors = len(womens_colors)
+                womens_color_counts["Percent"] = (womens_color_counts["Count"] / total_womens_colors * 100).round(1)
+                womens_color_counts["Percent"] = womens_color_counts["Percent"].apply(lambda x: f"{x}%")
+
+                # Create color mapping
+                color_discrete_map = {color: get_color_hex(color) for color in womens_color_counts["Color"]}
+
+                fig = px.bar(
+                    womens_color_counts,
+                    x="Color",
+                    y="Count",
+                    title="Top 10 Colors in Women's Products",
+                    color="Color",
+                    color_discrete_map=color_discrete_map
+                )
+                fig.update_layout(showlegend=False, xaxis_tickangle=-45)
+                st.plotly_chart(fig, use_container_width=True)
+
+                st.dataframe(womens_color_counts[["Color", "Count", "Percent"]], hide_index=True, use_container_width=True)
+            else:
+                st.info("No women's color data available")
 
 
 def display_fabric_analysis(df):
@@ -382,10 +613,14 @@ def display_sales_analysis(df):
         return
 
     # Determine which products are on sale
-    if "on_sale" in df.columns:
-        on_sale_df = df[df["on_sale"] == True]
-    else:
+    # A product is on sale if it has a sale_price value (not null/empty)
+    # Products with only price (no sale_price) are considered full price items
+    if "sale_price" in df.columns:
         on_sale_df = df[df["sale_price"].notna()]
+        full_price_df = df[df["sale_price"].isna()]
+    else:
+        on_sale_df = pd.DataFrame()  # Empty dataframe if no sale_price column
+        full_price_df = df.copy()  # All products are full price if no sale_price column
 
     col1, col2, col3, col4 = st.columns(4)
 
@@ -397,9 +632,9 @@ def display_sales_analysis(df):
         st.metric("% on Sale", f"{sale_percentage:.1f}%")
 
     with col3:
-        if "price" in df.columns:
-            avg_price = df["price"].mean()
-            st.metric("Avg Regular Price", f"${avg_price:.2f}")
+        if "price" in full_price_df.columns and len(full_price_df) > 0:
+            avg_full_price = full_price_df["price"].mean()
+            st.metric("Avg Full Price (non-sale)", f"${avg_full_price:.2f}")
 
     with col4:
         if "sale_price" in on_sale_df.columns and len(on_sale_df) > 0:
@@ -407,8 +642,13 @@ def display_sales_analysis(df):
             st.metric("Avg Sale Price", f"${avg_sale:.2f}")
 
     # Calculate discount percentages
+    # Only show discount distribution for products with actual discounts (sale_price < price)
     if "price" in on_sale_df.columns and "sale_price" in on_sale_df.columns:
-        discount_df = on_sale_df[on_sale_df["price"].notna() & on_sale_df["sale_price"].notna()].copy()
+        discount_df = on_sale_df[
+            on_sale_df["price"].notna() &
+            on_sale_df["sale_price"].notna() &
+            (on_sale_df["sale_price"] < on_sale_df["price"])
+        ].copy()
 
         if len(discount_df) > 0:
             discount_df["discount_pct"] = (
@@ -438,22 +678,244 @@ def display_sales_analysis(df):
                 st.metric("Max Discount", f"{max_discount:.1f}%")
                 st.metric("Min Discount", f"{min_discount:.1f}%")
 
-    # Sales by category
-    if "category" in df.columns:
-        st.subheader("Sales by Category")
+    # Average pricing by category
+    st.subheader("Average Pricing by Category")
 
-        category_sales = df.groupby("category").agg({
-            "on_sale": "sum" if "on_sale" in df.columns else "count"
-        }).reset_index()
-        category_sales.columns = ["Category", "Products on Sale"]
+    if "category" in df.columns and "price" in df.columns and "gender" in df.columns:
+        col1, col2 = st.columns(2)
 
-        fig = px.bar(
-            category_sales,
-            x="Category",
-            y="Products on Sale",
-            title="Sale Products by Category"
-        )
-        st.plotly_chart(fig, use_container_width=True)
+        with col1:
+            # Full Price Items
+            st.markdown("#### Full Price Items")
+            if len(full_price_df) > 0:
+                # Get all categories
+                all_categories = full_price_df["category"].unique()
+
+                # Calculate averages by category and gender
+                mens_full = full_price_df[full_price_df["gender"] == "Men"]
+                womens_full = full_price_df[full_price_df["gender"] == "Women"]
+
+                mens_avg = mens_full.groupby("category")["price"].mean() if len(mens_full) > 0 else pd.Series()
+                womens_avg = womens_full.groupby("category")["price"].mean() if len(womens_full) > 0 else pd.Series()
+                overall_avg = full_price_df.groupby("category")["price"].mean()
+
+                # Create combined dataframe
+                full_price_combined = pd.DataFrame({
+                    "Category": overall_avg.index,
+                    "Men": mens_avg.reindex(overall_avg.index),
+                    "Women": womens_avg.reindex(overall_avg.index),
+                    "Overall": overall_avg.values
+                })
+
+                # Format prices
+                full_price_combined["Men"] = full_price_combined["Men"].apply(lambda x: f"${x:.2f}" if pd.notna(x) else "-")
+                full_price_combined["Women"] = full_price_combined["Women"].apply(lambda x: f"${x:.2f}" if pd.notna(x) else "-")
+                full_price_combined["Overall"] = full_price_combined["Overall"].apply(lambda x: f"${x:.2f}")
+
+                st.dataframe(full_price_combined, hide_index=True, use_container_width=True)
+
+        with col2:
+            # Sale Items
+            st.markdown("#### Sale Items")
+            if len(on_sale_df) > 0 and "sale_price" in on_sale_df.columns:
+                # Get all categories
+                all_categories = on_sale_df["category"].unique()
+
+                # Calculate averages by category and gender
+                mens_sale = on_sale_df[on_sale_df["gender"] == "Men"]
+                womens_sale = on_sale_df[on_sale_df["gender"] == "Women"]
+
+                mens_avg = mens_sale.groupby("category")["sale_price"].mean() if len(mens_sale) > 0 else pd.Series()
+                womens_avg = womens_sale.groupby("category")["sale_price"].mean() if len(womens_sale) > 0 else pd.Series()
+                overall_avg = on_sale_df.groupby("category")["sale_price"].mean()
+
+                # Create combined dataframe
+                sale_price_combined = pd.DataFrame({
+                    "Category": overall_avg.index,
+                    "Men": mens_avg.reindex(overall_avg.index),
+                    "Women": womens_avg.reindex(overall_avg.index),
+                    "Overall": overall_avg.values
+                })
+
+                # Format prices
+                sale_price_combined["Men"] = sale_price_combined["Men"].apply(lambda x: f"${x:.2f}" if pd.notna(x) else "-")
+                sale_price_combined["Women"] = sale_price_combined["Women"].apply(lambda x: f"${x:.2f}" if pd.notna(x) else "-")
+                sale_price_combined["Overall"] = sale_price_combined["Overall"].apply(lambda x: f"${x:.2f}")
+
+                st.dataframe(sale_price_combined, hide_index=True, use_container_width=True)
+
+    # Sales by gender and category
+    if "category" in df.columns and "gender" in df.columns:
+        st.subheader("Sale vs Full Price by Gender & Category")
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### 👔 Men's Products")
+            mens_df = df[df["gender"] == "Men"]
+            if len(mens_df) > 0:
+                mens_sales = on_sale_df[on_sale_df["gender"] == "Men"]
+                mens_full = full_price_df[full_price_df["gender"] == "Men"]
+
+                # Count by category
+                mens_sale_counts = mens_sales.groupby("category").size().reset_index(name="On Sale")
+                mens_full_counts = mens_full.groupby("category").size().reset_index(name="Full Price")
+
+                # Merge the counts
+                mens_combined = pd.merge(
+                    mens_sale_counts,
+                    mens_full_counts,
+                    on="category",
+                    how="outer"
+                ).fillna(0)
+
+                # Calculate total and percentage
+                mens_combined["Total"] = mens_combined["On Sale"] + mens_combined["Full Price"]
+                mens_combined["% On Sale"] = (mens_combined["On Sale"] / mens_combined["Total"] * 100).round(1)
+
+                # Melt for stacked bar chart - reverse order so "On Sale" is on bottom
+                mens_plot = mens_combined.melt(
+                    id_vars=["category", "% On Sale", "Total"],
+                    value_vars=["On Sale", "Full Price"],  # Reversed order
+                    var_name="Type",
+                    value_name="Count"
+                )
+
+                fig = px.bar(
+                    mens_plot,
+                    x="category",
+                    y="Count",
+                    color="Type",
+                    title="Men's Products: Sale vs Full Price by Category",
+                    barmode="stack",
+                    color_discrete_map={"On Sale": "#FF6B6B", "Full Price": "#4ECDC4"}
+                )
+
+                # Add percentage text annotations
+                for idx, row in mens_combined.iterrows():
+                    fig.add_annotation(
+                        x=row["category"],
+                        y=row["Total"],
+                        text=f"{row['% On Sale']:.1f}%",
+                        showarrow=False,
+                        yshift=10,
+                        font=dict(size=11, color="black", family="Arial Black")
+                    )
+
+                fig.update_layout(xaxis_tickangle=-45)
+                st.plotly_chart(fig, use_container_width=True)
+
+        with col2:
+            st.markdown("### 👗 Women's Products")
+            womens_df = df[df["gender"] == "Women"]
+            if len(womens_df) > 0:
+                womens_sales = on_sale_df[on_sale_df["gender"] == "Women"]
+                womens_full = full_price_df[full_price_df["gender"] == "Women"]
+
+                # Count by category
+                womens_sale_counts = womens_sales.groupby("category").size().reset_index(name="On Sale")
+                womens_full_counts = womens_full.groupby("category").size().reset_index(name="Full Price")
+
+                # Merge the counts
+                womens_combined = pd.merge(
+                    womens_sale_counts,
+                    womens_full_counts,
+                    on="category",
+                    how="outer"
+                ).fillna(0)
+
+                # Calculate total and percentage
+                womens_combined["Total"] = womens_combined["On Sale"] + womens_combined["Full Price"]
+                womens_combined["% On Sale"] = (womens_combined["On Sale"] / womens_combined["Total"] * 100).round(1)
+
+                # Melt for stacked bar chart - reverse order so "On Sale" is on bottom
+                womens_plot = womens_combined.melt(
+                    id_vars=["category", "% On Sale", "Total"],
+                    value_vars=["On Sale", "Full Price"],  # Reversed order
+                    var_name="Type",
+                    value_name="Count"
+                )
+
+                fig = px.bar(
+                    womens_plot,
+                    x="category",
+                    y="Count",
+                    color="Type",
+                    title="Women's Products: Sale vs Full Price by Category",
+                    barmode="stack",
+                    color_discrete_map={"On Sale": "#FF6B6B", "Full Price": "#4ECDC4"}
+                )
+
+                # Add percentage text annotations
+                for idx, row in womens_combined.iterrows():
+                    fig.add_annotation(
+                        x=row["category"],
+                        y=row["Total"],
+                        text=f"{row['% On Sale']:.1f}%",
+                        showarrow=False,
+                        yshift=10,
+                        font=dict(size=11, color="black", family="Arial Black")
+                    )
+
+                fig.update_layout(xaxis_tickangle=-45)
+                st.plotly_chart(fig, use_container_width=True)
+
+    # Sales by gender and color
+    if "colors" in df.columns and "gender" in df.columns and len(on_sale_df) > 0:
+        st.subheader("Sale Products by Gender & Color")
+
+        # Explode colors for sale products only
+        sale_colors_df = on_sale_df.explode("colors")
+        sale_colors_df = sale_colors_df[sale_colors_df["colors"].notna()]
+
+        if len(sale_colors_df) > 0:
+            col1, col2 = st.columns(2)
+
+            with col1:
+                st.markdown("### 👔 Men's Sale Products by Color")
+                mens_sale_colors = sale_colors_df[sale_colors_df["gender"] == "Men"]
+                if len(mens_sale_colors) > 0:
+                    mens_color_sales = mens_sale_colors.groupby("colors").size().sort_values(ascending=False).head(10).reset_index()
+                    mens_color_sales.columns = ["Color", "Count"]
+
+                    # Create color mapping
+                    color_discrete_map = {color: get_color_hex(color) for color in mens_color_sales["Color"]}
+
+                    fig = px.bar(
+                        mens_color_sales,
+                        x="Color",
+                        y="Count",
+                        title="Top 10 Colors in Men's Sale Products",
+                        color="Color",
+                        color_discrete_map=color_discrete_map
+                    )
+                    fig.update_layout(showlegend=False, xaxis_tickangle=-45)
+                    st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.info("No men's sale products with color data")
+
+            with col2:
+                st.markdown("### 👗 Women's Sale Products by Color")
+                womens_sale_colors = sale_colors_df[sale_colors_df["gender"] == "Women"]
+                if len(womens_sale_colors) > 0:
+                    womens_color_sales = womens_sale_colors.groupby("colors").size().sort_values(ascending=False).head(10).reset_index()
+                    womens_color_sales.columns = ["Color", "Count"]
+
+                    # Create color mapping
+                    color_discrete_map = {color: get_color_hex(color) for color in womens_color_sales["Color"]}
+
+                    fig = px.bar(
+                        womens_color_sales,
+                        x="Color",
+                        y="Count",
+                        title="Top 10 Colors in Women's Sale Products",
+                        color="Color",
+                        color_discrete_map=color_discrete_map
+                    )
+                    fig.update_layout(showlegend=False, xaxis_tickangle=-45)
+                    st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.info("No women's sale products with color data")
 
     # Top sale items
     if len(on_sale_df) > 0:
@@ -555,6 +1017,704 @@ def display_homepage_analysis(df):
     )
 
 
+def display_line_plan(df):
+    """Display strategic line plan analysis"""
+    st.markdown('<div class="section-header">📋 Strategic Line Plan</div>', unsafe_allow_html=True)
+
+    st.markdown("""
+    This line plan provides strategic recommendations based on current product data analysis,
+    including assortment balance, pricing strategy, and inventory optimization opportunities.
+    """)
+
+    # Executive Summary
+    st.markdown("## Executive Summary")
+
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        st.metric("Total Products", len(df))
+
+    with col2:
+        if "gender" in df.columns:
+            mens_count = len(df[df["gender"] == "Men"])
+            st.metric("Men's Products", mens_count)
+
+    with col3:
+        if "gender" in df.columns:
+            womens_count = len(df[df["gender"] == "Women"])
+            st.metric("Women's Products", womens_count)
+
+    with col4:
+        if "category" in df.columns:
+            category_count = df["category"].nunique()
+            st.metric("Categories", category_count)
+
+    st.divider()
+
+    # Assortment Analysis
+    st.markdown("## 📊 Assortment Analysis")
+
+    if "category" in df.columns and "gender" in df.columns:
+        # Category distribution by gender
+        category_gender = df.groupby(["gender", "category"]).size().reset_index(name="count")
+
+        # Calculate percentages within each gender
+        mens_total = len(df[df["gender"] == "Men"])
+        womens_total = len(df[df["gender"] == "Women"])
+
+        category_gender["percentage"] = category_gender.apply(
+            lambda row: (row["count"] / mens_total * 100) if row["gender"] == "Men" else (row["count"] / womens_total * 100),
+            axis=1
+        )
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### 👔 Men's Assortment Mix")
+            mens_assort = category_gender[category_gender["gender"] == "Men"].sort_values("count", ascending=False)
+            mens_assort_display = mens_assort[["category", "count", "percentage"]].copy()
+            mens_assort_display.columns = ["Category", "SKU Count", "% of Men's"]
+            mens_assort_display["% of Men's"] = mens_assort_display["% of Men's"].apply(lambda x: f"{x:.1f}%")
+            st.dataframe(mens_assort_display, hide_index=True, use_container_width=True)
+
+        with col2:
+            st.markdown("### 👗 Women's Assortment Mix")
+            womens_assort = category_gender[category_gender["gender"] == "Women"].sort_values("count", ascending=False)
+            womens_assort_display = womens_assort[["category", "count", "percentage"]].copy()
+            womens_assort_display.columns = ["Category", "SKU Count", "% of Women's"]
+            womens_assort_display["% of Women's"] = womens_assort_display["% of Women's"].apply(lambda x: f"{x:.1f}%")
+            st.dataframe(womens_assort_display, hide_index=True, use_container_width=True)
+
+    st.divider()
+
+    # Pricing Architecture
+    st.markdown("## 💰 Pricing Architecture")
+
+    if "price" in df.columns and "category" in df.columns and "gender" in df.columns:
+        pricing_data = []
+
+        for gender in ["Men", "Women"]:
+            gender_df = df[df["gender"] == gender]
+            for category in sorted(gender_df["category"].unique()):
+                cat_df = gender_df[gender_df["category"] == category]
+                cat_prices = cat_df["price"].dropna()
+
+                if len(cat_prices) > 0:
+                    pricing_data.append({
+                        "Gender": gender,
+                        "Category": category,
+                        "SKU Count": len(cat_df),
+                        "Avg Price": cat_prices.mean(),
+                        "Min Price": cat_prices.min(),
+                        "Max Price": cat_prices.max(),
+                        "Price Range": cat_prices.max() - cat_prices.min()
+                    })
+
+        pricing_df = pd.DataFrame(pricing_data)
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### 👔 Men's Price Points")
+            mens_pricing = pricing_df[pricing_df["Gender"] == "Men"].copy()
+            mens_pricing["Avg Price"] = mens_pricing["Avg Price"].apply(lambda x: f"${x:.2f}")
+            mens_pricing["Min Price"] = mens_pricing["Min Price"].apply(lambda x: f"${x:.2f}")
+            mens_pricing["Max Price"] = mens_pricing["Max Price"].apply(lambda x: f"${x:.2f}")
+            mens_pricing["Price Range"] = mens_pricing["Price Range"].apply(lambda x: f"${x:.2f}")
+            st.dataframe(mens_pricing[["Category", "SKU Count", "Avg Price", "Min Price", "Max Price"]],
+                        hide_index=True, use_container_width=True)
+
+        with col2:
+            st.markdown("### 👗 Women's Price Points")
+            womens_pricing = pricing_df[pricing_df["Gender"] == "Women"].copy()
+            womens_pricing["Avg Price"] = womens_pricing["Avg Price"].apply(lambda x: f"${x:.2f}")
+            womens_pricing["Min Price"] = womens_pricing["Min Price"].apply(lambda x: f"${x:.2f}")
+            womens_pricing["Max Price"] = womens_pricing["Max Price"].apply(lambda x: f"${x:.2f}")
+            womens_pricing["Price Range"] = womens_pricing["Price Range"].apply(lambda x: f"${x:.2f}")
+            st.dataframe(womens_pricing[["Category", "SKU Count", "Avg Price", "Min Price", "Max Price"]],
+                        hide_index=True, use_container_width=True)
+
+    st.divider()
+
+    # Color Strategy
+    st.markdown("## 🎨 Color Strategy")
+
+    if "colors" in df.columns:
+        colors_df = df.explode("colors")
+        colors_df = colors_df[colors_df["colors"].notna()]
+
+        if len(colors_df) > 0:
+            st.markdown("### Core Color Palette")
+
+            # Overall top colors
+            top_colors = colors_df["colors"].value_counts().head(10).reset_index()
+            top_colors.columns = ["Color", "SKU Count"]
+            total_colors = len(colors_df)
+            top_colors["% of Line"] = (top_colors["SKU Count"] / total_colors * 100).round(1)
+            top_colors["% of Line"] = top_colors["% of Line"].apply(lambda x: f"{x:.1f}%")
+
+            # Add color classification
+            def classify_color(color_name):
+                color_lower = str(color_name).lower()
+                if any(x in color_lower for x in ['black', 'charcoal', 'navy', 'grey', 'gray']):
+                    return 'Core Neutral'
+                elif any(x in color_lower for x in ['white', 'cream', 'sand', 'bone']):
+                    return 'Light Neutral'
+                elif any(x in color_lower for x in ['blue', 'teal', 'aqua']):
+                    return 'Cool Tone'
+                elif any(x in color_lower for x in ['red', 'burgundy', 'crimson']):
+                    return 'Warm Tone'
+                elif any(x in color_lower for x in ['green', 'olive', 'sage']):
+                    return 'Earth Tone'
+                else:
+                    return 'Seasonal/Fashion'
+
+            top_colors["Color Family"] = top_colors["Color"].apply(classify_color)
+
+            st.dataframe(top_colors, hide_index=True, use_container_width=True)
+
+            # Color family distribution
+            st.markdown("### Color Family Distribution")
+            color_family_counts = top_colors.groupby("Color Family")["SKU Count"].sum().sort_values(ascending=False).reset_index()
+
+            fig = px.pie(
+                color_family_counts,
+                values="SKU Count",
+                names="Color Family",
+                title="Product Distribution by Color Family"
+            )
+            st.plotly_chart(fig, use_container_width=True)
+
+    st.divider()
+
+    # Sales Performance & Opportunities
+    st.markdown("## 📈 Sales Performance & Opportunities")
+
+    if "sale_price" in df.columns:
+        on_sale_df = df[df["sale_price"].notna()]
+        full_price_df = df[df["sale_price"].isna()]
+
+        col1, col2, col3 = st.columns(3)
+
+        with col1:
+            sale_pct = (len(on_sale_df) / len(df) * 100)
+            st.metric("Products on Sale", f"{sale_pct:.1f}%")
+
+        with col2:
+            if len(full_price_df) > 0 and "price" in full_price_df.columns:
+                avg_full = full_price_df["price"].mean()
+                st.metric("Avg Full Price", f"${avg_full:.2f}")
+
+        with col3:
+            if len(on_sale_df) > 0 and "sale_price" in on_sale_df.columns:
+                avg_sale = on_sale_df["sale_price"].mean()
+                st.metric("Avg Sale Price", f"${avg_sale:.2f}")
+
+        # Categories with highest discount rates
+        if "category" in df.columns and len(on_sale_df) > 0:
+            st.markdown("### Categories on Promotion")
+
+            category_sale_analysis = []
+            for category in df["category"].unique():
+                cat_total = len(df[df["category"] == category])
+                cat_sale = len(on_sale_df[on_sale_df["category"] == category])
+                sale_pct = (cat_sale / cat_total * 100) if cat_total > 0 else 0
+
+                category_sale_analysis.append({
+                    "Category": category,
+                    "Total SKUs": cat_total,
+                    "On Sale": cat_sale,
+                    "% On Sale": sale_pct
+                })
+
+            sale_analysis_df = pd.DataFrame(category_sale_analysis).sort_values("% On Sale", ascending=False)
+            sale_analysis_df["% On Sale"] = sale_analysis_df["% On Sale"].apply(lambda x: f"{x:.1f}%")
+
+            st.dataframe(sale_analysis_df, hide_index=True, use_container_width=True)
+
+    st.divider()
+
+    # Strategic Recommendations - CONSOLIDATED
+    st.markdown("## 💡 Key Strategic Insights")
+
+    # Collect insights data
+    insights = []
+
+    # Gender balance
+    if "gender" in df.columns:
+        mens_pct = (len(df[df["gender"] == "Men"]) / len(df) * 100)
+        womens_pct = (len(df[df["gender"] == "Women"]) / len(df) * 100)
+
+        if womens_pct > mens_pct * 1.5 or mens_pct > womens_pct * 1.5:
+            status = "⚠️ Imbalanced"
+            action = "Expand underrepresented gender"
+        else:
+            status = "✓ Balanced"
+            action = "Maintain current mix"
+
+        insights.append({
+            "Area": "Gender Mix",
+            "Current State": f"{mens_pct:.0f}% Men's / {womens_pct:.0f}% Women's",
+            "Status": status,
+            "Action": action
+        })
+
+    # Promotional intensity
+    if "sale_price" in df.columns:
+        on_sale_df = df[df["sale_price"].notna()]
+        sale_pct = (len(on_sale_df) / len(df) * 100)
+
+        if sale_pct > 40:
+            status = "🔴 Critical"
+            action = "Reduce markdowns, improve inventory planning"
+        elif sale_pct > 25:
+            status = "⚠️ Elevated"
+            action = "Monitor patterns, adjust buying"
+        elif sale_pct < 15:
+            status = "⚠️ Low"
+            action = "Add strategic promotions for velocity"
+        else:
+            status = "✓ Healthy"
+            action = "Maintain 15-25% range"
+
+        insights.append({
+            "Area": "Promotional Rate",
+            "Current State": f"{sale_pct:.0f}% on sale",
+            "Status": status,
+            "Action": action
+        })
+
+    # Category concentration
+    if "category" in df.columns:
+        category_dist = df["category"].value_counts()
+        top_category = category_dist.index[0]
+        top_category_pct = (category_dist.iloc[0] / len(df) * 100)
+
+        if top_category_pct > 40:
+            status = "⚠️ High Risk"
+            action = "Diversify categories"
+        elif top_category_pct > 30:
+            status = "⚠️ Monitor"
+            action = "Watch concentration levels"
+        else:
+            status = "✓ Diversified"
+            action = "Maintain balance"
+
+        insights.append({
+            "Area": "Category Mix",
+            "Current State": f"{top_category}: {top_category_pct:.0f}%",
+            "Status": status,
+            "Action": action
+        })
+
+    # Color diversity
+    if "colors" in df.columns:
+        colors_df_temp = df.explode("colors")
+        colors_df_temp = colors_df_temp[colors_df_temp["colors"].notna()]
+        if len(colors_df_temp) > 0:
+            color_dist = colors_df_temp["colors"].value_counts()
+            top_color = color_dist.index[0]
+            top_color_pct = (color_dist.iloc[0] / len(colors_df_temp) * 100)
+            total_colors = len(color_dist)
+
+            if top_color_pct > 25:
+                status = "⚠️ Concentrated"
+                action = "Expand color palette"
+            elif top_color_pct > 20:
+                status = "⚠️ Monitor"
+                action = "Add fashion colors"
+            else:
+                status = "✓ Balanced"
+                action = "Maintain 60/40 neutral/color"
+
+            insights.append({
+                "Area": "Color Strategy",
+                "Current State": f"{top_color}: {top_color_pct:.0f}% ({total_colors} total)",
+                "Status": status,
+                "Action": action
+            })
+
+    # SKU count
+    total_skus = len(df)
+    if total_skus > 800:
+        status = "⚠️ Bloated"
+        action = "Rationalize to 600-700 SKUs"
+    elif total_skus < 400:
+        status = "⚠️ Limited"
+        action = "Expand in top categories"
+    else:
+        status = "✓ Optimal"
+        action = "Maintain efficient range"
+
+    insights.append({
+        "Area": "SKU Count",
+        "Current State": f"{total_skus} total SKUs",
+        "Status": status,
+        "Action": action
+    })
+
+    # Display as compact table
+    if insights:
+        insights_df = pd.DataFrame(insights)
+        st.dataframe(
+            insights_df,
+            hide_index=True,
+            use_container_width=True,
+            column_config={
+                "Area": st.column_config.TextColumn("Area", width="small"),
+                "Current State": st.column_config.TextColumn("Current State", width="medium"),
+                "Status": st.column_config.TextColumn("Status", width="small"),
+                "Action": st.column_config.TextColumn("Recommended Action", width="large")
+            }
+        )
+
+    # Add cadence strategy callout
+    st.markdown("### 📦 Product Cadence Strategy")
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        st.markdown(f"""
+        **Core Basics** (25%)
+        - ~{int(total_skus * 0.25)} SKUs
+        - Always available
+        - 4-5 neutral colors
+        - Minimal discounts
+        """)
+
+    with col2:
+        st.markdown("""
+        **Monthly Drops** (45%)
+        - 15-25 SKUs/month
+        - 8-12 week lifecycle
+        - Test & react model
+        - Trend colors
+        """)
+
+    with col3:
+        st.markdown("""
+        **Seasonal Collections** (30%)
+        - 4 major drops/year
+        - 50-90 SKUs each
+        - Cohesive stories
+        - 60-70% full price target
+        """)
+
+    st.divider()
+
+    # Proposed Product Drop Schedule
+    st.markdown("## 📅 Proposed Annual Drop Schedule")
+
+    st.markdown("""
+    Below is a recommended 12-month product cadence combining basics, monthly newness drops,
+    and seasonal collections to maintain customer engagement while optimizing inventory turns.
+    """)
+
+    # Create schedule dataframe
+    schedule_data = [
+        {
+            "Month": "January",
+            "Drop Type": "Monthly Drop",
+            "Theme": "New Year Resolution / Performance",
+            "Focus Categories": "Performance Tops, Bottoms, Accessories",
+            "SKU Count": "15-20",
+            "Color Strategy": "Core neutrals + 1-2 motivational brights"
+        },
+        {
+            "Month": "February",
+            "Drop Type": "SPRING COLLECTION",
+            "Theme": "Spring Awakening / Transition",
+            "Focus Categories": "Lightweight Outerwear, Transition Tops, Bright Bottoms",
+            "SKU Count": "60-75",
+            "Color Strategy": "Fresh pastels, bright greens, sky blues, coral"
+        },
+        {
+            "Month": "March",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Spring Training / Active Lifestyle",
+            "Focus Categories": "Running Shorts, Breathable Tops, Light Jackets",
+            "SKU Count": "18-25",
+            "Color Strategy": "Energy colors: orange, lime, aqua"
+        },
+        {
+            "Month": "April",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Earth Day / Sustainable Performance",
+            "Focus Categories": "Eco-friendly fabrics, Versatile Basics",
+            "SKU Count": "15-20",
+            "Color Strategy": "Earth tones: sage, sand, terracotta"
+        },
+        {
+            "Month": "May",
+            "Drop Type": "SUMMER COLLECTION",
+            "Theme": "Summer Heat / Maximum Performance",
+            "Focus Categories": "Performance Shorts, Tank Tops, Swim",
+            "SKU Count": "50-60",
+            "Color Strategy": "Vibrant summer: royal blue, sunset orange, tropical prints"
+        },
+        {
+            "Month": "June",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Summer Essentials / Travel Ready",
+            "Focus Categories": "Quick-dry Shorts, Packable Tops, Accessories",
+            "SKU Count": "15-20",
+            "Color Strategy": "Navy, white, chambray - travel friendly"
+        },
+        {
+            "Month": "July",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Independence / Americana",
+            "Focus Categories": "Patriotic colorways, Summer Basics",
+            "SKU Count": "12-18",
+            "Color Strategy": "Red, navy, white combinations"
+        },
+        {
+            "Month": "August",
+            "Drop Type": "FALL COLLECTION",
+            "Theme": "Back to Routine / Fall Layering",
+            "Focus Categories": "Hoodies, Long-sleeve Tops, Performance Joggers, Vests",
+            "SKU Count": "75-90",
+            "Color Strategy": "Autumn palette: burgundy, forest, charcoal, rust"
+        },
+        {
+            "Month": "September",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Fall Fitness / New Season Energy",
+            "Focus Categories": "Transition Outerwear, Training Bottoms",
+            "SKU Count": "20-25",
+            "Color Strategy": "Rich jewel tones: emerald, sapphire, garnet"
+        },
+        {
+            "Month": "October",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Cozy Performance / Cold Weather Prep",
+            "Focus Categories": "Fleece Layers, Thermal Tops, Winter Accessories",
+            "SKU Count": "18-22",
+            "Color Strategy": "Deep neutrals: black, charcoal, coffee"
+        },
+        {
+            "Month": "November",
+            "Drop Type": "HOLIDAY COLLECTION",
+            "Theme": "Gift Season / Premium Performance",
+            "Focus Categories": "Premium Hoodies, Gift Sets, Party Athleisure",
+            "SKU Count": "50-65",
+            "Color Strategy": "Gift-worthy: metallics, deep reds, premium blacks"
+        },
+        {
+            "Month": "December",
+            "Drop Type": "Monthly Drop",
+            "Theme": "Winter Wellness / Cold Weather Essentials",
+            "Focus Categories": "Base Layers, Insulated Outerwear, Recovery Wear",
+            "SKU Count": "15-20",
+            "Color Strategy": "Winter whites, icy blues, charcoal"
+        }
+    ]
+
+    schedule_df = pd.DataFrame(schedule_data)
+
+    # Display as formatted table with better column widths
+    st.dataframe(
+        schedule_df,
+        hide_index=True,
+        use_container_width=True,
+        column_config={
+            "Month": st.column_config.TextColumn("Month", width="small"),
+            "Drop Type": st.column_config.TextColumn("Drop Type", width="medium"),
+            "Theme": st.column_config.TextColumn("Theme", width="medium"),
+            "Focus Categories": st.column_config.TextColumn("Focus Categories", width="large"),
+            "SKU Count": st.column_config.TextColumn("SKU Count", width="small"),
+            "Color Strategy": st.column_config.TextColumn("Color Strategy", width="large")
+        },
+        height=500
+    )
+
+    st.divider()
+
+    # Proposed Assortment Mix
+    st.markdown("## 🎯 Proposed Assortment Mix by Product Tier")
+
+    st.markdown("""
+    Based on the recommended cadence strategy, here's how the product line should be structured
+    across Basics, Monthly Drops, and Seasonal Collections:
+    """)
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("### Men's Assortment Structure")
+
+        mens_structure = pd.DataFrame({
+            "Product Tier": ["Core Basics (Year-round)", "Monthly Drops (Rotating)", "Seasonal Collections", "Clearance/Transition"],
+            "Category Mix": [
+                "Tees (40%), Shorts (30%), Bottoms (20%), Basics (10%)",
+                "Trend Tops (35%), Seasonal Bottoms (30%), Outerwear (25%), Accessories (10%)",
+                "Outerwear (40%), Seasonal Tops (30%), Bottoms (20%), Special Items (10%)",
+                "Prior season across all categories"
+            ],
+            "SKU Count": [f"{int(mens_count * 0.25)}", f"{int(mens_count * 0.45)}", f"{int(mens_count * 0.20)}", f"{int(mens_count * 0.10)}"],
+            "Color Depth": ["4-5 core neutrals", "6-8 seasonal colors", "5-7 seasonal colors", "Limited - closeout only"],
+            "Lifecycle": ["Always available", "8-12 weeks", "12-16 weeks", "4-8 weeks"],
+            "Discount Strategy": ["Minimal (10-15% max)", "Test & react (20-30%)", "Controlled (25-40%)", "Aggressive (40-60%)"]
+        }) if "gender" in df.columns else pd.DataFrame()
+
+        st.dataframe(mens_structure, hide_index=True, use_container_width=True, height=250)
+
+    with col2:
+        st.markdown("### Women's Assortment Structure")
+
+        womens_structure = pd.DataFrame({
+            "Product Tier": ["Core Basics (Year-round)", "Monthly Drops (Rotating)", "Seasonal Collections", "Clearance/Transition"],
+            "Category Mix": [
+                "Tops (35%), Leggings (35%), Sports Bras (20%), Basics (10%)",
+                "Fashion Tops (30%), Seasonal Leggings (25%), Outerwear (25%), Accessories (20%)",
+                "Outerwear (35%), Seasonal Tops (30%), Bottoms (25%), Special Items (10%)",
+                "Prior season across all categories"
+            ],
+            "SKU Count": [f"{int(womens_count * 0.25)}", f"{int(womens_count * 0.45)}", f"{int(womens_count * 0.20)}", f"{int(womens_count * 0.10)}"],
+            "Color Depth": ["4-5 core neutrals", "8-10 seasonal colors", "6-8 seasonal colors", "Limited - closeout only"],
+            "Lifecycle": ["Always available", "8-12 weeks", "12-16 weeks", "4-8 weeks"],
+            "Discount Strategy": ["Minimal (10-15% max)", "Test & react (20-30%)", "Controlled (25-40%)", "Aggressive (40-60%)"]
+        }) if "gender" in df.columns else pd.DataFrame()
+
+        st.dataframe(womens_structure, hide_index=True, use_container_width=True, height=250)
+
+    st.markdown("---")
+
+    # Summary metrics
+    st.markdown("### Key Assortment Principles")
+
+    principles_col1, principles_col2, principles_col3 = st.columns(3)
+
+    with principles_col1:
+        st.markdown("""
+        **Inventory Allocation:**
+        - Basics: 50-55% of $ inventory
+        - Monthly Drops: 25-30% of $ inventory
+        - Seasonal: 20-25% of $ inventory
+        - Never exceed 100% total planned inventory
+        """)
+
+    with principles_col2:
+        st.markdown("""
+        **Markdown Cadence:**
+        - Basics: End of season only (2x/year)
+        - Monthly: Quick react (4-6 weeks)
+        - Seasonal: Structured (8-12 weeks)
+        - Target 60-70% full price sell-through
+        """)
+
+    with principles_col3:
+        st.markdown("""
+        **Color Strategy:**
+        - Basics: 4-5 core neutrals always
+        - Monthly: 2-3 trend colors rotating
+        - Seasonal: 5-8 coordinated palette
+        - Maintain 60% neutral / 40% color overall
+        """)
+
+
+def display_data_chat(df):
+    """Display chat interface for asking questions about the data"""
+    st.markdown('<div class="section-header">💬 Data Chat Assistant</div>', unsafe_allow_html=True)
+
+    st.info("Ask questions about your Rhone product data. The assistant will only use information from your actual product database.")
+
+    # Check for API key
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        st.warning("⚠️ Please set your ANTHROPIC_API_KEY environment variable to use the chat feature.")
+        st.code("export ANTHROPIC_API_KEY='your-api-key-here'", language="bash")
+        return
+
+    # Initialize chat history in session state
+    if "chat_messages" not in st.session_state:
+        st.session_state.chat_messages = []
+
+    # Display chat history
+    for message in st.session_state.chat_messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+
+    # Chat input
+    if prompt := st.chat_input("Ask a question about your product data..."):
+        # Add user message to chat history
+        st.session_state.chat_messages.append({"role": "user", "content": prompt})
+
+        # Display user message
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+        # Prepare data context for Claude
+        # Create a summary of the data
+        data_summary = {
+            "total_products": len(df),
+            "products": []
+        }
+
+        # Add product details (limit to relevant fields to save tokens)
+        for _, row in df.iterrows():
+            product = {
+                "name": row.get("name"),
+                "category": row.get("category"),
+                "gender": row.get("gender"),
+                "price": row.get("price"),
+                "sale_price": row.get("sale_price"),
+                "colors": row.get("colors", []),
+                "is_best_seller": row.get("is_best_seller", False),
+                "availability": row.get("availability")
+            }
+            data_summary["products"].append(product)
+
+        # Create system prompt with data context
+        system_prompt = f"""You are a data analyst assistant for Rhone product data.
+You have access to ONLY the following product data and should ONLY answer questions using this data.
+Do NOT use any external knowledge or make assumptions beyond what's in this data.
+
+Here is the complete product dataset:
+{json.dumps(data_summary, indent=2)}
+
+When answering questions:
+1. Only reference the data provided above
+2. Provide specific numbers and examples from the data
+3. If asked about something not in the data, clearly state that information is not available
+4. Be concise but thorough in your analysis
+"""
+
+        # Generate response with Claude
+        with st.chat_message("assistant"):
+            message_placeholder = st.empty()
+
+            try:
+                client = Anthropic(api_key=api_key)
+
+                # Stream the response
+                full_response = ""
+                with client.messages.stream(
+                    model="claude-3-5-sonnet-20240620",
+                    max_tokens=2000,
+                    system=system_prompt,
+                    messages=[
+                        {"role": "user", "content": prompt}
+                    ]
+                ) as stream:
+                    for text in stream.text_stream:
+                        full_response += text
+                        message_placeholder.markdown(full_response + "▌")
+
+                message_placeholder.markdown(full_response)
+
+                # Add assistant response to chat history
+                st.session_state.chat_messages.append({"role": "assistant", "content": full_response})
+
+            except Exception as e:
+                st.error(f"Error generating response: {e}")
+
+    # Add a button to clear chat history
+    if st.session_state.chat_messages:
+        if st.button("Clear Chat History"):
+            st.session_state.chat_messages = []
+            st.rerun()
+
+
 def main():
     """Main dashboard function"""
 
@@ -570,10 +1730,9 @@ def main():
                 "Overview",
                 "Category Analysis",
                 "Color Analysis",
-                "Fabric Analysis",
                 "Sales & Pricing",
-                "Best Sellers",
-                "Homepage Products",
+                "Line Plan",
+                "Data Chat",
                 "Raw Data"
             ]
         )
@@ -611,17 +1770,14 @@ def main():
     elif page == "Color Analysis":
         display_color_analysis(df)
 
-    elif page == "Fabric Analysis":
-        display_fabric_analysis(df)
-
     elif page == "Sales & Pricing":
         display_sales_analysis(df)
 
-    elif page == "Best Sellers":
-        display_best_sellers(df)
+    elif page == "Line Plan":
+        display_line_plan(df)
 
-    elif page == "Homepage Products":
-        display_homepage_analysis(df)
+    elif page == "Data Chat":
+        display_data_chat(df)
 
     elif page == "Raw Data":
         st.markdown('<div class="section-header">📄 Raw Data</div>', unsafe_allow_html=True)
