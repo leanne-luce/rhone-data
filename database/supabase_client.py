@@ -7,19 +7,36 @@ import json
 # Load environment variables
 load_dotenv()
 
+# Try to import streamlit for secrets support
+try:
+    import streamlit as st
+    HAS_STREAMLIT = True
+except ImportError:
+    HAS_STREAMLIT = False
+
 
 class SupabaseClient:
     """Client for interacting with Supabase database"""
 
     def __init__(self):
         """Initialize Supabase client"""
+        # Try to get from environment variables first (for local .env)
         url = os.getenv("SUPABASE_URL")
         key = os.getenv("SUPABASE_KEY")
 
+        # If not found and streamlit is available, try streamlit secrets
+        if (not url or not key) and HAS_STREAMLIT:
+            try:
+                url = st.secrets.get("SUPABASE_URL")
+                key = st.secrets.get("SUPABASE_KEY")
+            except:
+                pass
+
         if not url or not key:
             raise ValueError(
-                "SUPABASE_URL and SUPABASE_KEY must be set in .env file. "
-                "Copy .env.example to .env and add your credentials."
+                "SUPABASE_URL and SUPABASE_KEY must be set. "
+                "For local: Copy .env.example to .env and add your credentials. "
+                "For Streamlit Cloud: Add secrets in app settings."
             )
 
         self.client: Client = create_client(url, key)

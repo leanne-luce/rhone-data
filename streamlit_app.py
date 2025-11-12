@@ -2170,11 +2170,16 @@ def display_data_chat(df):
                 st.error("❌ Incorrect password. Please try again.")
         return
 
-    # Check for API key
+    # Check for API key - try environment variable first, then Streamlit secrets
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        st.warning("⚠️ Please set your ANTHROPIC_API_KEY environment variable to use the chat feature.")
-        st.code("export ANTHROPIC_API_KEY='your-api-key-here'", language="bash")
+        try:
+            api_key = st.secrets.get("ANTHROPIC_API_KEY")
+        except:
+            pass
+
+    if not api_key:
+        st.warning("⚠️ Please set your ANTHROPIC_API_KEY. For local: use .env file. For Streamlit Cloud: add to secrets.")
         return
 
     # Initialize chat history in session state
