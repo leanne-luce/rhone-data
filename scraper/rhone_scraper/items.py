@@ -15,6 +15,7 @@ class RhoneProductItem(scrapy.Item):
     # Pricing
     price = scrapy.Field()
     sale_price = scrapy.Field()
+    original_price = scrapy.Field()  # Original/compare-at price (for competitor products)
     currency = scrapy.Field()
 
     # Product details
@@ -37,3 +38,9 @@ class RhoneProductItem(scrapy.Item):
     # Additional fields
     sku = scrapy.Field()
     availability = scrapy.Field()
+
+    # Competitor analysis fields
+    competitor_name = scrapy.Field()  # Name of competitor brand
+    store_url = scrapy.Field()  # URL of the competitor store
+    tags = scrapy.Field()  # Product tags (Shopify-specific)
+    vendor = scrapy.Field()  # Vendor/brand name (Shopify-specific)
