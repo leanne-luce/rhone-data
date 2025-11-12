@@ -25,7 +25,7 @@ import re
 from typing import List, Dict, Optional
 
 
-class GoogleShoppingScra per:
+class GoogleShoppingScraper:
     """Scraper for Google Shopping results"""
 
     def __init__(self, delay: float = 3.0):
