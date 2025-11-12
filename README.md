@@ -146,8 +146,9 @@ The dashboard will open in your browser at `http://localhost:8501`
 3. **Color Analysis** - Color trends and distribution across categories
 4. **Sales & Pricing** - Sales analysis, pricing trends, and promotional insights
 5. **Line Plan** - Strategic recommendations and product drop planning
-6. **Data Chat** - AI-powered chat to ask questions about your product data (requires Anthropic API key)
-7. **Raw Data** - Filterable table view with CSV export
+6. **Drop Schedule** - Detailed 12-month product drop calendar with gender-specific assortment breakdowns
+7. **Data Chat** - AI-powered chat to ask questions about your product data (requires Anthropic API key)
+8. **Raw Data** - Filterable table view with CSV export
 
 ### Key Insights
 

@@ -1612,11 +1612,563 @@ def display_line_plan(df):
         """)
 
 
+def display_drop_schedule(df):
+    """Display detailed annual drop schedule with gender breakdowns"""
+    st.markdown('<div class="section-header">📅 Annual Drop Schedule</div>', unsafe_allow_html=True)
+
+    st.markdown("""
+    Comprehensive 12-month product cadence plan with detailed assortment breakdowns by gender.
+    This schedule combines basics replenishment, monthly newness drops, and seasonal collections
+    to maintain customer engagement while optimizing inventory turns and margin.
+    """)
+
+    # Get current totals by gender
+    mens_count = len(df[df["gender"] == "Men"]) if "gender" in df.columns else 0
+    womens_count = len(df[df["gender"] == "Women"]) if "gender" in df.columns else 0
+    total_count = len(df)
+
+    # Summary metrics
+    st.markdown("## 📊 Annual Drop Summary")
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        st.metric("Total Annual Drops", "12 Monthly + 4 Seasonal")
+    with col2:
+        st.metric("Estimated New SKUs/Year", "350-450")
+    with col3:
+        st.metric("Core Basics (Year-round)", f"{int(total_count * 0.25)} SKUs")
+    with col4:
+        st.metric("Rotation SKUs", f"{int(total_count * 0.75)} SKUs")
+
+    st.divider()
+
+    # Month selector for detailed view
+    st.markdown("## 📆 Monthly Drop Details")
+
+    # Define monthly drop data with gender-specific breakdowns
+    drops = {
+        "January": {
+            "type": "Monthly Drop",
+            "theme": "New Year Resolution / Performance",
+            "total_skus": "15-20",
+            "color_strategy": "Core neutrals + 1-2 motivational brights (electric blue, lime green)",
+            "mens": {
+                "sku_count": "10-12",
+                "categories": {
+                    "Tops": {"count": "4-5", "details": "Performance tees, long-sleeve training tops"},
+                    "Bottoms": {"count": "3-4", "details": "Training joggers, performance shorts"},
+                    "Accessories": {"count": "2-3", "details": "Beanies, training gloves, water bottles"}
+                },
+                "colors": ["Black", "Charcoal", "Navy", "Electric Blue"],
+                "price_points": "$48-$98",
+                "key_fabrics": "GoldFusion, Silvertech"
+            },
+            "womens": {
+                "sku_count": "5-8",
+                "categories": {
+                    "Tops": {"count": "2-3", "details": "Performance tanks, long-sleeve training tops"},
+                    "Bottoms": {"count": "2-3", "details": "High-waist leggings, training shorts"},
+                    "Accessories": {"count": "1-2", "details": "Headbands, training socks"}
+                },
+                "colors": ["Black", "Charcoal", "Navy", "Lime Green"],
+                "price_points": "$48-$88",
+                "key_fabrics": "GoldFusion, Silvertech"
+            }
+        },
+        "February": {
+            "type": "SPRING COLLECTION",
+            "theme": "Spring Awakening / Transition",
+            "total_skus": "60-75",
+            "color_strategy": "Fresh pastels, bright greens, sky blues, coral, sand",
+            "mens": {
+                "sku_count": "35-42",
+                "categories": {
+                    "Outerwear": {"count": "8-10", "details": "Lightweight jackets, windbreakers, vests"},
+                    "Tops": {"count": "12-15", "details": "Spring tees, quarter-zips, polo shirts"},
+                    "Bottoms": {"count": "10-12", "details": "Chino shorts, performance pants, joggers"},
+                    "Accessories": {"count": "5-6", "details": "Hats, bags, sunglasses"}
+                },
+                "colors": ["Navy", "Sky Blue", "Sage Green", "Sand", "White", "Coral"],
+                "price_points": "$58-$178",
+                "key_fabrics": "Cotton blends, lightweight performance fabrics"
+            },
+            "womens": {
+                "sku_count": "25-33",
+                "categories": {
+                    "Outerwear": {"count": "6-8", "details": "Lightweight jackets, windbreakers"},
+                    "Tops": {"count": "10-12", "details": "Spring tanks, tees, long-sleeves"},
+                    "Bottoms": {"count": "7-9", "details": "Leggings, bike shorts, joggers"},
+                    "Accessories": {"count": "2-4", "details": "Bags, headbands, sunglasses"}
+                },
+                "colors": ["Sky Blue", "Coral", "Sage Green", "Sand", "White", "Lavender"],
+                "price_points": "$48-$158",
+                "key_fabrics": "Lightweight performance, soft cotton blends"
+            }
+        },
+        "March": {
+            "type": "Monthly Drop",
+            "theme": "Spring Training / Active Lifestyle",
+            "total_skus": "18-25",
+            "color_strategy": "Energy colors: orange, lime, aqua, bright coral",
+            "mens": {
+                "sku_count": "12-16",
+                "categories": {
+                    "Tops": {"count": "5-7", "details": "Running tees, breathable tanks"},
+                    "Bottoms": {"count": "5-7", "details": "Running shorts, 7\" performance shorts"},
+                    "Outerwear": {"count": "2-3", "details": "Light running jackets"}
+                },
+                "colors": ["Black", "Aqua", "Orange", "Lime"],
+                "price_points": "$48-$128",
+                "key_fabrics": "Lightweight, moisture-wicking"
+            },
+            "womens": {
+                "sku_count": "6-9",
+                "categories": {
+                    "Tops": {"count": "3-4", "details": "Running tanks, breathable tees"},
+                    "Bottoms": {"count": "2-3", "details": "Running shorts, capri leggings"},
+                    "Sports Bras": {"count": "1-2", "details": "High-impact sports bras"}
+                },
+                "colors": ["Black", "Coral", "Aqua", "Lime"],
+                "price_points": "$48-$118",
+                "key_fabrics": "Lightweight, moisture-wicking"
+            }
+        },
+        "April": {
+            "type": "Monthly Drop",
+            "theme": "Earth Day / Sustainable Performance",
+            "total_skus": "15-20",
+            "color_strategy": "Earth tones: sage, sand, terracotta, olive, natural",
+            "mens": {
+                "sku_count": "10-13",
+                "categories": {
+                    "Tops": {"count": "5-7", "details": "Organic cotton tees, recycled poly tanks"},
+                    "Bottoms": {"count": "3-4", "details": "Sustainable joggers, eco shorts"},
+                    "Accessories": {"count": "2", "details": "Recycled bags, organic beanies"}
+                },
+                "colors": ["Sage", "Sand", "Terracotta", "Olive"],
+                "price_points": "$58-$98",
+                "key_fabrics": "Organic cotton, recycled polyester"
+            },
+            "womens": {
+                "sku_count": "5-7",
+                "categories": {
+                    "Tops": {"count": "2-3", "details": "Organic cotton tees, recycled tanks"},
+                    "Bottoms": {"count": "2-3", "details": "Sustainable leggings, eco joggers"},
+                    "Accessories": {"count": "1", "details": "Recycled bags"}
+                },
+                "colors": ["Sage", "Sand", "Terracotta", "Natural"],
+                "price_points": "$48-$88",
+                "key_fabrics": "Organic cotton, recycled polyester"
+            }
+        },
+        "May": {
+            "type": "SUMMER COLLECTION",
+            "theme": "Summer Heat / Maximum Performance",
+            "total_skus": "50-60",
+            "color_strategy": "Vibrant summer: royal blue, sunset orange, white, tropical prints",
+            "mens": {
+                "sku_count": "30-36",
+                "categories": {
+                    "Tops": {"count": "12-15", "details": "Performance tanks, breathable tees, polos"},
+                    "Bottoms": {"count": "10-12", "details": "Performance shorts (5\", 7\", 9\"), training shorts"},
+                    "Swim": {"count": "5-6", "details": "Board shorts, swim trunks"},
+                    "Accessories": {"count": "3-4", "details": "Hats, sunglasses, bags"}
+                },
+                "colors": ["Royal Blue", "White", "Sunset Orange", "Navy", "Aqua"],
+                "price_points": "$48-$128",
+                "key_fabrics": "Ultra-lightweight, quick-dry, UV protection"
+            },
+            "womens": {
+                "sku_count": "20-24",
+                "categories": {
+                    "Tops": {"count": "8-10", "details": "Performance tanks, breathable tees"},
+                    "Bottoms": {"count": "8-10", "details": "Performance shorts, bike shorts, skorts"},
+                    "Sports Bras": {"count": "3-4", "details": "Light & medium support bras"},
+                    "Accessories": {"count": "1-2", "details": "Hats, bags"}
+                },
+                "colors": ["Royal Blue", "White", "Coral", "Aqua", "Tropical Print"],
+                "price_points": "$48-$118",
+                "key_fabrics": "Ultra-lightweight, quick-dry"
+            }
+        },
+        "June": {
+            "type": "Monthly Drop",
+            "theme": "Summer Essentials / Travel Ready",
+            "total_skus": "15-20",
+            "color_strategy": "Navy, white, chambray, neutral travel-friendly palette",
+            "mens": {
+                "sku_count": "10-13",
+                "categories": {
+                    "Tops": {"count": "5-6", "details": "Packable polos, wrinkle-free tees"},
+                    "Bottoms": {"count": "3-4", "details": "Quick-dry shorts, travel pants"},
+                    "Accessories": {"count": "2-3", "details": "Travel bags, packing cubes, belts"}
+                },
+                "colors": ["Navy", "White", "Chambray", "Khaki"],
+                "price_points": "$58-$108",
+                "key_fabrics": "Wrinkle-resistant, quick-dry"
+            },
+            "womens": {
+                "sku_count": "5-7",
+                "categories": {
+                    "Tops": {"count": "2-3", "details": "Packable tees, wrinkle-free tanks"},
+                    "Bottoms": {"count": "2-3", "details": "Quick-dry leggings, travel joggers"},
+                    "Accessories": {"count": "1", "details": "Travel bags"}
+                },
+                "colors": ["Navy", "White", "Chambray", "Black"],
+                "price_points": "$48-$98",
+                "key_fabrics": "Wrinkle-resistant, quick-dry"
+            }
+        },
+        "July": {
+            "type": "Monthly Drop",
+            "theme": "Independence / Americana",
+            "total_skus": "12-18",
+            "color_strategy": "Red, navy, white combinations, patriotic prints",
+            "mens": {
+                "sku_count": "8-12",
+                "categories": {
+                    "Tops": {"count": "4-6", "details": "Americana tees, flag print tanks"},
+                    "Bottoms": {"count": "3-4", "details": "Red/navy/white shorts"},
+                    "Accessories": {"count": "1-2", "details": "American flag hats, bags"}
+                },
+                "colors": ["Navy", "White", "Red", "Americana Print"],
+                "price_points": "$48-$88",
+                "key_fabrics": "Cotton blends, performance fabrics"
+            },
+            "womens": {
+                "sku_count": "4-6",
+                "categories": {
+                    "Tops": {"count": "2-3", "details": "Americana tanks, patriotic tees"},
+                    "Bottoms": {"count": "1-2", "details": "Red/navy/white shorts or leggings"},
+                    "Accessories": {"count": "1", "details": "Flag print accessories"}
+                },
+                "colors": ["Navy", "White", "Red"],
+                "price_points": "$48-$78",
+                "key_fabrics": "Cotton blends"
+            }
+        },
+        "August": {
+            "type": "FALL COLLECTION",
+            "theme": "Back to Routine / Fall Layering",
+            "total_skus": "75-90",
+            "color_strategy": "Autumn palette: burgundy, forest, charcoal, rust, camel",
+            "mens": {
+                "sku_count": "45-54",
+                "categories": {
+                    "Outerwear": {"count": "15-18", "details": "Hoodies, quarter-zips, vests, jackets"},
+                    "Tops": {"count": "15-18", "details": "Long-sleeve tees, henleys, pullovers"},
+                    "Bottoms": {"count": "10-12", "details": "Performance joggers, training pants, chinos"},
+                    "Accessories": {"count": "5-6", "details": "Beanies, scarves, gloves"}
+                },
+                "colors": ["Charcoal", "Burgundy", "Forest Green", "Rust", "Black", "Camel"],
+                "price_points": "$58-$198",
+                "key_fabrics": "Fleece, thermal, midweight performance"
+            },
+            "womens": {
+                "sku_count": "30-36",
+                "categories": {
+                    "Outerwear": {"count": "10-12", "details": "Hoodies, jackets, vests"},
+                    "Tops": {"count": "10-12", "details": "Long-sleeve tees, pullovers"},
+                    "Bottoms": {"count": "7-9", "details": "Leggings, joggers, training pants"},
+                    "Accessories": {"count": "3-4", "details": "Beanies, scarves"}
+                },
+                "colors": ["Charcoal", "Burgundy", "Rust", "Black", "Camel", "Forest Green"],
+                "price_points": "$48-$178",
+                "key_fabrics": "Fleece, thermal, midweight performance"
+            }
+        },
+        "September": {
+            "type": "Monthly Drop",
+            "theme": "Fall Fitness / New Season Energy",
+            "total_skus": "20-25",
+            "color_strategy": "Rich jewel tones: emerald, sapphire, garnet, gold",
+            "mens": {
+                "sku_count": "13-16",
+                "categories": {
+                    "Outerwear": {"count": "5-6", "details": "Transition jackets, windbreakers"},
+                    "Tops": {"count": "4-5", "details": "Training long-sleeves, performance henleys"},
+                    "Bottoms": {"count": "4-5", "details": "Training joggers, performance pants"}
+                },
+                "colors": ["Sapphire", "Emerald", "Garnet", "Black"],
+                "price_points": "$58-$138",
+                "key_fabrics": "Midweight performance, moisture-wicking"
+            },
+            "womens": {
+                "sku_count": "7-9",
+                "categories": {
+                    "Outerwear": {"count": "3-4", "details": "Transition jackets"},
+                    "Tops": {"count": "2-3", "details": "Training long-sleeves"},
+                    "Bottoms": {"count": "2-3", "details": "Leggings, training joggers"}
+                },
+                "colors": ["Sapphire", "Emerald", "Garnet", "Gold"],
+                "price_points": "$48-$128",
+                "key_fabrics": "Midweight performance"
+            }
+        },
+        "October": {
+            "type": "Monthly Drop",
+            "theme": "Cozy Performance / Cold Weather Prep",
+            "total_skus": "18-22",
+            "color_strategy": "Deep neutrals: black, charcoal, coffee, espresso",
+            "mens": {
+                "sku_count": "12-14",
+                "categories": {
+                    "Outerwear": {"count": "5-6", "details": "Fleece hoodies, insulated vests"},
+                    "Tops": {"count": "4-5", "details": "Thermal long-sleeves, base layers"},
+                    "Accessories": {"count": "3", "details": "Winter gloves, thermal beanies, neck warmers"}
+                },
+                "colors": ["Black", "Charcoal", "Coffee", "Espresso"],
+                "price_points": "$58-$148",
+                "key_fabrics": "Fleece, thermal, insulated"
+            },
+            "womens": {
+                "sku_count": "6-8",
+                "categories": {
+                    "Outerwear": {"count": "3-4", "details": "Fleece hoodies, vests"},
+                    "Tops": {"count": "2-3", "details": "Thermal long-sleeves, base layers"},
+                    "Accessories": {"count": "1-2", "details": "Beanies, gloves"}
+                },
+                "colors": ["Black", "Charcoal", "Coffee"],
+                "price_points": "$48-$138",
+                "key_fabrics": "Fleece, thermal"
+            }
+        },
+        "November": {
+            "type": "HOLIDAY COLLECTION",
+            "theme": "Gift Season / Premium Performance",
+            "total_skus": "50-65",
+            "color_strategy": "Gift-worthy: metallics, deep reds, premium blacks, silver, gold accents",
+            "mens": {
+                "sku_count": "30-39",
+                "categories": {
+                    "Outerwear": {"count": "10-12", "details": "Premium hoodies, bomber jackets, gift-ready vests"},
+                    "Tops": {"count": "10-12", "details": "Premium tees, party-ready polos, athleisure tops"},
+                    "Gift Sets": {"count": "6-8", "details": "Packaged sets (hoodie + jogger, accessories packs)"},
+                    "Accessories": {"count": "4-7", "details": "Premium bags, gift boxes, luxury socks"}
+                },
+                "colors": ["Black", "Charcoal", "Deep Red", "Silver", "Metallic Accents"],
+                "price_points": "$68-$228",
+                "key_fabrics": "Premium fleece, luxury performance fabrics"
+            },
+            "womens": {
+                "sku_count": "20-26",
+                "categories": {
+                    "Outerwear": {"count": "7-9", "details": "Premium hoodies, bomber jackets"},
+                    "Tops": {"count": "6-8", "details": "Premium tanks, party-ready tops"},
+                    "Gift Sets": {"count": "4-5", "details": "Packaged sets (hoodie + legging, accessories)"},
+                    "Accessories": {"count": "3-4", "details": "Premium bags, gift boxes"}
+                },
+                "colors": ["Black", "Deep Red", "Silver", "Gold Accents", "Rose Gold"],
+                "price_points": "$58-$198",
+                "key_fabrics": "Premium fleece, luxury fabrics"
+            }
+        },
+        "December": {
+            "type": "Monthly Drop",
+            "theme": "Winter Wellness / Cold Weather Essentials",
+            "total_skus": "15-20",
+            "color_strategy": "Winter whites, icy blues, charcoal, silver",
+            "mens": {
+                "sku_count": "10-13",
+                "categories": {
+                    "Outerwear": {"count": "4-5", "details": "Insulated jackets, heavy fleece"},
+                    "Tops": {"count": "3-4", "details": "Heavy base layers, thermal tops"},
+                    "Bottoms": {"count": "2-3", "details": "Thermal leggings, insulated joggers"},
+                    "Recovery": {"count": "1-2", "details": "Recovery hoodies, comfort joggers"}
+                },
+                "colors": ["Charcoal", "Icy Blue", "Winter White", "Black"],
+                "price_points": "$68-$158",
+                "key_fabrics": "Heavy thermal, insulated, recovery fabrics"
+            },
+            "womens": {
+                "sku_count": "5-7",
+                "categories": {
+                    "Outerwear": {"count": "2-3", "details": "Insulated jackets, fleece"},
+                    "Tops": {"count": "2-3", "details": "Base layers, thermal tops"},
+                    "Bottoms": {"count": "1-2", "details": "Thermal leggings"}
+                },
+                "colors": ["Charcoal", "Icy Blue", "Winter White"],
+                "price_points": "$58-$148",
+                "key_fabrics": "Heavy thermal, insulated"
+            }
+        }
+    }
+
+    # Month selector
+    selected_month = st.selectbox(
+        "Select Month to View Detailed Plan",
+        list(drops.keys()),
+        index=0
+    )
+
+    drop = drops[selected_month]
+
+    # Display selected month details
+    st.markdown(f"### {selected_month}: {drop['theme']}")
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        drop_type_color = "🎉" if "COLLECTION" in drop['type'] else "📦"
+        st.metric("Drop Type", f"{drop_type_color} {drop['type']}")
+    with col2:
+        st.metric("Total SKUs", drop['total_skus'])
+    with col3:
+        mens_sku = drop['mens']['sku_count']
+        womens_sku = drop['womens']['sku_count']
+        st.metric("Men's / Women's Split", f"{mens_sku} / {womens_sku}")
+
+    st.markdown(f"**Color Strategy:** {drop['color_strategy']}")
+
+    st.divider()
+
+    # Gender breakdown side by side
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown(f"### 👔 Men's Assortment ({drop['mens']['sku_count']} SKUs)")
+
+        # Category breakdown
+        st.markdown("**Category Breakdown:**")
+        mens_categories = []
+        for cat, info in drop['mens']['categories'].items():
+            mens_categories.append({
+                "Category": cat,
+                "SKU Count": info['count'],
+                "Details": info['details']
+            })
+        st.dataframe(pd.DataFrame(mens_categories), hide_index=True, use_container_width=True)
+
+        # Colors
+        st.markdown("**Colors:**")
+        colors_html = ""
+        for color in drop['mens']['colors']:
+            hex_color = get_color_hex(color)
+            colors_html += f'<span style="display:inline-block;padding:5px 10px;margin:2px;background-color:{hex_color};color:{"white" if color.lower() in ["black", "navy", "charcoal"] else "black"};border-radius:3px;font-size:12px;">{color}</span>'
+        st.markdown(colors_html, unsafe_allow_html=True)
+
+        # Price & fabrics
+        st.markdown(f"**Price Range:** {drop['mens']['price_points']}")
+        st.markdown(f"**Key Fabrics:** {drop['mens']['key_fabrics']}")
+
+    with col2:
+        st.markdown(f"### 👗 Women's Assortment ({drop['womens']['sku_count']} SKUs)")
+
+        # Category breakdown
+        st.markdown("**Category Breakdown:**")
+        womens_categories = []
+        for cat, info in drop['womens']['categories'].items():
+            womens_categories.append({
+                "Category": cat,
+                "SKU Count": info['count'],
+                "Details": info['details']
+            })
+        st.dataframe(pd.DataFrame(womens_categories), hide_index=True, use_container_width=True)
+
+        # Colors
+        st.markdown("**Colors:**")
+        colors_html = ""
+        for color in drop['womens']['colors']:
+            hex_color = get_color_hex(color)
+            colors_html += f'<span style="display:inline-block;padding:5px 10px;margin:2px;background-color:{hex_color};color:{"white" if color.lower() in ["black", "navy", "charcoal"] else "black"};border-radius:3px;font-size:12px;">{color}</span>'
+        st.markdown(colors_html, unsafe_allow_html=True)
+
+        # Price & fabrics
+        st.markdown(f"**Price Range:** {drop['womens']['price_points']}")
+        st.markdown(f"**Key Fabrics:** {drop['womens']['key_fabrics']}")
+
+    st.divider()
+
+    # Annual overview calendar
+    st.markdown("## 📅 Full Year at a Glance")
+
+    # Create calendar view
+    calendar_data = []
+    for month, drop_info in drops.items():
+        calendar_data.append({
+            "Month": month,
+            "Type": drop_info['type'],
+            "Theme": drop_info['theme'],
+            "Total SKUs": drop_info['total_skus'],
+            "Men's": drop_info['mens']['sku_count'],
+            "Women's": drop_info['womens']['sku_count']
+        })
+
+    calendar_df = pd.DataFrame(calendar_data)
+    st.dataframe(
+        calendar_df,
+        hide_index=True,
+        use_container_width=True,
+        column_config={
+            "Month": st.column_config.TextColumn("Month", width="small"),
+            "Type": st.column_config.TextColumn("Drop Type", width="medium"),
+            "Theme": st.column_config.TextColumn("Theme", width="large"),
+            "Total SKUs": st.column_config.TextColumn("Total", width="small"),
+            "Men's": st.column_config.TextColumn("Men's", width="small"),
+            "Women's": st.column_config.TextColumn("Women's", width="small")
+        },
+        height=500
+    )
+
+    st.divider()
+
+    # Key strategic recommendations
+    st.markdown("## 💡 Key Drop Strategy Principles")
+
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        st.markdown("""
+        **Timing & Cadence:**
+        - Monthly drops: 1st week of month
+        - Seasonal collections: 3rd week of month
+        - 8-10 week lifecycle for monthly
+        - 12-16 week lifecycle for seasonal
+        - Basics: continuous replenishment
+        """)
+
+    with col2:
+        st.markdown("""
+        **Markdown Strategy:**
+        - Monthly: 4 weeks full price → 30% off
+        - Seasonal: 8 weeks full price → tiered discount
+        - Target 65%+ full price sell-through
+        - Final clearance: 60-70% off
+        - Never exceed 40% inventory on sale
+        """)
+
+    with col3:
+        st.markdown("""
+        **Inventory Allocation:**
+        - Men's: 60% of $ budget
+        - Women's: 40% of $ budget
+        - Outerwear: 35% of seasonal budget
+        - Tops: 40% of monthly budget
+        - Plan receipts 4-6 weeks pre-drop
+        """)
+
+
 def display_data_chat(df):
     """Display chat interface for asking questions about the data"""
     st.markdown('<div class="section-header">💬 Data Chat Assistant</div>', unsafe_allow_html=True)
 
     st.info("Ask questions about your Rhone product data. The assistant will only use information from your actual product database.")
+
+    # Password protection
+    if "chat_authenticated" not in st.session_state:
+        st.session_state.chat_authenticated = False
+
+    if not st.session_state.chat_authenticated:
+        st.warning("🔒 This feature requires authentication to prevent unauthorized API usage.")
+        password = st.text_input("Enter password to access Data Chat:", type="password", key="chat_password")
+
+        if st.button("Submit", key="chat_password_submit"):
+            if password == "R3dR0b0t":
+                st.session_state.chat_authenticated = True
+                st.success("✅ Authentication successful!")
+                st.rerun()
+            else:
+                st.error("❌ Incorrect password. Please try again.")
+        return
 
     # Check for API key
     api_key = os.environ.get("ANTHROPIC_API_KEY")
@@ -1643,40 +2195,65 @@ def display_data_chat(df):
         with st.chat_message("user"):
             st.markdown(prompt)
 
-        # Prepare data context for Claude
-        # Create a summary of the data
-        data_summary = {
+        # Prepare data context for Claude - create aggregate summary instead of full dataset
+        # This reduces token usage significantly while maintaining accuracy
+
+        # Calculate statistics
+        stats = {
             "total_products": len(df),
-            "products": []
+            "categories": df["category"].value_counts().to_dict() if "category" in df.columns else {},
+            "gender_breakdown": df["gender"].value_counts().to_dict() if "gender" in df.columns else {},
         }
 
-        # Add product details (limit to relevant fields to save tokens)
-        for _, row in df.iterrows():
-            product = {
-                "name": row.get("name"),
-                "category": row.get("category"),
-                "gender": row.get("gender"),
-                "price": row.get("price"),
-                "sale_price": row.get("sale_price"),
-                "colors": row.get("colors", []),
-                "is_best_seller": row.get("is_best_seller", False),
-                "availability": row.get("availability")
+        # Price statistics
+        if "price" in df.columns:
+            stats["price_stats"] = {
+                "average": float(df["price"].mean()),
+                "min": float(df["price"].min()),
+                "max": float(df["price"].max()),
+                "by_category": df.groupby("category")["price"].mean().to_dict() if "category" in df.columns else {},
+                "by_gender": df.groupby("gender")["price"].mean().to_dict() if "gender" in df.columns else {}
             }
-            data_summary["products"].append(product)
 
-        # Create system prompt with data context
+        # Sale price statistics
+        if "sale_price" in df.columns:
+            on_sale = df[df["sale_price"].notna()]
+            stats["sale_stats"] = {
+                "products_on_sale": len(on_sale),
+                "percent_on_sale": float(len(on_sale) / len(df) * 100),
+                "avg_sale_price": float(on_sale["sale_price"].mean()) if len(on_sale) > 0 else 0
+            }
+
+        # Color statistics
+        if "colors" in df.columns:
+            colors_exploded = df.explode("colors")
+            colors_exploded = colors_exploded[colors_exploded["colors"].notna()]
+            if len(colors_exploded) > 0:
+                stats["color_stats"] = {
+                    "top_colors": colors_exploded["colors"].value_counts().head(20).to_dict(),
+                    "unique_colors": int(colors_exploded["colors"].nunique())
+                }
+
+        # Create compact CSV representation for detailed queries
+        # Only include first 50 products to stay within token limits
+        sample_products = df.head(50).to_dict('records')
+
+        # Create system prompt with aggregate data
         system_prompt = f"""You are a data analyst assistant for Rhone product data.
-You have access to ONLY the following product data and should ONLY answer questions using this data.
-Do NOT use any external knowledge or make assumptions beyond what's in this data.
+You have access to product statistics and a sample of products. Answer questions using ONLY this data.
 
-Here is the complete product dataset:
-{json.dumps(data_summary, indent=2)}
+AGGREGATE STATISTICS:
+{json.dumps(stats, indent=2)}
+
+SAMPLE PRODUCTS (first 50 of {len(df)}):
+{json.dumps(sample_products, indent=2)}
 
 When answering questions:
-1. Only reference the data provided above
-2. Provide specific numbers and examples from the data
-3. If asked about something not in the data, clearly state that information is not available
-4. Be concise but thorough in your analysis
+1. Use the aggregate statistics for overall trends and summaries
+2. Use the sample products for specific examples (note: sample is limited to first 50 products)
+3. If asked about specific products not in the sample, use aggregate stats to provide general answers
+4. If the data doesn't contain the requested information, clearly state it's not available
+5. Be concise but thorough in your analysis
 """
 
         # Generate response with Claude
@@ -1689,7 +2266,7 @@ When answering questions:
                 # Stream the response
                 full_response = ""
                 with client.messages.stream(
-                    model="claude-3-5-sonnet-20240620",
+                    model="claude-3-7-sonnet-20250219",
                     max_tokens=2000,
                     system=system_prompt,
                     messages=[
@@ -1732,6 +2309,7 @@ def main():
                 "Color Analysis",
                 "Sales & Pricing",
                 "Line Plan",
+                # "Drop Schedule",  # Hidden for now
                 "Data Chat",
                 "Raw Data"
             ]
@@ -1775,6 +2353,9 @@ def main():
 
     elif page == "Line Plan":
         display_line_plan(df)
+
+    elif page == "Drop Schedule":
+        display_drop_schedule(df)
 
     elif page == "Data Chat":
         display_data_chat(df)
