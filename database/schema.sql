@@ -1,12 +1,12 @@
 -- Supabase schema for Rhone product data
 
--- Drop existing table if it exists
-DROP TABLE IF EXISTS products;
+-- Drop existing table if it exists (CASCADE will drop dependent views)
+DROP TABLE IF EXISTS products CASCADE;
 
 -- Create products table
 CREATE TABLE products (
     id BIGSERIAL PRIMARY KEY,
-    product_id TEXT UNIQUE NOT NULL,
+    product_id TEXT NOT NULL,
     name TEXT NOT NULL,
     url TEXT NOT NULL,
     category TEXT,
@@ -51,6 +51,10 @@ CREATE INDEX idx_products_gender ON products(gender);
 CREATE INDEX idx_products_best_seller ON products(is_best_seller);
 CREATE INDEX idx_products_homepage ON products(is_homepage_product);
 CREATE INDEX idx_products_scraped_at ON products(scraped_at DESC);
+
+-- Create a unique index on the first image URL (to prevent duplicate color variants)
+CREATE UNIQUE INDEX idx_products_first_image ON products((images->0));
+CREATE INDEX idx_products_product_id ON products(product_id);
 
 -- Create a function to update the updated_at timestamp
 CREATE OR REPLACE FUNCTION update_updated_at_column()

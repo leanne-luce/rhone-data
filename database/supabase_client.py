@@ -49,8 +49,8 @@ class SupabaseClient:
 
     def insert_products_batch(self, products: List[Dict]) -> List[Dict]:
         """Insert multiple products into the database"""
-        # Process each product
-        processed_products = []
+        # Process each product individually to avoid conflicts within batch
+        successful = []
         for product in products:
             # Convert lists to JSON for JSONB columns
             product_copy = product.copy()
@@ -67,15 +67,17 @@ class SupabaseClient:
             if "images" in product_copy and isinstance(product_copy["images"], list):
                 product_copy["images"] = json.dumps(product_copy["images"])
 
-            processed_products.append(product_copy)
+            try:
+                # Insert without upsert (will fail if duplicate)
+                response = self.client.table("products").insert(product_copy).execute()
+                successful.append(response.data)
+            except Exception as e:
+                # Skip duplicates silently
+                if "duplicate" not in str(e).lower() and "unique" not in str(e).lower():
+                    print(f"  Error inserting product {product.get('product_id', 'unknown')}: {e}")
+                continue
 
-        # Batch upsert
-        response = self.client.table("products").upsert(
-            processed_products,
-            on_conflict="product_id"
-        ).execute()
-
-        return response.data
+        return successful
 
     def get_all_products(self) -> List[Dict]:
         """Retrieve all products from the database"""

@@ -24,7 +24,7 @@ def combine_manual_scrapes():
         return
 
     all_products = []
-    seen_ids = set()
+    seen_image_urls = set()
 
     for file_path in json_files:
         print(f"Reading {file_path}...")
@@ -42,57 +42,74 @@ def combine_manual_scrapes():
                     continue
 
                 for product in products:
-                    product_id = product.get('product_id')
-                    if product_id and product_id not in seen_ids:
-                        # Ensure required fields exist
-                        if 'scraped_at' not in product:
-                            product['scraped_at'] = datetime.now().isoformat()
+                    # Use image URL as unique identifier instead of product_id
+                    # This treats each color variant as a separate product
+                    images = product.get('images', [])
+                    if not images:
+                        continue
 
-                        if 'currency' not in product:
-                            product['currency'] = 'USD'
+                    image_url = images[0] if isinstance(images, list) else images
 
-                        if 'colors' not in product:
-                            product['colors'] = []
+                    # Skip if we've already seen this image
+                    if image_url in seen_image_urls:
+                        continue
 
-                        if 'sizes' not in product:
-                            product['sizes'] = []
+                    # Ensure required fields exist
+                    if 'scraped_at' not in product:
+                        product['scraped_at'] = datetime.now().isoformat()
 
-                        if 'fabrics' not in product:
-                            product['fabrics'] = []
+                    if 'currency' not in product:
+                        product['currency'] = 'USD'
 
-                        if 'images' not in product:
-                            product['images'] = []
+                    if 'colors' not in product:
+                        product['colors'] = []
 
-                        if 'is_best_seller' not in product:
-                            product['is_best_seller'] = False
+                    if 'sizes' not in product:
+                        product['sizes'] = []
 
-                        if 'availability' not in product:
-                            product['availability'] = 'Unknown'
+                    if 'fabrics' not in product:
+                        product['fabrics'] = []
 
-                        # Fix missing category - try to infer from product URL or name
-                        if not product.get('category') or product.get('category') == 'null':
-                            url = product.get('url', '').lower()
-                            name = product.get('name', '').lower()
+                    if 'images' not in product:
+                        product['images'] = []
 
-                            # Try to determine category from URL or product name
-                            if any(x in url or x in name for x in ['pant', 'jogger', 'short', 'bottom']):
-                                if 'short' in url or 'short' in name:
-                                    product['category'] = 'Shorts'
-                                else:
-                                    product['category'] = 'Bottoms'
-                            elif any(x in url or x in name for x in ['shirt', 'tee', 'tank', 'polo', 'top', 'henley', 'vneck', 'sleeve']):
-                                product['category'] = 'Tops'
-                            elif any(x in url or x in name for x in ['jacket', 'hoodie', 'vest', 'fleece', 'blazer', 'cardigan', 'sweater', 'pullover']):
-                                product['category'] = 'Outerwear'
-                            elif any(x in url or x in name for x in ['bra', 'sports-bra']):
-                                product['category'] = 'Sports Bras'
-                            elif 'legging' in url or 'legging' in name:
-                                product['category'] = 'Leggings'
+                    if 'is_best_seller' not in product:
+                        product['is_best_seller'] = False
+
+                    if 'availability' not in product:
+                        product['availability'] = 'Unknown'
+
+                    # Fix missing category - try to infer from product URL or name
+                    if not product.get('category') or product.get('category') == 'null':
+                        url = product.get('url', '').lower()
+                        name = product.get('name', '').lower()
+
+                        # Try to determine category from URL or product name
+                        if any(x in url or x in name for x in ['pant', 'jogger', 'short', 'bottom']):
+                            if 'short' in url or 'short' in name:
+                                product['category'] = 'Shorts'
                             else:
-                                product['category'] = 'Other'
+                                product['category'] = 'Bottoms'
+                        elif any(x in url or x in name for x in ['shirt', 'tee', 'tank', 'polo', 'top', 'henley', 'vneck', 'sleeve']):
+                            product['category'] = 'Tops'
+                        elif any(x in url or x in name for x in ['jacket', 'hoodie', 'vest', 'fleece', 'blazer', 'cardigan', 'sweater', 'pullover']):
+                            product['category'] = 'Outerwear'
+                        elif any(x in url or x in name for x in ['bra', 'sports-bra']):
+                            product['category'] = 'Sports Bras'
+                        elif 'legging' in url or 'legging' in name:
+                            product['category'] = 'Leggings'
+                        else:
+                            product['category'] = 'Other'
 
-                        all_products.append(product)
-                        seen_ids.add(product_id)
+                    # Fix gender detection
+                    url = product.get('url', '').lower()
+                    if 'womens' in url or '/women' in url:
+                        product['gender'] = 'Women'
+                    elif 'mens' in url or '/men' in url:
+                        product['gender'] = 'Men'
+
+                    all_products.append(product)
+                    seen_image_urls.add(image_url)
 
             except json.JSONDecodeError as e:
                 print(f"  Error reading {file_path}: {e}")
