@@ -87,19 +87,36 @@ SUPABASE_KEY=your_supabase_anon_key_here
 # Copy the contents of database/schema.sql and run it in Supabase SQL Editor
 ```
 
-### 3. Scrape Product Data
+### 3. Collect Product Data
 
-Navigate to the scraper directory and run the spider:
+**⚠️ Important:** Rhone.com uses Cloudflare Turnstile protection that blocks automated scrapers. You have two options:
+
+#### Option A: Manual Collection (Recommended - 15 minutes)
+
+Use your browser's developer tools to extract product data:
+
+```bash
+# See detailed instructions
+cat MANUAL_SCRAPING.md
+```
+
+**Quick steps:**
+1. Open https://www.rhone.com/collections/mens-tops in your browser
+2. Press `F12` to open Developer Tools
+3. Go to Console tab
+4. Copy/paste the extraction script from [MANUAL_SCRAPING.md](MANUAL_SCRAPING.md)
+5. Press Enter - file downloads automatically
+6. Repeat for other collection pages
+7. Combine files: `python combine_manual_scrapes.py`
+
+#### Option B: Automated Scraper (May not work due to Cloudflare)
 
 ```bash
 cd scraper
 scrapy crawl rhone
 ```
 
-This will:
-- Scrape product data from Rhone.com
-- Save data to `data/rhone_products_YYYYMMDD_HHMMSS.json`
-- Respect robots.txt and rate limits
+**Note:** The automated scraper is set up with Playwright for JavaScript rendering, but Rhone.com's Cloudflare protection typically blocks it. Use Option A (manual collection) for reliable results.
 
 ### 4. Upload Data to Supabase
 

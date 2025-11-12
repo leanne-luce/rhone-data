@@ -16,6 +16,7 @@ CREATE TABLE products (
     -- Pricing
     price DECIMAL(10, 2),
     sale_price DECIMAL(10, 2),
+    on_sale BOOLEAN DEFAULT FALSE,
     currency TEXT DEFAULT 'USD',
 
     -- Product details

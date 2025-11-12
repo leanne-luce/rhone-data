@@ -339,23 +339,160 @@ def display_best_sellers(df):
 
 def display_best_seller_table(df):
     """Display best seller products in a table"""
-    display_cols = ["name", "category", "gender", "price", "url"]
+    display_cols = ["name", "category", "gender", "price", "sale_price", "colors", "url"]
     available_cols = [col for col in display_cols if col in df.columns]
 
-    if "price" in df.columns:
-        display_df = df[available_cols].copy()
+    display_df = df[available_cols].copy()
+
+    # Format prices
+    if "price" in display_df.columns:
         display_df["price"] = display_df["price"].apply(lambda x: f"${x:.2f}" if pd.notna(x) else "N/A")
-    else:
-        display_df = df[available_cols]
+
+    if "sale_price" in display_df.columns:
+        display_df["sale_price"] = display_df["sale_price"].apply(lambda x: f"${x:.2f}" if pd.notna(x) else "-")
+
+    # Format colors as comma-separated string
+    if "colors" in display_df.columns:
+        display_df["colors"] = display_df["colors"].apply(
+            lambda x: ", ".join(x) if isinstance(x, list) and len(x) > 0 else "-"
+        )
 
     st.dataframe(
         display_df,
         hide_index=True,
         use_container_width=True,
         column_config={
-            "url": st.column_config.LinkColumn("Product Link")
+            "url": st.column_config.LinkColumn("Product Link"),
+            "price": "Regular Price",
+            "sale_price": "Sale Price",
+            "colors": "Available Colors"
         }
     )
+
+
+def display_sales_analysis(df):
+    """Display sales and pricing analysis"""
+    st.markdown('<div class="section-header">🏷️ Sales & Pricing Analysis</div>', unsafe_allow_html=True)
+
+    # Check if we have sale data
+    has_sale_data = "on_sale" in df.columns or "sale_price" in df.columns
+
+    if not has_sale_data:
+        st.warning("Sale data not available in this dataset")
+        return
+
+    # Determine which products are on sale
+    if "on_sale" in df.columns:
+        on_sale_df = df[df["on_sale"] == True]
+    else:
+        on_sale_df = df[df["sale_price"].notna()]
+
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        st.metric("Products on Sale", len(on_sale_df))
+
+    with col2:
+        sale_percentage = (len(on_sale_df) / len(df) * 100) if len(df) > 0 else 0
+        st.metric("% on Sale", f"{sale_percentage:.1f}%")
+
+    with col3:
+        if "price" in df.columns:
+            avg_price = df["price"].mean()
+            st.metric("Avg Regular Price", f"${avg_price:.2f}")
+
+    with col4:
+        if "sale_price" in on_sale_df.columns and len(on_sale_df) > 0:
+            avg_sale = on_sale_df["sale_price"].mean()
+            st.metric("Avg Sale Price", f"${avg_sale:.2f}")
+
+    # Calculate discount percentages
+    if "price" in on_sale_df.columns and "sale_price" in on_sale_df.columns:
+        discount_df = on_sale_df[on_sale_df["price"].notna() & on_sale_df["sale_price"].notna()].copy()
+
+        if len(discount_df) > 0:
+            discount_df["discount_pct"] = (
+                (discount_df["price"] - discount_df["sale_price"]) / discount_df["price"] * 100
+            )
+
+            st.subheader("Discount Distribution")
+
+            col1, col2 = st.columns([2, 1])
+
+            with col1:
+                fig = px.histogram(
+                    discount_df,
+                    x="discount_pct",
+                    nbins=20,
+                    title="Distribution of Discount Percentages",
+                    labels={"discount_pct": "Discount %", "count": "Number of Products"}
+                )
+                st.plotly_chart(fig, use_container_width=True)
+
+            with col2:
+                avg_discount = discount_df["discount_pct"].mean()
+                max_discount = discount_df["discount_pct"].max()
+                min_discount = discount_df["discount_pct"].min()
+
+                st.metric("Average Discount", f"{avg_discount:.1f}%")
+                st.metric("Max Discount", f"{max_discount:.1f}%")
+                st.metric("Min Discount", f"{min_discount:.1f}%")
+
+    # Sales by category
+    if "category" in df.columns:
+        st.subheader("Sales by Category")
+
+        category_sales = df.groupby("category").agg({
+            "on_sale": "sum" if "on_sale" in df.columns else "count"
+        }).reset_index()
+        category_sales.columns = ["Category", "Products on Sale"]
+
+        fig = px.bar(
+            category_sales,
+            x="Category",
+            y="Products on Sale",
+            title="Sale Products by Category"
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Top sale items
+    if len(on_sale_df) > 0:
+        st.subheader("Current Sale Items")
+
+        # Show products with biggest discounts
+        if "price" in on_sale_df.columns and "sale_price" in on_sale_df.columns:
+            sale_display = on_sale_df[on_sale_df["price"].notna() & on_sale_df["sale_price"].notna()].copy()
+            sale_display["savings"] = sale_display["price"] - sale_display["sale_price"]
+            sale_display["discount_pct"] = (sale_display["savings"] / sale_display["price"] * 100)
+
+            sale_display = sale_display.sort_values("discount_pct", ascending=False).head(20)
+
+            display_cols = ["name", "category", "price", "sale_price", "savings", "discount_pct", "colors"]
+            available_cols = [col for col in display_cols if col in sale_display.columns]
+
+            display_df = sale_display[available_cols].copy()
+            display_df["price"] = display_df["price"].apply(lambda x: f"${x:.2f}")
+            display_df["sale_price"] = display_df["sale_price"].apply(lambda x: f"${x:.2f}")
+            display_df["savings"] = display_df["savings"].apply(lambda x: f"${x:.2f}")
+            display_df["discount_pct"] = display_df["discount_pct"].apply(lambda x: f"{x:.1f}%")
+
+            if "colors" in display_df.columns:
+                display_df["colors"] = display_df["colors"].apply(
+                    lambda x: ", ".join(x[:3]) if isinstance(x, list) and len(x) > 0 else "-"
+                )
+
+            st.dataframe(
+                display_df,
+                hide_index=True,
+                use_container_width=True,
+                column_config={
+                    "price": "Regular",
+                    "sale_price": "Sale",
+                    "savings": "You Save",
+                    "discount_pct": "Discount",
+                    "colors": "Colors"
+                }
+            )
 
 
 def display_homepage_analysis(df):
@@ -434,6 +571,7 @@ def main():
                 "Category Analysis",
                 "Color Analysis",
                 "Fabric Analysis",
+                "Sales & Pricing",
                 "Best Sellers",
                 "Homepage Products",
                 "Raw Data"
@@ -475,6 +613,9 @@ def main():
 
     elif page == "Fabric Analysis":
         display_fabric_analysis(df)
+
+    elif page == "Sales & Pricing":
+        display_sales_analysis(df)
 
     elif page == "Best Sellers":
         display_best_sellers(df)

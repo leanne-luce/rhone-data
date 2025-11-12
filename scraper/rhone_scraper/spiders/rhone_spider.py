@@ -6,7 +6,7 @@ from rhone_scraper.items import RhoneProductItem
 
 
 class RhoneSpider(scrapy.Spider):
-    """Spider for scraping product data from rhone.com"""
+    """Spider for scraping product data from rhone.com using Playwright for JavaScript rendering"""
 
     name = "rhone"
     allowed_domains = ["rhone.com"]
@@ -25,8 +25,36 @@ class RhoneSpider(scrapy.Spider):
         super().__init__(*args, **kwargs)
         self.homepage_products = set()
 
-    def parse(self, response):
+    def start_requests(self):
+        """Start requests with Playwright enabled"""
+        for url in self.start_urls:
+            yield scrapy.Request(
+                url,
+                meta={
+                    "playwright": True,
+                    "playwright_include_page": True,
+                    "playwright_page_goto_kwargs": {
+                        "wait_until": "networkidle",
+                        "timeout": 60000,
+                    },
+                },
+                callback=self.parse,
+                errback=self.errback_close_page,
+            )
+
+    async def errback_close_page(self, failure):
+        """Close page on error"""
+        page = failure.request.meta.get("playwright_page")
+        if page:
+            await page.close()
+        self.logger.error(f"Error loading page: {failure.request.url} - {failure.value}")
+
+    async def parse(self, response):
         """Parse collection pages and homepage"""
+        page = response.meta.get("playwright_page")
+
+        if page:
+            await page.wait_for_load_state("networkidle")
 
         # Check if this is the homepage
         is_homepage = response.url == "https://www.rhone.com/"
@@ -41,7 +69,16 @@ class RhoneSpider(scrapy.Spider):
                 yield scrapy.Request(
                     full_url,
                     callback=self.parse_product,
-                    meta={"is_homepage_product": True}
+                    meta={
+                        "is_homepage_product": True,
+                        "playwright": True,
+                        "playwright_include_page": True,
+                        "playwright_page_goto_kwargs": {
+                            "wait_until": "networkidle",
+                            "timeout": 60000,
+                        },
+                    },
+                    errback=self.errback_close_page,
                 )
         else:
             # Parse collection page
@@ -57,16 +94,44 @@ class RhoneSpider(scrapy.Spider):
                 yield scrapy.Request(
                     full_url,
                     callback=self.parse_product,
-                    meta={"is_homepage_product": is_homepage_product}
+                    meta={
+                        "is_homepage_product": is_homepage_product,
+                        "playwright": True,
+                        "playwright_include_page": True,
+                        "playwright_page_goto_kwargs": {
+                            "wait_until": "networkidle",
+                            "timeout": 60000,
+                        },
+                    },
+                    errback=self.errback_close_page,
                 )
 
             # Follow pagination if exists
             next_page = response.css('a[rel="next"]::attr(href)').get()
             if next_page:
-                yield response.follow(next_page, callback=self.parse)
+                yield scrapy.Request(
+                    response.urljoin(next_page),
+                    callback=self.parse,
+                    meta={
+                        "playwright": True,
+                        "playwright_include_page": True,
+                        "playwright_page_goto_kwargs": {
+                            "wait_until": "networkidle",
+                            "timeout": 60000,
+                        },
+                    },
+                    errback=self.errback_close_page,
+                )
 
-    def parse_product(self, response):
+        if page:
+            await page.close()
+
+    async def parse_product(self, response):
         """Parse individual product page"""
+        page = response.meta.get("playwright_page")
+
+        if page:
+            await page.wait_for_load_state("networkidle")
 
         item = RhoneProductItem()
 
@@ -125,6 +190,9 @@ class RhoneSpider(scrapy.Spider):
         item["availability"] = self.extract_availability(response)
 
         self.logger.info(f"Scraped product: {item.get('name', 'Unknown')}")
+
+        if page:
+            await page.close()
 
         yield item
 

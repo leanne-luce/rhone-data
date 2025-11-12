@@ -12,18 +12,44 @@ USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests
-CONCURRENT_REQUESTS = 8
+CONCURRENT_REQUESTS = 1
 
 # Configure a delay for requests for the same website
-DOWNLOAD_DELAY = 2
-CONCURRENT_REQUESTS_PER_DOMAIN = 4
+DOWNLOAD_DELAY = 3
+CONCURRENT_REQUESTS_PER_DOMAIN = 1
 
-# Disable cookies
-COOKIES_ENABLED = False
+# Enable cookies to appear more like a real browser
+COOKIES_ENABLED = True
+
+# Additional headers to appear more like a real browser
+DEFAULT_REQUEST_HEADERS = {
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'DNT': '1',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Cache-Control': 'max-age=0',
+}
 
 # Enable or disable downloader middlewares
 DOWNLOADER_MIDDLEWARES = {
     "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware": None,
+}
+
+# Playwright download handlers for JavaScript rendering
+DOWNLOAD_HANDLERS = {
+    "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+    "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+}
+
+# Playwright settings
+PLAYWRIGHT_BROWSER_TYPE = "chromium"
+PLAYWRIGHT_LAUNCH_OPTIONS = {
+    "headless": True,
 }
 
 # Enable or disable extensions

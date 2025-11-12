@@ -1,0 +1,4570 @@
+[
+  {
+    "url": "https://www.rhone.com/products/e-giftcard/?variant=43286537601216",
+    "product_id": "e-giftcard/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "The Rhone E-Gift Card",
+    "price": "$25",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hardy-flannel-shirt/?variant=46691516121280",
+    "product_id": "mens-hardy-flannel-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Hardy Flannel",
+    "price": "$168",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hardy-flannel-shirt/?variant=46691516121280&scrollTo=reviews",
+    "product_id": "mens-hardy-flannel-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-tee-slim-fit/?variant=46691514155200",
+    "product_id": "mens-origin-tee-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Origin Tee - Slim Fit",
+    "price": "$54",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-tee-slim-fit/?variant=46691514155200&scrollTo=reviews",
+    "product_id": "mens-origin-tee-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-shacket/?variant=46691516940480",
+    "product_id": "mens-weekender-shacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Weekender Shacket",
+    "price": "$178",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-shacket/?variant=46691516940480&scrollTo=reviews",
+    "product_id": "mens-weekender-shacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-pullover/?variant=46479475015872",
+    "product_id": "mens-fairbanks-fleece-pullover/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fairbanks Fleece Pullover",
+    "price": "$188",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-pullover/?variant=46479475015872&scrollTo=reviews",
+    "product_id": "mens-fairbanks-fleece-pullover/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-tee/?variant=46479478685888",
+    "product_id": "mens-elevated-modern-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Elevated Modern Tee",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-tee/?variant=46479478685888&scrollTo=reviews",
+    "product_id": "mens-elevated-modern-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-jogger/?variant=46479469904064",
+    "product_id": "mens-commuter-pro-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Jogger",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-jogger/?variant=46479469904064&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-crewneck-sweater/?variant=46479502737600",
+    "product_id": "mens-commuter-crewneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Crew Neck Sweater",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-crewneck-sweater/?variant=46479502737600&scrollTo=reviews",
+    "product_id": "mens-commuter-crewneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-shacket/?variant=46479473311936",
+    "product_id": "mens-fairbanks-fleece-shacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fairbanks Fleece Shacket",
+    "price": "$188",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-shacket/?variant=46479473311936&scrollTo=reviews",
+    "product_id": "mens-fairbanks-fleece-shacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-jogger/?variant=46691521724608",
+    "product_id": "mens-tribeca-tech-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Tribeca Tech Jogger",
+    "price": "$158",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-jogger/?variant=46691521724608&scrollTo=reviews",
+    "product_id": "mens-tribeca-tech-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-zip/?variant=46691521233088",
+    "product_id": "mens-tribeca-tech-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Tribeca Tech 1/2 Zip",
+    "price": "$168",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-zip/?variant=46691521233088&scrollTo=reviews",
+    "product_id": "mens-tribeca-tech-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-hoodie/?variant=43787351425216",
+    "product_id": "mens-tribeca-tech-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Tribeca Tech Hoodie",
+    "price": "$168",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-hoodie/?variant=43787351425216&scrollTo=reviews",
+    "product_id": "mens-tribeca-tech-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip-sweater/?variant=46691505897664",
+    "product_id": "mens-commuter-zip-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® 1/4 Zip Sweater",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip-sweater/?variant=46691505897664&scrollTo=reviews",
+    "product_id": "mens-commuter-zip-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-slim-fit/?variant=46691522052288",
+    "product_id": "mens-state-of-mind-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Shirt - Slim",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-slim-fit/?variant=46691522052288&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-slim/?variant=46691507273920",
+    "product_id": "mens-commuter-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pant - Slim",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-slim/?variant=46691507273920&scrollTo=reviews",
+    "product_id": "mens-commuter-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-slim-fit/?variant=43787346706624",
+    "product_id": "mens-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt - Slim",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-slim-fit/?variant=43787346706624&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-true-north-vest/?variant=46691516448960",
+    "product_id": "mens-true-north-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "True North Vest",
+    "price": "$178",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-true-north-vest/?variant=46691516448960&scrollTo=reviews",
+    "product_id": "mens-true-north-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-long-sleeve-tee-slim-fit/?variant=46691512516800",
+    "product_id": "mens-origin-long-sleeve-tee-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Origin Long Sleeve Tee - Slim Fit",
+    "price": "$64",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-long-sleeve-tee-slim-fit/?variant=46691512516800&scrollTo=reviews",
+    "product_id": "mens-origin-long-sleeve-tee-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coldspell-commuter-pro-pant-slim-fit/?variant=46691501867200",
+    "product_id": "mens-coldspell-commuter-pro-pant-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Coldspell Commuter® Pro Pant - Slim",
+    "price": "$158",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coldspell-commuter-pro-pant-slim-fit/?variant=46691501867200&scrollTo=reviews",
+    "product_id": "mens-coldspell-commuter-pro-pant-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-true-north-jacket/?variant=46691522216128",
+    "product_id": "mens-true-north-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "True North Jacket",
+    "price": "$208",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-true-north-jacket/?variant=46691522216128&scrollTo=reviews",
+    "product_id": "mens-true-north-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-hoodie/?variant=46691521560768",
+    "product_id": "mens-dreamstate-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "DreamState Hoodie",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-hoodie/?variant=46691521560768&scrollTo=reviews",
+    "product_id": "mens-dreamstate-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-jogger/?variant=46691514646720",
+    "product_id": "mens-dreamstate-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "DreamState Jogger",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-jogger/?variant=46691514646720&scrollTo=reviews",
+    "product_id": "mens-dreamstate-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-full-zip-hoodie/?variant=46691511337152",
+    "product_id": "mens-dreamstate-full-zip-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "DreamState Full Zip Hoodie",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-full-zip-hoodie/?variant=46691511337152&scrollTo=reviews",
+    "product_id": "mens-dreamstate-full-zip-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-zip/?variant=46691521069248",
+    "product_id": "mens-dreamstate-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "DreamState 1/4 Zip",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-zip/?variant=46691521069248&scrollTo=reviews",
+    "product_id": "mens-dreamstate-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-rib-midweight-polo/?variant=46691518415040",
+    "product_id": "mens-wfh-rib-midweight-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "WFH Rib Midweight Polo",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-rib-midweight-polo/?variant=46691518415040&scrollTo=reviews",
+    "product_id": "mens-wfh-rib-midweight-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-dreamstate-short/?variant=46479470919872",
+    "product_id": "mens-7-dreamstate-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" DreamState Short",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-dreamstate-short/?variant=46479470919872&scrollTo=reviews",
+    "product_id": "mens-7-dreamstate-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-short-sleeve/?variant=46479493529792",
+    "product_id": "mens-invictus-training-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Invictus Training Tee",
+    "price": "$78",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-short-sleeve/?variant=46479493529792&scrollTo=reviews",
+    "product_id": "mens-invictus-training-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rib-crewneck-sweater/?variant=46691520741568",
+    "product_id": "mens-rib-crewneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Rib Crewneck Sweater",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rib-crewneck-sweater/?variant=46691520741568&scrollTo=reviews",
+    "product_id": "mens-rib-crewneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee/?variant=46691495739584",
+    "product_id": "mens-atmosphere-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Tee",
+    "price": "$58",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee/?variant=46691495739584&scrollTo=reviews",
+    "product_id": "mens-atmosphere-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-short-sleeve/?variant=46691519267008",
+    "product_id": "mens-reign-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Reign Tee",
+    "price": "$68",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-short-sleeve/?variant=46691519267008&scrollTo=reviews",
+    "product_id": "mens-reign-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-pursuit-pant/?variant=46479483764928",
+    "product_id": "mens-pursuit-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Pursuit Pant",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-pursuit-pant/?variant=46479483764928&scrollTo=reviews",
+    "product_id": "mens-pursuit-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-long-sleeve/?variant=46691515465920",
+    "product_id": "mens-reign-long-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Reign Long Sleeve",
+    "price": "$78",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-long-sleeve/?variant=46691515465920&scrollTo=reviews",
+    "product_id": "mens-reign-long-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-emerson-beanie/?variant=46691510649024",
+    "product_id": "mens-emerson-beanie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Emerson Beanie",
+    "price": "$38",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-emerson-beanie/?variant=46691510649024&scrollTo=reviews",
+    "product_id": "mens-emerson-beanie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-vest/?variant=46479484518592",
+    "product_id": "mens-voyage-down-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Voyage Down Vest",
+    "price": "$218",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-vest/?variant=46479484518592&scrollTo=reviews",
+    "product_id": "mens-voyage-down-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-jacket/?variant=46479504376000",
+    "product_id": "mens-voyage-down-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Voyage Down Jacket",
+    "price": "$268",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-jacket/?variant=46479504376000&scrollTo=reviews",
+    "product_id": "mens-voyage-down-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-topcoat/?variant=46691510845632",
+    "product_id": "mens-commuter-topcoat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Topcoat",
+    "price": "$498",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-topcoat/?variant=46691510845632&scrollTo=reviews",
+    "product_id": "mens-commuter-topcoat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-ripstop-pant/?variant=46479483502784",
+    "product_id": "mens-invictus-ripstop-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Invictus Ripstop Pant",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-ripstop-pant/?variant=46479483502784&scrollTo=reviews",
+    "product_id": "mens-invictus-ripstop-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-long-sleeve-tee/?variant=46691499278528",
+    "product_id": "mens-atmosphere-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Long Sleeve",
+    "price": "$68",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-long-sleeve-tee/?variant=46691499278528&scrollTo=reviews",
+    "product_id": "mens-atmosphere-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-slim/?variant=46624335265984",
+    "product_id": "mens-commuter-pro-blazer-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Blazer - Slim",
+    "price": "$298",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-slim/?variant=46624335265984&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-blazer-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-pant-slim-fit/?variant=45873125163200",
+    "product_id": "mens-commuter-pro-pant-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Pant - Slim",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-pant-slim-fit/?variant=45873125163200&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-pant-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-polo/?variant=46691516285120",
+    "product_id": "mens-commuter-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Polo - Slim",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-polo/?variant=46691516285120&scrollTo=reviews",
+    "product_id": "mens-commuter-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-trouser/?variant=45554746785984",
+    "product_id": "mens-commuter-pro-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Trouser",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-trouser/?variant=45554746785984&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-sweater-vest/?variant=45860915871936",
+    "product_id": "mens-commuter-sweater-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Sweater Vest",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-sweater-vest/?variant=45860915871936&scrollTo=reviews",
+    "product_id": "mens-commuter-sweater-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-classic-fit/?variant=44184571084992",
+    "product_id": "mens-commuter-blazer-classic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Blazer - Classic",
+    "price": "$298",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-classic-fit/?variant=44184571084992&scrollTo=reviews",
+    "product_id": "mens-commuter-blazer-classic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-slim-fit/?variant=43640402542784",
+    "product_id": "mens-commuter-blazer-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Blazer - Slim",
+    "price": "$298",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-slim-fit/?variant=43640402542784&scrollTo=reviews",
+    "product_id": "mens-commuter-blazer-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar/?variant=46691512680640",
+    "product_id": "mens-commuter-shirt-semi-spread-collar/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt Semi-Spread Collar",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar/?variant=46691512680640&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-semi-spread-collar/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-classic-fit/?variant=44365091209408",
+    "product_id": "mens-commuter-shirt-classic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt - Classic",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-classic-fit/?variant=44365091209408&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-classic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant/?variant=45871320498368",
+    "product_id": "mens-commuter-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pant - Classic",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant/?variant=45871320498368&scrollTo=reviews",
+    "product_id": "mens-commuter-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-shirt/?variant=46691516612800",
+    "product_id": "mens-wfh-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "WFH Shirt",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-shirt/?variant=46691516612800&scrollTo=reviews",
+    "product_id": "mens-wfh-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rise-zip/?variant=46691512844480",
+    "product_id": "mens-rise-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Rise 1/4 Zip",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rise-zip/?variant=46691512844480&scrollTo=reviews",
+    "product_id": "mens-rise-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-pursuit-short-lined/?variant=44184832213184",
+    "product_id": "mens-7-pursuit-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Pursuit Short - Lined",
+    "price": "$84",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-pursuit-short-lined/?variant=44184832213184&scrollTo=reviews",
+    "product_id": "mens-7-pursuit-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-commuter-short/?variant=45860869603520",
+    "product_id": "mens-7-commuter-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Commuter® Short",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-commuter-short/?variant=45860869603520&scrollTo=reviews",
+    "product_id": "mens-7-commuter-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-pursuit-short-unlined/?variant=46691494363328",
+    "product_id": "mens-7-pursuit-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Pursuit Short - Unlined",
+    "price": "$74",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-pursuit-short-unlined/?variant=46691494363328&scrollTo=reviews",
+    "product_id": "mens-7-pursuit-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-pant-athletic-fit/?variant=45873373577408",
+    "product_id": "mens-commuter-pro-pant-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Pant - Athletic",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-pant-athletic-fit/?variant=45873373577408&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-pant-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-pullover/?variant=46691520905408",
+    "product_id": "mens-weekender-pullover/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Weekender Pullover",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-pullover/?variant=46691520905408&scrollTo=reviews",
+    "product_id": "mens-weekender-pullover/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-altitude-cargo-pant/?variant=46691496067264",
+    "product_id": "mens-altitude-cargo-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Altitude Cargo Pant",
+    "price": "$168",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-altitude-cargo-pant/?variant=46691496067264&scrollTo=reviews",
+    "product_id": "mens-altitude-cargo-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-lightweight-hoodie/?variant=46188464701632",
+    "product_id": "mens-base-training-lightweight-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Base Training Lightweight Hoodie",
+    "price": "$78",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-lightweight-hoodie/?variant=46188464701632&scrollTo=reviews",
+    "product_id": "mens-base-training-lightweight-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-zip/?variant=45554739577024",
+    "product_id": "mens-atmosphere-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Midweight 1/4 Zip",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-zip/?variant=45554739577024&scrollTo=reviews",
+    "product_id": "mens-atmosphere-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-long-sleeve-polo/?variant=46691506946240",
+    "product_id": "mens-commuter-long-sleeve-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Long Sleeve Polo",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-long-sleeve-polo/?variant=46691506946240&scrollTo=reviews",
+    "product_id": "mens-commuter-long-sleeve-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/peak-hat/?variant=46479480520896",
+    "product_id": "peak-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Peak Hat",
+    "price": "$38",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/peak-hat/?variant=46479480520896&scrollTo=reviews",
+    "product_id": "peak-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-pursuit-short-unlined/?variant=44184833818816",
+    "product_id": "mens-5-pursuit-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5\" Pursuit Short - Unlined",
+    "price": "$74",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-pursuit-short-unlined/?variant=44184833818816&scrollTo=reviews",
+    "product_id": "mens-5-pursuit-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-invictus-ripstop-short-unlined/?variant=45220758945984",
+    "product_id": "mens-5-invictus-ripstop-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5\" Invictus Ripstop Short - Unlined",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-invictus-ripstop-short-unlined/?variant=45220758945984&scrollTo=reviews",
+    "product_id": "mens-5-invictus-ripstop-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-pursuit-short-unlined/?variant=44184828739776",
+    "product_id": "mens-9-pursuit-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "9\" Pursuit Short - Unlined",
+    "price": "$74",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-pursuit-short-unlined/?variant=44184828739776&scrollTo=reviews",
+    "product_id": "mens-9-pursuit-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-polo/?variant=45247061754048",
+    "product_id": "mens-wfh-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "WFH Polo",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-polo/?variant=45247061754048&scrollTo=reviews",
+    "product_id": "mens-wfh-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-momentum-golf-short/?variant=44547893231808",
+    "product_id": "mens-7-momentum-golf-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Momentum Golf Short",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-momentum-golf-short/?variant=44547893231808&scrollTo=reviews",
+    "product_id": "mens-7-momentum-golf-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-five-pocket/?variant=43780749361344",
+    "product_id": "mens-commuter-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Five Pocket",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-five-pocket/?variant=43780749361344&scrollTo=reviews",
+    "product_id": "mens-commuter-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater/?variant=46479489401024",
+    "product_id": "mens-resolve-pique-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Resolve Pique Sweater",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater/?variant=46479489401024&scrollTo=reviews",
+    "product_id": "mens-resolve-pique-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-pique-polo/?variant=46479495889088",
+    "product_id": "mens-regatta-pique-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Regatta Pique Polo",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-pique-polo/?variant=46479495889088&scrollTo=reviews",
+    "product_id": "mens-regatta-pique-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater-polo/?variant=46479475998912",
+    "product_id": "mens-resolve-pique-sweater-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Resolve Pique Sweater Polo",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater-polo/?variant=46479475998912&scrollTo=reviews",
+    "product_id": "mens-resolve-pique-sweater-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-long-sleeve-sweater-polo/?variant=46479490384064",
+    "product_id": "mens-resolve-pique-long-sleeve-sweater-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Resolve Pique Long Sleeve Sweater Polo",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-long-sleeve-sweater-polo/?variant=46479490384064&scrollTo=reviews",
+    "product_id": "mens-resolve-pique-long-sleeve-sweater-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-flyweight-five-pocket-pant/?variant=46311377043648",
+    "product_id": "mens-commuter-flyweight-five-pocket-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Flyweight Five Pocket Pant",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-flyweight-five-pocket-pant/?variant=46311377043648&scrollTo=reviews",
+    "product_id": "mens-commuter-flyweight-five-pocket-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-tee/?variant=46479505686720",
+    "product_id": "mens-origin-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Origin Tee - Classic",
+    "price": "$54",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-tee/?variant=46479505686720&scrollTo=reviews",
+    "product_id": "mens-origin-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-zip/?variant=46479482683584",
+    "product_id": "mens-founders-golf-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Founder's Golf 1/4 Zip",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-zip/?variant=46479482683584&scrollTo=reviews",
+    "product_id": "mens-founders-golf-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-backpack/?variant=45258242719936",
+    "product_id": "mens-mindset-backpack/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Mindset Backpack",
+    "price": "$198",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-backpack/?variant=45258242719936&scrollTo=reviews",
+    "product_id": "mens-mindset-backpack/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-jacket/?variant=45258228465856",
+    "product_id": "mens-fairbanks-fleece-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fairbanks Fleece Jacket",
+    "price": "$198",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-jacket/?variant=45258228465856&scrollTo=reviews",
+    "product_id": "mens-fairbanks-fleece-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-pursuit-short-lined/?variant=45258284925120",
+    "product_id": "mens-5-pursuit-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5\" Pursuit Short - Lined",
+    "price": "$84",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-pursuit-short-lined/?variant=45258284925120&scrollTo=reviews",
+    "product_id": "mens-5-pursuit-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-shacket/?variant=46479478522048",
+    "product_id": "mens-fleece-shacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fleece Shacket",
+    "price": "$178",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-shacket/?variant=46479478522048&scrollTo=reviews",
+    "product_id": "mens-fleece-shacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-jacket/?variant=45554735055040",
+    "product_id": "mens-skyline-quilted-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Skyline Quilted Jacket",
+    "price": "$198",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-jacket/?variant=45554735055040&scrollTo=reviews",
+    "product_id": "mens-skyline-quilted-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-spar-jogger-v2/?variant=45554723586240",
+    "product_id": "mens-spar-jogger-v2/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Spar Jogger V2",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-spar-jogger-v2/?variant=45554723586240&scrollTo=reviews",
+    "product_id": "mens-spar-jogger-v2/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-36-slim/?variant=40755389137088",
+    "product_id": "mens-commuter-pant-36-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pant 36\" - Slim",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-36-slim/?variant=40755389137088&scrollTo=reviews",
+    "product_id": "mens-commuter-pant-36-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-change-up-cap/?variant=45258285547712",
+    "product_id": "mens-change-up-cap/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Change Up Cap",
+    "price": "$48",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-change-up-cap/?variant=45258285547712&scrollTo=reviews",
+    "product_id": "mens-change-up-cap/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-short-sleeve-button-down/?variant=46479505359040",
+    "product_id": "mens-commuter-short-sleeve-button-down/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Short Sleeve Shirt - Classic",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-short-sleeve-button-down/?variant=46479505359040&scrollTo=reviews",
+    "product_id": "mens-commuter-short-sleeve-button-down/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-momentum-golf-short/?variant=44547892674752",
+    "product_id": "mens-9-momentum-golf-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "9\" Momentum Golf Short",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-momentum-golf-short/?variant=44547892674752&scrollTo=reviews",
+    "product_id": "mens-9-momentum-golf-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-5-r-r-trunk/?variant=45860869406912",
+    "product_id": "mens-5-5-r-r-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5.5\" R&R Trunk",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-5-r-r-trunk/?variant=45860869406912&scrollTo=reviews",
+    "product_id": "mens-5-5-r-r-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-backspin-short-lined/?variant=44547877765312",
+    "product_id": "mens-7-backspin-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Backspin Short - Lined",
+    "price": "$84",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-backspin-short-lined/?variant=44547877765312&scrollTo=reviews",
+    "product_id": "mens-7-backspin-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-4-boxer-trunk/?variant=45733209407680",
+    "product_id": "mens-cor-4-boxer-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. 4\" Boxer Trunk",
+    "price": "$28",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-4-boxer-trunk/?variant=45733209407680&scrollTo=reviews",
+    "product_id": "mens-cor-4-boxer-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-6-boxer-brief/?variant=45734349734080",
+    "product_id": "mens-cor-6-boxer-brief/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. 6\" Boxer Brief",
+    "price": "$28",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-6-boxer-brief/?variant=45734349734080&scrollTo=reviews",
+    "product_id": "mens-cor-6-boxer-brief/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wolf-shepherd-stealth-leather-belt/?variant=46165146206400",
+    "product_id": "mens-wolf-shepherd-stealth-leather-belt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Wolf & Shepherd Stealth Leather Belt",
+    "price": "$125",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wolf-shepherd-stealth-leather-belt/?variant=46165146206400&scrollTo=reviews",
+    "product_id": "mens-wolf-shepherd-stealth-leather-belt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/rhone-x-clever-supply-co-sling-bag/?variant=43735852613824",
+    "product_id": "rhone-x-clever-supply-co-sling-bag/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Rhone x Clever Supply Co. Sling Bag",
+    "price": "$64",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/rhone-x-clever-supply-co-sling-bag/?variant=43735852613824&scrollTo=reviews",
+    "product_id": "rhone-x-clever-supply-co-sling-bag/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/miir-all-day-cup/?variant=44482463498432",
+    "product_id": "miir-all-day-cup/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "MiiR All Day Straw Cup 32 oz.",
+    "price": "$42",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/miir-all-day-cup/?variant=44482463498432&scrollTo=reviews",
+    "product_id": "miir-all-day-cup/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-backspin-tee/?variant=46479496216768",
+    "product_id": "mens-backspin-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Backspin Tee",
+    "price": "$68",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-backspin-tee/?variant=46479496216768&scrollTo=reviews",
+    "product_id": "mens-backspin-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/rhone-selkirk-evo-2-0-control-max-paddle/?variant=44649627287744",
+    "product_id": "rhone-selkirk-evo-2-0-control-max-paddle/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Rhone x Selkirk Evo 2.0 - Control Max Paddle",
+    "price": "$100",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/rhone-selkirk-evo-2-0-control-max-paddle/?variant=44649627287744&scrollTo=reviews",
+    "product_id": "rhone-selkirk-evo-2-0-control-max-paddle/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-dopp-kit/?variant=45258245636288",
+    "product_id": "mens-mindset-dopp-kit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Mindset Dopp Kit",
+    "price": "$68",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-dopp-kit/?variant=45258245636288&scrollTo=reviews",
+    "product_id": "mens-mindset-dopp-kit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-ribbed-tank/?variant=45860872913088",
+    "product_id": "mens-cor-ribbed-tank/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Ribbed Tank",
+    "price": "$38",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-ribbed-tank/?variant=45860872913088&scrollTo=reviews",
+    "product_id": "mens-cor-ribbed-tank/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-links-golf-crewneck/?variant=45860964532416",
+    "product_id": "mens-links-golf-crewneck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Links Golf Crew Neck",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-links-golf-crewneck/?variant=45860964532416&scrollTo=reviews",
+    "product_id": "mens-links-golf-crewneck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-brief/?variant=46188470829248",
+    "product_id": "mens-cor-brief/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Brief",
+    "price": "$28",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-brief/?variant=46188470829248&scrollTo=reviews",
+    "product_id": "mens-cor-brief/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-invictus-ripstop-short-lined/?variant=46188522897600",
+    "product_id": "mens-7-invictus-ripstop-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Invictus Ripstop Short - Lined",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-invictus-ripstop-short-lined/?variant=46188522897600&scrollTo=reviews",
+    "product_id": "mens-7-invictus-ripstop-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-4-r-r-trunk/?variant=46188523585728",
+    "product_id": "mens-4-r-r-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "4\" R&R Trunk",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-4-r-r-trunk/?variant=46188523585728&scrollTo=reviews",
+    "product_id": "mens-4-r-r-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-logo-heritage-midweight-zip/?variant=46292059357376",
+    "product_id": "mens-nba-logo-heritage-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "NBA Logo Heritage Midweight 1/4 Zip",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-logo-heritage-midweight-zip/?variant=46292059357376&scrollTo=reviews",
+    "product_id": "mens-nba-logo-heritage-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-logo-commuter-zip-sweater/?variant=46292064239808",
+    "product_id": "mens-nba-logo-commuter-zip-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "NBA Logo Commuter® 1/4 Zip Sweater",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-logo-commuter-zip-sweater/?variant=46292064239808&scrollTo=reviews",
+    "product_id": "mens-nba-logo-commuter-zip-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-hoodie/?variant=46479492055232",
+    "product_id": "mens-waffle-tech-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Waffle Tech Hoodie",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-hoodie/?variant=46479492055232&scrollTo=reviews",
+    "product_id": "mens-waffle-tech-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-effortless-oxford-button-down-shirt/?variant=46479477866688",
+    "product_id": "mens-effortless-oxford-button-down-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Effortless Oxford Button Down",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-effortless-oxford-button-down-shirt/?variant=46479477866688&scrollTo=reviews",
+    "product_id": "mens-effortless-oxford-button-down-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nomad-tech-chino/?variant=46480459268288",
+    "product_id": "mens-nomad-tech-chino/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Nomad Tech Chino - Slim",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nomad-tech-chino/?variant=46480459268288&scrollTo=reviews",
+    "product_id": "mens-nomad-tech-chino/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-rush-short-lined/?variant=46619167948992",
+    "product_id": "mens-6-rush-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "6\" Rush Short - Lined",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-rush-short-lined/?variant=46619167948992&scrollTo=reviews",
+    "product_id": "mens-6-rush-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-athletic/?variant=46479472230592",
+    "product_id": "mens-commuter-pro-blazer-athletic/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Blazer - Athletic",
+    "price": "$298",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-athletic/?variant=46479472230592&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-blazer-athletic/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-five-pocket/?variant=45860906074304",
+    "product_id": "mens-commuter-pro-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Five Pocket",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-five-pocket/?variant=45860906074304&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-tee/?variant=46479491039424",
+    "product_id": "mens-waffle-tech-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Waffle Tech Tee",
+    "price": "$78",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-tee/?variant=46479491039424&scrollTo=reviews",
+    "product_id": "mens-waffle-tech-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-nomad-tech-chino-short/?variant=46188484001984",
+    "product_id": "mens-7-nomad-tech-chino-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Nomad Tech Chino Short",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-nomad-tech-chino-short/?variant=46188484001984&scrollTo=reviews",
+    "product_id": "mens-7-nomad-tech-chino-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairway-polo/?variant=46479477211328",
+    "product_id": "mens-fairway-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fairway Polo",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairway-polo/?variant=46479477211328&scrollTo=reviews",
+    "product_id": "mens-fairway-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-approach-tech-polo/?variant=46188494684352",
+    "product_id": "mens-approach-tech-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Approach Tech Polo",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-approach-tech-polo/?variant=46188494684352&scrollTo=reviews",
+    "product_id": "mens-approach-tech-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-sleeveless/?variant=46188475875520",
+    "product_id": "mens-invictus-training-sleeveless/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Invictus Training Tank",
+    "price": "$68",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-sleeveless/?variant=46188475875520&scrollTo=reviews",
+    "product_id": "mens-invictus-training-sleeveless/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-pursuit-tech-short-lined/?variant=46188518867136",
+    "product_id": "mens-5-pursuit-tech-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5\" Pursuit Tech Short - Lined",
+    "price": "$84",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-pursuit-tech-short-lined/?variant=46188518867136&scrollTo=reviews",
+    "product_id": "mens-5-pursuit-tech-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-half-crew-sock/?variant=45860963909824",
+    "product_id": "mens-cor-half-crew-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Half Crew Sock",
+    "price": "$16",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-half-crew-sock/?variant=45860963909824&scrollTo=reviews",
+    "product_id": "mens-cor-half-crew-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-zip-sweater/?variant=46128396894400",
+    "product_id": "mens-nba-commuter-zip-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atlanta Hawks NBA Commuter® 1/4 Zip Sweater",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-zip-sweater/?variant=46128396894400&scrollTo=reviews",
+    "product_id": "mens-nba-commuter-zip-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-heritage-midweight-zip/?variant=46128436084928",
+    "product_id": "mens-nba-heritage-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atlanta Hawks NBA Heritage Midweight 1/4 Zip",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-heritage-midweight-zip/?variant=46128436084928&scrollTo=reviews",
+    "product_id": "mens-nba-heritage-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-rope-hat/?variant=46142872715456",
+    "product_id": "mens-golf-rope-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Golf Rope Hat",
+    "price": "$46",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-rope-hat/?variant=46142872715456&scrollTo=reviews",
+    "product_id": "mens-golf-rope-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar-athletic-fit/?variant=45860914528448",
+    "product_id": "mens-commuter-shirt-semi-spread-collar-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt Semi Spread Collar - Athletic",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar-athletic-fit/?variant=45860914528448&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-semi-spread-collar-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-gotham-pant-athletic-fit/?variant=45860939563200",
+    "product_id": "mens-gotham-pant-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Gotham Pant - Athletic",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-gotham-pant-athletic-fit/?variant=45860939563200&scrollTo=reviews",
+    "product_id": "mens-gotham-pant-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-logo-commuter-shirt-slim-fit/?variant=46037403762880",
+    "product_id": "mens-nba-logo-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "NBA Commuter® Shirt - Slim",
+    "price": "$158",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-logo-commuter-shirt-slim-fit/?variant=46037403762880&scrollTo=reviews",
+    "product_id": "mens-nba-logo-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-gotham-pant-slim/?variant=45554872615104",
+    "product_id": "mens-gotham-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Gotham Pant - Slim",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-gotham-pant-slim/?variant=45554872615104&scrollTo=reviews",
+    "product_id": "mens-gotham-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-shirt-slim-fit/?variant=45843176292544",
+    "product_id": "mens-nba-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atlanta Hawks NBA Commuter® Shirt",
+    "price": "$158",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-shirt-slim-fit/?variant=45843176292544&scrollTo=reviews",
+    "product_id": "mens-nba-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-sling/?variant=45258242031808",
+    "product_id": "mens-mindset-sling/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Mindset Sling",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-sling/?variant=45258242031808&scrollTo=reviews",
+    "product_id": "mens-mindset-sling/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-duffel/?variant=45258246488256",
+    "product_id": "mens-mindset-duffel/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Mindset Duffel",
+    "price": "$178",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-mindset-duffel/?variant=45258246488256&scrollTo=reviews",
+    "product_id": "mens-mindset-duffel/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-vest/?variant=45554730270912",
+    "product_id": "mens-skyline-quilted-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Skyline Quilted Vest",
+    "price": "$168",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-vest/?variant=45554730270912&scrollTo=reviews",
+    "product_id": "mens-skyline-quilted-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-stowaway-overshirt/?variant=45258241114304",
+    "product_id": "mens-stowaway-overshirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Stowaway Overshirt",
+    "price": "$128$76.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-stowaway-overshirt/?variant=45258241114304&scrollTo=reviews",
+    "product_id": "mens-stowaway-overshirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-emerson-scarf/?variant=45554722799808",
+    "product_id": "mens-emerson-scarf/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Emerson Cashmere Blend Scarf",
+    "price": "$78$46.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-emerson-scarf/?variant=45554722799808&scrollTo=reviews",
+    "product_id": "mens-emerson-scarf/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-spar-full-zip-hoodie-v2/?variant=45554726174912",
+    "product_id": "mens-spar-full-zip-hoodie-v2/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Spar Full Zip Hoodie V2",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-spar-full-zip-hoodie-v2/?variant=45554726174912&scrollTo=reviews",
+    "product_id": "mens-spar-full-zip-hoodie-v2/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-tee/?variant=45554732368064",
+    "product_id": "mens-modino-wool-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Modino Wool Tee",
+    "price": "$108$64.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-tee/?variant=45554732368064&scrollTo=reviews",
+    "product_id": "mens-modino-wool-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-pursuit-short-lined/?variant=44184831852736",
+    "product_id": "mens-9-pursuit-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "9\" Pursuit Short - Lined",
+    "price": "$84",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-pursuit-short-lined/?variant=44184831852736&scrollTo=reviews",
+    "product_id": "mens-9-pursuit-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-5-r-r-trunk/?variant=45860874944704",
+    "product_id": "mens-7-5-r-r-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7.5\" R&R Trunk",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-5-r-r-trunk/?variant=45860874944704&scrollTo=reviews",
+    "product_id": "mens-7-5-r-r-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-short-sleeve/?variant=44547855515840",
+    "product_id": "mens-extra-mile-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Tee",
+    "price": "$78$46.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-short-sleeve/?variant=44547855515840&scrollTo=reviews",
+    "product_id": "mens-extra-mile-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-thermal-run-zip/?variant=45554747572416",
+    "product_id": "mens-thermal-run-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Thermal Run 1/2 Zip",
+    "price": "$158$94.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-thermal-run-zip/?variant=45554747572416&scrollTo=reviews",
+    "product_id": "mens-thermal-run-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-long-sleeve/?variant=45258242130112",
+    "product_id": "mens-extra-mile-long-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Long Sleeve",
+    "price": "$88",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-long-sleeve/?variant=45258242130112&scrollTo=reviews",
+    "product_id": "mens-extra-mile-long-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pullover-shirt/?variant=46479472066752",
+    "product_id": "mens-commuter-pullover-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pullover Shirt",
+    "price": "$128$102.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pullover-shirt/?variant=46479472066752&scrollTo=reviews",
+    "product_id": "mens-commuter-pullover-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-invictus-ripstop-short-unlined/?variant=46479478915264",
+    "product_id": "mens-7-invictus-ripstop-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Invictus Ripstop Short - Unlined",
+    "price": "$88$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-invictus-ripstop-short-unlined/?variant=46479478915264&scrollTo=reviews",
+    "product_id": "mens-7-invictus-ripstop-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-base-training-short-unlined/?variant=45554738757824",
+    "product_id": "mens-6-base-training-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "6\" Base Training Short - Unlined",
+    "price": "$64",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-base-training-short-unlined/?variant=45554738757824&scrollTo=reviews",
+    "product_id": "mens-6-base-training-short-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-hoodie/?variant=43640413913280",
+    "product_id": "mens-heritage-midweight-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight Hoodie",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-hoodie/?variant=43640413913280&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coastal-johnny-collar-polo/?variant=46188480004288",
+    "product_id": "mens-coastal-johnny-collar-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Coastal Johnny Collar Polo",
+    "price": "$118$82.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coastal-johnny-collar-polo/?variant=46188480004288&scrollTo=reviews",
+    "product_id": "mens-coastal-johnny-collar-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-foundations-polo/?variant=46479496544448",
+    "product_id": "mens-foundations-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Foundations Polo",
+    "price": "$78$62.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-foundations-polo/?variant=46479496544448&scrollTo=reviews",
+    "product_id": "mens-foundations-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-johnny-collar-polo/?variant=45860904796352",
+    "product_id": "mens-johnny-collar-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Johnny Collar Polo",
+    "price": "$118$82.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-johnny-collar-polo/?variant=45860904796352&scrollTo=reviews",
+    "product_id": "mens-johnny-collar-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-blazer/?variant=46188460736704",
+    "product_id": "mens-charleston-blazer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Charleston Blazer",
+    "price": "$348$208.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-blazer/?variant=46188460736704&scrollTo=reviews",
+    "product_id": "mens-charleston-blazer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-trouser/?variant=46188461850816",
+    "product_id": "mens-charleston-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Charleston Trouser",
+    "price": "$188$150.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-trouser/?variant=46188461850816&scrollTo=reviews",
+    "product_id": "mens-charleston-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-beacon-mockneck-sweater/?variant=45554741772480",
+    "product_id": "mens-beacon-mockneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Beacon Cashmere Blend Mock Neck Sweater",
+    "price": "$218$130.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-beacon-mockneck-sweater/?variant=45554741772480&scrollTo=reviews",
+    "product_id": "mens-beacon-mockneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-crewneck-sweatshirt/?variant=45860925046976",
+    "product_id": "mens-heritage-midweight-crewneck-sweatshirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight Crew Neck Sweatshirt",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-crewneck-sweatshirt/?variant=45860925046976&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-crewneck-sweatshirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-sweatpant/?variant=43641417040064",
+    "product_id": "mens-heritage-midweight-sweatpant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight Sweatpant",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-sweatpant/?variant=43641417040064&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-sweatpant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-extra-mile-short-lined/?variant=46188449104064",
+    "product_id": "mens-5-extra-mile-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5\" Extra Mile Short - Lined",
+    "price": "$88$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-extra-mile-short-lined/?variant=46188449104064&scrollTo=reviews",
+    "product_id": "mens-5-extra-mile-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rush-seamless-tee/?variant=46479476392128",
+    "product_id": "mens-rush-seamless-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Rush Seamless Tee",
+    "price": "$88$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rush-seamless-tee/?variant=46479476392128&scrollTo=reviews",
+    "product_id": "mens-rush-seamless-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-air-tech-short/?variant=46479471739072",
+    "product_id": "mens-7-air-tech-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Air Tech Short - Unlined",
+    "price": "$98$78.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-air-tech-short/?variant=46479471739072&scrollTo=reviews",
+    "product_id": "mens-7-air-tech-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-air-tech-zip/?variant=46479474491584",
+    "product_id": "mens-air-tech-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Air Tech 1/4 Zip",
+    "price": "$148$118.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-air-tech-zip/?variant=46479474491584&scrollTo=reviews",
+    "product_id": "mens-air-tech-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-shirt/?variant=46188479348928",
+    "product_id": "mens-brezza-linen-blend-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Brezza Linen-Blend Shirt",
+    "price": "$138$96.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-shirt/?variant=46188479348928&scrollTo=reviews",
+    "product_id": "mens-brezza-linen-blend-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-graphic-tee/?variant=46188520964288",
+    "product_id": "mens-atmosphere-graphic-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Graphic Tee",
+    "price": "$68$54.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-graphic-tee/?variant=46188520964288&scrollTo=reviews",
+    "product_id": "mens-atmosphere-graphic-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-tee/?variant=45860881825984",
+    "product_id": "mens-compass-knit-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Compass Knit Tee",
+    "price": "$88$61.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-tee/?variant=45860881825984&scrollTo=reviews",
+    "product_id": "mens-compass-knit-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aux-mac-coat/?variant=45860877729984",
+    "product_id": "mens-aux-mac-coat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "AUX Mac Coat",
+    "price": "$298",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aux-mac-coat/?variant=45860877729984&scrollTo=reviews",
+    "product_id": "mens-aux-mac-coat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-tour-trouser/?variant=45860899160256",
+    "product_id": "mens-golf-tour-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Golf Tour Trouser",
+    "price": "$148$88.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-tour-trouser/?variant=45860899160256&scrollTo=reviews",
+    "product_id": "mens-golf-tour-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-navigator-knit-bomber/?variant=45860915085504",
+    "product_id": "mens-navigator-knit-bomber/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Navigator Knit Bomber",
+    "price": "$148$88.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-navigator-knit-bomber/?variant=45860915085504&scrollTo=reviews",
+    "product_id": "mens-navigator-knit-bomber/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-fleece-pullover/?variant=45258229776576",
+    "product_id": "mens-extra-mile-fleece-pullover/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Fleece Pullover",
+    "price": "$118$70.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-fleece-pullover/?variant=45258229776576&scrollTo=reviews",
+    "product_id": "mens-extra-mile-fleece-pullover/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee-straight-hem/?variant=45860880154816",
+    "product_id": "mens-atmosphere-tee-straight-hem/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Tee - Straight Hem",
+    "price": "$58$40.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee-straight-hem/?variant=45860880154816&scrollTo=reviews",
+    "product_id": "mens-atmosphere-tee-straight-hem/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-glacier-zip/?variant=45258247798976",
+    "product_id": "mens-glacier-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Glacier 1/4 Zip",
+    "price": "$118$94.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-glacier-zip/?variant=45258247798976&scrollTo=reviews",
+    "product_id": "mens-glacier-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-short-sleeve-shirt/?variant=46188477644992",
+    "product_id": "mens-brezza-linen-blend-short-sleeve-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Brezza Linen-Blend Short Sleeve Shirt",
+    "price": "$128$102.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-short-sleeve-shirt/?variant=46188477644992&scrollTo=reviews",
+    "product_id": "mens-brezza-linen-blend-short-sleeve-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-camp-collar-shirt/?variant=46188476039360",
+    "product_id": "mens-state-of-mind-camp-collar-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Camp Collar Shirt",
+    "price": "$88$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-camp-collar-shirt/?variant=46188476039360&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-camp-collar-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-seaside-terry-relaxed-tee/?variant=46188478660800",
+    "product_id": "mens-seaside-terry-relaxed-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Seaside Terry Relaxed Tee",
+    "price": "$78$62.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-seaside-terry-relaxed-tee/?variant=46188478660800&scrollTo=reviews",
+    "product_id": "mens-seaside-terry-relaxed-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fair-isle-crewneck-sweater/?variant=45554734235840",
+    "product_id": "mens-fair-isle-crewneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fair Isle Crew Neck Sweater",
+    "price": "$158",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fair-isle-crewneck-sweater/?variant=45554734235840&scrollTo=reviews",
+    "product_id": "mens-fair-isle-crewneck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-hat/?variant=46188461654208",
+    "product_id": "mens-extra-mile-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Hat",
+    "price": "$38$30.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-hat/?variant=46188461654208&scrollTo=reviews",
+    "product_id": "mens-extra-mile-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-sport-coat-slim-fit/?variant=45554741936320",
+    "product_id": "mens-commuter-pro-sport-coat-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Sport Coat - Slim",
+    "price": "$318$190.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-sport-coat-slim-fit/?variant=45554741936320&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-sport-coat-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-long-sleeve-tee/?variant=45554746228928",
+    "product_id": "mens-modino-wool-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Modino Wool Long Sleeve",
+    "price": "$118$70.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-long-sleeve-tee/?variant=45554746228928&scrollTo=reviews",
+    "product_id": "mens-modino-wool-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-delta-pique-polo/?variant=43452383002816",
+    "product_id": "mens-delta-pique-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Delta Pique Polo",
+    "price": "$88$52.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-delta-pique-polo/?variant=43452383002816&scrollTo=reviews",
+    "product_id": "mens-delta-pique-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-commuter-short/?variant=46188442190016",
+    "product_id": "mens-9-commuter-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "9\" Commuter® Short",
+    "price": "$98$68.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-commuter-short/?variant=46188442190016&scrollTo=reviews",
+    "product_id": "mens-9-commuter-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-golf-polo/?variant=45860877304000",
+    "product_id": "mens-momentum-tech-golf-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Momentum Tech Golf Polo",
+    "price": "$108$75.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-golf-polo/?variant=45860877304000&scrollTo=reviews",
+    "product_id": "mens-momentum-tech-golf-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-session-zip/?variant=43341984432320",
+    "product_id": "mens-session-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Session 1/4 Zip",
+    "price": "$108$64.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-session-zip/?variant=43341984432320&scrollTo=reviews",
+    "product_id": "mens-session-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-relaxed-short-sleeve/?variant=46188454019264",
+    "product_id": "mens-base-training-relaxed-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Base Training Relaxed Tee",
+    "price": "$58$46.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-relaxed-short-sleeve/?variant=46188454019264&scrollTo=reviews",
+    "product_id": "mens-base-training-relaxed-short-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-half-tight/?variant=44547879469248",
+    "product_id": "mens-extra-mile-half-tight/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Half Tight",
+    "price": "$88$52.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-half-tight/?variant=44547879469248&scrollTo=reviews",
+    "product_id": "mens-extra-mile-half-tight/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-11-commuter-short/?variant=43060155842752",
+    "product_id": "mens-11-commuter-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "11\" Commuter® Short",
+    "price": "$98$58.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-11-commuter-short/?variant=43060155842752&scrollTo=reviews",
+    "product_id": "mens-11-commuter-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-zip/?variant=43459371106496",
+    "product_id": "mens-ooo-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Out Of Office 1/4 Zip",
+    "price": "$98$78.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-zip/?variant=43459371106496&scrollTo=reviews",
+    "product_id": "mens-ooo-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-36-skinny/?variant=40755385073856",
+    "product_id": "mens-commuter-pant-36-skinny/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pant 36\" - Skinny",
+    "price": "$138$82.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-36-skinny/?variant=40755385073856&scrollTo=reviews",
+    "product_id": "mens-commuter-pant-36-skinny/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-hoodie/?variant=46188466372800",
+    "product_id": "mens-atmosphere-midweight-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Midweight Hoodie",
+    "price": "$108$75.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-hoodie/?variant=46188466372800&scrollTo=reviews",
+    "product_id": "mens-atmosphere-midweight-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-jogger/?variant=46188452643008",
+    "product_id": "mens-atmosphere-midweight-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Midweight Jogger",
+    "price": "$98$68.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-jogger/?variant=46188452643008&scrollTo=reviews",
+    "product_id": "mens-atmosphere-midweight-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hestra-windshield-liner/?variant=43060330463424",
+    "product_id": "mens-hestra-windshield-liner/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Hestra Windshield Liner",
+    "price": "$45",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hestra-windshield-liner/?variant=43060330463424&scrollTo=reviews",
+    "product_id": "mens-hestra-windshield-liner/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/rhone-dog-collar/?variant=43060400783552",
+    "product_id": "rhone-dog-collar/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Rhone Dog Collar",
+    "price": "$36$28.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/rhone-dog-collar/?variant=43060400783552&scrollTo=reviews",
+    "product_id": "rhone-dog-collar/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-glove/?variant=43629662830784",
+    "product_id": "mens-golf-glove/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Men's Golf Glove",
+    "price": "$28$22.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-glove/?variant=43629662830784&scrollTo=reviews",
+    "product_id": "mens-golf-glove/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-ringer-tee/?variant=46188485443776",
+    "product_id": "mens-origin-ringer-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Origin Ringer Tee",
+    "price": "$64$51.20",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-ringer-tee/?variant=46188485443776&scrollTo=reviews",
+    "product_id": "mens-origin-ringer-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-singlet/?variant=46188472500416",
+    "product_id": "mens-extra-mile-air-singlet/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Air Singlet",
+    "price": "$68$47.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-singlet/?variant=46188472500416&scrollTo=reviews",
+    "product_id": "mens-extra-mile-air-singlet/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-tee/?variant=46188473843904",
+    "product_id": "mens-extra-mile-air-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Air Tee",
+    "price": "$78$62.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-tee/?variant=46188473843904&scrollTo=reviews",
+    "product_id": "mens-extra-mile-air-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo-spread-collar/?variant=46188516737216",
+    "product_id": "mens-golf-sport-polo-spread-collar/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Golf Sport Polo Spread Collar",
+    "price": "$108$75.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo-spread-collar/?variant=46188516737216&scrollTo=reviews",
+    "product_id": "mens-golf-sport-polo-spread-collar/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fields-five-pocket/?variant=45554810912960",
+    "product_id": "mens-fields-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fields Five Pocket",
+    "price": "$158$94.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fields-five-pocket/?variant=45554810912960&scrollTo=reviews",
+    "product_id": "mens-fields-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-hoodie/?variant=45860912890048",
+    "product_id": "mens-founders-golf-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Founder's Golf Hoodie",
+    "price": "$118",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-hoodie/?variant=45860912890048&scrollTo=reviews",
+    "product_id": "mens-founders-golf-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo/?variant=46188516507840",
+    "product_id": "mens-golf-sport-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Golf Sport Polo",
+    "price": "$108$86.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo/?variant=46188516507840&scrollTo=reviews",
+    "product_id": "mens-golf-sport-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hudson-sweater/?variant=45851640725696",
+    "product_id": "mens-hudson-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Hudson Sweater",
+    "price": "$128$89.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hudson-sweater/?variant=45851640725696&scrollTo=reviews",
+    "product_id": "mens-hudson-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-walden-waffle-knit-sweater/?variant=45554742493376",
+    "product_id": "mens-walden-waffle-knit-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Walden Waffle Cashmere Blend Sweater",
+    "price": "$178$106.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-walden-waffle-knit-sweater/?variant=45554742493376&scrollTo=reviews",
+    "product_id": "mens-walden-waffle-knit-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tank/?variant=46188464996544",
+    "product_id": "mens-atmosphere-tank/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Tank",
+    "price": "$48",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tank/?variant=46188464996544&scrollTo=reviews",
+    "product_id": "mens-atmosphere-tank/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hestra-deerskin-wool-tricot-glove/?variant=43784915386560",
+    "product_id": "mens-hestra-deerskin-wool-tricot-glove/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Hestra Deerskin Wool Tricot Glove",
+    "price": "$120",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hestra-deerskin-wool-tricot-glove/?variant=43784915386560&scrollTo=reviews",
+    "product_id": "mens-hestra-deerskin-wool-tricot-glove/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tech-polo/?variant=43060450853056",
+    "product_id": "mens-tech-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Tech Polo",
+    "price": "$128$76.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tech-polo/?variant=43060450853056&scrollTo=reviews",
+    "product_id": "mens-tech-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-ooo-short/?variant=43480607064256",
+    "product_id": "mens-7-ooo-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Out Of Office Short",
+    "price": "$78$62.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-ooo-short/?variant=43480607064256&scrollTo=reviews",
+    "product_id": "mens-7-ooo-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-jogger/?variant=43351993548992",
+    "product_id": "mens-ooo-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Out Of Office Jogger",
+    "price": "$98$78.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-jogger/?variant=43351993548992&scrollTo=reviews",
+    "product_id": "mens-ooo-jogger/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resort-pant-slim/?variant=43496356348096",
+    "product_id": "mens-resort-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Resort Pant - Slim",
+    "price": "$138$82.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resort-pant-slim/?variant=43496356348096&scrollTo=reviews",
+    "product_id": "mens-resort-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-4-swift-short-lined/?variant=43060160528576",
+    "product_id": "mens-4-swift-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "4\" Swift Short - Lined",
+    "price": "$78$46.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-4-swift-short-lined/?variant=43060160528576&scrollTo=reviews",
+    "product_id": "mens-4-swift-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-long-sleeve-tee/?variant=45258244292800",
+    "product_id": "mens-origin-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Origin Long Sleeve - Classic Fit",
+    "price": "$64",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-long-sleeve-tee/?variant=45258244292800&scrollTo=reviews",
+    "product_id": "mens-origin-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-crew-sock/?variant=45258285220032",
+    "product_id": "mens-cor-crew-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Crew Sock",
+    "price": "$16",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-crew-sock/?variant=45258285220032&scrollTo=reviews",
+    "product_id": "mens-cor-crew-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-active-6-boxer-brief/?variant=45258281779392",
+    "product_id": "mens-cor-active-6-boxer-brief/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Active C.O.R. 6\" Boxer Brief",
+    "price": "$28",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-active-6-boxer-brief/?variant=45258281779392&scrollTo=reviews",
+    "product_id": "mens-cor-active-6-boxer-brief/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-sock/?variant=45561568035008",
+    "product_id": "mens-commuter-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Sock",
+    "price": "$18",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-sock/?variant=45561568035008&scrollTo=reviews",
+    "product_id": "mens-commuter-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-ankle-sock/?variant=45258239836352",
+    "product_id": "mens-cor-ankle-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Ankle Sock",
+    "price": "$14",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-ankle-sock/?variant=45258239836352&scrollTo=reviews",
+    "product_id": "mens-cor-ankle-sock/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-active-4-boxer-trunk/?variant=45258281615552",
+    "product_id": "mens-cor-active-4-boxer-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Active C.O.R. 4\" Boxer Trunk",
+    "price": "$28",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-active-4-boxer-trunk/?variant=45258281615552&scrollTo=reviews",
+    "product_id": "mens-cor-active-4-boxer-trunk/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-point-break-board-short/?variant=44547898114240",
+    "product_id": "mens-9-point-break-board-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "9\" Point Break Board Short",
+    "price": "$108$64.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-point-break-board-short/?variant=44547898114240&scrollTo=reviews",
+    "product_id": "mens-9-point-break-board-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-point-break-board-short/?variant=44547892838592",
+    "product_id": "mens-7-point-break-board-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Point Break Board Short",
+    "price": "$108$64.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-point-break-board-short/?variant=44547892838592&scrollTo=reviews",
+    "product_id": "mens-7-point-break-board-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-everyday-twill-five-pocket-pant/?variant=43160946147520",
+    "product_id": "mens-everyday-twill-five-pocket-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Everyday Five Pocket Pant",
+    "price": "$108",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-everyday-twill-five-pocket-pant/?variant=43160946147520&scrollTo=reviews",
+    "product_id": "mens-everyday-twill-five-pocket-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-vest/?variant=43640415879360",
+    "product_id": "mens-fleece-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Fleece Vest",
+    "price": "$128$76.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-vest/?variant=43640415879360&scrollTo=reviews",
+    "product_id": "mens-fleece-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-vest/?variant=43787342446784",
+    "product_id": "mens-alpine-insulated-active-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Alpine Insulated Active Vest",
+    "price": "$178",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-vest/?variant=43787342446784&scrollTo=reviews",
+    "product_id": "mens-alpine-insulated-active-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-jacket/?variant=43787346903232",
+    "product_id": "mens-alpine-insulated-active-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Alpine Insulated Active Jacket",
+    "price": "$198",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-jacket/?variant=43787346903232&scrollTo=reviews",
+    "product_id": "mens-alpine-insulated-active-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-boathouse-short/?variant=44547882385600",
+    "product_id": "mens-boathouse-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Boathouse Short",
+    "price": "$98$58.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-boathouse-short/?variant=44547882385600&scrollTo=reviews",
+    "product_id": "mens-boathouse-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-big-easy-seersucker-short/?variant=44547897884864",
+    "product_id": "mens-big-easy-seersucker-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "8\" Big Easy Seersucker Short",
+    "price": "$118$70.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-big-easy-seersucker-short/?variant=44547897884864&scrollTo=reviews",
+    "product_id": "mens-big-easy-seersucker-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-gotham-short/?variant=45219918905536",
+    "product_id": "mens-9-gotham-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "9\" Gotham Short",
+    "price": "$118$70.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-9-gotham-short/?variant=45219918905536&scrollTo=reviews",
+    "product_id": "mens-9-gotham-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-golf-snap-crew-neck/?variant=44547851157696",
+    "product_id": "mens-momentum-golf-snap-crew-neck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Momentum Golf Snap Crew Neck",
+    "price": "$128$102.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-golf-snap-crew-neck/?variant=44547851157696&scrollTo=reviews",
+    "product_id": "mens-momentum-golf-snap-crew-neck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-big-easy-seersucker-pant/?variant=45138841338048",
+    "product_id": "mens-big-easy-seersucker-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Big Easy Seersucker Pant",
+    "price": "$148$88.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-big-easy-seersucker-pant/?variant=45138841338048&scrollTo=reviews",
+    "product_id": "mens-big-easy-seersucker-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-sleeveless-tee/?variant=46188459098304",
+    "product_id": "mens-base-training-sleeveless-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Base Training Sleeveless Tee",
+    "price": "$48$38.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-sleeveless-tee/?variant=46188459098304&scrollTo=reviews",
+    "product_id": "mens-base-training-sleeveless-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-deep-end-short-lined/?variant=46188460409024",
+    "product_id": "mens-6-deep-end-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "6\" Deep End Short - Lined",
+    "price": "$98$78.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-deep-end-short-lined/?variant=46188460409024&scrollTo=reviews",
+    "product_id": "mens-6-deep-end-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater/?variant=45258239344832",
+    "product_id": "mens-the-turn-golf-v-neck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Turn Golf V-Neck Sweater",
+    "price": "$128$76.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater/?variant=45258239344832&scrollTo=reviews",
+    "product_id": "mens-the-turn-golf-v-neck-sweater/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-boathouse-cargo-pant/?variant=45258253861056",
+    "product_id": "mens-boathouse-cargo-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Boathouse Cargo Pant",
+    "price": "$138$82.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-boathouse-cargo-pant/?variant=45258253861056&scrollTo=reviews",
+    "product_id": "mens-boathouse-cargo-pant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-button-down-slim-fit/?variant=45258247438528",
+    "product_id": "mens-commuter-seersucker-button-down-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Button Down - Slim",
+    "price": "$138$82.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-button-down-slim-fit/?variant=45258247438528&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-button-down-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-skinny/?variant=39427852730560",
+    "product_id": "mens-commuter-pant-skinny/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pant Skinny",
+    "price": "$138$82.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pant-skinny/?variant=39427852730560&scrollTo=reviews",
+    "product_id": "mens-commuter-pant-skinny/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-sport-coat/?variant=44547855122624",
+    "product_id": "mens-commuter-seersucker-sport-coat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Sport Coat",
+    "price": "$308$246.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-sport-coat/?variant=44547855122624&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-sport-coat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-short-sleeve-button-down/?variant=46188457656512",
+    "product_id": "mens-commuter-seersucker-short-sleeve-button-down/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Short Sleeve Button Down",
+    "price": "$128$102.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-short-sleeve-button-down/?variant=46188457656512&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-short-sleeve-button-down/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-top-flight-vest/?variant=44184570167488",
+    "product_id": "mens-top-flight-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Top Flight Vest",
+    "price": "$138",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-top-flight-vest/?variant=44184570167488&scrollTo=reviews",
+    "product_id": "mens-top-flight-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip/?variant=42658287157440",
+    "product_id": "mens-commuter-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® 1/4 Zip",
+    "price": "$128$102.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip/?variant=42658287157440&scrollTo=reviews",
+    "product_id": "mens-commuter-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wolf-and-shepherd-crossover-longwing/?variant=43060463501504",
+    "product_id": "mens-wolf-and-shepherd-crossover-longwing/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Wolf & Shepherd Crossover Longwing",
+    "price": "$295",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wolf-and-shepherd-crossover-longwing/?variant=43060463501504&scrollTo=reviews",
+    "product_id": "mens-wolf-and-shepherd-crossover-longwing/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/lbco-glass-candle/?variant=43744692437184",
+    "product_id": "lbco-glass-candle/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "LBCo Glass Cabin Candle",
+    "price": "$40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/lbco-glass-candle/?variant=43744692437184&scrollTo=reviews",
+    "product_id": "lbco-glass-candle/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/physical-gift-card/?variant=43060354744512",
+    "product_id": "physical-gift-card/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "The Rhone Physical Gift Card",
+    "price": "$25",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/physical-gift-card/?variant=43060354744512&scrollTo=reviews",
+    "product_id": "physical-gift-card/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wolf-and-shepherd-crossover-victory-trainer/?variant=43060462518464",
+    "product_id": "mens-wolf-and-shepherd-crossover-victory-trainer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Wolf & Shepherd Crossover Victory Trainer",
+    "price": "$250",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wolf-and-shepherd-crossover-victory-trainer/?variant=43060462518464&scrollTo=reviews",
+    "product_id": "mens-wolf-and-shepherd-crossover-victory-trainer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/e-giftcard/?variant=43286537601216&scrollTo=reviews",
+    "product_id": "e-giftcard/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-camp-collar-shirt/?variant=44184573182144",
+    "product_id": "mens-camp-collar-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Camp Collar Shirt",
+    "price": "$118$70.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-camp-collar-shirt/?variant=44184573182144&scrollTo=reviews",
+    "product_id": "mens-camp-collar-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-crewneck/?variant=44184574361792",
+    "product_id": "mens-ooo-crewneck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Out Of Office Midweight Crew Neck",
+    "price": "$98$78.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-crewneck/?variant=44184574361792&scrollTo=reviews",
+    "product_id": "mens-ooo-crewneck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-freeride-jammer-short/?variant=44547877535936",
+    "product_id": "mens-freeride-jammer-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Freeride Jammer Short",
+    "price": "$128$76.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-freeride-jammer-short/?variant=44547877535936&scrollTo=reviews",
+    "product_id": "mens-freeride-jammer-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-crew-neck-undershirt/?variant=45810531238080",
+    "product_id": "mens-cor-crew-neck-undershirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Undershirt",
+    "price": "$38",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-crew-neck-undershirt/?variant=45810531238080&scrollTo=reviews",
+    "product_id": "mens-cor-crew-neck-undershirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-vneck-undershirt/?variant=45810531958976",
+    "product_id": "mens-cor-vneck-undershirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Undershirt",
+    "price": "$38",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-vneck-undershirt/?variant=45810531958976&scrollTo=reviews",
+    "product_id": "mens-cor-vneck-undershirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-tee/?variant=43239979614400",
+    "product_id": "mens-element-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Element Tee",
+    "price": "$54$32.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-tee/?variant=43239979614400&scrollTo=reviews",
+    "product_id": "mens-element-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-long-sleeve-tee/?variant=43060307165376",
+    "product_id": "mens-element-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Element Long Sleeve Tee",
+    "price": "$64$38.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-long-sleeve-tee/?variant=43060307165376&scrollTo=reviews",
+    "product_id": "mens-element-long-sleeve-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-5-boxer-short/?variant=45860915314880",
+    "product_id": "mens-cor-5-boxer-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. 5\" Boxer Short",
+    "price": "$38$30.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-5-boxer-short/?variant=45860915314880&scrollTo=reviews",
+    "product_id": "mens-cor-5-boxer-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sleeveless-hoodie/?variant=46188491079872",
+    "product_id": "mens-range-sleeveless-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Range Sleeveless Hoodie",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sleeveless-hoodie/?variant=46188491079872&scrollTo=reviews",
+    "product_id": "mens-range-sleeveless-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-forever-forward-trucker-hat/?variant=46188521849024",
+    "product_id": "mens-forever-forward-trucker-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Forever Forward Trucker Hat",
+    "price": "$42$33.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-forever-forward-trucker-hat/?variant=46188521849024&scrollTo=reviews",
+    "product_id": "mens-forever-forward-trucker-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-bucket-hat/?variant=46188524110016",
+    "product_id": "mens-golf-bucket-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Golf Bucket Hat",
+    "price": "$58$46.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-bucket-hat/?variant=46188524110016&scrollTo=reviews",
+    "product_id": "mens-golf-bucket-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-3-invictus-ripstop-short-lined/?variant=46188524830912",
+    "product_id": "mens-3-invictus-ripstop-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "3\" Invictus Ripstop Short - Lined",
+    "price": "$98$68.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-3-invictus-ripstop-short-lined/?variant=46188524830912&scrollTo=reviews",
+    "product_id": "mens-3-invictus-ripstop-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-band-collar-shirt-slim-fit/?variant=46188482101440",
+    "product_id": "mens-state-of-mind-band-collar-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Band Collar Shirt",
+    "price": "$98$68.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-band-collar-shirt-slim-fit/?variant=46188482101440&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-band-collar-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-short-sleeve-shirt/?variant=46188476891328",
+    "product_id": "mens-state-of-mind-short-sleeve-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Short Sleeve Shirt",
+    "price": "$88$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-short-sleeve-shirt/?variant=46188476891328&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-short-sleeve-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aero-sport-coat/?variant=46188479512768",
+    "product_id": "mens-aero-sport-coat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Aero Sport Coat",
+    "price": "$268$214.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aero-sport-coat/?variant=46188479512768&scrollTo=reviews",
+    "product_id": "mens-aero-sport-coat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aero-pant-slim-fit/?variant=46188487246016",
+    "product_id": "mens-aero-pant-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Aero Pant - Slim",
+    "price": "$148$118.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aero-pant-slim-fit/?variant=46188487246016&scrollTo=reviews",
+    "product_id": "mens-aero-pant-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-amalfi-linen-blazer/?variant=46188486426816",
+    "product_id": "mens-amalfi-linen-blazer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Amalfi Linen Blazer",
+    "price": "$428$256.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-amalfi-linen-blazer/?variant=46188486426816&scrollTo=reviews",
+    "product_id": "mens-amalfi-linen-blazer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-amalfi-linen-trouser-slim-fit/?variant=46188490227904",
+    "product_id": "mens-amalfi-linen-trouser-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Amalfi Linen Trouser",
+    "price": "$268$214.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-amalfi-linen-trouser-slim-fit/?variant=46188490227904&scrollTo=reviews",
+    "product_id": "mens-amalfi-linen-trouser-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-athletic-fit/?variant=46188484427968",
+    "product_id": "mens-state-of-mind-shirt-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Shirt - Athletic",
+    "price": "$108$86.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-athletic-fit/?variant=46188484427968&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-shirt-athletic-fit/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-10-commuter-pro-short/?variant=46188524175552",
+    "product_id": "mens-10-commuter-pro-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "10\" Commuter Pro Short",
+    "price": "$98$58.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-10-commuter-pro-short/?variant=46188524175552&scrollTo=reviews",
+    "product_id": "mens-10-commuter-pro-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cross-court-polo/?variant=46188459327680",
+    "product_id": "mens-cross-court-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Cross-Court Polo",
+    "price": "$98$78.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cross-court-polo/?variant=46188459327680&scrollTo=reviews",
+    "product_id": "mens-cross-court-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-camp-collar-shirt/?variant=46188458180800",
+    "product_id": "mens-commuter-seersucker-camp-collar-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Camp Collar Shirt - Classic",
+    "price": "$128$102.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-camp-collar-shirt/?variant=46188458180800&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-camp-collar-shirt/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-tee/?variant=46188470304960",
+    "product_id": "mens-regatta-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Regatta Tee",
+    "price": "$68$54.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-tee/?variant=46188470304960&scrollTo=reviews",
+    "product_id": "mens-regatta-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-short-sleeve-mockneck-tee/?variant=46188486295744",
+    "product_id": "mens-elevated-modern-short-sleeve-mockneck-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Elevated Modern Short Sleeve Mockneck Tee",
+    "price": "$98$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-short-sleeve-mockneck-tee/?variant=46188486295744&scrollTo=reviews",
+    "product_id": "mens-elevated-modern-short-sleeve-mockneck-tee/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-double-breasted/?variant=46188516049088",
+    "product_id": "mens-commuter-pro-double-breasted/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Commuter®  Pro Double Breasted",
+    "price": "$318$190.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-double-breasted/?variant=46188516049088&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-double-breasted/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-bomber-collar-polo/?variant=46188520177856",
+    "product_id": "mens-momentum-tech-bomber-collar-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Momentum Tech Bomber Collar Polo",
+    "price": "$108$86.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-bomber-collar-polo/?variant=46188520177856&scrollTo=reviews",
+    "product_id": "mens-momentum-tech-bomber-collar-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-golf-tour-short/?variant=45860882317504",
+    "product_id": "mens-7-golf-tour-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "7\" Golf Tour Short",
+    "price": "$108$86.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-7-golf-tour-short/?variant=45860882317504&scrollTo=reviews",
+    "product_id": "mens-7-golf-tour-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-double-breasted-wrap-blazer/?variant=46188515885248",
+    "product_id": "mens-charleston-double-breasted-wrap-blazer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Charleston Double Breasted Wrap Blazer",
+    "price": "$348$278.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-double-breasted-wrap-blazer/?variant=46188515885248&scrollTo=reviews",
+    "product_id": "mens-charleston-double-breasted-wrap-blazer/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-nomad-tech-chino-short/?variant=46188482986176",
+    "product_id": "mens-5-nomad-tech-chino-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "5\" Nomad Tech Chino Short",
+    "price": "$88$61.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-5-nomad-tech-chino-short/?variant=46188482986176&scrollTo=reviews",
+    "product_id": "mens-5-nomad-tech-chino-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-golf-five-pocket/?variant=45860910039232",
+    "product_id": "mens-momentum-golf-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Momentum Golf Five Pocket Pant",
+    "price": "$148$103.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-golf-five-pocket/?variant=45860910039232&scrollTo=reviews",
+    "product_id": "mens-momentum-golf-five-pocket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-long-sleeve-polo/?variant=45860913840320",
+    "product_id": "mens-compass-knit-long-sleeve-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Compass Knit Long Sleeve Polo",
+    "price": "$108$86.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-long-sleeve-polo/?variant=45860913840320&scrollTo=reviews",
+    "product_id": "mens-compass-knit-long-sleeve-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-base-training-short-lined/?variant=46188474171584",
+    "product_id": "mens-6-base-training-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "6\" Base Training Short - Lined",
+    "price": "$74$59.20",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-base-training-short-lined/?variant=46188474171584&scrollTo=reviews",
+    "product_id": "mens-6-base-training-short-lined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-r-r-ultra-trunk-unlined/?variant=46188466798784",
+    "product_id": "mens-6-r-r-ultra-trunk-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "6\" R&R Ultra Trunk - Unlined",
+    "price": "$88$70.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-r-r-ultra-trunk-unlined/?variant=46188466798784&scrollTo=reviews",
+    "product_id": "mens-6-r-r-ultra-trunk-unlined/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dune-golf-jacket/?variant=45860914299072",
+    "product_id": "mens-dune-golf-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Dune Golf Jacket",
+    "price": "$168$117.60",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dune-golf-jacket/?variant=45860914299072&scrollTo=reviews",
+    "product_id": "mens-dune-golf-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-clubhouse-golf-zip-hoodie/?variant=45554730893504",
+    "product_id": "mens-clubhouse-golf-zip-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Clubhouse Golf 1/4 Zip Hoodie",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-clubhouse-golf-zip-hoodie/?variant=45554730893504&scrollTo=reviews",
+    "product_id": "mens-clubhouse-golf-zip-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater-vest/?variant=45860937334976",
+    "product_id": "mens-the-turn-golf-v-neck-sweater-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "The Turn Golf V-Neck Sweater Vest",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater-vest/?variant=45860937334976&scrollTo=reviews",
+    "product_id": "mens-the-turn-golf-v-neck-sweater-vest/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coaches-jacket/?variant=45860878319808",
+    "product_id": "mens-coaches-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Coaches Jacket",
+    "price": "$158$126.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coaches-jacket/?variant=45860878319808&scrollTo=reviews",
+    "product_id": "mens-coaches-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-riptide-swim-short/?variant=45860872061120",
+    "product_id": "mens-6-riptide-swim-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "6\" Riptide Swim Short",
+    "price": "$118$70.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-6-riptide-swim-short/?variant=45860872061120&scrollTo=reviews",
+    "product_id": "mens-6-riptide-swim-short/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-earl-golf-cardigan/?variant=45860881334464",
+    "product_id": "mens-earl-golf-cardigan/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Earl Golf Cardigan",
+    "price": "$138$110.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-earl-golf-cardigan/?variant=45860881334464&scrollTo=reviews",
+    "product_id": "mens-earl-golf-cardigan/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-hoodie/?variant=45860914364608",
+    "product_id": "mens-range-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Range Hoodie",
+    "price": "$148$118.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-hoodie/?variant=45860914364608&scrollTo=reviews",
+    "product_id": "mens-range-hoodie/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sweatpant/?variant=45860903452864",
+    "product_id": "mens-range-sweatpant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Range Sweatpant",
+    "price": "$128$76.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sweatpant/?variant=45860903452864&scrollTo=reviews",
+    "product_id": "mens-range-sweatpant/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-long-sleeve-polo/?variant=45860905910464",
+    "product_id": "mens-golf-sport-long-sleeve-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Golf Sport Long Sleeve Polo",
+    "price": "$118$94.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-long-sleeve-polo/?variant=45860905910464&scrollTo=reviews",
+    "product_id": "mens-golf-sport-long-sleeve-polo/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-ripstop-anorak/?variant=45228331860160",
+    "product_id": "mens-invictus-ripstop-anorak/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Invictus Ripstop Anorak",
+    "price": "$148$118.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-ripstop-anorak/?variant=45228331860160&scrollTo=reviews",
+    "product_id": "mens-invictus-ripstop-anorak/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-quantum-crewneck/?variant=45554726502592",
+    "product_id": "mens-the-quantum-crewneck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Quantum Crew Neck",
+    "price": "$158$94.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-quantum-crewneck/?variant=45554726502592&scrollTo=reviews",
+    "product_id": "mens-the-quantum-crewneck/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coldspell-commuter-pant-slim/?variant=45633859289280",
+    "product_id": "mens-coldspell-commuter-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Coldspell Commuter® Pant - Slim",
+    "price": "$158$94.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coldspell-commuter-pant-slim/?variant=45633859289280&scrollTo=reviews",
+    "product_id": "mens-coldspell-commuter-pant-slim/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-trucker-hat/?variant=46689099251904",
+    "product_id": "womens-trucker-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Trucker Hat",
+    "price": "$38",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-trucker-hat/?variant=46689099251904&scrollTo=reviews",
+    "product_id": "womens-trucker-hat/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-ringo-pro-bottle-sip-lid/?variant=46971699691712",
+    "product_id": "womens-ringo-pro-bottle-sip-lid/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Ringo Pro Bottle Sip Lid 24oz",
+    "price": "$56",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-ringo-pro-bottle-sip-lid/?variant=46971699691712&scrollTo=reviews",
+    "product_id": "womens-ringo-pro-bottle-sip-lid/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-zip/?variant=43640414077120",
+    "product_id": "mens-heritage-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight 1/4 Zip",
+    "price": "$98",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-zip/?variant=43640414077120&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-zip/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-monterey-quilted-jacket/?variant=46477042090176",
+    "product_id": "womens-monterey-quilted-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.400Z",
+    "is_homepage_product": false,
+    "name": "Monterey Quilted Jacket",
+    "price": "$248",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-monterey-quilted-jacket/?variant=46477042090176&scrollTo=reviews",
+    "product_id": "womens-monterey-quilted-jacket/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-tank/?variant=45325123322048",
+    "product_id": "womens-modern-ribbed-tank/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Modern Rib Tank",
+    "price": "$58$34.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-tank/?variant=45325123322048&scrollTo=reviews",
+    "product_id": "womens-modern-ribbed-tank/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-tee/?variant=45325124370624",
+    "product_id": "womens-modern-ribbed-tee/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Modern Rib Tee",
+    "price": "$68$40.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-tee/?variant=45325124370624&scrollTo=reviews",
+    "product_id": "womens-modern-ribbed-tee/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-utility-trench-coat/?variant=45865119449280",
+    "product_id": "womens-utility-trench-coat/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Utility Trench Coat",
+    "price": "$328",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-utility-trench-coat/?variant=45865119449280&scrollTo=reviews",
+    "product_id": "womens-utility-trench-coat/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-westside-full-zip-cardigan/?variant=46477059260608",
+    "product_id": "womens-westside-full-zip-cardigan/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Westside Full Zip Cardigan",
+    "price": "$148",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-westside-full-zip-cardigan/?variant=46477059260608&scrollTo=reviews",
+    "product_id": "womens-westside-full-zip-cardigan/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-sutton-snap-cardigan/?variant=46180645699776",
+    "product_id": "womens-sutton-snap-cardigan/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Sutton Snap Cardigan",
+    "price": "$118$94.40",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-sutton-snap-cardigan/?variant=46180645699776&scrollTo=reviews",
+    "product_id": "womens-sutton-snap-cardigan/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-long-sleeve/?variant=45865124888768",
+    "product_id": "womens-modern-ribbed-long-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Modern Rib Long Sleeve",
+    "price": "$78$46.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-long-sleeve/?variant=45865124888768&scrollTo=reviews",
+    "product_id": "womens-modern-ribbed-long-sleeve/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-tee/?variant=45865098051776",
+    "product_id": "womens-modern-ribbed-tee/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-modern-ribbed-tee/?variant=45865098051776&scrollTo=reviews",
+    "product_id": "womens-modern-ribbed-tee/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-avenue-pant/?variant=46180620665024",
+    "product_id": "womens-avenue-pant/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "Avenue Pant",
+    "price": "$128",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-avenue-pant/?variant=46180620665024&scrollTo=reviews",
+    "product_id": "womens-avenue-pant/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-commuter-pleated-trouser/?variant=45865131704512",
+    "product_id": "womens-commuter-pleated-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "The Pleated Trouser",
+    "price": "$148$88.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-commuter-pleated-trouser/?variant=45865131704512&scrollTo=reviews",
+    "product_id": "womens-commuter-pleated-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-commuter-wide-leg-trouser/?variant=46180659986624",
+    "product_id": "womens-commuter-wide-leg-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false,
+    "name": "The Wide Leg Trouser",
+    "price": "$148$88.80",
+    "image": null,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-commuter-wide-leg-trouser/?variant=46180659986624&scrollTo=reviews",
+    "product_id": "womens-commuter-wide-leg-trouser/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-slim-fit/?variant=46691511009472",
+    "product_id": "mens-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-slim-fit/?variant=46691511009472&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-slim-fit/",
+    "scraped_at": "2025-11-12T04:15:34.401Z",
+    "is_homepage_product": false
+  }
+]
