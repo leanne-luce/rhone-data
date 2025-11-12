@@ -1,0 +1,131 @@
+import os
+from dotenv import load_dotenv
+from supabase import create_client, Client
+from typing import List, Dict, Optional
+import json
+
+# Load environment variables
+load_dotenv()
+
+
+class SupabaseClient:
+    """Client for interacting with Supabase database"""
+
+    def __init__(self):
+        """Initialize Supabase client"""
+        url = os.getenv("SUPABASE_URL")
+        key = os.getenv("SUPABASE_KEY")
+
+        if not url or not key:
+            raise ValueError(
+                "SUPABASE_URL and SUPABASE_KEY must be set in .env file. "
+                "Copy .env.example to .env and add your credentials."
+            )
+
+        self.client: Client = create_client(url, key)
+
+    def insert_product(self, product_data: Dict) -> Dict:
+        """Insert a single product into the database"""
+        # Convert lists to JSON for JSONB columns
+        if "colors" in product_data and isinstance(product_data["colors"], list):
+            product_data["colors"] = json.dumps(product_data["colors"])
+
+        if "sizes" in product_data and isinstance(product_data["sizes"], list):
+            product_data["sizes"] = json.dumps(product_data["sizes"])
+
+        if "fabrics" in product_data and isinstance(product_data["fabrics"], list):
+            product_data["fabrics"] = json.dumps(product_data["fabrics"])
+
+        if "images" in product_data and isinstance(product_data["images"], list):
+            product_data["images"] = json.dumps(product_data["images"])
+
+        # Upsert product (insert or update if exists)
+        response = self.client.table("products").upsert(
+            product_data,
+            on_conflict="product_id"
+        ).execute()
+
+        return response.data
+
+    def insert_products_batch(self, products: List[Dict]) -> List[Dict]:
+        """Insert multiple products into the database"""
+        # Process each product
+        processed_products = []
+        for product in products:
+            # Convert lists to JSON for JSONB columns
+            product_copy = product.copy()
+
+            if "colors" in product_copy and isinstance(product_copy["colors"], list):
+                product_copy["colors"] = json.dumps(product_copy["colors"])
+
+            if "sizes" in product_copy and isinstance(product_copy["sizes"], list):
+                product_copy["sizes"] = json.dumps(product_copy["sizes"])
+
+            if "fabrics" in product_copy and isinstance(product_copy["fabrics"], list):
+                product_copy["fabrics"] = json.dumps(product_copy["fabrics"])
+
+            if "images" in product_copy and isinstance(product_copy["images"], list):
+                product_copy["images"] = json.dumps(product_copy["images"])
+
+            processed_products.append(product_copy)
+
+        # Batch upsert
+        response = self.client.table("products").upsert(
+            processed_products,
+            on_conflict="product_id"
+        ).execute()
+
+        return response.data
+
+    def get_all_products(self) -> List[Dict]:
+        """Retrieve all products from the database"""
+        response = self.client.table("products").select("*").execute()
+        return response.data
+
+    def get_products_by_category(self, category: str) -> List[Dict]:
+        """Retrieve products by category"""
+        response = self.client.table("products").select("*").eq("category", category).execute()
+        return response.data
+
+    def get_products_by_gender(self, gender: str) -> List[Dict]:
+        """Retrieve products by gender"""
+        response = self.client.table("products").select("*").eq("gender", gender).execute()
+        return response.data
+
+    def get_best_sellers(self, limit: Optional[int] = None) -> List[Dict]:
+        """Retrieve best selling products"""
+        query = self.client.table("products").select("*").eq("is_best_seller", True).order("best_seller_rank")
+
+        if limit:
+            query = query.limit(limit)
+
+        response = query.execute()
+        return response.data
+
+    def get_homepage_products(self) -> List[Dict]:
+        """Retrieve products featured on homepage"""
+        response = self.client.table("products").select("*").eq("is_homepage_product", True).execute()
+        return response.data
+
+    def get_product_count(self) -> int:
+        """Get total number of products"""
+        response = self.client.table("products").select("id", count="exact").execute()
+        return response.count
+
+    def get_products_by_color(self, color: str) -> List[Dict]:
+        """Retrieve products available in a specific color"""
+        # Using JSONB contains operator
+        response = self.client.table("products").select("*").filter(
+            "colors", "cs", json.dumps([color])
+        ).execute()
+        return response.data
+
+    def delete_all_products(self) -> None:
+        """Delete all products from database (use with caution!)"""
+        response = self.client.table("products").delete().neq("id", 0).execute()
+        return response.data
+
+    def execute_query(self, query: str) -> List[Dict]:
+        """Execute a raw SQL query (for advanced analytics)"""
+        response = self.client.rpc("execute_sql", {"query": query}).execute()
+        return response.data

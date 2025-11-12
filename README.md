@@ -1,19 +1,231 @@
-# 🎈 Blank app template
+# 👕 Rhone Product Analytics Dashboard
 
-A simple Streamlit app template for you to modify!
+A comprehensive data analytics dashboard for analyzing Rhone.com product offerings using web scraping, database storage, and interactive visualizations.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Overview
 
-### How to run it on your own machine
+This project provides a complete pipeline for:
+- **Scraping** product data from Rhone.com using Scrapy
+- **Storing** data in Supabase (PostgreSQL database)
+- **Analyzing** and visualizing data through an interactive Streamlit dashboard
 
-1. Install the requirements
+## Features
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### Analytics Capabilities
 
-2. Run the app
+**Product Overview**
+- Total product count
+- Products per category
+- Category breakdowns by gender
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+**Color & Fabric Analysis**
+- Most commonly offered colors
+- Colors per category
+- Fabric composition analysis
+- Unique fabrics count
+- Fabrics per category
+
+**Best Sellers**
+- Top 20 best sellers by gender
+- Top 5 best sellers per category
+- Best seller rankings
+
+**Homepage Analysis**
+- Products featured on homepage
+- Homepage product distribution by category
+
+## Project Structure
+
+```
+rhone-data/
+├── scraper/                    # Scrapy web scraper
+│   ├── rhone_scraper/
+│   │   ├── spiders/
+│   │   │   └── rhone_spider.py # Main spider for scraping
+│   │   ├── items.py            # Data models
+│   │   ├── pipelines.py        # Data processing
+│   │   └── settings.py         # Scraper configuration
+│   └── scrapy.cfg
+├── database/                   # Database utilities
+│   ├── schema.sql              # Supabase schema
+│   ├── supabase_client.py      # Database client
+│   └── upload_data.py          # Data upload script
+├── data/                       # Scraped data storage
+├── streamlit_app.py            # Main dashboard application
+└── requirements.txt            # Python dependencies
+```
+
+## Setup Instructions
+
+### 1. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Set Up Supabase
+
+1. Create a free account at [supabase.com](https://supabase.com)
+2. Create a new project
+3. Copy your project URL and anon key
+4. Create a `.env` file:
+
+```bash
+cp .env.example .env
+```
+
+5. Edit `.env` and add your credentials:
+
+```
+SUPABASE_URL=your_supabase_url_here
+SUPABASE_KEY=your_supabase_anon_key_here
+```
+
+6. Run the database schema in your Supabase SQL Editor:
+
+```bash
+# Copy the contents of database/schema.sql and run it in Supabase SQL Editor
+```
+
+### 3. Scrape Product Data
+
+Navigate to the scraper directory and run the spider:
+
+```bash
+cd scraper
+scrapy crawl rhone
+```
+
+This will:
+- Scrape product data from Rhone.com
+- Save data to `data/rhone_products_YYYYMMDD_HHMMSS.json`
+- Respect robots.txt and rate limits
+
+### 4. Upload Data to Supabase
+
+```bash
+# Upload the most recent scraped file
+python database/upload_data.py
+
+# Or specify a specific file
+python database/upload_data.py data/rhone_products_20241111_120000.json
+```
+
+### 5. Run the Dashboard
+
+```bash
+streamlit run streamlit_app.py
+```
+
+The dashboard will open in your browser at `http://localhost:8501`
+
+## Dashboard Features
+
+### Navigation Pages
+
+1. **Overview** - High-level metrics and category distribution
+2. **Category Analysis** - Detailed product breakdown by category and gender
+3. **Color Analysis** - Color trends and distribution across categories
+4. **Fabric Analysis** - Fabric composition and usage patterns
+5. **Best Sellers** - Top performing products by gender and category
+6. **Homepage Products** - Analysis of products featured on the homepage
+7. **Raw Data** - Filterable table view with CSV export
+
+### Key Insights
+
+The dashboard answers questions like:
+- How many products does Rhone offer?
+- What are the most popular colors?
+- Which fabrics are most commonly used?
+- What are the best sellers in each category?
+- Which products are featured on the homepage?
+
+## Data Model
+
+Each product includes:
+- Basic info: name, URL, category, subcategory, gender
+- Pricing: price, sale price, currency
+- Details: description, colors, sizes, fabrics
+- Rankings: best seller status and rank
+- Images: product image URLs
+- Metadata: scrape timestamp, homepage status
+
+## Customization
+
+### Modify Scraper
+
+Edit [scraper/rhone_scraper/spiders/rhone_spider.py](scraper/rhone_scraper/spiders/rhone_spider.py) to:
+- Add more collection URLs
+- Adjust extraction logic
+- Add new data fields
+
+### Extend Dashboard
+
+Edit [streamlit_app.py](streamlit_app.py) to:
+- Add new visualizations
+- Create custom analytics
+- Modify styling and layout
+
+### Database Queries
+
+Use [database/supabase_client.py](database/supabase_client.py) to:
+- Add custom query methods
+- Create new analytics views
+- Export data in different formats
+
+## Technologies Used
+
+- **Scrapy** - Web scraping framework
+- **Supabase** - PostgreSQL database (hosted)
+- **Streamlit** - Interactive dashboard framework
+- **Pandas** - Data manipulation
+- **Plotly** - Interactive visualizations
+- **Python 3.8+** - Programming language
+
+## Ethical Scraping
+
+This scraper:
+- Respects robots.txt
+- Implements rate limiting (2 second delay)
+- Caches responses to minimize requests
+- Identifies itself with a proper user agent
+
+## Troubleshooting
+
+### Scraper Issues
+
+If the scraper fails:
+1. Check if Rhone.com structure has changed
+2. Verify you have internet connectivity
+3. Review error messages in the console
+4. Adjust selectors in `rhone_spider.py` if needed
+
+### Database Issues
+
+If upload fails:
+1. Verify `.env` file has correct credentials
+2. Check Supabase project is active
+3. Ensure schema has been created
+4. Review error messages
+
+### Dashboard Issues
+
+If dashboard shows no data:
+1. Confirm data has been uploaded to Supabase
+2. Check `.env` credentials
+3. Click "Refresh Data" in sidebar
+4. Review browser console for errors
+
+## Future Enhancements
+
+Potential additions:
+- Price tracking over time
+- Inventory monitoring
+- Email alerts for new products
+- Competitor comparison
+- Product recommendation engine
+- Automated daily scraping
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details

@@ -1,0 +1,53 @@
+# GitHub Actions workflow for automated daily scraping
+# To use this:
+# 1. Rename this file to scrape_daily.yml
+# 2. Add SUPABASE_URL and SUPABASE_KEY as GitHub Secrets
+# 3. Enable GitHub Actions in your repository
+
+name: Daily Rhone Data Scrape
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          cd scraper
+          scrapy crawl rhone
+
+      - name: Upload to Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          python database/upload_data.py
+
+      - name: Archive scraped data
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraped-data
+          path: data/*.json
+          retention-days: 30
+
+      - name: Notify on failure
+        if: failure()
+        run: echo "Scraping failed! Check the logs."
