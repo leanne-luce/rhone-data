@@ -27,9 +27,10 @@ class SupabaseClient:
         # If not found and streamlit is available, try streamlit secrets
         if (not url or not key) and HAS_STREAMLIT:
             try:
-                url = st.secrets.get("SUPABASE_URL")
-                key = st.secrets.get("SUPABASE_KEY")
-            except:
+                url = url or st.secrets["SUPABASE_URL"]
+                key = key or st.secrets["SUPABASE_KEY"]
+            except Exception as e:
+                # If secrets don't exist, pass and show error below
                 pass
 
         if not url or not key:

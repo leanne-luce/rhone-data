@@ -163,9 +163,154 @@ def display_overview(df):
 
 def display_category_analysis(df):
     """Display category analysis"""
-    # This function is now called from the Category Analysis tab
-    # Duplicate visualizations have been removed from Overview tab
-    pass
+    st.markdown('<div class="section-header">📊 Category Analysis</div>', unsafe_allow_html=True)
+
+    if "category" not in df.columns:
+        st.warning("Category data not available")
+        return
+
+    # Overall category distribution
+    st.subheader("Overall Category Distribution")
+
+    category_counts = df["category"].value_counts().reset_index()
+    category_counts.columns = ["Category", "Count"]
+
+    col1, col2 = st.columns([2, 1])
+
+    with col1:
+        fig = px.bar(
+            category_counts,
+            x="Category",
+            y="Count",
+            title="Products per Category",
+            color="Count",
+            color_continuous_scale="Blues"
+        )
+        fig.update_layout(xaxis_tickangle=-45, showlegend=False)
+        st.plotly_chart(fig, use_container_width=True)
+
+    with col2:
+        # Add percentage
+        category_counts["Percentage"] = (category_counts["Count"] / category_counts["Count"].sum() * 100).round(1)
+        category_counts["Percentage"] = category_counts["Percentage"].apply(lambda x: f"{x}%")
+        st.dataframe(
+            category_counts,
+            hide_index=True,
+            use_container_width=True
+        )
+
+    st.divider()
+
+    # Category breakdown by gender
+    if "gender" in df.columns:
+        st.subheader("Category Distribution by Gender")
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### 👔 Men's Categories")
+            mens_df = df[df["gender"] == "Men"]
+            if len(mens_df) > 0:
+                mens_categories = mens_df["category"].value_counts().reset_index()
+                mens_categories.columns = ["Category", "Count"]
+                mens_categories["Percentage"] = (mens_categories["Count"] / mens_categories["Count"].sum() * 100).round(1)
+                mens_categories["Percentage"] = mens_categories["Percentage"].apply(lambda x: f"{x}%")
+
+                fig = px.pie(
+                    mens_categories,
+                    values="Count",
+                    names="Category",
+                    title="Men's Products by Category"
+                )
+                st.plotly_chart(fig, use_container_width=True)
+
+                st.dataframe(mens_categories, hide_index=True, use_container_width=True)
+            else:
+                st.info("No men's products found")
+
+        with col2:
+            st.markdown("### 👗 Women's Categories")
+            womens_df = df[df["gender"] == "Women"]
+            if len(womens_df) > 0:
+                womens_categories = womens_df["category"].value_counts().reset_index()
+                womens_categories.columns = ["Category", "Count"]
+                womens_categories["Percentage"] = (womens_categories["Count"] / womens_categories["Count"].sum() * 100).round(1)
+                womens_categories["Percentage"] = womens_categories["Percentage"].apply(lambda x: f"{x}%")
+
+                fig = px.pie(
+                    womens_categories,
+                    values="Count",
+                    names="Category",
+                    title="Women's Products by Category"
+                )
+                st.plotly_chart(fig, use_container_width=True)
+
+                st.dataframe(womens_categories, hide_index=True, use_container_width=True)
+            else:
+                st.info("No women's products found")
+
+    st.divider()
+
+    # Average prices by category
+    if "price" in df.columns:
+        st.subheader("Average Pricing by Category")
+
+        pricing_by_category = df.groupby("category")["price"].agg(['mean', 'min', 'max', 'count']).reset_index()
+        pricing_by_category.columns = ["Category", "Avg Price", "Min Price", "Max Price", "Product Count"]
+        pricing_by_category = pricing_by_category.sort_values("Avg Price", ascending=False)
+
+        # Format prices
+        pricing_by_category["Avg Price"] = pricing_by_category["Avg Price"].apply(lambda x: f"${x:.2f}")
+        pricing_by_category["Min Price"] = pricing_by_category["Min Price"].apply(lambda x: f"${x:.2f}")
+        pricing_by_category["Max Price"] = pricing_by_category["Max Price"].apply(lambda x: f"${x:.2f}")
+
+        st.dataframe(pricing_by_category, hide_index=True, use_container_width=True)
+
+    st.divider()
+
+    # Category details with filters
+    st.subheader("Category Details")
+
+    selected_category = st.selectbox(
+        "Select Category to View Details",
+        sorted(df["category"].unique())
+    )
+
+    category_df = df[df["category"] == selected_category]
+
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        st.metric("Total Products", len(category_df))
+
+    with col2:
+        if "price" in category_df.columns:
+            avg_price = category_df["price"].mean()
+            st.metric("Avg Price", f"${avg_price:.2f}")
+
+    with col3:
+        if "gender" in category_df.columns:
+            mens_count = len(category_df[category_df["gender"] == "Men"])
+            st.metric("Men's Products", mens_count)
+
+    with col4:
+        if "gender" in category_df.columns:
+            womens_count = len(category_df[category_df["gender"] == "Women"])
+            st.metric("Women's Products", womens_count)
+
+    # Show sample products from selected category
+    st.markdown(f"### Sample Products from {selected_category}")
+
+    display_cols = ["name", "gender", "price"]
+    if "sale_price" in category_df.columns:
+        display_cols.append("sale_price")
+    if "colors" in category_df.columns:
+        display_cols.append("colors")
+
+    available_cols = [col for col in display_cols if col in category_df.columns]
+    sample_df = category_df[available_cols].head(10)
+
+    st.dataframe(sample_df, hide_index=True, use_container_width=True)
 
 
 def get_color_hex(color_name):
@@ -2174,7 +2319,7 @@ def display_data_chat(df):
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         try:
-            api_key = st.secrets.get("ANTHROPIC_API_KEY")
+            api_key = st.secrets["ANTHROPIC_API_KEY"]
         except:
             pass
 
