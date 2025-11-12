@@ -2489,8 +2489,6 @@ def main():
     # Display selected page
     if page == "Overview":
         display_overview(df)
-        st.divider()
-        display_category_analysis(df)
 
     elif page == "Category Analysis":
         display_category_analysis(df)
