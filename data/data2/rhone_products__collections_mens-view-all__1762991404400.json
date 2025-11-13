@@ -1,0 +1,4717 @@
+[
+  {
+    "url": "https://www.rhone.com/products/e-giftcard/?variant=43286537601216",
+    "product_id": "e-giftcard/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-ringer-tee/?variant=46188485443776",
+    "product_id": "mens-origin-ringer-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Origin Ringer Tee",
+    "original_price": 64,
+    "sale_price": 51.2,
+    "price": 51.2,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Bold Blue"
+    ],
+    "review_rating": 3,
+    "review_count": 3,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-ringer-tee/?variant=46188485443776&scrollTo=reviews",
+    "product_id": "mens-origin-ringer-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-sleeveless/?variant=46188475875520",
+    "product_id": "mens-invictus-training-sleeveless/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Invictus Training Tank",
+    "price": 68,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Bright White",
+      "Black",
+      "Blue Stone",
+      "Green Sage",
+      "Mocha/Linen Heather"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-sleeveless/?variant=46188475875520&scrollTo=reviews",
+    "product_id": "mens-invictus-training-sleeveless/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-graphic-tee/?variant=46188520964288",
+    "product_id": "mens-atmosphere-graphic-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Graphic Tee",
+    "original_price": 68,
+    "sale_price": 54.4,
+    "price": 54.4,
+    "image": null,
+    "colors": [
+      "Asphalt",
+      "Bright White"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-graphic-tee/?variant=46188520964288&scrollTo=reviews",
+    "product_id": "mens-atmosphere-graphic-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-singlet/?variant=46188472500416",
+    "product_id": "mens-extra-mile-air-singlet/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Air Singlet",
+    "original_price": 68,
+    "sale_price": 47.6,
+    "price": 47.6,
+    "image": null,
+    "colors": [
+      "Black",
+      "Bright White/Yellow",
+      "True Navy/White",
+      "Linen/Red Brick"
+    ],
+    "review_rating": 3.8,
+    "review_count": 3,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-singlet/?variant=46188472500416&scrollTo=reviews",
+    "product_id": "mens-extra-mile-air-singlet/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-tee/?variant=46188470304960",
+    "product_id": "mens-regatta-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Regatta Tee",
+    "original_price": 68,
+    "sale_price": 54.4,
+    "price": 54.4,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Blue Water",
+      "Lemon Mist"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-tee/?variant=46188470304960&scrollTo=reviews",
+    "product_id": "mens-regatta-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-tee/?variant=46188473843904",
+    "product_id": "mens-extra-mile-air-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Air Tee",
+    "original_price": 78,
+    "sale_price": 62.4,
+    "price": 62.4,
+    "image": null,
+    "colors": [
+      "Red Brick",
+      "Black",
+      "Bright White",
+      "True Navy",
+      "Electric Blue"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-air-tee/?variant=46188473843904&scrollTo=reviews",
+    "product_id": "mens-extra-mile-air-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-seaside-terry-relaxed-tee/?variant=46188478660800",
+    "product_id": "mens-seaside-terry-relaxed-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Seaside Terry Relaxed Tee",
+    "original_price": 78,
+    "sale_price": 62.4,
+    "price": 62.4,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Green Sage",
+      "True Navy"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-seaside-terry-relaxed-tee/?variant=46188478660800&scrollTo=reviews",
+    "product_id": "mens-seaside-terry-relaxed-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-short-sleeve-mockneck-tee/?variant=46188486295744",
+    "product_id": "mens-elevated-modern-short-sleeve-mockneck-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Elevated Modern Short Sleeve Mockneck Tee",
+    "original_price": 98,
+    "sale_price": 70.4,
+    "price": 70.4,
+    "image": null,
+    "colors": [
+      "Bright White"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-short-sleeve-mockneck-tee/?variant=46188486295744&scrollTo=reviews",
+    "product_id": "mens-elevated-modern-short-sleeve-mockneck-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-short-sleeve-shirt/?variant=46188476891328",
+    "product_id": "mens-state-of-mind-short-sleeve-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Short Sleeve Shirt",
+    "original_price": 88,
+    "sale_price": 70.4,
+    "price": 70.4,
+    "image": null,
+    "colors": [
+      "Linen",
+      "White/Navy Pick Stitch Stripe",
+      "Blue Marlin/White Washed Plaid"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-short-sleeve-shirt/?variant=46188476891328&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-short-sleeve-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cross-court-polo/?variant=46188459327680",
+    "product_id": "mens-cross-court-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Cross-Court Polo",
+    "original_price": 98,
+    "sale_price": 78.4,
+    "price": 78.4,
+    "image": null,
+    "colors": [
+      "Bright White/Sleet Gray",
+      "Blue Water",
+      "Yellow Dawn"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cross-court-polo/?variant=46188459327680&scrollTo=reviews",
+    "product_id": "mens-cross-court-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-approach-tech-polo/?variant=46188494684352",
+    "product_id": "mens-approach-tech-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Approach Tech Polo",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Blue Water",
+      "Lemon Mist"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-approach-tech-polo/?variant=46188494684352&scrollTo=reviews",
+    "product_id": "mens-approach-tech-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sleeveless-hoodie/?variant=46188491079872",
+    "product_id": "mens-range-sleeveless-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Range Sleeveless Hoodie",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "Black",
+      "Sleet Gray"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sleeveless-hoodie/?variant=46188491079872&scrollTo=reviews",
+    "product_id": "mens-range-sleeveless-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-band-collar-shirt-slim-fit/?variant=46188482101440",
+    "product_id": "mens-state-of-mind-band-collar-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Band Collar Shirt",
+    "original_price": 98,
+    "sale_price": 68.6,
+    "price": 68.6,
+    "image": null,
+    "colors": [
+      "White",
+      "Blue Wide Stripe"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-band-collar-shirt-slim-fit/?variant=46188482101440&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-band-collar-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-bomber-collar-polo/?variant=46188520177856",
+    "product_id": "mens-momentum-tech-bomber-collar-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Momentum Tech Bomber Collar Polo",
+    "original_price": 108,
+    "sale_price": 86.4,
+    "price": 86.4,
+    "image": null,
+    "colors": [
+      "Blue Stone",
+      "White",
+      "True Navy"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-bomber-collar-polo/?variant=46188520177856&scrollTo=reviews",
+    "product_id": "mens-momentum-tech-bomber-collar-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-athletic-fit/?variant=46188484427968",
+    "product_id": "mens-state-of-mind-shirt-athletic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Shirt - Athletic",
+    "original_price": 108,
+    "sale_price": 86.4,
+    "price": 86.4,
+    "image": null,
+    "colors": [
+      "White",
+      "Blue",
+      "Pink Rose Gingham"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-athletic-fit/?variant=46188484427968&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-shirt-athletic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-short-sleeve-shirt/?variant=46188477644992",
+    "product_id": "mens-brezza-linen-blend-short-sleeve-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Brezza Linen-Blend Short Sleeve Shirt",
+    "original_price": 128,
+    "sale_price": 102.4,
+    "price": 102.4,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Green Sage",
+      "Linen",
+      "Linen Vintage Stripe"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "linen vintage stripe"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-short-sleeve-shirt/?variant=46188477644992&scrollTo=reviews",
+    "product_id": "mens-brezza-linen-blend-short-sleeve-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coastal-johnny-collar-polo/?variant=46188480004288",
+    "product_id": "mens-coastal-johnny-collar-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Coastal Johnny Collar Polo",
+    "original_price": 118,
+    "sale_price": 82.6,
+    "price": 82.6,
+    "image": null,
+    "colors": [
+      "Sleet Gray",
+      "Green Sage",
+      "True Navy",
+      "Green Sage/True Navy/Sleet Gray Stripe"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coastal-johnny-collar-polo/?variant=46188480004288&scrollTo=reviews",
+    "product_id": "mens-coastal-johnny-collar-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-shirt/?variant=46188479348928",
+    "product_id": "mens-brezza-linen-blend-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Brezza Linen-Blend Shirt",
+    "original_price": 138,
+    "sale_price": 96.6,
+    "price": 96.6,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Green Sage",
+      "Linen"
+    ],
+    "review_rating": 2.7,
+    "review_count": 2,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-brezza-linen-blend-shirt/?variant=46188479348928&scrollTo=reviews",
+    "product_id": "mens-brezza-linen-blend-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aero-sport-coat/?variant=46188479512768",
+    "product_id": "mens-aero-sport-coat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Aero Sport Coat",
+    "original_price": 268,
+    "sale_price": 214.4,
+    "price": 214.4,
+    "image": null,
+    "colors": [
+      "Light Khaki",
+      "True Navy"
+    ],
+    "review_rating": 4,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aero-sport-coat/?variant=46188479512768&scrollTo=reviews",
+    "product_id": "mens-aero-sport-coat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-double-breasted/?variant=46188516049088",
+    "product_id": "mens-commuter-pro-double-breasted/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter®  Pro Double Breasted",
+    "original_price": 318,
+    "sale_price": 190.8,
+    "price": 190.8,
+    "image": null,
+    "colors": [
+      "Birch",
+      "True Navy"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-double-breasted/?variant=46188516049088&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-double-breasted/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-double-breasted-wrap-blazer/?variant=46188515885248",
+    "product_id": "mens-charleston-double-breasted-wrap-blazer/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Charleston Double Breasted Wrap Blazer",
+    "original_price": 348,
+    "sale_price": 278.4,
+    "price": 278.4,
+    "image": null,
+    "colors": [
+      "Black"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-double-breasted-wrap-blazer/?variant=46188515885248&scrollTo=reviews",
+    "product_id": "mens-charleston-double-breasted-wrap-blazer/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-blazer/?variant=46188460736704",
+    "product_id": "mens-charleston-blazer/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Charleston Blazer",
+    "original_price": 348,
+    "sale_price": 208.8,
+    "price": 208.8,
+    "image": null,
+    "colors": [
+      "Black"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-charleston-blazer/?variant=46188460736704&scrollTo=reviews",
+    "product_id": "mens-charleston-blazer/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-amalfi-linen-blazer/?variant=46188486426816",
+    "product_id": "mens-amalfi-linen-blazer/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Amalfi Linen Blazer",
+    "original_price": 428,
+    "sale_price": 256.8,
+    "price": 256.8,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Linen"
+    ],
+    "review_rating": 2,
+    "review_count": 2,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-amalfi-linen-blazer/?variant=46188486426816&scrollTo=reviews",
+    "product_id": "mens-amalfi-linen-blazer/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-ribbed-tank/?variant=45860872913088",
+    "product_id": "mens-cor-ribbed-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "C.O.R. Ribbed Tank",
+    "price": 38,
+    "image": null,
+    "colors": [
+      "Pure Black",
+      "Bright White",
+      "True Navy"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-cor-ribbed-tank/?variant=45860872913088&scrollTo=reviews",
+    "product_id": "mens-cor-ribbed-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tank/?variant=46188464996544",
+    "product_id": "mens-atmosphere-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Tank",
+    "price": 48,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Asphalt Heather",
+      "Blue Stone/White Heather",
+      "Vintage Indigo/Slate Blue Heather"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "vintage indigo/slate blue heather"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tank/?variant=46188464996544&scrollTo=reviews",
+    "product_id": "mens-atmosphere-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-tee/?variant=46479505686720",
+    "product_id": "mens-origin-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Origin Tee - Classic",
+    "price": 54,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "Moss Green",
+      "Black",
+      "White",
+      "True Navy",
+      "Green Sage",
+      "Pink Rose",
+      "Blue Marlin"
+    ],
+    "review_rating": 4.3,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-tee/?variant=46479505686720&scrollTo=reviews",
+    "product_id": "mens-origin-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-sleeveless-tee/?variant=46188459098304",
+    "product_id": "mens-base-training-sleeveless-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Base Training Sleeveless Tee",
+    "original_price": 48,
+    "sale_price": 38.4,
+    "price": 38.4,
+    "image": null,
+    "colors": [
+      "Blue Stone",
+      "Lichen Green"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-sleeveless-tee/?variant=46188459098304&scrollTo=reviews",
+    "product_id": "mens-base-training-sleeveless-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-tee/?variant=43239979614400",
+    "product_id": "mens-element-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Element Tee",
+    "original_price": 54,
+    "sale_price": 32.4,
+    "price": 32.4,
+    "image": null,
+    "colors": [
+      "Heather Gray"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-tee/?variant=43239979614400&scrollTo=reviews",
+    "product_id": "mens-element-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee-straight-hem/?variant=45860880154816",
+    "product_id": "mens-atmosphere-tee-straight-hem/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Tee - Straight Hem",
+    "original_price": 58,
+    "sale_price": 40.6,
+    "price": 40.6,
+    "image": null,
+    "colors": [
+      "Dark Teal/Black Heather",
+      "Asphalt Heather",
+      "Brushed Nickel Gray/Sleet Gray Heather",
+      "True Black Heather",
+      "Blue Stone/White"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee-straight-hem/?variant=45860880154816&scrollTo=reviews",
+    "product_id": "mens-atmosphere-tee-straight-hem/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-long-sleeve-tee/?variant=45258244292800",
+    "product_id": "mens-origin-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Origin Long Sleeve - Classic Fit",
+    "price": 64,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "White"
+    ],
+    "review_rating": 4.3,
+    "review_count": 4,
+    "badges": [
+      "selling fast"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-origin-long-sleeve-tee/?variant=45258244292800&scrollTo=reviews",
+    "product_id": "mens-origin-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee/?variant=46691495739584",
+    "product_id": "mens-atmosphere-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Tee",
+    "price": 58,
+    "image": null,
+    "colors": [
+      "Pine Gray Heather",
+      "Mulberry Heather",
+      "Steel Gray/Pearl Blue Heather",
+      "Foggy Taupe Heather",
+      "Bright White",
+      "Fatigue Green",
+      "Moss Green Heather",
+      "Red Brick/Navy Heather",
+      "Lemon Mist",
+      "+8"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-tee/?variant=46691495739584&scrollTo=reviews",
+    "product_id": "mens-atmosphere-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-long-sleeve-tee/?variant=43060307165376",
+    "product_id": "mens-element-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Element Long Sleeve Tee",
+    "original_price": 64,
+    "sale_price": 38.4,
+    "price": 38.4,
+    "image": null,
+    "colors": [
+      "Navy"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-element-long-sleeve-tee/?variant=43060307165376&scrollTo=reviews",
+    "product_id": "mens-element-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-backspin-tee/?variant=46479496216768",
+    "product_id": "mens-backspin-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Backspin Tee",
+    "price": 68,
+    "image": null,
+    "colors": [
+      "Fatigue Green",
+      "Moss Green",
+      "Black",
+      "White",
+      "Arctic Blue",
+      "True Navy",
+      "Blue Water",
+      "Lemon Mist"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-backspin-tee/?variant=46479496216768&scrollTo=reviews",
+    "product_id": "mens-backspin-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-relaxed-short-sleeve/?variant=46188454019264",
+    "product_id": "mens-base-training-relaxed-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Base Training Relaxed Tee",
+    "original_price": 58,
+    "sale_price": 46.4,
+    "price": 46.4,
+    "image": null,
+    "colors": [
+      "Blue Stone",
+      "Linen",
+      "Gravel",
+      "Shadow Plum",
+      "Black",
+      "Lichen Green"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-relaxed-short-sleeve/?variant=46188454019264&scrollTo=reviews",
+    "product_id": "mens-base-training-relaxed-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-long-sleeve-tee/?variant=46691499278528",
+    "product_id": "mens-atmosphere-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Long Sleeve",
+    "price": 68,
+    "image": null,
+    "colors": [
+      "Pine Gray Heather",
+      "Bright White",
+      "Steel Gray/Pearl Blue Heather",
+      "Moss Green",
+      "True Black Heather",
+      "Shadow Plum/Gray Stone Heather",
+      "Sandstone/White Heather",
+      "Tawny Port/Black",
+      "Vintage Indigo/Slate Blue Heather",
+      "+3"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "vintage indigo/slate blue heather"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-long-sleeve-tee/?variant=46691499278528&scrollTo=reviews",
+    "product_id": "mens-atmosphere-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-short-sleeve/?variant=46691519267008",
+    "product_id": "mens-reign-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Reign Tee",
+    "price": 68,
+    "image": null,
+    "colors": [
+      "Pine Gray",
+      "Mulberry",
+      "Cafe Noir Heather",
+      "Bright White",
+      "Black",
+      "Moss Green Heather",
+      "Blue Stone",
+      "Red Brick/Pink Rose",
+      "Arctic Blue/White Heather",
+      "+9"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-short-sleeve/?variant=46691519267008&scrollTo=reviews",
+    "product_id": "mens-reign-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-tee/?variant=46479491039424",
+    "product_id": "mens-waffle-tech-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Waffle Tech Tee",
+    "price": 78,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "True Navy",
+      "Cinnamon Red"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-tee/?variant=46479491039424&scrollTo=reviews",
+    "product_id": "mens-waffle-tech-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-foundations-polo/?variant=46479496544448",
+    "product_id": "mens-foundations-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Foundations Polo",
+    "original_price": 78,
+    "sale_price": 62.4,
+    "price": 62.4,
+    "image": null,
+    "colors": [
+      "Moss Green",
+      "Black",
+      "Bright White"
+    ],
+    "review_rating": 4.4,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-foundations-polo/?variant=46479496544448&scrollTo=reviews",
+    "product_id": "mens-foundations-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-lightweight-hoodie/?variant=46188464701632",
+    "product_id": "mens-base-training-lightweight-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Base Training Lightweight Hoodie",
+    "price": 78,
+    "image": null,
+    "colors": [
+      "Asphalt",
+      "Black"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-base-training-lightweight-hoodie/?variant=46188464701632&scrollTo=reviews",
+    "product_id": "mens-base-training-lightweight-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-tee/?variant=46479478685888",
+    "product_id": "mens-elevated-modern-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Elevated Modern Tee",
+    "price": 88,
+    "image": null,
+    "colors": [
+      "Cafe Noir",
+      "Foggy Taupe",
+      "Black",
+      "White",
+      "True Navy"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-elevated-modern-tee/?variant=46479478685888&scrollTo=reviews",
+    "product_id": "mens-elevated-modern-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-short-sleeve/?variant=44547855515840",
+    "product_id": "mens-extra-mile-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Tee",
+    "original_price": 78,
+    "sale_price": 46.8,
+    "price": 46.8,
+    "image": null,
+    "colors": [
+      "Stormy Sea Green/Sea Glass Blue",
+      "Gray Stone",
+      "Black"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-short-sleeve/?variant=44547855515840&scrollTo=reviews",
+    "product_id": "mens-extra-mile-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-short-sleeve/?variant=46479493529792",
+    "product_id": "mens-invictus-training-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Invictus Training Tee",
+    "price": 78,
+    "image": null,
+    "colors": [
+      "Cafe Noir",
+      "Fatigue Green",
+      "Foggy Taupe",
+      "Black",
+      "Bright White",
+      "Gravel Heather",
+      "Green Sage",
+      "Mocha/Linen Heather",
+      "Blue Stone",
+      "+5"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-training-short-sleeve/?variant=46479493529792&scrollTo=reviews",
+    "product_id": "mens-invictus-training-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-polo/?variant=45247061754048",
+    "product_id": "mens-wfh-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "WFH Polo",
+    "price": 88,
+    "image": null,
+    "colors": [
+      "True Black Heather",
+      "Foggy Taupe Heather",
+      "Navy Heather",
+      "Lichen Green Heather",
+      "Shadow Plum/Gray Stone Heather",
+      "Arctic Blue Heather",
+      "Dark Teal/Black Heather"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-polo/?variant=45247061754048&scrollTo=reviews",
+    "product_id": "mens-wfh-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-long-sleeve/?variant=46691515465920",
+    "product_id": "mens-reign-long-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Reign Long Sleeve",
+    "price": 78,
+    "image": null,
+    "colors": [
+      "Pine Gray",
+      "Mulberry",
+      "Cafe Noir Heather",
+      "Moss Green Heather",
+      "True Navy",
+      "Folkstone Gray Heather",
+      "Black Heather",
+      "Black",
+      "Gray Space Dye",
+      "+3"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-reign-long-sleeve/?variant=46691515465920&scrollTo=reviews",
+    "product_id": "mens-reign-long-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rush-seamless-tee/?variant=46479476392128",
+    "product_id": "mens-rush-seamless-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Rush Seamless Tee",
+    "original_price": 88,
+    "sale_price": 70.4,
+    "price": 70.4,
+    "image": null,
+    "colors": [
+      "Black",
+      "True Navy Heather",
+      "Fatigue Green Washed Print"
+    ],
+    "review_rating": 3.5,
+    "review_count": 3,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rush-seamless-tee/?variant=46479476392128&scrollTo=reviews",
+    "product_id": "mens-rush-seamless-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-pique-polo/?variant=46479495889088",
+    "product_id": "mens-regatta-pique-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Regatta Pique Polo",
+    "price": 88,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "Moss Green",
+      "Pink Rose",
+      "Blue Marlin",
+      "Green Sage",
+      "Black",
+      "White",
+      "True Navy",
+      "Arctic Blue",
+      "+1"
+    ],
+    "review_rating": 4.2,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-regatta-pique-polo/?variant=46479495889088&scrollTo=reviews",
+    "product_id": "mens-regatta-pique-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-tee/?variant=45860881825984",
+    "product_id": "mens-compass-knit-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Compass Knit Tee",
+    "original_price": 88,
+    "sale_price": 61.6,
+    "price": 61.6,
+    "image": null,
+    "colors": [
+      "Deep Sea Blue/True Navy",
+      "Smoke/Black"
+    ],
+    "review_rating": 3,
+    "review_count": 3,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-tee/?variant=45860881825984&scrollTo=reviews",
+    "product_id": "mens-compass-knit-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-long-sleeve/?variant=45258242130112",
+    "product_id": "mens-extra-mile-long-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Long Sleeve",
+    "price": 88,
+    "image": null,
+    "colors": [
+      "Black",
+      "Smoke/Asphalt"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-long-sleeve/?variant=45258242130112&scrollTo=reviews",
+    "product_id": "mens-extra-mile-long-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-hoodie/?variant=46479492055232",
+    "product_id": "mens-waffle-tech-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Waffle Tech Hoodie",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Foggy Taupe",
+      "Cinnamon Red"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-waffle-tech-hoodie/?variant=46479492055232&scrollTo=reviews",
+    "product_id": "mens-waffle-tech-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-camp-collar-shirt/?variant=46188476039360",
+    "product_id": "mens-state-of-mind-camp-collar-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Camp Collar Shirt",
+    "original_price": 88,
+    "sale_price": 70.4,
+    "price": 70.4,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Blue Stone Oxford",
+      "True Navy/Green Sage Floral"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-camp-collar-shirt/?variant=46188476039360&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-camp-collar-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater-vest/?variant=45860937334976",
+    "product_id": "mens-the-turn-golf-v-neck-sweater-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "The Turn Golf V-Neck Sweater Vest",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "Sleet Gray/Black",
+      "True Navy/Sleet Gray"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater-vest/?variant=45860937334976&scrollTo=reviews",
+    "product_id": "mens-the-turn-golf-v-neck-sweater-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-zip/?variant=45554739577024",
+    "product_id": "mens-atmosphere-midweight-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Midweight 1/4 Zip",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "Navy",
+      "True Black"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-zip/?variant=45554739577024&scrollTo=reviews",
+    "product_id": "mens-atmosphere-midweight-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-crewneck/?variant=44184574361792",
+    "product_id": "mens-ooo-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Out Of Office Midweight Crew Neck",
+    "original_price": 98,
+    "sale_price": 78.4,
+    "price": 78.4,
+    "image": null,
+    "colors": [
+      "Navy"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-crewneck/?variant=44184574361792&scrollTo=reviews",
+    "product_id": "mens-ooo-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-zip/?variant=43640414077120",
+    "product_id": "mens-heritage-midweight-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight 1/4 Zip",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "Navy Heather",
+      "Heather Gray"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-zip/?variant=43640414077120&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-zip/?variant=43459371106496",
+    "product_id": "mens-ooo-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Out Of Office 1/4 Zip",
+    "original_price": 98,
+    "sale_price": 78.4,
+    "price": 78.4,
+    "image": null,
+    "colors": [
+      "Navy"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-ooo-zip/?variant=43459371106496&scrollTo=reviews",
+    "product_id": "mens-ooo-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater-polo/?variant=46479475998912",
+    "product_id": "mens-resolve-pique-sweater-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Resolve Pique Sweater Polo",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "Black",
+      "Dark Caramel"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "selling fast"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater-polo/?variant=46479475998912&scrollTo=reviews",
+    "product_id": "mens-resolve-pique-sweater-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater/?variant=46479489401024",
+    "product_id": "mens-resolve-pique-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Resolve Pique Sweater",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "Black",
+      "Dark Caramel"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-sweater/?variant=46479489401024&scrollTo=reviews",
+    "product_id": "mens-resolve-pique-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-effortless-oxford-button-down-shirt/?variant=46479477866688",
+    "product_id": "mens-effortless-oxford-button-down-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Effortless Oxford Button Down",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Mountain Blue Heather",
+      "Blue Pearl Heather",
+      "Foggy Taupe Heather"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-effortless-oxford-button-down-shirt/?variant=46479477866688&scrollTo=reviews",
+    "product_id": "mens-effortless-oxford-button-down-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairway-polo/?variant=46479477211328",
+    "product_id": "mens-fairway-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fairway Polo",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Poseidon Blue",
+      "Bright White",
+      "Iron"
+    ],
+    "review_rating": 3.5,
+    "review_count": 3,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairway-polo/?variant=46479477211328&scrollTo=reviews",
+    "product_id": "mens-fairway-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-links-golf-crewneck/?variant=45860964532416",
+    "product_id": "mens-links-golf-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Links Golf Crew Neck",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Arctic Blue",
+      "Tidal Green",
+      "Black"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-links-golf-crewneck/?variant=45860964532416&scrollTo=reviews",
+    "product_id": "mens-links-golf-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-long-sleeve-polo/?variant=45860913840320",
+    "product_id": "mens-compass-knit-long-sleeve-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Compass Knit Long Sleeve Polo",
+    "original_price": 108,
+    "sale_price": 86.4,
+    "price": 86.4,
+    "image": null,
+    "colors": [
+      "Smoke/True Navy"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-compass-knit-long-sleeve-polo/?variant=45860913840320&scrollTo=reviews",
+    "product_id": "mens-compass-knit-long-sleeve-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rise-zip/?variant=46691512844480",
+    "product_id": "mens-rise-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Rise 1/4 Zip",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Pure Black",
+      "Mulberry",
+      "Black",
+      "Asphalt",
+      "Bright White",
+      "Gray Stone",
+      "True Navy",
+      "Blue Stone",
+      "Moss Green",
+      "+1"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rise-zip/?variant=46691512844480&scrollTo=reviews",
+    "product_id": "mens-rise-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-zip/?variant=46479482683584",
+    "product_id": "mens-founders-golf-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Founder's Golf 1/4 Zip",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Dark Caramel",
+      "Arctic Blue/True Navy",
+      "Black",
+      "Gravel/True Navy",
+      "Shadow Plum/True Navy",
+      "Blue Stone",
+      "Bright White",
+      "Moss Green",
+      "True Navy"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-zip/?variant=46479482683584&scrollTo=reviews",
+    "product_id": "mens-founders-golf-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-tee/?variant=45554732368064",
+    "product_id": "mens-modino-wool-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Modino Wool Tee",
+    "original_price": 108,
+    "sale_price": 64.8,
+    "price": 64.8,
+    "image": null,
+    "colors": [
+      "Folkstone Gray"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-tee/?variant=45554732368064&scrollTo=reviews",
+    "product_id": "mens-modino-wool-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-hoodie/?variant=46188466372800",
+    "product_id": "mens-atmosphere-midweight-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atmosphere Midweight Hoodie",
+    "original_price": 108,
+    "sale_price": 75.6,
+    "price": 75.6,
+    "image": null,
+    "colors": [
+      "Dark Moss Heather",
+      "Navy",
+      "True Black",
+      "Asphalt"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-atmosphere-midweight-hoodie/?variant=46188466372800&scrollTo=reviews",
+    "product_id": "mens-atmosphere-midweight-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-crewneck-sweatshirt/?variant=45860925046976",
+    "product_id": "mens-heritage-midweight-crewneck-sweatshirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight Crew Neck Sweatshirt",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "Oatmeal Heather",
+      "Navy Heather",
+      "Coffee Heather",
+      "Black Heather",
+      "Heather Gray"
+    ],
+    "review_rating": 4.4,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-crewneck-sweatshirt/?variant=45860925046976&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-crewneck-sweatshirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-golf-polo/?variant=45860877304000",
+    "product_id": "mens-momentum-tech-golf-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Momentum Tech Golf Polo",
+    "original_price": 108,
+    "sale_price": 75.6,
+    "price": 75.6,
+    "image": null,
+    "colors": [
+      "Lavender Dusk",
+      "Discreet Mauve",
+      "Sleet Gray"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-tech-golf-polo/?variant=45860877304000&scrollTo=reviews",
+    "product_id": "mens-momentum-tech-golf-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo-spread-collar/?variant=46188516737216",
+    "product_id": "mens-golf-sport-polo-spread-collar/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Golf Sport Polo Spread Collar",
+    "original_price": 108,
+    "sale_price": 75.6,
+    "price": 75.6,
+    "image": null,
+    "colors": [
+      "Green Olive Circle Geo",
+      "Tidal Green Wavy Stripe",
+      "Desert Mist Diamond Geo",
+      "Pale Lilac/Lavender Dusk Micro Square Geo",
+      "Yellow Dawn/Blue Stone Abstract Geo",
+      "Blue Stone/White Club Print",
+      "Dark Caramel Diamond Dash",
+      "Moss Green Diamond Windowpane"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo-spread-collar/?variant=46188516737216&scrollTo=reviews",
+    "product_id": "mens-golf-sport-polo-spread-collar/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-long-sleeve-polo/?variant=46691506946240",
+    "product_id": "mens-commuter-long-sleeve-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Long Sleeve Polo",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "True Navy Oxford",
+      "Black Oxford",
+      "True Navy",
+      "Black",
+      "Moss Green Oxford"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-long-sleeve-polo/?variant=46691506946240&scrollTo=reviews",
+    "product_id": "mens-commuter-long-sleeve-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo/?variant=46188516507840",
+    "product_id": "mens-golf-sport-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Golf Sport Polo",
+    "original_price": 108,
+    "sale_price": 86.4,
+    "price": 86.4,
+    "image": null,
+    "colors": [
+      "Green Sage Triangle Geo",
+      "Dark Caramel/White Houndstooth",
+      "Blue Stone Foulard",
+      "Blue Stone Stripe",
+      "Sapphire Blue/Arctic Blue/White Geo",
+      "Tidal Green",
+      "Tidal Green/Dark Indigo/Sleet Gray/White",
+      "Washed Clay/Tidal Green/Bright White",
+      "True Navy",
+      "+5"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-polo/?variant=46188516507840&scrollTo=reviews",
+    "product_id": "mens-golf-sport-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-session-zip/?variant=43341984432320",
+    "product_id": "mens-session-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Session 1/4 Zip",
+    "original_price": 108,
+    "sale_price": 64.8,
+    "price": 64.8,
+    "image": null,
+    "colors": [
+      "White"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-session-zip/?variant=43341984432320&scrollTo=reviews",
+    "product_id": "mens-session-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-polo/?variant=46691516285120",
+    "product_id": "mens-commuter-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Polo - Slim",
+    "price": 98,
+    "image": null,
+    "colors": [
+      "Deep Sea Blue Oxford",
+      "Cinnamon Red Stripe",
+      "Cinnamon Red Oxford",
+      "Business White",
+      "Green Mist Line Dash",
+      "True Navy",
+      "Black",
+      "Lichen Green Stripe",
+      "Green Sage",
+      "+6"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-polo/?variant=46691516285120&scrollTo=reviews",
+    "product_id": "mens-commuter-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-long-sleeve-sweater-polo/?variant=46479490384064",
+    "product_id": "mens-resolve-pique-long-sleeve-sweater-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Resolve Pique Long Sleeve Sweater Polo",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "Black"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-resolve-pique-long-sleeve-sweater-polo/?variant=46479490384064&scrollTo=reviews",
+    "product_id": "mens-resolve-pique-long-sleeve-sweater-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-zip/?variant=46691521069248",
+    "product_id": "mens-dreamstate-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "DreamState 1/4 Zip",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Pine Gray",
+      "Bordeaux Red",
+      "Pure Black",
+      "True Navy",
+      "Wild Forest"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-zip/?variant=46691521069248&scrollTo=reviews",
+    "product_id": "mens-dreamstate-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-heritage-midweight-zip/?variant=46128436084928",
+    "product_id": "mens-nba-heritage-midweight-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atlanta Hawks NBA Heritage Midweight 1/4 Zip",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "Atlanta Hawks",
+      "Phoenix Suns",
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "Charlotte Hornets",
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Dallas Mavericks",
+      "Denver Nuggets",
+      "+21"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-heritage-midweight-zip/?variant=46128436084928&scrollTo=reviews",
+    "product_id": "mens-nba-heritage-midweight-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-long-sleeve-polo/?variant=45860905910464",
+    "product_id": "mens-golf-sport-long-sleeve-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Golf Sport Long Sleeve Polo",
+    "original_price": 118,
+    "sale_price": 94.4,
+    "price": 94.4,
+    "image": null,
+    "colors": [
+      "Bright White",
+      "Shadow Plum",
+      "True Navy"
+    ],
+    "review_rating": 2.7,
+    "review_count": 2,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-golf-sport-long-sleeve-polo/?variant=45860905910464&scrollTo=reviews",
+    "product_id": "mens-golf-sport-long-sleeve-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-hoodie/?variant=45860912890048",
+    "product_id": "mens-founders-golf-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Founder's Golf Hoodie",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "Arctic Blue/True Navy",
+      "Black",
+      "Gravel/True Navy",
+      "Shadow Plum/True Navy",
+      "Blue Stone",
+      "Bright White"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-founders-golf-hoodie/?variant=45860912890048&scrollTo=reviews",
+    "product_id": "mens-founders-golf-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-long-sleeve-tee/?variant=45554746228928",
+    "product_id": "mens-modino-wool-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Modino Wool Long Sleeve",
+    "original_price": 118,
+    "sale_price": 70.8,
+    "price": 70.8,
+    "image": null,
+    "colors": [
+      "Folkstone Gray",
+      "Turtle Green",
+      "Tawny Port"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-modino-wool-long-sleeve-tee/?variant=45554746228928&scrollTo=reviews",
+    "product_id": "mens-modino-wool-long-sleeve-tee/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-fleece-pullover/?variant=45258229776576",
+    "product_id": "mens-extra-mile-fleece-pullover/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Extra Mile Fleece Pullover",
+    "original_price": 118,
+    "sale_price": 70.8,
+    "price": 70.8,
+    "image": null,
+    "colors": [
+      "True Navy/Smoke"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-extra-mile-fleece-pullover/?variant=45258229776576&scrollTo=reviews",
+    "product_id": "mens-extra-mile-fleece-pullover/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-crewneck-sweater/?variant=46479502737600",
+    "product_id": "mens-commuter-crewneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Crew Neck Sweater",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "Cafe Noir",
+      "True Navy",
+      "Wild Forest",
+      "Gray Heather",
+      "Jungle Green",
+      "Tawny Port"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-crewneck-sweater/?variant=46479502737600&scrollTo=reviews",
+    "product_id": "mens-commuter-crewneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-slim-fit/?variant=46691522052288",
+    "product_id": "mens-state-of-mind-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "State of Mind Shirt - Slim",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "Pine Gray/White Plaid",
+      "Pacific Green Mini Windowpane",
+      "Bordeaux Red Plaid",
+      "Blue Pearl Houndstooth",
+      "Cinnamon Red Check",
+      "Lichen Green Grid",
+      "White",
+      "Blue",
+      "Navy/Pink Windowpane",
+      "+6"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-state-of-mind-shirt-slim-fit/?variant=46691522052288&scrollTo=reviews",
+    "product_id": "mens-state-of-mind-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-johnny-collar-polo/?variant=45860904796352",
+    "product_id": "mens-johnny-collar-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Johnny Collar Polo",
+    "original_price": 118,
+    "sale_price": 82.6,
+    "price": 82.6,
+    "image": null,
+    "colors": [
+      "Arctic Blue/White",
+      "Tidal Green/Sandstone",
+      "Sandstone/White"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-johnny-collar-polo/?variant=45860904796352&scrollTo=reviews",
+    "product_id": "mens-johnny-collar-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-camp-collar-shirt/?variant=44184573182144",
+    "product_id": "mens-camp-collar-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Camp Collar Shirt",
+    "original_price": 118,
+    "sale_price": 70.8,
+    "price": 70.8,
+    "image": null,
+    "colors": [
+      "Navy/Silver Bullet Floral Print"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-camp-collar-shirt/?variant=44184573182144&scrollTo=reviews",
+    "product_id": "mens-camp-collar-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-vest/?variant=43640415879360",
+    "product_id": "mens-fleece-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fleece Vest",
+    "original_price": 128,
+    "sale_price": 76.8,
+    "price": 76.8,
+    "image": null,
+    "colors": [
+      "Dark Gray Heather"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-vest/?variant=43640415879360&scrollTo=reviews",
+    "product_id": "mens-fleece-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-hoodie/?variant=43640413913280",
+    "product_id": "mens-heritage-midweight-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Heritage Midweight Hoodie",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Navy Heather",
+      "Black Heather",
+      "Olivine Heather",
+      "Heather Gray"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-heritage-midweight-hoodie/?variant=43640413913280&scrollTo=reviews",
+    "product_id": "mens-heritage-midweight-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rib-crewneck-sweater/?variant=46691520741568",
+    "product_id": "mens-rib-crewneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Rib Crewneck Sweater",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Black",
+      "Pine Gray"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-rib-crewneck-sweater/?variant=46691520741568&scrollTo=reviews",
+    "product_id": "mens-rib-crewneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-hoodie/?variant=46691521560768",
+    "product_id": "mens-dreamstate-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "DreamState Hoodie",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Pine Gray",
+      "Pure Black",
+      "True Navy",
+      "Wild Forest",
+      "Steel Gray"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dreamstate-hoodie/?variant=46691521560768&scrollTo=reviews",
+    "product_id": "mens-dreamstate-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pullover-shirt/?variant=46479472066752",
+    "product_id": "mens-commuter-pullover-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pullover Shirt",
+    "original_price": 128,
+    "sale_price": 102.4,
+    "price": 102.4,
+    "image": null,
+    "colors": [
+      "Business Blue",
+      "Gray Stone Oxford"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pullover-shirt/?variant=46479472066752&scrollTo=reviews",
+    "product_id": "mens-commuter-pullover-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sweatpant/?variant=45860903452864",
+    "product_id": "mens-range-sweatpant/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Range Sweatpant",
+    "original_price": 128,
+    "sale_price": 76.8,
+    "price": 76.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Gravel"
+    ],
+    "review_rating": 3.4,
+    "review_count": 3,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-sweatpant/?variant=45860903452864&scrollTo=reviews",
+    "product_id": "mens-range-sweatpant/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-clubhouse-golf-zip-hoodie/?variant=45554730893504",
+    "product_id": "mens-clubhouse-golf-zip-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Clubhouse Golf 1/4 Zip Hoodie",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Sleet Gray",
+      "True Navy"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-clubhouse-golf-zip-hoodie/?variant=45554730893504&scrollTo=reviews",
+    "product_id": "mens-clubhouse-golf-zip-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip-sweater/?variant=46691505897664",
+    "product_id": "mens-commuter-zip-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® 1/4 Zip Sweater",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Bone",
+      "Cafe Noir",
+      "Foggy Taupe",
+      "True Navy",
+      "Iron",
+      "Black",
+      "Gray Stone",
+      "True Navy/Savannah Tan",
+      "Gray Heather"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip-sweater/?variant=46691505897664&scrollTo=reviews",
+    "product_id": "mens-commuter-zip-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-stowaway-overshirt/?variant=45258241114304",
+    "product_id": "mens-stowaway-overshirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Stowaway Overshirt",
+    "original_price": 128,
+    "sale_price": 76.8,
+    "price": 76.8,
+    "image": null,
+    "colors": [
+      "Cinnamon Heather"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-stowaway-overshirt/?variant=45258241114304&scrollTo=reviews",
+    "product_id": "mens-stowaway-overshirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater/?variant=45258239344832",
+    "product_id": "mens-the-turn-golf-v-neck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Turn Golf V-Neck Sweater",
+    "original_price": 128,
+    "sale_price": 76.8,
+    "price": 76.8,
+    "image": null,
+    "colors": [
+      "True Navy"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-turn-golf-v-neck-sweater/?variant=45258239344832&scrollTo=reviews",
+    "product_id": "mens-the-turn-golf-v-neck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-short-sleeve-button-down/?variant=46188457623744",
+    "product_id": "mens-commuter-seersucker-short-sleeve-button-down/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Short Sleeve Button Down",
+    "original_price": 128,
+    "sale_price": 102.4,
+    "price": 102.4,
+    "image": null,
+    "colors": [
+      "Navy Chambray",
+      "Light Blue",
+      "White"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-short-sleeve-button-down/?variant=46188457623744&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-short-sleeve-button-down/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-camp-collar-shirt/?variant=46188458180800",
+    "product_id": "mens-commuter-seersucker-camp-collar-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Camp Collar Shirt - Classic",
+    "original_price": 128,
+    "sale_price": 102.4,
+    "price": 102.4,
+    "image": null,
+    "colors": [
+      "Yellow Dawn",
+      "Black",
+      "Bright White",
+      "Navy Stripe"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-camp-collar-shirt/?variant=46188458180800&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-camp-collar-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-golf-snap-crew-neck/?variant=44547851157696",
+    "product_id": "mens-momentum-golf-snap-crew-neck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Momentum Golf Snap Crew Neck",
+    "original_price": 128,
+    "sale_price": 102.4,
+    "price": 102.4,
+    "image": null,
+    "colors": [
+      "True Navy"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-momentum-golf-snap-crew-neck/?variant=44547851157696&scrollTo=reviews",
+    "product_id": "mens-momentum-golf-snap-crew-neck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-top-flight-vest/?variant=44184570167488",
+    "product_id": "mens-top-flight-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Top Flight Vest",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Blue Stone",
+      "Bright White"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-top-flight-vest/?variant=44184570167488&scrollTo=reviews",
+    "product_id": "mens-top-flight-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hudson-sweater/?variant=45851640725696",
+    "product_id": "mens-hudson-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Hudson Sweater",
+    "original_price": 128,
+    "sale_price": 89.6,
+    "price": 89.6,
+    "image": null,
+    "colors": [
+      "True Navy"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hudson-sweater/?variant=45851640725696&scrollTo=reviews",
+    "product_id": "mens-hudson-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-shirt/?variant=46691516612800",
+    "product_id": "mens-wfh-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "WFH Shirt",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Pine Gray",
+      "Wood Smoke",
+      "Bone",
+      "Cafe Noir Heather",
+      "Lichen Green Heather",
+      "Foggy Taupe Heather",
+      "True Black",
+      "Navy",
+      "Arctic Blue Heather",
+      "+3"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-wfh-shirt/?variant=46691516612800&scrollTo=reviews",
+    "product_id": "mens-wfh-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-short-sleeve-button-down/?variant=46479505359040",
+    "product_id": "mens-commuter-short-sleeve-button-down/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Short Sleeve Shirt - Classic",
+    "price": 118,
+    "image": null,
+    "colors": [
+      "White Wavy Stripe",
+      "Blue Mini Windowpane",
+      "Black",
+      "Lavender Dusk",
+      "Blue",
+      "Dark Blue Wide Stripe",
+      "Gray Linen Wide Stripe",
+      "Lichen Green Oxford"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-short-sleeve-button-down/?variant=46479505359040&scrollTo=reviews",
+    "product_id": "mens-commuter-short-sleeve-button-down/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip/?variant=42658287157440",
+    "product_id": "mens-commuter-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® 1/4 Zip",
+    "original_price": 128,
+    "sale_price": 102.4,
+    "price": 102.4,
+    "image": null,
+    "colors": [
+      "Black",
+      "Dark Gray Heather",
+      "Navy"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-zip/?variant=42658287157440&scrollTo=reviews",
+    "product_id": "mens-commuter-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tech-polo/?variant=43060450853056",
+    "product_id": "mens-tech-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Tech Polo",
+    "original_price": 128,
+    "sale_price": 76.8,
+    "price": 76.8,
+    "image": null,
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tech-polo/?variant=43060450853056&scrollTo=reviews",
+    "product_id": "mens-tech-polo/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-earl-golf-cardigan/?variant=45860881334464",
+    "product_id": "mens-earl-golf-cardigan/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Earl Golf Cardigan",
+    "original_price": 138,
+    "sale_price": 110.4,
+    "price": 110.4,
+    "image": null,
+    "colors": [
+      "True Navy/Stone Pinstripe"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-earl-golf-cardigan/?variant=45860881334464&scrollTo=reviews",
+    "product_id": "mens-earl-golf-cardigan/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar-athletic-fit/?variant=45860914528448",
+    "product_id": "mens-commuter-shirt-semi-spread-collar-athletic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt Semi Spread Collar - Athletic",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Business White",
+      "Business Blue",
+      "Pink Mini Windowpane"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar-athletic-fit/?variant=45860914528448&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-semi-spread-collar-athletic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-sweater-vest/?variant=45860915871936",
+    "product_id": "mens-commuter-sweater-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Sweater Vest",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Black",
+      "Griffin Gray",
+      "True Navy",
+      "Cafe Noir",
+      "Foggy Taupe"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-sweater-vest/?variant=45860915871936&scrollTo=reviews",
+    "product_id": "mens-commuter-sweater-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-button-down-slim-fit/?variant=45258248454336",
+    "product_id": "mens-commuter-seersucker-button-down-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Button Down - Slim",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Stone"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-button-down-slim-fit/?variant=45258248454336&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-button-down-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar/?variant=46691512680640",
+    "product_id": "mens-commuter-shirt-semi-spread-collar/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt Semi-Spread Collar",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Griffin Gray/Dark Green Stripe",
+      "Bold Blue/Brown Gingham",
+      "Business White",
+      "Business Blue",
+      "Pink Dot",
+      "Medium Blue Stripe",
+      "Pink Stripe",
+      "Gray Stone Oxford",
+      "Pink Mini Windowpane",
+      "+5"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-semi-spread-collar/?variant=46691512680640&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-semi-spread-collar/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-classic-fit/?variant=44365091209408",
+    "product_id": "mens-commuter-shirt-classic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt - Classic",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Business White",
+      "Business Blue",
+      "Cafe Noir Heather Oxford",
+      "Navy/Red Sharkstooth",
+      "True Navy",
+      "Black",
+      "Blue Stripe",
+      "Cinnamon Red Gingham",
+      "Black Oxford",
+      "+5"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-classic-fit/?variant=44365091209408&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-classic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-slim-fit/?variant=43787346706624",
+    "product_id": "mens-commuter-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Shirt - Slim",
+    "price": 138,
+    "image": null,
+    "colors": [
+      "Business White",
+      "Business Blue",
+      "Deep Sea Blue Oxford",
+      "Cafe Noir Heather Oxford",
+      "Navy/Light Blue Stripe",
+      "Navy/Red Sharkstooth",
+      "True Navy",
+      "Black",
+      "Blue Stripe",
+      "+16"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "bundle & save"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-shirt-slim-fit/?variant=43787346706624&scrollTo=reviews",
+    "product_id": "mens-commuter-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-air-tech-zip/?variant=46479474491584",
+    "product_id": "mens-air-tech-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Air Tech 1/4 Zip",
+    "original_price": 148,
+    "sale_price": 118.4,
+    "price": 118.4,
+    "image": null,
+    "colors": [
+      "Black",
+      "Moss Green"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-air-tech-zip/?variant=46479474491584&scrollTo=reviews",
+    "product_id": "mens-air-tech-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-zip-sweater/?variant=46128396894400",
+    "product_id": "mens-nba-commuter-zip-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atlanta Hawks NBA Commuter® 1/4 Zip Sweater",
+    "price": 148,
+    "image": null,
+    "colors": [
+      "Atlanta Hawks",
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "Charlotte Hornets",
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Dallas Mavericks",
+      "Denver Nuggets",
+      "Detroit Pistons",
+      "+21"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-zip-sweater/?variant=46128396894400&scrollTo=reviews",
+    "product_id": "mens-nba-commuter-zip-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-hoodie/?variant=45860914364608",
+    "product_id": "mens-range-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Range Hoodie",
+    "original_price": 148,
+    "sale_price": 118.4,
+    "price": 118.4,
+    "image": null,
+    "colors": [
+      "Black/White",
+      "Gravel"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-range-hoodie/?variant=45860914364608&scrollTo=reviews",
+    "product_id": "mens-range-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-navigator-knit-bomber/?variant=45860915085504",
+    "product_id": "mens-navigator-knit-bomber/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Navigator Knit Bomber",
+    "original_price": 148,
+    "sale_price": 88.8,
+    "price": 88.8,
+    "image": null,
+    "colors": [
+      "Black"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-navigator-knit-bomber/?variant=45860915085504&scrollTo=reviews",
+    "product_id": "mens-navigator-knit-bomber/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-spar-full-zip-hoodie-v2/?variant=45554726174912",
+    "product_id": "mens-spar-full-zip-hoodie-v2/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Spar Full Zip Hoodie V2",
+    "price": 148,
+    "image": null,
+    "colors": [
+      "Black",
+      "True Navy"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-spar-full-zip-hoodie-v2/?variant=45554726174912&scrollTo=reviews",
+    "product_id": "mens-spar-full-zip-hoodie-v2/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-zip/?variant=46691521233088",
+    "product_id": "mens-tribeca-tech-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Tribeca Tech 1/2 Zip",
+    "price": 168,
+    "image": null,
+    "colors": [
+      "Pine Gray",
+      "Black"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-zip/?variant=46691521233088&scrollTo=reviews",
+    "product_id": "mens-tribeca-tech-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-pullover/?variant=46691520905408",
+    "product_id": "mens-weekender-pullover/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Weekender Pullover",
+    "price": 148,
+    "image": null,
+    "colors": [
+      "Wood Smoke",
+      "Black",
+      "Stone",
+      "True Navy",
+      "Heather Gray"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-pullover/?variant=46691520905408&scrollTo=reviews",
+    "product_id": "mens-weekender-pullover/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-ripstop-anorak/?variant=45228331860160",
+    "product_id": "mens-invictus-ripstop-anorak/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Invictus Ripstop Anorak",
+    "original_price": 148,
+    "sale_price": 118.4,
+    "price": 118.4,
+    "image": null,
+    "colors": [
+      "Black",
+      "True Navy",
+      "Gravel"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-invictus-ripstop-anorak/?variant=45228331860160&scrollTo=reviews",
+    "product_id": "mens-invictus-ripstop-anorak/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hardy-flannel-shirt/?variant=46691516121280",
+    "product_id": "mens-hardy-flannel-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Hardy Flannel",
+    "price": 168,
+    "image": null,
+    "colors": [
+      "Pine Gray Plaid",
+      "True Navy Plaid",
+      "Foggy Taupe/Iron Buffalo Check",
+      "Fatigue Green/True Navy Plaid",
+      "Dark Caramel/Dark Espresso Buffalo Check",
+      "Sleet Gray Buffalo Check"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-hardy-flannel-shirt/?variant=46691516121280&scrollTo=reviews",
+    "product_id": "mens-hardy-flannel-shirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coaches-jacket/?variant=45860878319808",
+    "product_id": "mens-coaches-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Coaches Jacket",
+    "original_price": 158,
+    "sale_price": 126.4,
+    "price": 126.4,
+    "image": null,
+    "colors": [
+      "Dark Indigo"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-coaches-jacket/?variant=45860878319808&scrollTo=reviews",
+    "product_id": "mens-coaches-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-shirt-slim-fit/?variant=45843176292544",
+    "product_id": "mens-nba-commuter-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Atlanta Hawks NBA Commuter® Shirt",
+    "price": 158,
+    "image": null,
+    "colors": [
+      "Atlanta Hawks",
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "Charlotte Hornets",
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Dallas Mavericks",
+      "Denver Nuggets",
+      "Detroit Pistons",
+      "+21"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-nba-commuter-shirt-slim-fit/?variant=45843176292544&scrollTo=reviews",
+    "product_id": "mens-nba-commuter-shirt-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-thermal-run-zip/?variant=45554747572416",
+    "product_id": "mens-thermal-run-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Thermal Run 1/2 Zip",
+    "original_price": 158,
+    "sale_price": 94.8,
+    "price": 94.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Abyss Gray"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-thermal-run-zip/?variant=45554747572416&scrollTo=reviews",
+    "product_id": "mens-thermal-run-zip/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-quantum-crewneck/?variant=45554726502592",
+    "product_id": "mens-the-quantum-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Quantum Crew Neck",
+    "original_price": 158,
+    "sale_price": 94.8,
+    "price": 94.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Sleet Gray"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-the-quantum-crewneck/?variant=45554726502592&scrollTo=reviews",
+    "product_id": "mens-the-quantum-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fair-isle-crewneck-sweater/?variant=45554734235840",
+    "product_id": "mens-fair-isle-crewneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fair Isle Crew Neck Sweater",
+    "price": 158,
+    "image": null,
+    "colors": [
+      "Smoked Pearl"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fair-isle-crewneck-sweater/?variant=45554734235840&scrollTo=reviews",
+    "product_id": "mens-fair-isle-crewneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-shacket/?variant=46479473311936",
+    "product_id": "mens-fairbanks-fleece-shacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fairbanks Fleece Shacket",
+    "price": 188,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Cafe Noir"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-shacket/?variant=46479473311936&scrollTo=reviews",
+    "product_id": "mens-fairbanks-fleece-shacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-pullover/?variant=46479475015872",
+    "product_id": "mens-fairbanks-fleece-pullover/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fairbanks Fleece Pullover",
+    "price": 188,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Cafe Noir",
+      "Foggy Taupe"
+    ],
+    "review_rating": 4,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-pullover/?variant=46479475015872&scrollTo=reviews",
+    "product_id": "mens-fairbanks-fleece-pullover/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dune-golf-jacket/?variant=45860914299072",
+    "product_id": "mens-dune-golf-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Dune Golf Jacket",
+    "original_price": 168,
+    "sale_price": 117.6,
+    "price": 117.6,
+    "image": null,
+    "colors": [
+      "Navy Windowpane Check",
+      "White Windowpane Check"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-dune-golf-jacket/?variant=45860914299072&scrollTo=reviews",
+    "product_id": "mens-dune-golf-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-vest/?variant=45554730270912",
+    "product_id": "mens-skyline-quilted-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Skyline Quilted Vest",
+    "price": 168,
+    "image": null,
+    "colors": [
+      "Black",
+      "Folkstone Gray"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "selling fast"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-vest/?variant=45554730270912&scrollTo=reviews",
+    "product_id": "mens-skyline-quilted-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-shacket/?variant=46691516940480",
+    "product_id": "mens-weekender-shacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Weekender Shacket",
+    "price": 178,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Pine Gray"
+    ],
+    "review_rating": 4.4,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-weekender-shacket/?variant=46691516940480&scrollTo=reviews",
+    "product_id": "mens-weekender-shacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-hoodie/?variant=43787351425216",
+    "product_id": "mens-tribeca-tech-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Tribeca Tech Hoodie",
+    "price": 168,
+    "image": null,
+    "colors": [
+      "Black",
+      "Chocolate Chip"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-tribeca-tech-hoodie/?variant=43787351425216&scrollTo=reviews",
+    "product_id": "mens-tribeca-tech-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-shacket/?variant=46479478522048",
+    "product_id": "mens-fleece-shacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fleece Shacket",
+    "price": 178,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Bone",
+      "Cafe Noir",
+      "Dark Gray Heather",
+      "Oatmeal Heather",
+      "Lichen Green",
+      "Dark Moss Heather",
+      "Vintage Indigo Heather"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "vintage indigo heather"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fleece-shacket/?variant=46479478522048&scrollTo=reviews",
+    "product_id": "mens-fleece-shacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-walden-waffle-knit-sweater/?variant=45554742493376",
+    "product_id": "mens-walden-waffle-knit-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Walden Waffle Cashmere Blend Sweater",
+    "original_price": 178,
+    "sale_price": 106.8,
+    "price": 106.8,
+    "image": null,
+    "colors": [
+      "Blue Horizon Marle"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-walden-waffle-knit-sweater/?variant=45554742493376&scrollTo=reviews",
+    "product_id": "mens-walden-waffle-knit-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-vest/?variant=43787342446784",
+    "product_id": "mens-alpine-insulated-active-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Alpine Insulated Active Vest",
+    "price": 178,
+    "image": null,
+    "colors": [
+      "Black"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-vest/?variant=43787342446784&scrollTo=reviews",
+    "product_id": "mens-alpine-insulated-active-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-vest/?variant=46479484518592",
+    "product_id": "mens-voyage-down-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Voyage Down Vest",
+    "price": 218,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Black"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-vest/?variant=46479484518592&scrollTo=reviews",
+    "product_id": "mens-voyage-down-vest/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-jacket/?variant=45554735055040",
+    "product_id": "mens-skyline-quilted-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Skyline Quilted Jacket",
+    "price": 198,
+    "image": null,
+    "colors": [
+      "Folkstone Gray"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "selling fast"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-skyline-quilted-jacket/?variant=45554735055040&scrollTo=reviews",
+    "product_id": "mens-skyline-quilted-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-jacket/?variant=45258228465856",
+    "product_id": "mens-fairbanks-fleece-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Fairbanks Fleece Jacket",
+    "price": 198,
+    "image": null,
+    "colors": [
+      "Stone/Shale"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "selling fast"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-fairbanks-fleece-jacket/?variant=45258228465856&scrollTo=reviews",
+    "product_id": "mens-fairbanks-fleece-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-jacket/?variant=43787346903232",
+    "product_id": "mens-alpine-insulated-active-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Alpine Insulated Active Jacket",
+    "price": 198,
+    "image": null,
+    "colors": [
+      "Black",
+      "Deep Water Blue",
+      "Abyss Gray"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-alpine-insulated-active-jacket/?variant=43787346903232&scrollTo=reviews",
+    "product_id": "mens-alpine-insulated-active-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-beacon-mockneck-sweater/?variant=45554741772480",
+    "product_id": "mens-beacon-mockneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Beacon Cashmere Blend Mock Neck Sweater",
+    "original_price": 218,
+    "sale_price": 130.8,
+    "price": 130.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Light Gray Heather",
+      "Stone Marle"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-beacon-mockneck-sweater/?variant=45554741772480&scrollTo=reviews",
+    "product_id": "mens-beacon-mockneck-sweater/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-jacket/?variant=46479504376000",
+    "product_id": "mens-voyage-down-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Voyage Down Jacket",
+    "price": 268,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Black",
+      "Steel Gray"
+    ],
+    "review_rating": 4.6,
+    "review_count": 4,
+    "badges": [
+      "new"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-voyage-down-jacket/?variant=46479504376000&scrollTo=reviews",
+    "product_id": "mens-voyage-down-jacket/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aux-mac-coat/?variant=45860877729984",
+    "product_id": "mens-aux-mac-coat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "AUX Mac Coat",
+    "price": 298,
+    "image": null,
+    "colors": [
+      "Camel",
+      "True Navy",
+      "Silver Moon"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-aux-mac-coat/?variant=45860877729984&scrollTo=reviews",
+    "product_id": "mens-aux-mac-coat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-classic-fit/?variant=44184571084992",
+    "product_id": "mens-commuter-blazer-classic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Blazer - Classic",
+    "price": 298,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Black"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-classic-fit/?variant=44184571084992&scrollTo=reviews",
+    "product_id": "mens-commuter-blazer-classic-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-slim/?variant=46624335265984",
+    "product_id": "mens-commuter-pro-blazer-slim/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Blazer - Slim",
+    "price": 298,
+    "image": null,
+    "colors": [
+      "Foggy Taupe",
+      "True Navy Glen Plaid"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-slim/?variant=46624335265984&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-blazer-slim/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-athletic/?variant=46479472230592",
+    "product_id": "mens-commuter-pro-blazer-athletic/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Blazer - Athletic",
+    "price": 298,
+    "image": null,
+    "colors": [
+      "Dark Gray",
+      "True Navy Glen Plaid"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "restocked"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-blazer-athletic/?variant=46479472230592&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-blazer-athletic/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-sport-coat-slim-fit/?variant=45554741936320",
+    "product_id": "mens-commuter-pro-sport-coat-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Pro Sport Coat - Slim",
+    "original_price": 318,
+    "sale_price": 190.8,
+    "price": 190.8,
+    "image": null,
+    "colors": [
+      "Iron Glen Plaid"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-pro-sport-coat-slim-fit/?variant=45554741936320&scrollTo=reviews",
+    "product_id": "mens-commuter-pro-sport-coat-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-sport-coat/?variant=44547855122624",
+    "product_id": "mens-commuter-seersucker-sport-coat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Seersucker Sport Coat",
+    "original_price": 308,
+    "sale_price": 246.4,
+    "price": 246.4,
+    "image": null,
+    "colors": [
+      "True Navy",
+      "Gray Stone Stripe",
+      "Stone"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-seersucker-sport-coat/?variant=44547855122624&scrollTo=reviews",
+    "product_id": "mens-commuter-seersucker-sport-coat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-slim-fit/?variant=43640402542784",
+    "product_id": "mens-commuter-blazer-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Blazer - Slim",
+    "price": 298,
+    "image": null,
+    "colors": [
+      "Black",
+      "True Navy",
+      "Lichen Green",
+      "Stone",
+      "Iron"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-blazer-slim-fit/?variant=43640402542784&scrollTo=reviews",
+    "product_id": "mens-commuter-blazer-slim-fit/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-topcoat/?variant=45554739347648",
+    "product_id": "mens-commuter-topcoat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Commuter® Topcoat",
+    "price": 498,
+    "image": null,
+    "colors": [
+      "Savannah Tan Heather",
+      "Dark Espresso Heather",
+      "Black Heather"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/mens-commuter-topcoat/?variant=45554739347648&scrollTo=reviews",
+    "product_id": "mens-commuter-topcoat/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-rib-zip-tank/?variant=46477050642624",
+    "product_id": "womens-revive-rib-zip-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Revive™ Rib Zip Tank",
+    "original_price": 98,
+    "sale_price": 58.8,
+    "price": 58.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Beige Stone",
+      "Green Smoke",
+      "Deep Mauve"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-rib-zip-tank/?variant=46477050642624&scrollTo=reviews",
+    "product_id": "womens-revive-rib-zip-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-seamless-embossed-crop-tank/?variant=45940052295872",
+    "product_id": "womens-seamless-embossed-crop-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Seamless Embossed Crop Tank",
+    "original_price": 64,
+    "sale_price": 38.4,
+    "price": 38.4,
+    "image": null,
+    "colors": [
+      "Blue Orion",
+      "Black",
+      "Asphalt",
+      "Rose Dust"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-seamless-embossed-crop-tank/?variant=45940052295872&scrollTo=reviews",
+    "product_id": "womens-seamless-embossed-crop-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-sport-bra/?variant=46180614144192",
+    "product_id": "womens-revive-sport-bra/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Revive™ Sport Bra",
+    "price": 48,
+    "image": null,
+    "colors": [
+      "Snow White",
+      "Cranberry",
+      "Black",
+      "Dark Espresso",
+      "Navy Blue",
+      "Wild Forest",
+      "Deep Mauve",
+      "Green Smoke",
+      "Blue Dawn",
+      "Blue Orion",
+      "+1"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "badges": [
+      "selling fast"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-sport-bra/?variant=46180614144192&scrollTo=reviews",
+    "product_id": "womens-revive-sport-bra/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-rib-longline-bra/?variant=46477059064000",
+    "product_id": "womens-revive-rib-longline-bra/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Revive™ Rib Longline Bra",
+    "original_price": 68,
+    "sale_price": 40.8,
+    "price": 40.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Beige Stone",
+      "Green Smoke",
+      "Deep Mauve"
+    ],
+    "review_rating": 3.8,
+    "review_count": 3,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-rib-longline-bra/?variant=46477059064000&scrollTo=reviews",
+    "product_id": "womens-revive-rib-longline-bra/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-hoodie/?variant=45325133086912",
+    "product_id": "womens-serene-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Serene Hoodie",
+    "original_price": 88,
+    "sale_price": 52.8,
+    "price": 52.8,
+    "image": null,
+    "colors": [
+      "Navy Blue",
+      "Black"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-hoodie/?variant=45325133086912&scrollTo=reviews",
+    "product_id": "womens-serene-hoodie/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-cropped-short-sleeve/?variant=46180642422976",
+    "product_id": "womens-serene-cropped-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Serene Cropped Tee",
+    "original_price": 68,
+    "sale_price": 40.8,
+    "price": 40.8,
+    "image": null,
+    "colors": [
+      "Sienna Red",
+      "Black",
+      "Dark Espresso",
+      "Wild Forest",
+      "Snow White",
+      "Deep Mauve",
+      "Green Smoke",
+      "Pacific Green",
+      "Coffee Brown"
+    ],
+    "review_rating": 5,
+    "review_count": 5,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-cropped-short-sleeve/?variant=46180642422976&scrollTo=reviews",
+    "product_id": "womens-serene-cropped-short-sleeve/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-mock-neck/?variant=46477061587136",
+    "product_id": "womens-serene-mock-neck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Serene Mock Neck",
+    "original_price": 84,
+    "sale_price": 50.4,
+    "price": 50.4,
+    "image": null,
+    "colors": [
+      "Black",
+      "Snow White"
+    ],
+    "review_rating": 0,
+    "review_count": 0,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-mock-neck/?variant=46477061587136&scrollTo=reviews",
+    "product_id": "womens-serene-mock-neck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-rib-dress/?variant=46477038682304",
+    "product_id": "womens-revive-rib-dress/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Revive™ Rib Dress",
+    "original_price": 128,
+    "sale_price": 76.8,
+    "price": 76.8,
+    "image": null,
+    "colors": [
+      "Black",
+      "Beige Stone",
+      "Green Smoke",
+      "Deep Mauve"
+    ],
+    "review_rating": 4.8,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-revive-rib-dress/?variant=46477038682304&scrollTo=reviews",
+    "product_id": "womens-revive-rib-dress/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-fitted-rib-tank/?variant=46477058048192",
+    "product_id": "womens-serene-fitted-rib-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Serene Fitted Rib Tank",
+    "original_price": 74,
+    "sale_price": 44.4,
+    "price": 44.4,
+    "image": null,
+    "colors": [
+      "Beige Stone",
+      "Black",
+      "Green Smoke",
+      "Deep Mauve"
+    ],
+    "review_rating": 4.4,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-serene-fitted-rib-tank/?variant=46477058048192&scrollTo=reviews",
+    "product_id": "womens-serene-fitted-rib-tank/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-porto-merino-blend-sweater-skirt/?variant=45325127385280",
+    "product_id": "womens-porto-merino-blend-sweater-skirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Porto Merino Blend Sweater Skirt",
+    "original_price": 118,
+    "sale_price": 70.8,
+    "price": 70.8,
+    "image": null,
+    "colors": [
+      "Rose Vapor",
+      "Black",
+      "Charcoal Heather"
+    ],
+    "review_rating": 4.7,
+    "review_count": 4,
+    "badges": [
+      "sale"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-porto-merino-blend-sweater-skirt/?variant=45325127385280&scrollTo=reviews",
+    "product_id": "womens-porto-merino-blend-sweater-skirt/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-dreamglow-crewneck/?variant=46477061193920",
+    "product_id": "womens-dreamglow-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "DreamGlow™ Crew Neck",
+    "price": 108,
+    "image": null,
+    "colors": [
+      "Pure Black Heather",
+      "Dark Moss",
+      "Burnt Orange",
+      "Blue Vapor",
+      "Beige Stone",
+      "Lemon Mist",
+      "Pacific Green",
+      "Navy Blue",
+      "Sand",
+      "Black Heather",
+      "+1"
+    ],
+    "review_rating": 4.9,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-dreamglow-crewneck/?variant=46477061193920&scrollTo=reviews",
+    "product_id": "womens-dreamglow-crewneck/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-defy-compression-pocket-legging/?variant=46477055000768",
+    "product_id": "womens-defy-compression-pocket-legging/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false,
+    "name": "Defy Compression 7/8 Pocket Legging",
+    "price": 128,
+    "image": null,
+    "colors": [
+      "Wild Forest",
+      "Dark Espresso",
+      "Blue Orion"
+    ],
+    "review_rating": 4.5,
+    "review_count": 4,
+    "is_best_seller": true,
+    "badges": [
+      "best-seller"
+    ],
+    "gender": "Men"
+  },
+  {
+    "url": "https://www.rhone.com/products/womens-defy-compression-pocket-legging/?variant=46477055000768&scrollTo=reviews",
+    "product_id": "womens-defy-compression-pocket-legging/",
+    "brand": "Rhone",
+    "scraped_at": "2025-11-12T23:50:04.358Z",
+    "is_homepage_product": false
+  }
+]

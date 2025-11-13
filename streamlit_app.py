@@ -16,34 +16,87 @@ from database.supabase_client import SupabaseClient
 
 # Page configuration
 st.set_page_config(
-    page_title="Rhone Product Analytics Dashboard",
+    page_title="Rhone Product Analytics",
     page_icon="👕",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
-# Custom CSS
+# Custom CSS - Modern, dense design inspired by Seattle Weather demo
 st.markdown("""
 <style>
-    .main-header {
-        font-size: 3rem;
-        font-weight: bold;
-        color: #1f77b4;
-        text-align: center;
-        margin-bottom: 2rem;
+    /* Reduce padding and margins for denser layout */
+    .block-container {
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
     }
-    .metric-card {
-        background-color: #f0f2f6;
-        padding: 1.5rem;
-        border-radius: 0.5rem;
-        border-left: 5px solid #1f77b4;
+
+    /* Compact header */
+    h1 {
+        font-size: 2rem !important;
+        font-weight: 600 !important;
+        margin-bottom: 0.5rem !important;
+        padding-bottom: 0.5rem !important;
     }
-    .section-header {
-        font-size: 1.8rem;
-        font-weight: bold;
-        margin-top: 2rem;
-        margin-bottom: 1rem;
-        color: #2c3e50;
+
+    h2 {
+        font-size: 1.3rem !important;
+        font-weight: 600 !important;
+        margin-top: 1.5rem !important;
+        margin-bottom: 0.75rem !important;
+    }
+
+    h3 {
+        font-size: 1.1rem !important;
+        font-weight: 500 !important;
+        margin-top: 1rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    /* Compact metrics */
+    [data-testid="stMetricValue"] {
+        font-size: 1.8rem !important;
+    }
+
+    [data-testid="stMetricLabel"] {
+        font-size: 0.85rem !important;
+    }
+
+    /* Remove extra spacing */
+    .element-container {
+        margin-bottom: 0.5rem !important;
+    }
+
+    /* Compact dataframes */
+    .dataframe {
+        font-size: 0.85rem !important;
+    }
+
+    /* Cleaner tabs */
+    .stTabs [data-baseweb="tab-list"] {
+        gap: 1rem;
+    }
+
+    .stTabs [data-baseweb="tab"] {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    /* Reduce chart padding */
+    .js-plotly-plot {
+        margin-bottom: 0.5rem !important;
+    }
+
+    /* Divider styling */
+    hr {
+        margin: 1rem 0 !important;
+    }
+
+    /* Compact sidebar */
+    section[data-testid="stSidebar"] {
+        width: 250px !important;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -77,6 +130,22 @@ def display_overview(df):
     """Display overview metrics"""
     st.markdown('<div class="section-header">📊 Overview</div>', unsafe_allow_html=True)
 
+    # Calculate SKU counts (product-color combinations)
+    def calculate_sku_count(dataframe):
+        """Calculate total SKUs as product-color combinations"""
+        total_skus = 0
+        for _, row in dataframe.iterrows():
+            if 'colors' in row and row['colors']:
+                # Count each color as a separate SKU
+                if isinstance(row['colors'], list):
+                    total_skus += len(row['colors'])
+                else:
+                    total_skus += 1
+            else:
+                # Product with no colors counts as 1 SKU
+                total_skus += 1
+        return total_skus
+
     # Overall stats
     col1, col2, col3, col4 = st.columns(4)
 
@@ -95,6 +164,26 @@ def display_overview(df):
         womens_count = len(df[df["gender"] == "Women"]) if "gender" in df.columns else 0
         st.metric("Women's Products", womens_count)
 
+    # SKU counts row
+    st.markdown("---")
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        total_skus = calculate_sku_count(df)
+        st.metric("Total SKUs", total_skus, help="Each product-color combination counts as one SKU")
+
+    with col2:
+        if "gender" in df.columns:
+            mens_df = df[df["gender"] == "Men"]
+            mens_skus = calculate_sku_count(mens_df)
+            st.metric("Men's SKUs", mens_skus, help="Men's product-color combinations")
+
+    with col3:
+        if "gender" in df.columns:
+            womens_df = df[df["gender"] == "Women"]
+            womens_skus = calculate_sku_count(womens_df)
+            st.metric("Women's SKUs", womens_skus, help="Women's product-color combinations")
+
     # Gender breakdown
     st.markdown('<div class="section-header">👥 Products by Gender & Category</div>', unsafe_allow_html=True)
 
@@ -105,22 +194,15 @@ def display_overview(df):
         with col1:
             st.markdown("### 👔 Men's Products")
             mens_df = df[df["gender"] == "Men"]
-            st.metric("Total Men's Products", len(mens_df))
 
             if len(mens_df) > 0:
                 mens_by_category = mens_df.groupby("category").size().sort_values(ascending=False)
 
-                # Display as a table
                 mens_category_df = pd.DataFrame({
                     'Category': mens_by_category.index,
                     'Count': mens_by_category.values,
                     'Percentage': (mens_by_category.values / len(mens_df) * 100).round(1)
                 })
-                st.dataframe(
-                    mens_category_df,
-                    hide_index=True,
-                    use_container_width=True
-                )
 
                 # Pie chart
                 fig = px.pie(
@@ -129,27 +211,21 @@ def display_overview(df):
                     names='Category',
                     title="Men's Products by Category"
                 )
+                fig.update_traces(texttemplate='%{label}<br>%{value} (%{percent})')
                 st.plotly_chart(fig, use_container_width=True)
 
         with col2:
             st.markdown("### 👗 Women's Products")
             womens_df = df[df["gender"] == "Women"]
-            st.metric("Total Women's Products", len(womens_df))
 
             if len(womens_df) > 0:
                 womens_by_category = womens_df.groupby("category").size().sort_values(ascending=False)
 
-                # Display as a table
                 womens_category_df = pd.DataFrame({
                     'Category': womens_by_category.index,
                     'Count': womens_by_category.values,
                     'Percentage': (womens_by_category.values / len(womens_df) * 100).round(1)
                 })
-                st.dataframe(
-                    womens_category_df,
-                    hide_index=True,
-                    use_container_width=True
-                )
 
                 # Pie chart
                 fig = px.pie(
@@ -158,6 +234,7 @@ def display_overview(df):
                     names='Category',
                     title="Women's Products by Category"
                 )
+                fig.update_traces(texttemplate='%{label}<br>%{value} (%{percent})')
                 st.plotly_chart(fig, use_container_width=True)
 
 
@@ -186,6 +263,7 @@ def display_category_analysis(df):
             color="Count",
             color_continuous_scale="Blues"
         )
+        fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
         fig.update_layout(xaxis_tickangle=-45, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -437,6 +515,7 @@ def display_color_analysis(df):
             color="Color",
             color_discrete_map={row["Color"]: row["hex"] for _, row in color_counts.iterrows()}
         )
+        fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
         fig.update_layout(showlegend=False, xaxis_tickangle=-45)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -470,6 +549,7 @@ def display_color_analysis(df):
             barmode="stack",
             color_discrete_map=color_discrete_map
         )
+        fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
         fig.update_layout(xaxis_tickangle=-45)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -545,6 +625,7 @@ def display_color_analysis(df):
                     color="Color",
                     color_discrete_map=color_discrete_map
                 )
+                fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
                 fig.update_layout(showlegend=False, xaxis_tickangle=-45)
                 st.plotly_chart(fig, use_container_width=True)
 
@@ -575,6 +656,7 @@ def display_color_analysis(df):
                     color="Color",
                     color_discrete_map=color_discrete_map
                 )
+                fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
                 fig.update_layout(showlegend=False, xaxis_tickangle=-45)
                 st.plotly_chart(fig, use_container_width=True)
 
@@ -628,6 +710,7 @@ def display_fabric_analysis(df):
             color="Count",
             color_continuous_scale="Greens"
         )
+        fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
         fig.update_layout(showlegend=False, xaxis_tickangle=-45)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -656,6 +739,7 @@ def display_fabric_analysis(df):
             title="Top 5 Fabrics per Category",
             barmode="stack"
         )
+        fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
         fig.update_layout(xaxis_tickangle=-45)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -935,6 +1019,7 @@ def display_sales_analysis(df):
                     barmode="stack",
                     color_discrete_map={"On Sale": "#FF6B6B", "Full Price": "#4ECDC4"}
                 )
+                fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
 
                 # Add percentage text annotations
                 for idx, row in mens_combined.iterrows():
@@ -990,6 +1075,7 @@ def display_sales_analysis(df):
                     barmode="stack",
                     color_discrete_map={"On Sale": "#FF6B6B", "Full Price": "#4ECDC4"}
                 )
+                fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
 
                 # Add percentage text annotations
                 for idx, row in womens_combined.iterrows():
@@ -1034,6 +1120,7 @@ def display_sales_analysis(df):
                         color="Color",
                         color_discrete_map=color_discrete_map
                     )
+                    fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
                     fig.update_layout(showlegend=False, xaxis_tickangle=-45)
                     st.plotly_chart(fig, use_container_width=True)
                 else:
@@ -1057,6 +1144,7 @@ def display_sales_analysis(df):
                         color="Color",
                         color_discrete_map=color_discrete_map
                     )
+                    fig.update_traces(marker=dict(line=dict(color="rgba(0,0,0,0.1)", width=1)))
                     fig.update_layout(showlegend=False, xaxis_tickangle=-45)
                     st.plotly_chart(fig, use_container_width=True)
                 else:

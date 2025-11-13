@@ -40,6 +40,20 @@ CREATE TABLE products (
     sku TEXT,
     availability TEXT,
 
+    -- Reviews and ratings
+    review_rating DECIMAL(3, 2),  -- Average rating (e.g., 4.5)
+    review_count INTEGER,         -- Number of reviews
+
+    -- Product badges
+    badges JSONB,  -- Array of badges like ["best-seller", "new", "restocked", "sale"]
+
+    -- Brand and competitor analysis
+    brand TEXT,    -- Brand name (e.g., "Rhone", "Vuori", "Lululemon")
+    competitor_name TEXT,  -- For competitive analysis tracking
+    store_url TEXT,
+    tags JSONB,    -- Product tags
+    vendor TEXT,   -- Vendor/brand name (Shopify-specific)
+
     -- Timestamps
     created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
@@ -51,6 +65,10 @@ CREATE INDEX idx_products_gender ON products(gender);
 CREATE INDEX idx_products_best_seller ON products(is_best_seller);
 CREATE INDEX idx_products_homepage ON products(is_homepage_product);
 CREATE INDEX idx_products_scraped_at ON products(scraped_at DESC);
+CREATE INDEX idx_products_review_rating ON products(review_rating DESC);
+CREATE INDEX idx_products_review_count ON products(review_count DESC);
+CREATE INDEX idx_products_brand ON products(brand);
+CREATE INDEX idx_products_competitor ON products(competitor_name);
 
 -- Create a unique index on the first image URL (to prevent duplicate color variants)
 CREATE UNIQUE INDEX idx_products_first_image ON products((images->0));
@@ -109,8 +127,14 @@ WHERE is_best_seller = TRUE
 ORDER BY best_seller_rank ASC NULLS LAST, name ASC;
 
 -- Comments
-COMMENT ON TABLE products IS 'Stores product data scraped from Rhone.com';
+COMMENT ON TABLE products IS 'Stores product data scraped from Rhone.com and competitor sites';
 COMMENT ON COLUMN products.colors IS 'JSON array of available color options';
 COMMENT ON COLUMN products.sizes IS 'JSON array of available sizes';
 COMMENT ON COLUMN products.fabrics IS 'JSON array of fabric materials used';
 COMMENT ON COLUMN products.images IS 'JSON array of product image URLs';
+COMMENT ON COLUMN products.review_rating IS 'Average customer review rating (0-5 scale)';
+COMMENT ON COLUMN products.review_count IS 'Total number of customer reviews';
+COMMENT ON COLUMN products.badges IS 'JSON array of product badges (e.g., ["best-seller", "new", "restocked"])';
+COMMENT ON COLUMN products.brand IS 'Brand name - primary identifier for filtering (e.g., "Rhone", "Vuori", "Lululemon")';
+COMMENT ON COLUMN products.competitor_name IS 'Name of competitor brand (for competitive analysis)';
+COMMENT ON COLUMN products.tags IS 'JSON array of product tags from e-commerce platform';

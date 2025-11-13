@@ -69,7 +69,14 @@ class SupabaseClient:
         """Insert multiple products into the database"""
         # Process each product individually to avoid conflicts within batch
         successful = []
+        skipped_no_name = 0
+
         for product in products:
+            # Skip products without a name (database has NOT NULL constraint)
+            if not product.get('name'):
+                skipped_no_name += 1
+                continue
+
             # Convert lists to JSON for JSONB columns
             product_copy = product.copy()
 
@@ -85,15 +92,21 @@ class SupabaseClient:
             if "images" in product_copy and isinstance(product_copy["images"], list):
                 product_copy["images"] = json.dumps(product_copy["images"])
 
+            if "badges" in product_copy and isinstance(product_copy["badges"], list):
+                product_copy["badges"] = json.dumps(product_copy["badges"])
+
             try:
                 # Insert without upsert (will fail if duplicate)
                 response = self.client.table("products").insert(product_copy).execute()
                 successful.append(response.data)
             except Exception as e:
                 # Skip duplicates silently
-                if "duplicate" not in str(e).lower() and "unique" not in str(e).lower():
+                if "duplicate" not in str(e).lower() and "unique" not in str(e).lower() and "null value" not in str(e).lower():
                     print(f"  Error inserting product {product.get('product_id', 'unknown')}: {e}")
                 continue
+
+        if skipped_no_name > 0:
+            print(f"  Skipped {skipped_no_name} products without names")
 
         return successful
 
