@@ -3694,6 +3694,150 @@ def display_lululemon_analysis(df):
             else:
                 st.info("No women's sale data available")
 
+    # Reddit Sentiment Analysis
+    st.divider()
+    st.markdown('<div class="section-header">💬 Reddit Brand Sentiment</div>', unsafe_allow_html=True)
+
+    # Check if Reddit report exists
+    reddit_report_path = "data/lululemon_reddit_report.json"
+    if os.path.exists(reddit_report_path):
+        try:
+            with open(reddit_report_path, 'r') as f:
+                reddit_data = json.load(f)
+
+            # Display key metrics
+            col1, col2, col3, col4 = st.columns(4)
+
+            with col1:
+                st.metric("Total Mentions", f"{reddit_data.get('total_mentions', 0):,}")
+
+            with col2:
+                sentiment_dist = reddit_data.get('sentiment_distribution', {})
+                positive_pct = (sentiment_dist.get('Positive', 0) / reddit_data.get('total_mentions', 1) * 100) if reddit_data.get('total_mentions', 0) > 0 else 0
+                st.metric("Positive Sentiment", f"{positive_pct:.0f}%")
+
+            with col3:
+                negative_pct = (sentiment_dist.get('Negative', 0) / reddit_data.get('total_mentions', 1) * 100) if reddit_data.get('total_mentions', 0) > 0 else 0
+                st.metric("Negative Sentiment", f"{negative_pct:.0f}%")
+
+            with col4:
+                top_subreddits = reddit_data.get('top_subreddits', {})
+                top_subreddit = list(top_subreddits.keys())[0] if top_subreddits else "N/A"
+                st.metric("Top Subreddit", f"r/{top_subreddit}")
+
+            st.markdown(f"*Data from the past {reddit_data.get('time_period', 'month')}*")
+
+            # Sentiment distribution chart
+            if sentiment_dist:
+                sentiment_df = pd.DataFrame({
+                    'Sentiment': list(sentiment_dist.keys()),
+                    'Count': list(sentiment_dist.values())
+                })
+
+                col1, col2 = st.columns(2)
+
+                with col1:
+                    # Pie chart
+                    fig_sentiment = px.pie(
+                        sentiment_df,
+                        values='Count',
+                        names='Sentiment',
+                        title='Sentiment Distribution',
+                        color='Sentiment',
+                        color_discrete_map={
+                            'Positive': '#00CC96',
+                            'Neutral': '#636EFA',
+                            'Negative': '#EF553B'
+                        }
+                    )
+                    fig_sentiment.update_layout(height=300, margin=dict(l=20, r=20, t=40, b=20))
+                    st.plotly_chart(fig_sentiment, use_container_width=True)
+
+                with col2:
+                    # Top subreddits
+                    if top_subreddits:
+                        subreddit_df = pd.DataFrame({
+                            'Subreddit': [f"r/{k}" for k in list(top_subreddits.keys())[:5]],
+                            'Mentions': list(top_subreddits.values())[:5]
+                        })
+                        fig_subreddits = px.bar(
+                            subreddit_df,
+                            x='Mentions',
+                            y='Subreddit',
+                            orientation='h',
+                            title='Top Subreddits by Mentions'
+                        )
+                        fig_subreddits.update_layout(height=300, margin=dict(l=20, r=20, t=40, b=20))
+                        st.plotly_chart(fig_subreddits, use_container_width=True)
+
+            # What People Love / Complain About
+            col1, col2 = st.columns(2)
+
+            with col1:
+                st.markdown("#### 💚 What People Love")
+                # Extract positive comments/posts with links
+                all_mentions = reddit_data.get('all_mentions', [])
+                positive_mentions = []
+                for m in all_mentions:
+                    if m.get('sentiment') == 'Positive' and m.get('positive_score', 0) > 0:
+                        text = m.get('text', '') or m.get('title', '')
+                        url = m.get('url', '')
+                        if text and len(text) > 20:
+                            positive_mentions.append({
+                                'text': text[:150],
+                                'url': url
+                            })
+
+                if positive_mentions:
+                    for mention in positive_mentions[:5]:
+                        st.markdown(f"- \"{mention['text']}...\" [[↗]({mention['url']})]")
+                else:
+                    st.info("No positive feedback found")
+
+            with col2:
+                st.markdown("#### 💔 What People Complain About")
+                # Extract negative comments/posts with links
+                negative_mentions = []
+                for m in all_mentions:
+                    if m.get('sentiment') == 'Negative' and m.get('negative_score', 0) > 0:
+                        text = m.get('text', '') or m.get('title', '')
+                        url = m.get('url', '')
+                        if text and len(text) > 20:
+                            negative_mentions.append({
+                                'text': text[:150],
+                                'url': url
+                            })
+
+                if negative_mentions:
+                    for mention in negative_mentions[:5]:
+                        st.markdown(f"- \"{mention['text']}...\" [[↗]({mention['url']})]")
+                else:
+                    st.info("No negative feedback found")
+
+            # Show when data was generated
+            generated_at = reddit_data.get('generated_at', '')
+            if generated_at:
+                try:
+                    gen_time = datetime.fromisoformat(generated_at)
+                    st.caption(f"Report generated: {gen_time.strftime('%Y-%m-%d %H:%M:%S')}")
+                except:
+                    pass
+
+        except Exception as e:
+            st.error(f"Error loading Reddit sentiment data: {e}")
+    else:
+        st.info("No Reddit sentiment data available. Run `python reddit_analysis.py Lululemon` to generate a report.")
+        st.markdown("""
+        **To generate Reddit sentiment analysis:**
+
+        ```bash
+        python reddit_analysis.py Lululemon
+        ```
+
+        This will analyze Lululemon mentions on Reddit and save to `data/lululemon_reddit_report.json`
+        """)
+
+
 def display_rhone_analysis(df):
     """Display Rhone analysis with detailed metrics"""
     st.markdown('<div class="section-header">👕 Rhone Analysis</div>', unsafe_allow_html=True)
@@ -4326,6 +4470,149 @@ def display_rhone_analysis(df):
             else:
                 st.info("No women's sale data available")
 
+    # Reddit Sentiment Analysis
+    st.divider()
+    st.markdown('<div class="section-header">💬 Reddit Brand Sentiment</div>', unsafe_allow_html=True)
+
+    # Check if Reddit report exists
+    reddit_report_path = "data/rhone_reddit_report.json"
+    if os.path.exists(reddit_report_path):
+        try:
+            with open(reddit_report_path, 'r') as f:
+                reddit_data = json.load(f)
+
+            # Display key metrics
+            col1, col2, col3, col4 = st.columns(4)
+
+            with col1:
+                st.metric("Total Mentions", f"{reddit_data.get('total_mentions', 0):,}")
+
+            with col2:
+                sentiment_dist = reddit_data.get('sentiment_distribution', {})
+                positive_pct = (sentiment_dist.get('Positive', 0) / reddit_data.get('total_mentions', 1) * 100) if reddit_data.get('total_mentions', 0) > 0 else 0
+                st.metric("Positive Sentiment", f"{positive_pct:.0f}%")
+
+            with col3:
+                negative_pct = (sentiment_dist.get('Negative', 0) / reddit_data.get('total_mentions', 1) * 100) if reddit_data.get('total_mentions', 0) > 0 else 0
+                st.metric("Negative Sentiment", f"{negative_pct:.0f}%")
+
+            with col4:
+                top_subreddits = reddit_data.get('top_subreddits', {})
+                top_subreddit = list(top_subreddits.keys())[0] if top_subreddits else "N/A"
+                st.metric("Top Subreddit", f"r/{top_subreddit}")
+
+            st.markdown(f"*Data from the past {reddit_data.get('time_period', 'month')}*")
+
+            # Sentiment distribution chart
+            if sentiment_dist:
+                sentiment_df = pd.DataFrame({
+                    'Sentiment': list(sentiment_dist.keys()),
+                    'Count': list(sentiment_dist.values())
+                })
+
+                col1, col2 = st.columns(2)
+
+                with col1:
+                    # Pie chart
+                    fig_sentiment = px.pie(
+                        sentiment_df,
+                        values='Count',
+                        names='Sentiment',
+                        title='Sentiment Distribution',
+                        color='Sentiment',
+                        color_discrete_map={
+                            'Positive': '#00CC96',
+                            'Neutral': '#636EFA',
+                            'Negative': '#EF553B'
+                        }
+                    )
+                    fig_sentiment.update_layout(height=300, margin=dict(l=20, r=20, t=40, b=20))
+                    st.plotly_chart(fig_sentiment, use_container_width=True)
+
+                with col2:
+                    # Top subreddits
+                    if top_subreddits:
+                        subreddit_df = pd.DataFrame({
+                            'Subreddit': [f"r/{k}" for k in list(top_subreddits.keys())[:5]],
+                            'Mentions': list(top_subreddits.values())[:5]
+                        })
+                        fig_subreddits = px.bar(
+                            subreddit_df,
+                            x='Mentions',
+                            y='Subreddit',
+                            orientation='h',
+                            title='Top Subreddits by Mentions'
+                        )
+                        fig_subreddits.update_layout(height=300, margin=dict(l=20, r=20, t=40, b=20))
+                        st.plotly_chart(fig_subreddits, use_container_width=True)
+
+            # What People Love / Complain About
+            col1, col2 = st.columns(2)
+
+            with col1:
+                st.markdown("#### 💚 What People Love")
+                # Extract positive comments/posts with links
+                all_mentions = reddit_data.get('all_mentions', [])
+                positive_mentions = []
+                for m in all_mentions:
+                    if m.get('sentiment') == 'Positive' and m.get('positive_score', 0) > 0:
+                        text = m.get('text', '') or m.get('title', '')
+                        url = m.get('url', '')
+                        if text and len(text) > 20:
+                            positive_mentions.append({
+                                'text': text[:150],
+                                'url': url
+                            })
+
+                if positive_mentions:
+                    for mention in positive_mentions[:5]:
+                        st.markdown(f"- \"{mention['text']}...\" [[↗]({mention['url']})]")
+                else:
+                    st.info("No positive feedback found")
+
+            with col2:
+                st.markdown("#### 💔 What People Complain About")
+                # Extract negative comments/posts with links
+                negative_mentions = []
+                for m in all_mentions:
+                    if m.get('sentiment') == 'Negative' and m.get('negative_score', 0) > 0:
+                        text = m.get('text', '') or m.get('title', '')
+                        url = m.get('url', '')
+                        if text and len(text) > 20:
+                            negative_mentions.append({
+                                'text': text[:150],
+                                'url': url
+                            })
+
+                if negative_mentions:
+                    for mention in negative_mentions[:5]:
+                        st.markdown(f"- \"{mention['text']}...\" [[↗]({mention['url']})]")
+                else:
+                    st.info("No negative feedback found")
+
+            # Show when data was generated
+            generated_at = reddit_data.get('generated_at', '')
+            if generated_at:
+                try:
+                    gen_time = datetime.fromisoformat(generated_at)
+                    st.caption(f"Report generated: {gen_time.strftime('%Y-%m-%d %H:%M:%S')}")
+                except:
+                    pass
+
+        except Exception as e:
+            st.error(f"Error loading Reddit sentiment data: {e}")
+    else:
+        st.info("No Reddit sentiment data available. Run `python reddit_analysis.py Rhone` to generate a report.")
+        st.markdown("""
+        **To generate Reddit sentiment analysis:**
+
+        ```bash
+        python reddit_analysis.py Rhone
+        ```
+
+        This will analyze Rhone mentions on Reddit and save to `data/rhone_reddit_report.json`
+        """)
+
 
 def display_vuori_analysis(df):
     """Display Vuori analysis with detailed metrics"""
@@ -4952,6 +5239,149 @@ def display_vuori_analysis(df):
                 st.plotly_chart(fig_womens_sale, use_container_width=True)
             else:
                 st.info("No women's sale data available")
+
+    # Reddit Sentiment Analysis
+    st.divider()
+    st.markdown('<div class="section-header">💬 Reddit Brand Sentiment</div>', unsafe_allow_html=True)
+
+    # Check if Reddit report exists
+    reddit_report_path = "data/vuori_reddit_report.json"
+    if os.path.exists(reddit_report_path):
+        try:
+            with open(reddit_report_path, 'r') as f:
+                reddit_data = json.load(f)
+
+            # Display key metrics
+            col1, col2, col3, col4 = st.columns(4)
+
+            with col1:
+                st.metric("Total Mentions", f"{reddit_data.get('total_mentions', 0):,}")
+
+            with col2:
+                sentiment_dist = reddit_data.get('sentiment_distribution', {})
+                positive_pct = (sentiment_dist.get('Positive', 0) / reddit_data.get('total_mentions', 1) * 100) if reddit_data.get('total_mentions', 0) > 0 else 0
+                st.metric("Positive Sentiment", f"{positive_pct:.0f}%")
+
+            with col3:
+                negative_pct = (sentiment_dist.get('Negative', 0) / reddit_data.get('total_mentions', 1) * 100) if reddit_data.get('total_mentions', 0) > 0 else 0
+                st.metric("Negative Sentiment", f"{negative_pct:.0f}%")
+
+            with col4:
+                top_subreddits = reddit_data.get('top_subreddits', {})
+                top_subreddit = list(top_subreddits.keys())[0] if top_subreddits else "N/A"
+                st.metric("Top Subreddit", f"r/{top_subreddit}")
+
+            st.markdown(f"*Data from the past {reddit_data.get('time_period', 'month')}*")
+
+            # Sentiment distribution chart
+            if sentiment_dist:
+                sentiment_df = pd.DataFrame({
+                    'Sentiment': list(sentiment_dist.keys()),
+                    'Count': list(sentiment_dist.values())
+                })
+
+                col1, col2 = st.columns(2)
+
+                with col1:
+                    # Pie chart
+                    fig_sentiment = px.pie(
+                        sentiment_df,
+                        values='Count',
+                        names='Sentiment',
+                        title='Sentiment Distribution',
+                        color='Sentiment',
+                        color_discrete_map={
+                            'Positive': '#00CC96',
+                            'Neutral': '#636EFA',
+                            'Negative': '#EF553B'
+                        }
+                    )
+                    fig_sentiment.update_layout(height=300, margin=dict(l=20, r=20, t=40, b=20))
+                    st.plotly_chart(fig_sentiment, use_container_width=True)
+
+                with col2:
+                    # Top subreddits
+                    if top_subreddits:
+                        subreddit_df = pd.DataFrame({
+                            'Subreddit': [f"r/{k}" for k in list(top_subreddits.keys())[:5]],
+                            'Mentions': list(top_subreddits.values())[:5]
+                        })
+                        fig_subreddits = px.bar(
+                            subreddit_df,
+                            x='Mentions',
+                            y='Subreddit',
+                            orientation='h',
+                            title='Top Subreddits by Mentions'
+                        )
+                        fig_subreddits.update_layout(height=300, margin=dict(l=20, r=20, t=40, b=20))
+                        st.plotly_chart(fig_subreddits, use_container_width=True)
+
+            # What People Love / Complain About
+            col1, col2 = st.columns(2)
+
+            with col1:
+                st.markdown("#### 💚 What People Love")
+                # Extract positive comments/posts with links
+                all_mentions = reddit_data.get('all_mentions', [])
+                positive_mentions = []
+                for m in all_mentions:
+                    if m.get('sentiment') == 'Positive' and m.get('positive_score', 0) > 0:
+                        text = m.get('text', '') or m.get('title', '')
+                        url = m.get('url', '')
+                        if text and len(text) > 20:
+                            positive_mentions.append({
+                                'text': text[:150],
+                                'url': url
+                            })
+
+                if positive_mentions:
+                    for mention in positive_mentions[:5]:
+                        st.markdown(f"- \"{mention['text']}...\" [[↗]({mention['url']})]")
+                else:
+                    st.info("No positive feedback found")
+
+            with col2:
+                st.markdown("#### 💔 What People Complain About")
+                # Extract negative comments/posts with links
+                negative_mentions = []
+                for m in all_mentions:
+                    if m.get('sentiment') == 'Negative' and m.get('negative_score', 0) > 0:
+                        text = m.get('text', '') or m.get('title', '')
+                        url = m.get('url', '')
+                        if text and len(text) > 20:
+                            negative_mentions.append({
+                                'text': text[:150],
+                                'url': url
+                            })
+
+                if negative_mentions:
+                    for mention in negative_mentions[:5]:
+                        st.markdown(f"- \"{mention['text']}...\" [[↗]({mention['url']})]")
+                else:
+                    st.info("No negative feedback found")
+
+            # Show when data was generated
+            generated_at = reddit_data.get('generated_at', '')
+            if generated_at:
+                try:
+                    gen_time = datetime.fromisoformat(generated_at)
+                    st.caption(f"Report generated: {gen_time.strftime('%Y-%m-%d %H:%M:%S')}")
+                except:
+                    pass
+
+        except Exception as e:
+            st.error(f"Error loading Reddit sentiment data: {e}")
+    else:
+        st.info("No Reddit sentiment data available. Run `python reddit_analysis.py Vuori` to generate a report.")
+        st.markdown("""
+        **To generate Reddit sentiment analysis:**
+
+        ```bash
+        python reddit_analysis.py Vuori
+        ```
+
+        This will analyze Vuori mentions on Reddit and save to `data/vuori_reddit_report.json`
+        """)
 
 
 def main():

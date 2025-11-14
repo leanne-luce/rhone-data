@@ -34,6 +34,14 @@ This project provides a complete pipeline for:
 - Products featured on homepage
 - Homepage product distribution by category
 
+**Reddit Brand Sentiment** ✨ NEW
+- Monitor brand mentions across Reddit
+- Sentiment analysis (Positive, Neutral, Negative)
+- Track discussions in relevant subreddits (fashion, fitness, activewear)
+- Identify top positive and negative mentions
+- View sentiment trends over time
+- See [REDDIT_SETUP.md](REDDIT_SETUP.md) for configuration details
+
 ## Project Structure
 
 ```
