@@ -370,39 +370,65 @@
                 return !excludePatterns.some(pattern => pattern.test(text));
             };
 
-            // Method 1: Look for color swatch buttons
-            const swatchButtons = card.querySelectorAll('button[class*="swatch"], button[class*="color"], [class*="color-swatch"]');
-            swatchButtons.forEach(button => {
-                const colorName = button.getAttribute('aria-label') ||
-                                button.getAttribute('title') ||
-                                button.getAttribute('data-color') ||
-                                button.getAttribute('data-color-name');
+            // Method 1: Travis Mathew specific - look for ss__variant elements
+            const tmVariants = card.querySelectorAll('.ss__variant, [class*="ss__variant"]');
+            tmVariants.forEach(variant => {
+                // Check for title attribute on the variant or its parent
+                const colorName = variant.getAttribute('title') ||
+                                variant.parentElement?.getAttribute('title');
 
                 if (colorName && isValidColor(colorName) && !colors.includes(colorName)) {
                     colors.push(colorName.trim());
                 }
-            });
 
-            // Method 2: Look for color swatches with data attributes
-            const colorSwatches = card.querySelectorAll('[class*="color-swatch"], [class*="ColorSwatch"], [class*="swatch"], [data-color]');
-            colorSwatches.forEach(swatch => {
-                const colorName = swatch.getAttribute('data-color') ||
-                                swatch.getAttribute('aria-label') ||
-                                swatch.getAttribute('title') ||
-                                swatch.getAttribute('alt');
-                if (colorName && isValidColor(colorName) && !colors.includes(colorName)) {
-                    colors.push(colorName.trim());
-                }
-
-                // Also check for images within swatches
-                const swatchImg = swatch.querySelector('img');
-                if (swatchImg) {
-                    const alt = swatchImg.getAttribute('alt');
-                    if (alt && isValidColor(alt) && !colors.includes(alt)) {
-                        colors.push(alt.trim());
+                // Also check for radio inputs with color values
+                const radioInput = variant.querySelector('input[type="radio"][name="Color"]');
+                if (radioInput) {
+                    const colorValue = radioInput.getAttribute('value') ||
+                                     radioInput.getAttribute('data-product-title');
+                    if (colorValue && isValidColor(colorValue) && !colors.includes(colorValue)) {
+                        colors.push(colorValue.trim());
                     }
                 }
             });
+
+            // Method 2: Look for color swatch buttons
+            if (colors.length === 0) {
+                const swatchButtons = card.querySelectorAll('button[class*="swatch"], button[class*="color"], [class*="color-swatch"]');
+                swatchButtons.forEach(button => {
+                    const colorName = button.getAttribute('aria-label') ||
+                                    button.getAttribute('title') ||
+                                    button.getAttribute('data-color') ||
+                                    button.getAttribute('data-color-name');
+
+                    if (colorName && isValidColor(colorName) && !colors.includes(colorName)) {
+                        colors.push(colorName.trim());
+                    }
+                });
+            }
+
+            // Method 3: Look for color swatches with data attributes
+            if (colors.length === 0) {
+                const colorSwatches = card.querySelectorAll('[class*="color-swatch"], [class*="ColorSwatch"], [class*="swatch"], [data-color]');
+                colorSwatches.forEach(swatch => {
+                    const colorName = swatch.getAttribute('data-color') ||
+                                    swatch.getAttribute('aria-label') ||
+                                    swatch.getAttribute('title') ||
+                                    swatch.getAttribute('alt');
+                    if (colorName && isValidColor(colorName) && !colors.includes(colorName)) {
+                        colors.push(colorName.trim());
+                    }
+
+                    // Also check for images within swatches
+                    const swatchImg = swatch.querySelector('img');
+                    if (swatchImg) {
+                        const alt = swatchImg.getAttribute('alt');
+                        if (alt && isValidColor(alt) && !colors.includes(alt)) {
+                            colors.push(alt.trim());
+                        }
+                    }
+                });
+            }
 
             // Method 3: Check the main product image for color in alt text
             const mainImage = card.querySelector('img[class*="product"], img[class*="Product"], img[class*="grid"], img[class*="card"]');

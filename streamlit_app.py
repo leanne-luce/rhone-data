@@ -2626,7 +2626,7 @@ When answering questions:
 
 def display_comparison(df):
     """Display cross-brand comparison with sunburst charts"""
-    st.markdown('<div class="section-header">This page compares leading Performance Lifestyle brands, based on data from their respective websites captured the week of November 10th, 2025..</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-header">This page compares leading Performance Lifestyle brands, based on data from their respective websites captured the week of November 10th, 2025.</div>', unsafe_allow_html=True)
 
     if df is None or len(df) == 0:
         st.warning("No data available")
