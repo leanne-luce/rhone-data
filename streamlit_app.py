@@ -2735,7 +2735,7 @@ def display_comparison(df):
                     f"({promos[0][1]:.0f}% on sale) vs {promos[-1][0]} ({promos[-1][1]:.0f}%)."
                 )
 
-        st.markdown(" ".join(overview_text))
+        st.markdown("\n\n".join(overview_text))
         st.divider()
 
     # Overall metrics
@@ -3612,6 +3612,7 @@ def display_lululemon_analysis(df):
 
     # 8. & 9. Sale vs Full Price by Category
     st.markdown("### 🏷️ Sale vs Full Price by Category")
+    st.markdown("Note: This section counts all product styles that have at least 1 color on sale.")
 
     if "on_sale" in df.columns and "category" in df.columns and "gender" in df.columns:
         col1, col2 = st.columns(2)
@@ -4242,6 +4243,8 @@ def display_rhone_analysis(df):
 
     # 8. & 9. Sale vs Full Price by Category
     st.markdown("### 🏷️ Sale vs Full Price by Category")
+    st.markdown("Note: This section counts all product styles that have at least 1 color on sale.")
+
 
     if "on_sale" in df.columns and "category" in df.columns and "gender" in df.columns:
         col1, col2 = st.columns(2)
@@ -4868,6 +4871,7 @@ def display_vuori_analysis(df):
 
     # 8. & 9. Sale vs Full Price by Category
     st.markdown("### 🏷️ Sale vs Full Price by Category")
+    st.markdown("Note: This section counts all product styles that have at least 1 color on sale.")
 
     if "on_sale" in df.columns and "category" in df.columns and "gender" in df.columns:
         col1, col2 = st.columns(2)
