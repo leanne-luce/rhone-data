@@ -2496,23 +2496,6 @@ def display_data_chat(df):
 
     st.info("Ask questions about the product data used. The assistant will only use information from the actual product database.")
 
-    # Password protection
-    if "chat_authenticated" not in st.session_state:
-        st.session_state.chat_authenticated = False
-
-    if not st.session_state.chat_authenticated:
-        st.warning("🔒 This feature requires authentication to prevent unauthorized API usage.")
-        password = st.text_input("Enter password to access Data Chat:", type="password", key="chat_password")
-
-        if st.button("Submit", key="chat_password_submit"):
-            if password == "R3dR0b0t":
-                st.session_state.chat_authenticated = True
-                st.success("✅ Authentication successful!")
-                st.rerun()
-            else:
-                st.error("❌ Incorrect password. Please try again.")
-        return
-
     # Check for API key - try environment variable first, then Streamlit secrets
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
