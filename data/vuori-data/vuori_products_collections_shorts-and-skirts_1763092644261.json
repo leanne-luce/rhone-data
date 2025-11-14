@@ -1,0 +1,924 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.252Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-baseline-skirt-14-5-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-baseline-skirt-14-5-black/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3120BLK_FA25_W_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-baseline-skirt-14-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.253Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Light French Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-skirt-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-daily-skirt-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3102BLK_FA24_W_ECOMM_SKIRTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-skirt-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.253Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-baseline-gingham-skirt-14-5-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-baseline-gingham-skirt-14-5-white/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look020_F_AARON_FEAVER_RobbField_29190-2048x2560-e0065a6.png"
+    ],
+    "badges": [],
+    "sku": "womens-baseline-gingham-skirt-14-5-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.253Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Light French Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-skirt-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-daily-skirt-white/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3102WHT_FA24_W_ECOMM_SKIRTS_CREATIVE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-skirt-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.254Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/daily-skirt-long-16-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "daily-skirt-long-16-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3102-LWHT_FA25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "daily-skirt-long-16-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.254Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-baseline-skirt-14-5-viridian?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-baseline-skirt-14-5-viridian/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3120VRI_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-baseline-skirt-14-5-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.254Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light French Blue",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-skirt-light-french-blue?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-daily-skirt-light-french-blue/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3102LFB_FA25_W_ECOMM_BOTTOMS_FRONT_3_8afa513b-9e76-4e43-874d-2e05c79cb375.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-skirt-light-french-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.254Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-sport-skirt-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-miles-sport-skirt-black/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3086BLK_SP25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-sport-skirt-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.255Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-sport-skirt-marshmallow?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-miles-sport-skirt-marshmallow/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3086MSM_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-sport-skirt-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.255Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-clementine-pleated-skirt-15-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-clementine-pleated-skirt-15-black/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3104BLK_SP25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-clementine-pleated-skirt-15-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.255Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/daily-skirt-long-16-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "daily-skirt-long-16-white/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3102-LWHT_FA25_W_ECOMM_BOTTOMS_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "daily-skirt-long-16-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.255Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-volley-skirt-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-volley-skirt-black/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW3005BLK_SP22_W_ECOMM_BOTTOM_8037.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-volley-skirt-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.256Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Kale"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-column-skirt-black-heather?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-halo-column-skirt-black-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3088HBK_FA24_W_ECOMM_SKIRTS_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-column-skirt-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.256Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-volley-skirt-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-volley-skirt-white/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3005WHT_SP24_W_ECOMM_SKIRTS_CREATIVE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-volley-skirt-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.256Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-clementine-pleated-skirt-15-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-clementine-pleated-skirt-15-white/",
+    "sale_price": 59,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3104WHT_SP25_W_ECOMM_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-clementine-pleated-skirt-15-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.256Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-clementine-skirt-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-clementine-skirt-white/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3055WHT_SP24_W_ECOMM_SKIRTS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-clementine-skirt-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.257Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sunlight",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-clementine-pleated-skirt-15-sunlight?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-clementine-pleated-skirt-15-sunlight/",
+    "sale_price": 59,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3104SLI_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-clementine-pleated-skirt-15-sunlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.257Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Kale",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-column-skirt-kale?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-halo-column-skirt-kale/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3088KLE_SP25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-column-skirt-kale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.257Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-volley-skirt-long-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-volley-skirt-long-white/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW3005-LWHT_SP23_W_ECOMM_SKIRTS_BOTTOM_1158_1x1_2017c4a6-f4a8-43b4-892d-78d511e89f7e.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-volley-skirt-long-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.257Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Moss"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-sport-skirt-moss?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-miles-sport-skirt-moss/",
+    "sale_price": 62,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3086MSS_SP25_W_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-sport-skirt-moss/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.257Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevate-clementine-skirt-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-elevate-clementine-skirt-black/",
+    "sale_price": 54,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3143BLK_unknown_opening_season_W_ECOMM_SKIRTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevate-clementine-skirt-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-clementine-skirt-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-clementine-skirt-black/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3055BLK_SP24_W_ECOMM_SKIRTS_CREATIVE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-clementine-skirt-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-skirt-salt-heather?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-halo-performance-skirt-salt-heather/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3006HST_SP24_W_ECOMM_SKIRTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-skirt-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Taupe",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-meta-skirt-taupe?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-meta-skirt-taupe/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3029TAU_FA24_W_ECOMM_SKIRTS_FRONT_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-meta-skirt-taupe/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-volley-skirt-long-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-volley-skirt-long-black/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW3005-LBLK_SP23_W_ECOMM_SKIRTS_BOTTOM_2746_1x1_b9f44020-a8f9-4632-b6a8-37f8bd9e79bb.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-volley-skirt-long-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Taupe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-meta-skirt-black?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-meta-skirt-black/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3029BLK_FA24_W_ECOMM_SKIRTS_SIDE_16.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-meta-skirt-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-seabreeze-skirt-white?queryId=d8fb2ecb3b1c6496db05e9121abcbbb9&collection=shorts-and-skirts",
+    "product_id": "womens-seabreeze-skirt-white/",
+    "sale_price": 37,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW394WHT_3796.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-seabreeze-skirt-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.258Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.259Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.259Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.259Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.260Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:57:24.261Z",
+    "is_homepage_product": false,
+    "category": "Skirts",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

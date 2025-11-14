@@ -1,0 +1,656 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.754Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Charcoal",
+      "Blue Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alps-classic-crew-sweater-marshmallow?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-alps-classic-crew-sweater-marshmallow/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2098MSM_FA25_W_ECOMM_LAYERS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alps-classic-crew-sweater-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.756Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Blue Coast",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alps-classic-crew-sweater-charcoal?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-alps-classic-crew-sweater-charcoal/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2098CCL_FA25_W_ECOMM_LAYERS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alps-classic-crew-sweater-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.756Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Porcelain",
+      "Bluebell",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-cashmere-crew-pale-grey-heather?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-cashmere-crew-pale-grey-heather/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2050PHG_FA25_W_LAYERS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-cashmere-crew-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.756Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Porcelain",
+      "Bluebell",
+      "Java",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-cashmere-crew-porcelain?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-cashmere-crew-porcelain/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2050POR_FA25_W_LAYERS_FRONT_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-cashmere-crew-porcelain/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.756Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Porcelain",
+      "Black",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-full-zip-cashmere-rib-hoodie-charcoal-heather?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-full-zip-cashmere-rib-hoodie-charcoal-heather/",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2049HCC_FA25_W_LAYERS_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-full-zip-cashmere-rib-hoodie-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Porcelain",
+      "Black",
+      "Bluebell",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-full-zip-cashmere-rib-hoodie-porcelain?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-full-zip-cashmere-rib-hoodie-porcelain/",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK106_W_AARON_FEAVER_BROOKLYN_00351.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-full-zip-cashmere-rib-hoodie-porcelain/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluebell",
+      "Porcelain",
+      "Java",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-cashmere-crew-bluebell?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-cashmere-crew-bluebell/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2050BBL_FA25_W_LAYERS_FRONT_2_c7d17f2d-0a0d-4248-88cc-a018970e061f.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-cashmere-crew-bluebell/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Charcoal",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alps-classic-crew-sweater-blue-coast?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-alps-classic-crew-sweater-blue-coast/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2098BCO_FA25_W_ECOMM_LAYERS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alps-classic-crew-sweater-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Porcelain",
+      "Bluebell",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-cashmere-crew-java?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-cashmere-crew-java/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK149_W_MARK_TESI_NYC_011076.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-cashmere-crew-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alps-boyfriend-cardigan-marshmallow?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-alps-boyfriend-cardigan-marshmallow/",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2051MSM_FA25_W_ECOMM_LAYERS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alps-boyfriend-cardigan-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Porcelain",
+      "Bluebell",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-full-zip-cashmere-rib-hoodie-black?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-full-zip-cashmere-rib-hoodie-black/",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2049BLK_FA25_W_LAYERS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-full-zip-cashmere-rib-hoodie-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.757Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alps-boyfriend-cardigan-black?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-alps-boyfriend-cardigan-black/",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2051BLK_FA25_W_ECOMM_LAYERS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alps-boyfriend-cardigan-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.758Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluebell",
+      "Porcelain",
+      "Black",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-emilie-full-zip-cashmere-rib-hoodie-bluebell?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-emilie-full-zip-cashmere-rib-hoodie-bluebell/",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2049BBL_FA25_W_LAYERS_FRONT_4_b15b5982-d25a-42c1-9f6f-4c82bb548d67.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-emilie-full-zip-cashmere-rib-hoodie-bluebell/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.758Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alps-crew-neck-sweater-black?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-alps-crew-neck-sweater-black/",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2010BLK_FA24_W_ECOMM_fleece_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alps-crew-neck-sweater-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.758Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-waffle-seamless-zip-hoodie-black?queryId=8fe81296f903361aaa0b163abf0c2e4e&collection=womens-sweaters",
+    "product_id": "womens-waffle-seamless-zip-hoodie-black/",
+    "sale_price": 102,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2011BLK_FA24_W_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-waffle-seamless-zip-hoodie-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.758Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.758Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.759Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.759Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.759Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.759Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.759Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.759Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.760Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.760Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.760Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.760Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T01:30:53.760Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

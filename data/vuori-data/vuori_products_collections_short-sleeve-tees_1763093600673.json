@@ -1,0 +1,1798 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.666Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Thyme",
+      "Black",
+      "White",
+      "Cinder",
+      "Pool Blue",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/tuvalu-tee-thyme?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "tuvalu-tee-thyme/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V101THY_FA25_M_ECOMM_TOPS_DETAIL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "tuvalu-tee-thyme/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.666Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Black Heather",
+      "Spruce Heather",
+      "Azure Heather",
+      "Thyme Heather",
+      "Dusty Blue Heather",
+      "Salt Heather",
+      "White",
+      "Raisin Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-tee-platinum-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-ponto-performance-tee-platinum-heather/",
+    "price": 79,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1057HPT_FA25_M_TOPS_DETAIL_8_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-tee-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.666Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Smokey Taupe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-merino-wool-tee-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-merino-wool-tee-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1066BLK_FA25_M_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-merino-wool-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.667Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Black Heather",
+      "Salt Heather",
+      "Sungold Heather",
+      "Midnight Heather",
+      "Agave Green Heather",
+      "Frost Grey Heather",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-tee-relaxed-fit-huckleberry-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-ponto-tee-relaxed-fit-huckleberry-heather/",
+    "price": 79,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1098HHB_FA25_M_ECOMM_TOPS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-tee-relaxed-fit-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.667Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Dusk Heather",
+      "Black",
+      "White",
+      "Navy Heather",
+      "Raisin Heather",
+      "Charcoal Heather",
+      "Huckleberry Heather",
+      "Mushroom Heather",
+      "Bluegrass Heather",
+      "Pool Blue Heather",
+      "Heather Grey",
+      "Chambray Heather",
+      "Dark Oregano Heather",
+      "Platinum Heather",
+      "Moonlight",
+      "Viridian Heather",
+      "Dark Umber Heather",
+      "Dusty Blue Heather",
+      "Moss Green Heather",
+      "Greige Heather",
+      "Hedge Green Heather",
+      "Sea Spray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-tee-blue-dusk-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-tech-tee-blue-dusk-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V126BDH_FA25_M_TOPS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-tee-blue-dusk-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.667Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raisin Heather",
+      "Navy Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Mist Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-raisin-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-tech-polo-raisin-heather/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK067_M_MARK_TESI_NYC_015885.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-raisin-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.667Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Navy",
+      "Black",
+      "Huckleberry",
+      "Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-white?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-white/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1094WHT_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.667Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Light Mist",
+      "Pond",
+      "White",
+      "Raisin",
+      "Mist",
+      "Huckleberry",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/current-tech-tee-frost-grey?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "current-tech-tee-frost-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V195FGR_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "current-tech-tee-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.667Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-tee-multipack-multi?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-tech-tee-multipack-multi/",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V126PACK.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-tee-multipack-multi/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Black Heather",
+      "Flint Heather",
+      "White",
+      "Salt Heather",
+      "Frost Grey Heather",
+      "Marsh Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-azure-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-ponto-performance-polo-azure-heather/",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HAZ_SP25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Frost Grey",
+      "Marsh",
+      "Pacific",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-clearview-seamless-tee-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-clearview-seamless-tee-black/",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1045BLK_SP25_M_ECOMM_TOPS_FRRONT_2545.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-clearview-seamless-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "White",
+      "Heather Grey",
+      "Black",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-v-neck-charcoal-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-tech-v-neck-charcoal-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1032HCC_FA24_M_ECOMM_TOPS_FRONT_6.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-v-neck-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Navy Heather",
+      "Huckleberry Heather",
+      "Kashmir Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-strato-tech-tee-relaxed-fit-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-strato-tech-tee-relaxed-fit-black/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1136BLK_FA25_M_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-strato-tech-tee-relaxed-fit-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Dusk",
+      "Trench",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-knit-oxford-button-down-classic-fit-blue-dusk?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-knit-oxford-button-down-classic-fit-blue-dusk/",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1107BDK_FA25_M_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-knit-oxford-button-down-classic-fit-blue-dusk/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Pool Blue Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-muscle-tee-heather-grey?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-muscle-tee-heather-grey/",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1043HTG_SP24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-muscle-tee-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Mushroom Heather",
+      "Mocha Heather",
+      "Bluegrass Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-strato-button-down-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-strato-button-down-black/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1058BLK_FA24_M_ECOMM_TOPS_FRONT_8.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-strato-button-down-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Light Grey",
+      "White",
+      "Pond",
+      "Agate Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-ink?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "ace-polo-ink/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164INK_FA24_M_ECOMM_TOPS_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-vuori-wordmark-logo-tee-navy?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "v1-vuori-wordmark-logo-tee-navy/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V901NVY_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-vuori-wordmark-logo-tee-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.668Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vortex-tee-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "vortex-tee-black/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V9019BLK_FA25_M_TOPS_BACK_4.jpg"
+    ],
+    "badges": [],
+    "sku": "vortex-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Espresso Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-logo-tee-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "v1-logo-tee-black/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V925BLK_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-logo-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oatmeal Heather",
+      "Heather Grey",
+      "Sea Glass Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-everyday-tee-oatmeal-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-everyday-tee-oatmeal-heather/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1064HOM_FA25_M_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-everyday-tee-oatmeal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Azure"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-manhattan-button-down-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-manhattan-button-down-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1024BLK_FA24_M_ECOMM_TOPS_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-manhattan-button-down-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Heather Grey",
+      "Pacific Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/tradewind-performance-tee-2-0-black-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "tradewind-performance-tee-2-0-black-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1052HBK_SP24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "tradewind-performance-tee-2-0-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Chalk Blue Drawn",
+      "Cinder",
+      "Root Drawn",
+      "Light Deep Sea Stripe",
+      "Frost Grey Water Lily"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-bridge-button-down-chalk-blue-drawn?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-bridge-button-down-chalk-blue-drawn/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V184CBD_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-bridge-button-down-chalk-blue-drawn/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-tuvalu-henley-huckleberry?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-tuvalu-henley-huckleberry/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V165HUK_FA25_M_ECOMM_TOPS_DETAIL_11.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-tuvalu-henley-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Chambray Heather",
+      "Raisin Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-strato-pocket-tee-relaxed-fit-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-strato-pocket-tee-relaxed-fit-black/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1059BLK_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-strato-pocket-tee-relaxed-fit-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Charcoal",
+      "Sea Glass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ace-button-down-white?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-ace-button-down-white/",
+    "price": 84,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V183WHT_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ace-button-down-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mist",
+      "Thyme",
+      "Cavern Grey Pro",
+      "Sky Grey Pro"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-performance-tee-2-0-mist?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-viewpoint-performance-tee-2-0-mist/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1113MIT_FA25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-performance-tee-2-0-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.669Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cavern Grey",
+      "Sky Grey",
+      "Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-performance-polo-2-0-cavern-grey?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-viewpoint-performance-polo-2-0-cavern-grey/",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1114CVG_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-performance-polo-2-0-cavern-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue",
+      "Frost Grey",
+      "Zion Rose",
+      "Warm Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-feather-polo-dusty-blue?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-feather-polo-dusty-blue/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1069DBL_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-feather-polo-dusty-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Beachsand Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/knit-twill-polo-beachsand-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "knit-twill-polo-beachsand-heather/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1004HBS_FA23_M_ECOMM_TOPS_FRONT_TOPS_18.jpg"
+    ],
+    "badges": [],
+    "sku": "knit-twill-polo-beachsand-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-block-tee-charcoal?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "vuori-block-tee-charcoal/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V9020CCL_FA25_M_APPAREL_BACK_3.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-block-tee-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-yulex-wetsuit-top-washed-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-yulex-wetsuit-top-washed-black/",
+    "price": 139,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1034WBL_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-yulex-wetsuit-top-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea",
+      "Kashmir Heather",
+      "Frost Grey Heather",
+      "Cashew Heather",
+      "Pale Citron"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-tee-deep-sea?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-tech-tee-deep-sea/",
+    "sale_price": 37,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V126DSE_SP25_M_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-tee-deep-sea/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha Heather",
+      "Frost Grey Heather",
+      "Agave Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-mocha-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "strato-tech-polo-mocha-heather/",
+    "sale_price": 51,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_StratoTechPolo_MochaHeather_2.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-mocha-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/mens-feather-pocket-tee-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "mens-feather-pocket-tee-black/",
+    "sale_price": 44,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1031BLK_SP24_M_ECOMM_TOPS_FRONT_TOPS_3.jpg"
+    ],
+    "badges": [],
+    "sku": "mens-feather-pocket-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agave Green",
+      "Light Deep Sea",
+      "Dark Umber",
+      "Sky Grey",
+      "Shade",
+      "Warm Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/tuvalu-tee-agave-green?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "tuvalu-tee-agave-green/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V101AGR_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "tuvalu-tee-agave-green/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Java Heather",
+      "Zinc Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-tee-java-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-ponto-performance-tee-java-heather/",
+    "sale_price": 55,
+    "price": 79,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1057HJV_SP24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-tee-java-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Smoked Beryl"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-strato-graphic-tee-white?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-strato-graphic-tee-white/",
+    "sale_price": 35,
+    "price": 59,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1039WHT_SP24_M_ECOMM_TOPS_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-strato-graphic-tee-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.670Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/linear-tech-tee-ink?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "linear-tech-tee-ink/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V196INK_1_1d49b9c0-d336-4376-a605-2befdb9693e9.jpg"
+    ],
+    "badges": [],
+    "sku": "linear-tech-tee-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "White",
+      "Cashew"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/gamepoint-polo-frost-grey?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "gamepoint-polo-frost-grey/",
+    "sale_price": 67,
+    "price": 84,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1028FGR_FA24_M_ECOMM_TOPS_FRONT_TOPS_2_844d2da3-34f8-4063-8bc8-4e12afb9abdf.jpg"
+    ],
+    "badges": [],
+    "sku": "gamepoint-polo-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sky Grey Heather",
+      "Kashmir Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/tradewind-performance-tee-2-0-sky-grey-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "tradewind-performance-tee-2-0-sky-grey-heather/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1052HGY_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "tradewind-performance-tee-2-0-sky-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kashmir",
+      "Canyon Clay",
+      "Vapor Dot"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-bridge-button-down-kashmir?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-bridge-button-down-kashmir/",
+    "sale_price": 51,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V184KMR_SP24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-bridge-button-down-kashmir/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha",
+      "Deep Sea",
+      "White Sand"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-feather-tee-relaxed-fit-mocha?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-feather-tee-relaxed-fit-mocha/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1065MOC_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-feather-tee-relaxed-fit-mocha/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen",
+      "Black",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-performance-tee-aspen?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-viewpoint-performance-tee-aspen/",
+    "sale_price": 50,
+    "price": 84,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1023APN_FA24_M_ECOMM_TOPS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-performance-tee-aspen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Deep Sea Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-strato-pocket-tee-relaxed-fit-light-deep-sea-heather?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-strato-pocket-tee-relaxed-fit-light-deep-sea-heather/",
+    "sale_price": 51,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1059LSH_SP25_M_ECOMM_TOPS_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-strato-pocket-tee-relaxed-fit-light-deep-sea-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Clove",
+      "Cashew"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/current-tech-tee-clove?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "current-tech-tee-clove/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V195CLV_SP24_M_ECOMM_TOPS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "current-tech-tee-clove/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Winter Pear",
+      "Bronze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-current-stripe-tee-black?queryId=7da85d77d5167ed3d8d1efd2fc57b52b&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-current-stripe-tee-black/",
+    "sale_price": 44,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1021BLK_SP24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-current-stripe-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-tee-relaxed-fit-dusty-blue-heather?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-ponto-tee-relaxed-fit-dusty-blue-heather/",
+    "sale_price": 63,
+    "price": 79,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1098HYU_SP25_M_ECOMM_TOPS_DETAIL_7_16257f42-eb93-4af5-bcef-e6322fcc25bd.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-tee-relaxed-fit-dusty-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Mist",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-henley-navy?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-viewpoint-henley-navy/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1063NVY_0440.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-henley-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.671Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/weston-seamless-tee-black?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "weston-seamless-tee-black/",
+    "sale_price": 54,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1012BLK_FA24_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "weston-seamless-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-strato-button-down-platinum-heather?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-strato-button-down-platinum-heather/",
+    "sale_price": 62,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1058HPT_SP24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-strato-button-down-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Deep Sea",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-precept-tech-tee-black?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-precept-tech-tee-black/",
+    "sale_price": 62,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1060BLK_SP25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-precept-tech-tee-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mist",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-manhattan-button-down-mist?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-manhattan-button-down-mist/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1024MIT_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-manhattan-button-down-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-clearview-seamless-tee-mocha?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-clearview-seamless-tee-mocha/",
+    "sale_price": 61,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1045MOC_SP25_M_ECOMM_TOPS_FULL_6_9ca124ac-e5a5-4fe1-b7c1-9ceeafc16c39.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-clearview-seamless-tee-mocha/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nautilus",
+      "Winter Pear",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/terra-run-tee-nautilus?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "terra-run-tee-nautilus/",
+    "sale_price": 61,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1046NAU_FA24_M_ECOMM_TOPS_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "terra-run-tee-nautilus/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Premium Heather/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-logo-tee-premium-heather-white?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "v1-logo-tee-premium-heather-white/",
+    "sale_price": 25,
+    "price": 32,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V925HGW_FA23_M_ECOMM_printables_FRONT_TOPS_2_1b339783-9e24-4459-999e-e668160ab275.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-logo-tee-premium-heather-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Umber Heather",
+      "Sky Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaport-button-down-dark-umber-heather?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "seaport-button-down-dark-umber-heather/",
+    "sale_price": 70,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1033HKB_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaport-button-down-dark-umber-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Grey",
+      "Oregano",
+      "Dark Pewter"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-marina-stripe-tee-light-grey?queryId=6e75bd13f72c85d0c14d578338c42483&collection=short-sleeve-tees",
+    "product_id": "short-sleeve-marina-stripe-tee-light-grey/",
+    "sale_price": 51,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1056LTG_FA24_M_ECOMM_TOPS_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-marina-stripe-tee-light-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.672Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:13:20.673Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

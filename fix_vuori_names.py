@@ -1,61 +1,68 @@
 #!/usr/bin/env python3
 """
-Extract product names from URLs/product_ids for Vuori products.
+Fix Vuori product names by extracting from product_id
 """
 
 import json
 import sys
-from datetime import datetime
 
 def product_id_to_name(product_id):
-    """Convert product ID to readable name"""
+    """Convert product ID to readable product name"""
+    if not product_id:
+        return None
+
     # Remove trailing slash
     name = product_id.rstrip('/')
-
-    # Remove gender prefix (womens-, mens-)
-    name = name.replace('womens-', '').replace('mens-', '')
 
     # Replace hyphens with spaces
     name = name.replace('-', ' ')
 
-    # Capitalize each word
+    # Title case each word
     name = ' '.join(word.capitalize() for word in name.split())
+
+    # Remove size info at the end (e.g., "28", "30")
+    words = name.split()
+    if words and words[-1].isdigit() and len(words[-1]) <= 2:
+        words = words[:-1]
+        name = ' '.join(words)
 
     return name
 
-def fix_names(input_file):
-    """Add names to products based on product_id"""
-    with open(input_file, 'r') as f:
-        products = json.load(f)
 
-    print(f"Loaded {len(products)} products")
-
-    fixed_count = 0
-    for product in products:
-        if not product.get('name') and product.get('product_id'):
-            product['name'] = product_id_to_name(product['product_id'])
-            fixed_count += 1
-
-    print(f"Fixed {fixed_count} product names")
-
-    # Save to new file
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    output_file = input_file.replace('.json', f'_fixed_names.json')
-
-    with open(output_file, 'w') as f:
-        json.dump(products, f, indent=2)
-
-    print(f"Saved to: {output_file}")
-
-    return output_file
-
-if __name__ == "__main__":
+def main():
     if len(sys.argv) < 2:
         print("Usage: python fix_vuori_names.py <json_file>")
         sys.exit(1)
 
     input_file = sys.argv[1]
-    output_file = fix_names(input_file)
+    output_file = input_file.replace('.json', '_fixed.json')
 
-    print(f"\nNext step:")
-    print(f"python database/clear_brand_and_upload.py {output_file} Vuori")
+    print(f"Reading {input_file}...")
+    with open(input_file, 'r') as f:
+        products = json.load(f)
+
+    print(f"Processing {len(products)} products...")
+
+    fixed_count = 0
+    for product in products:
+        # Only fix Vuori products without names
+        if product.get('brand') == 'Vuori' and not product.get('name'):
+            product_id = product.get('product_id')
+            if product_id:
+                name = product_id_to_name(product_id)
+                if name:
+                    product['name'] = name
+                    fixed_count += 1
+
+    print(f"Fixed {fixed_count} Vuori product names")
+
+    print(f"Writing to {output_file}...")
+    with open(output_file, 'w') as f:
+        json.dump(products, f, indent=2)
+
+    print(f"✓ Done! Saved to {output_file}")
+    print(f"\nNext step: python database/clear_brand_and_upload.py {output_file} Vuori")
+
+
+if __name__ == "__main__":
+    main()

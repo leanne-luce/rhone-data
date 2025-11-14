@@ -112,8 +112,21 @@ class SupabaseClient:
 
     def get_all_products(self) -> List[Dict]:
         """Retrieve all products from the database"""
-        response = self.client.table("products").select("*").execute()
-        return response.data
+        # Fetch all products with pagination (Supabase default limit is 1000)
+        all_products = []
+        page_size = 1000
+        offset = 0
+
+        while True:
+            response = self.client.table("products").select("*").range(offset, offset + page_size - 1).execute()
+            if not response.data:
+                break
+            all_products.extend(response.data)
+            if len(response.data) < page_size:
+                break
+            offset += page_size
+
+        return all_products
 
     def get_products_by_category(self, category: str) -> List[Dict]:
         """Retrieve products by category"""

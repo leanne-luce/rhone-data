@@ -1,0 +1,4852 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.749Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Agate Green Heather",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-mixed-media-jogger-28-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-mixed-media-jogger-28-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4003BLK_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-mixed-media-jogger-28-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.750Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Black",
+      "Azure",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-straight-leg-sweatpant-30-salt?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "seaside-straight-leg-sweatpant-30-salt/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4061SAL_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-straight-leg-sweatpant-30-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.750Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Root",
+      "Marsh",
+      "Ocean Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-sweatpant-28-root?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "aspen-sweatpant-28-root/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4019ROO_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-sweatpant-28-root/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.750Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-warm-up-pant-30-azure-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-warm-up-pant-30-azure-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4006HAZ_FA25_M_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-warm-up-pant-30-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.750Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raisin Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Salt Heather",
+      "Pool Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-raisin-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-raisin-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HRA_FA25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-raisin-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.750Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen Heather",
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-30-aspen-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-30-aspen-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HAN_FA24_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_5_95fe38c8-274e-4244-a446-388e33526fef.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-30-aspen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Flint Heather",
+      "Sangria Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-azure-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-jogger-azure-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HAZ_FA24_M_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416BLK_SP24_M_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-ink-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-ink-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HIN_FA24_M_ECOMM_PANTS_FULL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Flint Heather",
+      "Sangria Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-black-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-jogger-black-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HBK_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_17.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black Heather",
+      "Azure Heather",
+      "Flint Heather",
+      "Sangria Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-charcoal-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-jogger-charcoal-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HCC_SP24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black",
+      "Ink Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-charcoal-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-charcoal-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HCC_SP24_M_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.751Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Evergreen",
+      "Azure",
+      "Salt",
+      "French Blue",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-28-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "seaside-sweatpant-28-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007BLK_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-28-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Midnight Heather",
+      "Salt Heather",
+      "Espresso Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-black-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-pant-black-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HBK_FA24_M_ECOMM_PANTS_FRONT_8.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "Evergreen",
+      "Azure",
+      "Salt",
+      "French Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-28-light-heather-grey?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "seaside-sweatpant-28-light-heather-grey/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007LHG_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-28-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Salt Heather",
+      "Espresso Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-midnight-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-pant-midnight-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HMD_FA25_M_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Agate Green Heather",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Toast Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK092_M_AARON_FEAVER_BROOKLYN_00088.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-grey-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-grey-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_SundayPerformanceJogger_GreyHeather_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink",
+      "Blue Dusk",
+      "Warm Grey",
+      "Dark Oregano",
+      "Marsh",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "kore-jogger-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456BLK_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_9.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.752Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Heather Grey",
+      "Flint Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-midnight-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-pant-midnight-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HMD_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-smoke-blue-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-smoke-blue-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HAB_FA25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Platinum Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-huckleberry-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-huckleberry-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK068_M_AARON_FEAVER_WILLIAMSBURG_00358.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Smoke Blue Heather",
+      "Agate Green Heather",
+      "Frost Grey",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-30-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-30-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416BLK_SP24_M_ECOMM_PANTS_FRONT_1_458bb308-3f0a-4c25-8d1b-2ed9fb1a5792.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-30-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Vapor Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-platinum-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-platinum-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HPT_FA25_M_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Heather Grey",
+      "French Blue",
+      "Smokey Taupe",
+      "Salt",
+      "Toffee"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "seaside-sweatpant-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007BLK_FA24_M_ECOMM_PANTS_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Flint Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Sangria Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-flint-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-jogger-flint-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HFT_FA25_M_BOTTOMS_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-flint-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Charcoal Heather",
+      "Heather Grey",
+      "Flint Heather",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-black-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-pant-black-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HBK_FA24_M_ECOMM_PANTS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Black",
+      "Ink",
+      "Blue Dusk",
+      "Warm Grey",
+      "Dark Oregano",
+      "Marsh"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-charcoal?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "kore-jogger-charcoal/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456CCL_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_11.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.753Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sangria Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Flint Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-sangria-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-jogger-sangria-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HHS_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-sangria-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ocean Blue",
+      "Root",
+      "Marsh"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-sweatpant-28-ocean-blue?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "aspen-sweatpant-28-ocean-blue/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4019OBL_FA25_M_ECOMM_BOTTOMS_CREATIVE_9.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-sweatpant-28-ocean-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-vapor-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-vapor-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HVA_FA24_M_ECOMM_BOTTOMS_SIDE_9.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-vapor-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Charcoal Heather",
+      "Smoke Blue Heather",
+      "Agate Green Heather",
+      "Frost Grey",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-30-ink-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-30-ink-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HIN_FA24_M_ECOMM_PANTS_FRONT_2_v2_e4389eca-1802-4d64-957d-d146631f5ef8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-30-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black Heather",
+      "Heather Grey",
+      "Flint Heather",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-charcoal-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "ponto-performance-pant-charcoal-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HCC_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Raisin Heather",
+      "Salt Heather",
+      "Pool Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-black-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-black-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066HBK_SP25_M_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Black",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-mixed-media-jogger-28-frost-grey?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-mixed-media-jogger-28-frost-grey/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4003FGR_FA25_M_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-mixed-media-jogger-28-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Light Heather Grey",
+      "Raisin Heather",
+      "Salt Heather",
+      "Pool Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-midnight-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-midnight-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066HMD_SP25_M_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Black",
+      "Blue Dusk",
+      "Warm Grey",
+      "Dark Oregano",
+      "Marsh",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-ink?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "kore-jogger-ink/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456INK_FA24_M_ECOMM_PANTS_FULL_5_8f64ca81-fd7f-4bb7-a68e-df0412129b7b.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.754Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Smokey Taupe",
+      "Charcoal",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-30-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "meta-jogger-30-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V498BLK_SP25_M_ECOMM_BOTTOMS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-30-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sky Grey",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/grafton-pant-unlined-classic-fit-30-black?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "grafton-pant-unlined-classic-fit-30-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/0106PontoHalfZipMockNeckDustyBluePLP2.jpg"
+    ],
+    "badges": [],
+    "sku": "grafton-pant-unlined-classic-fit-30-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Grey Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Vapor Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-agate-green-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-agate-green-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416-30HGN_FA25_M_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "French Blue",
+      "Smokey Taupe",
+      "Salt",
+      "Toffee"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-light-heather-grey?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "seaside-sweatpant-light-heather-grey/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007LHG_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Black",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Toast Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-agate-green-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-agate-green-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK117_M_MARK_TESI_NYC_002839.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Agate Green Heather",
+      "Frost Grey",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-30-charcoal-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-jogger-30-charcoal-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HCC_SP24_M_ECOMM_PANTS_FRONT_2_ab07ee9c-8917-4b66-b931-6c26c1cac285.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-30-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Salt Heather",
+      "Espresso Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-charcoal-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-pant-charcoal-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HCC_unknown_opening_season_M_ECOMM_BOTTOMS_SIDE_2_3368733f-17f7-4392-9ae9-e9aaf0327328.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Heather",
+      "Black",
+      "Agate Green Heather",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-grey-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-grey-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_SundayPerformanceSweatpants_GreyHeather_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Agate Green Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Toast Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-ink-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-ink-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049HIN_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.755Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Espresso Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-salt-heather?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "coronado-pant-salt-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HST_SP25_M_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cavern Grey",
+      "Black",
+      "Azure",
+      "Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-straight-leg-sweatpant-30-cavern-grey?queryId=65f50ccb50a97c664303ba78b9991546&collection=joggers",
+    "product_id": "seaside-straight-leg-sweatpant-30-cavern-grey/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4061CVG_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-straight-leg-sweatpant-30-cavern-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sky Grey",
+      "Raisin",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/grafton-pant-unlined-classic-fit-30-sky-grey?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "grafton-pant-unlined-classic-fit-30-sky-grey/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V496SDG_SP25_M_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "grafton-pant-unlined-classic-fit-30-sky-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "French Blue",
+      "Black",
+      "Light Heather Grey",
+      "Smokey Taupe",
+      "Salt",
+      "Toffee"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-french-blue?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "seaside-sweatpant-french-blue/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007FBL_FA25_M_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-french-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Black",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-mixed-media-jogger-28-agate-green-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-mixed-media-jogger-28-agate-green-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4003HGN_FA25_M_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-mixed-media-jogger-28-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black Heather",
+      "Midnight Heather",
+      "Raisin Heather",
+      "Salt Heather",
+      "Pool Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-light-heather-grey?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-light-heather-grey/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066LHG_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Espresso Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Salt Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-espresso-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-pant-espresso-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HEX_FA25_M_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-espresso-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Flint Heather",
+      "Sangria Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-platinum-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-jogger-platinum-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HPT_FA24_M_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smokey Taupe",
+      "Black",
+      "Light Heather Grey",
+      "French Blue",
+      "Salt",
+      "Toffee"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-smokey-taupe?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "seaside-sweatpant-smokey-taupe/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK065_M_AARON_FEAVER_SOHO_00326.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-smokey-taupe/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.756Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Azure",
+      "Salt",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-straight-leg-sweatpant-30-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "seaside-straight-leg-sweatpant-30-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4061BLK_FA25_M_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-straight-leg-sweatpant-30-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Sangria Heather",
+      "Flint Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-athletic-slim-fit-30-black-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-jogger-athletic-slim-fit-30-black-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HBK_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_17.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-athletic-slim-fit-30-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black Heather",
+      "Midnight Heather",
+      "Salt Heather",
+      "Espresso Heather",
+      "Pool Blue Heather",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-light-heather-grey?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-pant-light-heather-grey/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435LHG_SP24_M_ECOMM_PANTS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smokey Taupe",
+      "Black",
+      "Charcoal",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-athletic-slim-fit-30-smokey-taupe?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "meta-jogger-athletic-slim-fit-30-smokey-taupe/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V498STP_FA25_M_ECOMM_BOTTOMS_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-athletic-slim-fit-30-smokey-taupe/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Black",
+      "Smokey Taupe",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-30-ink?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "meta-jogger-30-ink/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V498INK_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-30-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black Heather",
+      "Azure Heather",
+      "Sangria Heather",
+      "Flint Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-athletic-slim-fit-30-charcoal-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-jogger-athletic-slim-fit-30-charcoal-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HCC_SP24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-athletic-slim-fit-30-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Huckleberry Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK092_M_AARON_FEAVER_BROOKLYN_00614.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Black",
+      "Agate Green Heather",
+      "Ink Heather",
+      "Huckleberry Heather",
+      "Toast Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-smoke-blue-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-smoke-blue-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049HAB_FA25_M_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.757Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Smoke Blue Heather",
+      "Agate Green Heather",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-long-frost-grey?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-jogger-long-frost-grey/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416-30FGR_FA25_M_BOTTOMS_CREATIVE_9.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-long-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink",
+      "Marsh"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-unlined-28-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "kore-jogger-unlined-28-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4002BLK_FA25_M_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-unlined-28-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marsh",
+      "Root",
+      "Ocean Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-sweatpant-28-marsh?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "aspen-sweatpant-28-marsh/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4019MSH_FA25_M_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-sweatpant-28-marsh/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Black",
+      "Light Heather Grey",
+      "French Blue",
+      "Smokey Taupe",
+      "Toffee"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-salt?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "seaside-sweatpant-salt/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007SAL_SP25_M_ECOMM_BOTTOMS_FRONT_3_462170c1-cf8d-46cd-99f4-c120618c7f1a.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Sangria Heather",
+      "Flint Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-athletic-slim-fit-30-azure-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-jogger-athletic-slim-fit-30-azure-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HAZ_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-athletic-slim-fit-30-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Agate Green Heather",
+      "Frost Grey",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-long-smoke-blue-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-jogger-long-smoke-blue-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HAB_FA25_M_ECOMM_BOTTOMS_FRONT_2_5778c03b-5577-40f1-afc2-d034d32b1dae.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-long-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure",
+      "Black",
+      "Salt",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-straight-leg-sweatpant-30-azure?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "seaside-straight-leg-sweatpant-30-azure/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4061AZR_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-straight-leg-sweatpant-30-azure/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Dusk",
+      "Black",
+      "Ink",
+      "Warm Grey",
+      "Dark Oregano",
+      "Marsh",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-blue-dusk?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "kore-jogger-blue-dusk/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456BDK_FA25_M_BOTTOMS_SIDE_4_4086ced4-3ffc-4d11-ab13-757923f8881a.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-blue-dusk/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.758Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Burgundy",
+      "Sky Grey",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-sport-jogger-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "fleet-sport-jogger-black/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V483BLK_FA24_M_ECOMM_PANTS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-sport-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black Heather",
+      "Charcoal Heather",
+      "Flint Heather",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-heather-grey?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-pant-heather-grey/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V418HTG_SP19_M_ECOMM_BOTTOM_2976.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Pecan Heather",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-2-0-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-track-pant-2-0-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4020BLK_FA24_M_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-2-0-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Black",
+      "Burgundy",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-sport-jogger-navy?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "fleet-sport-jogger-navy/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V483NVY_0249.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-sport-jogger-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Black",
+      "Smokey Taupe",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-30-charcoal?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "meta-jogger-30-charcoal/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V498CCL_SP25_M_ECOMM_BOTTOMS_FRONT_1_7ec12e10-0428-44c0-b29b-610bbb1f0e9e.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-30-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-warm-up-pant-30-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-warm-up-pant-30-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4006BLK_FA25_M_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-warm-up-pant-30-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Smoke Blue Heather",
+      "Frost Grey",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-long-agate-green-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-jogger-long-agate-green-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416-30HGN_FA25_M_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-long-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.759Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toffee",
+      "Black",
+      "Light Heather Grey",
+      "French Blue",
+      "Smokey Taupe",
+      "Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-sweatpant-toffee?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "seaside-sweatpant-toffee/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4007TOF_FA25_M_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-sweatpant-toffee/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Pecan Heather",
+      "Charcoal Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-2-0-ink-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-track-pant-2-0-ink-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4020HIN_FA24_M_ECOMM_PANTS_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-2-0-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Flint Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Heather Grey",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-flint-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-pant-flint-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HFT_FA25_M_ECOMM_BOTTOMS_FULL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-flint-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Black",
+      "Agate Green Heather",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Toast Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-huckleberry-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-huckleberry-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049HHB_FA25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Grey",
+      "Black",
+      "Ink",
+      "Blue Dusk",
+      "Dark Oregano",
+      "Marsh",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-warm-grey?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "kore-jogger-warm-grey/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456WGR_SP25_M_ECOMM_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-warm-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Charcoal",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-short-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "kore-jogger-short-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456BLK_FA23_M_ECOMM_PANTS_FLAT_LAY_8_ebd08995-c421-4b3d-9d82-ce7a0674c2c6.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-short-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast Heather",
+      "Black",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Smoke Blue Heather",
+      "Agate Green Heather",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-long-toast-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-jogger-long-toast-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416-30TSH_FA25_M_ECOMM_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-long-toast-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Raisin Heather",
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-black-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-black-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HBK_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Blue Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Raisin Heather",
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-pool-blue-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-pool-blue-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HPB_FA25_M_ECOMM_BOTTOMS_FULL_6_2c58b707-a812-4eec-b830-6e5c31bb9abf.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-pool-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pecan Heather",
+      "Ink Heather",
+      "Charcoal Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-2-0-pecan-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-track-pant-2-0-pecan-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_SundayPerformanceTrackPants_PecanHeather_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-2-0-pecan-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.760Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Huckleberry Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-ink-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-ink-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049-LHIN_SP25_M_ECOMM_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Ink Heather",
+      "Pecan Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-2-0-charcoal-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-track-pant-2-0-charcoal-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4020HCC_FA24_M_ECOMM_PANTS_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-2-0-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast Heather",
+      "Black",
+      "Agate Green Heather",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-toast-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-toast-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049TSH_FA25_M_Apparel_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-toast-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Navy",
+      "Sea Fog",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-pant-black?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "elevate-kore-pant-black/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V470BLK_SP24_M_ECOMM_BOTTOMS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-pant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sangria Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Flint Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-athletic-slim-fit-30-sangria-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "ponto-performance-jogger-athletic-slim-fit-30-sangria-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438-LHHS_FA25_M_ECOMM_BOTTOMS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-athletic-slim-fit-30-sangria-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Oregano",
+      "Black",
+      "Ink",
+      "Blue Dusk",
+      "Warm Grey",
+      "Marsh",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-dark-oregano?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "kore-jogger-dark-oregano/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456DOR_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_10.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-dark-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Blue Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Salt Heather",
+      "Espresso Heather",
+      "Light Heather Grey",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-pool-blue-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-pant-pool-blue-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HPB_FA25_M_ECOMM_BOTTOMS_FULL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-pool-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Raisin Heather",
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-midnight-heather?queryId=343ab3ec8d6fa6bfecadb784671ca350&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-midnight-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HMD_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Sea Fog",
+      "Toast",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-pant-navy?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "elevate-kore-pant-navy/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V470NVY_FA24_M_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-pant-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Ink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-short-charcoal?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "kore-jogger-short-charcoal/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456-SCCL_FA24_M_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-short-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.761Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Raisin Heather",
+      "Pool Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-salt-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-salt-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK114_M_MARK_TESI_NYC_018078.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Marsh",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-unlined-28-ink?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "kore-jogger-unlined-28-ink/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4002INK_FA25_M_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-unlined-28-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Flint Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Azure Heather",
+      "Sangria Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-athletic-slim-fit-30-flint-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-jogger-athletic-slim-fit-30-flint-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HFT_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-athletic-slim-fit-30-flint-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/pr-tight-black?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "pr-tight-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V473BLK_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "pr-tight-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Heather",
+      "Black",
+      "Ink Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-grey-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-grey-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049GYH_FA25_M_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marsh",
+      "Black",
+      "Ink",
+      "Blue Dusk",
+      "Warm Grey",
+      "Dark Oregano",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-marsh?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "kore-jogger-marsh/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456MSH_FA25_M_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-marsh/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black Heather",
+      "Midnight Heather",
+      "Pool Blue Heather",
+      "Raisin Heather",
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-light-heather-grey?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-light-heather-grey/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30LHG_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Black",
+      "Ink Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-huckleberry-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-huckleberry-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049HHB_FA25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Charcoal",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-short-ink?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "kore-jogger-short-ink/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456INK_FA24_M_ECOMM_PANTS_PINUP_1_5f82d14a-556e-430a-97ae-5a700d0e5c1f.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-short-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marsh",
+      "Ink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-unlined-28-marsh?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "kore-jogger-unlined-28-marsh/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4002MSH_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-unlined-28-marsh/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Blue Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Raisin Heather",
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-pool-blue-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-pool-blue-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HPB_FA25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-pool-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.762Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raisin Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Salt Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-raisin-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-raisin-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HRA_FA25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-raisin-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast",
+      "Black",
+      "Navy",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-pant-toast?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "elevate-kore-pant-toast/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V470TOT_SP24_M_ECOMM_BOTTOMS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-pant-toast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-utility-jogger-platinum-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-utility-jogger-platinum-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V479HPT_FA24_M_ECOMM_PANTS_FRONT_7.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-utility-jogger-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-utility-jogger-black?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-utility-jogger-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V479BLK_FA24_M_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-utility-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Black Heather",
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Pool Blue Heather",
+      "Raisin Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-salt-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-salt-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066HST_FA25_M_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sky Grey",
+      "Black",
+      "Burgundy",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-sport-jogger-sky-grey?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "fleet-sport-jogger-sky-grey/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V483SDG_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-sport-jogger-sky-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cardamom Heather",
+      "Zinc Heather",
+      "Chia Heather",
+      "Deep Sea Heather",
+      "Caramel Heather",
+      "Dark Metal Heather",
+      "Moss Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-cardamom-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-jogger-cardamom-heather/",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HMM_FA24_M_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-cardamom-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Platinum Heather",
+      "Ink Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-black?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-track-pant-black/",
+    "sale_price": 64,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V454BLK_FA24_M_ECOMM_PANTS_DETAIL_15.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Zinc Heather",
+      "Chia Heather",
+      "Deep Sea Heather",
+      "Caramel Heather",
+      "Dark Metal Heather",
+      "Moss Green Heather",
+      "Cardamom Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-zinc-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-jogger-zinc-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HNC_SP24_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-zinc-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dolomite Heather",
+      "Mahogany Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-dolomite-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-pant-dolomite-heather/",
+    "sale_price": 70,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HDL_FA24_M_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-dolomite-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.763Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mahogany Heather",
+      "Dolomite Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-pant-mahogany-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-pant-mahogany-heather/",
+    "sale_price": 59,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V435HMH_unknown_opening_season_M_ECOMM_PANTS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-pant-mahogany-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kashmir Heather",
+      "Aspen Heather",
+      "Black Camo",
+      "Mocha Heather",
+      "Kale Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-kashmir-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-kashmir-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HKR_SP24_M_ECOMM_PANTS_FRONT_2_d10c4e50-9d21-42ea-8dd0-c802d3ba679e.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-kashmir-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen Heather",
+      "Kashmir Heather",
+      "Black Camo",
+      "Mocha Heather",
+      "Kale Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-aspen-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-aspen-heather/",
+    "sale_price": 58,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HAN_FA24_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_5.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-aspen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Camo",
+      "Kashmir Heather",
+      "Aspen Heather",
+      "Mocha Heather",
+      "Kale Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-black-camo?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-black-camo/",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V416BCM_1_d5d6366f-a8a8-4143-b766-8e699ce81a73.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-black-camo/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Ink Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-platinum-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-track-pant-platinum-heather/",
+    "sale_price": 64,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V454HPT_SP24_M_ECOMM_PANTS_DETAIL_20.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Chia Heather",
+      "Zinc Heather",
+      "Deep Sea Heather",
+      "Caramel Heather",
+      "Dark Metal Heather",
+      "Moss Green Heather",
+      "Cardamom Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-chia-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-jogger-chia-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HHI_SP25_M_ECOMM_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-chia-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Heather",
+      "Zinc Heather",
+      "Chia Heather",
+      "Caramel Heather",
+      "Dark Metal Heather",
+      "Moss Green Heather",
+      "Cardamom Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-deep-sea-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-jogger-deep-sea-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HEA_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-deep-sea-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.764Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Caramel Heather",
+      "Zinc Heather",
+      "Chia Heather",
+      "Deep Sea Heather",
+      "Dark Metal Heather",
+      "Moss Green Heather",
+      "Cardamom Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-caramel-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-jogger-caramel-heather/",
+    "sale_price": 58,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HCM_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-caramel-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/cypress-sweatpant-navy?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "cypress-sweatpant-navy/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V446NVY_FA24_M_ECOMM_PANTS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "cypress-sweatpant-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Burnt Sienna Heather",
+      "Kale Heather",
+      "Smoke Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-burnt-sienna-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-burnt-sienna-heather/",
+    "sale_price": 58,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049-LBNH_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-burnt-sienna-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Burnt Sienna Heather",
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-burnt-sienna-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-burnt-sienna-heather/",
+    "sale_price": 58,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_SundayPerformanceSweatpants_BurntSiennaHeather_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-burnt-sienna-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/transit-jogger-black?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "transit-jogger-black/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V417BLK_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_8.jpg"
+    ],
+    "badges": [],
+    "sku": "transit-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/cypress-sweatpant-heather-grey?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "cypress-sweatpant-heather-grey/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V446HTG_FA23_M_ECOMM_PANTS_FRONT_BOTTOMS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "cypress-sweatpant-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-travel-jogger-black?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "fleet-travel-jogger-black/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V444BLK_SP23_M_ECOMM_PANTS_02298_1X1_2ec25179-f195-4151-8792-b04b8cf94257.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-travel-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/transit-jogger-ink?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "transit-jogger-ink/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V417INK_FA24_M_ECOMM_PANTS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "transit-jogger-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha Heather",
+      "Kashmir Heather",
+      "Aspen Heather",
+      "Black Camo",
+      "Kale Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-mocha-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-mocha-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HMO_unknown_opening_season_M_ECOMM_PANTS_FRONT_2_62e88156-6390-4a3e-96f1-bff4d12d810e.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-mocha-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Aspen Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-long-kale-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-long-kale-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HKL_SP25_M_ECOMM_BOTTOMS_FRONT_1_09180a5d-0bc8-4a9a-b009-d5527af72609.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-long-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Burnt Sienna Heather",
+      "Smoke Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-kale-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-kale-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049-LHKL_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.765Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Kashmir Heather",
+      "Aspen Heather",
+      "Black Camo",
+      "Mocha Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-kale-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-kale-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HKL_SP25_M_ECOMM_BOTTOMS_FRONT_2_5d53020e-1014-4328-8c7b-1334356af254.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Heather",
+      "Deep Sea Heather",
+      "Oregano Heather",
+      "Dark Metal Heather",
+      "Caramel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-steel-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-pant-steel-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418STH_SP24_M_ECOMM_PANTS_FRONT_1_d3fb8480-8fb8-4d6b-b779-f245acf95c8b.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-steel-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue Heather",
+      "Kashmir Heather",
+      "Aspen Heather",
+      "Black Camo",
+      "Mocha Heather",
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-jogger-dusty-blue-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-jogger-dusty-blue-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HYU_FA24_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_5.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-jogger-dusty-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Burnt Sienna Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-28-kale-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-28-kale-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049HKL_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-28-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dolomite Heather",
+      "Deep Sea Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-dolomite-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-dolomite-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066HDL_SP25_M_ECOMM_BOTTOMS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-dolomite-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Black",
+      "Dark Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-ink?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "meta-jogger-ink/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V436INK_FA23_M_ECOMM_PANTS_PINUP_6.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Heather",
+      "Steel Heather",
+      "Oregano Heather",
+      "Dark Metal Heather",
+      "Caramel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-deep-sea-heather?queryId=3131ebae01323cc02df4ed48536bd7cb&collection=joggers",
+    "product_id": "ponto-performance-pant-deep-sea-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HEA_SP25_M_ECOMM_BOTTOMS_FRONT_3_7ad1e896-f7f3-47a1-88f2-a4e64aac4133.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-deep-sea-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Heather",
+      "Dolomite Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-deep-sea-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-deep-sea-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HEA_SP25_M_ECOMM_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-deep-sea-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Platinum Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-ink-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "sunday-performance-track-pant-ink-heather/",
+    "sale_price": 75,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V454HIN_FA24_M_ECOMM_PANTS_DETAIL_15.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano Heather",
+      "Steel Heather",
+      "Deep Sea Heather",
+      "Dark Metal Heather",
+      "Caramel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-oregano-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "ponto-performance-pant-oregano-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V418ORE_1.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-oregano-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.766Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-2-0-kale-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "sunday-performance-track-pant-2-0-kale-heather/",
+    "sale_price": 86,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4020HKL_SP25_M_ECOMM_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-2-0-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Metal Heather",
+      "Steel Heather",
+      "Deep Sea Heather",
+      "Oregano Heather",
+      "Caramel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-dark-metal-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "ponto-performance-pant-dark-metal-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HMT_FA24_M_ECOMM_PANTS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-dark-metal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Metal Heather",
+      "Zinc Heather",
+      "Chia Heather",
+      "Deep Sea Heather",
+      "Caramel Heather",
+      "Moss Green Heather",
+      "Cardamom Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-dark-metal-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "ponto-performance-jogger-dark-metal-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438HMT_unknown_opening_season_M_ECOMM_PANTS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-dark-metal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/train-tech-pant-black?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "train-tech-pant-black/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V464BLK_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_9.jpg"
+    ],
+    "badges": [],
+    "sku": "train-tech-pant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Light Heather Grey",
+      "Shale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/channel-pant-midnight-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "channel-pant-midnight-heather/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V455HMD_FA23_M_ECOMM_PANTS_FRONT_BOTTOMS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "channel-pant-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Heather",
+      "Dolomite Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-28-deep-sea-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-28-deep-sea-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066HEA_SP25_M_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-28-deep-sea-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoked Beryl Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-utility-jogger-smoked-beryl-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "sunday-utility-jogger-smoked-beryl-heather/",
+    "sale_price": 64,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V479HSY_FA24_M_ECOMM_PANTS_SIDE_9.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-utility-jogger-smoked-beryl-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shale Heather",
+      "Midnight Heather",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/channel-pant-shale-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "channel-pant-shale-heather/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V455HTS_FA23_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_5.jpg"
+    ],
+    "badges": [],
+    "sku": "channel-pant-shale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Moss Green Heather",
+      "Zinc Heather",
+      "Chia Heather",
+      "Deep Sea Heather",
+      "Caramel Heather",
+      "Dark Metal Heather",
+      "Cardamom Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-jogger-moss-green-heather-1?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "ponto-performance-jogger-moss-green-heather-1/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V438MSG-2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-jogger-moss-green-heather-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dolomite Heather",
+      "Deep Sea Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-performance-sweatpant-classic-30-dolomite-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "coronado-performance-sweatpant-classic-30-dolomite-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4066-30HDL_SP25_M_ECOMM_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-performance-sweatpant-classic-30-dolomite-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.767Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/train-tech-pant-shiitake?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "train-tech-pant-shiitake/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V464SII_FA24_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_12.jpg"
+    ],
+    "badges": [],
+    "sku": "train-tech-pant-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-travel-jogger-charcoal?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "fleet-travel-jogger-charcoal/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V444CCL_02298_1X1_57b45106-149a-4358-be9f-d273cd7470c1.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-travel-jogger-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink",
+      "Dark Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-black?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "meta-jogger-black/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V436BLK_FA23_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_4.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Zinc"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-pant-zinc?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "elevate-kore-pant-zinc/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V470ZNC_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-pant-zinc/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pecan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-pecan?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "kore-jogger-pecan/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456PCN_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-pecan/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-sport-jogger-shiitake?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "fleet-sport-jogger-shiitake/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V483SII_FA24_M_ECOMM_PANTS_SIDE_6.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-sport-jogger-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Oregano",
+      "Ink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-dark-oregano?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "meta-jogger-dark-oregano/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V436DOR_1.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-dark-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-track-pant-pecan-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "sunday-performance-track-pant-pecan-heather/",
+    "sale_price": 64,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V454HPA_FA24_M_ECOMM_PANTS_FRONT_BOTTOMS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-track-pant-pecan-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/kore-jogger-short-dark-oregano?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "kore-jogger-short-dark-oregano/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V456DOR_FA23_M_ECOMM_PANTS_FLAT_LAY_1_36907c2b-673d-4397-a620-6edbf7ec8600.jpg"
+    ],
+    "badges": [],
+    "sku": "kore-jogger-short-dark-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Caramel Heather",
+      "Steel Heather",
+      "Deep Sea Heather",
+      "Oregano Heather",
+      "Dark Metal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-performance-pant-caramel-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "ponto-performance-pant-caramel-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V418HCM_SP25_M_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-performance-pant-caramel-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.768Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Midnight Heather",
+      "Shale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/channel-pant-light-heather-grey?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "channel-pant-light-heather-grey/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V455LHG_FA23_M_ECOMM_PANTS_FRONT_ALT_BOTTOMS_13.jpg"
+    ],
+    "badges": [],
+    "sku": "channel-pant-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/meta-jogger-30-vapor?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "meta-jogger-30-vapor/",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V498VAP_SP25_M_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "meta-jogger-30-vapor/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-pant-black?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "fleet-pant-black/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V429BLK_FA24_M_ECOMM_PANTS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-pant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Burnt Sienna Heather",
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-performance-sweatpant-classic-30-smoke-blue-heather?queryId=360cdf023d4838064422c603fcc6b6cd&collection=joggers",
+    "product_id": "sunday-performance-sweatpant-classic-30-smoke-blue-heather/",
+    "sale_price": 78,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V4049HAB_FA25_M_ECOMM_BOTTOMS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-performance-sweatpant-classic-30-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.769Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:08:58.770Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

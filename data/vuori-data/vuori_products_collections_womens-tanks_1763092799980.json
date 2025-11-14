@@ -1,0 +1,4376 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.964Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White Heather",
+      "Black",
+      "Java",
+      "Chia",
+      "Viridian",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.965Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White Heather",
+      "Java",
+      "Chia",
+      "Viridian",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-black/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009BLK_FA25_W_TOPS_CREATIVE_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.965Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Azure",
+      "Raisin",
+      "Black Blurred Torrent",
+      "Marsh",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-black/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Womens_AllTheFeels_Black_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.965Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Ecru Heather",
+      "Sea Spray Heather",
+      "Magenta Heather",
+      "Nutmeg Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-2-0-black-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-2-0-black-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HBK_FA24_W_ECOMM_TOPS_FRONT_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-2-0-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.965Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "White Heather",
+      "Black",
+      "Chia",
+      "Viridian",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-java?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-java/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009JAV_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.965Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Blue Coast",
+      "Spearmint Heather",
+      "Viridian",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-long-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-long-black/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1156BLK_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-long-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Blue Coast",
+      "Spearmint Heather",
+      "Viridian",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-long-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-long-white/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1156WHT_SP25_W_ECOMM_TOPS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-long-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black",
+      "Chia Heather",
+      "White",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-scoop-tank-solid-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-essential-scoop-tank-solid-black/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look018_F_AARON_FEAVER_Oceanside_7419.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-scoop-tank-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Sea Spray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249BLK_FA24_W_ECOMM_TOPS_CREATIVE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Azure",
+      "Raisin",
+      "Black Blurred Torrent",
+      "Marsh",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-white/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207WHT_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Crystal Blue",
+      "Java",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-cami-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-cami-white/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK106_W_MARK_TESI_NYC_010646.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-cami-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Surf",
+      "Huckleberry Heather",
+      "Bright Peach Heather",
+      "Spearmint Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-black/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW123BLK_SP25_W_ECOMM_TOPS_CREATIVE_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Sea Spray Heather",
+      "Magenta Heather",
+      "Nutmeg Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-2-0-ecru-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-2-0-ecru-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HEE_FA24_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-2-0-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Crystal Blue",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-cami-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-cami-black/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1355BLK_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-cami-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Sea Spray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-white/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249WHT_FA24_W_ECOMM_TOPS_CREATIVE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin Heather",
+      "Bone Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-racerback-tank-raisin-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-elevation-racerback-tank-raisin-heather/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1210HRA_FA25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-racerback-tank-raisin-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Surf",
+      "Huckleberry Heather",
+      "Bright Peach Heather",
+      "Spearmint Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-white/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW123WHT_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.966Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Nutmeg",
+      "White",
+      "White Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-layering-tank-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-layering-tank-black/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1385BLK_FA25_W_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-layering-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Raisin Heather",
+      "Bone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-racerback-tank-black-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-elevation-racerback-tank-black-heather/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1210HBK_FA24_W_ECOMM_TOPS_FRONT_7_be44c06b-9703-4975-a9ff-1b2ccaa6b70d.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-racerback-tank-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia Heather",
+      "Solid Black",
+      "White",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-scoop-tank-chia-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-essential-scoop-tank-chia-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1212HHI_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-scoop-tank-chia-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black",
+      "White",
+      "Surf",
+      "Huckleberry Heather",
+      "Bright Peach Heather",
+      "Spearmint Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-heather-grey?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-heather-grey/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW123HTG_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Magenta",
+      "Evergreen",
+      "Black",
+      "White",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-2-0-magenta?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-2-0-magenta/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1354MAG_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-2-0-magenta/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Espresso",
+      "White",
+      "Bluebell",
+      "Vintage Rose",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-boyfriend-tank-black?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-cove-boyfriend-tank-black/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1266BLK_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-boyfriend-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Azure",
+      "Black",
+      "White",
+      "Raisin",
+      "Black Blurred Torrent",
+      "Marsh",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-azure?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-azure/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207AZR_SP25_W_ECOMM_TOPS_FRONT_3_c6be49ec-878a-4fa5-bc8c-9ad2e107f185.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-azure/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black",
+      "White",
+      "Blue Coast",
+      "Spearmint Heather",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-long-heather-grey?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-long-heather-grey/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1156HTG_SP24_W_ECOMM_TOPS_FRONT_3_5d8dbaae-c80b-47d7-893c-2d56565fa126.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-long-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Surf",
+      "Black",
+      "White",
+      "Huckleberry Heather",
+      "Bright Peach Heather",
+      "Spearmint Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-surf?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-surf/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW123SUR_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-surf/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Espresso",
+      "Black",
+      "White",
+      "Bluebell",
+      "Vintage Rose",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-boyfriend-tank-espresso?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-cove-boyfriend-tank-espresso/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1266ESP_FA25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-boyfriend-tank-espresso/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "Espresso",
+      "White",
+      "Bluebell",
+      "Vintage Rose"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-boyfriend-tank-light-heather-grey?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-cove-boyfriend-tank-light-heather-grey/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1266LHG_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-boyfriend-tank-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.967Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Black",
+      "White",
+      "Azure",
+      "Black Blurred Torrent",
+      "Marsh",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-raisin?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-raisin/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207RSN_FA25_W_ECOMM_TOPS_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "Black",
+      "White",
+      "Java",
+      "Magenta"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-2-0-evergreen?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-2-0-evergreen/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1354EVG_FA25_W_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-2-0-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg",
+      "White",
+      "White Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-layering-tank-nutmeg?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-layering-tank-nutmeg/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1385NUT_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-layering-tank-nutmeg/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Solid Black",
+      "Chia Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-scoop-tank-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-essential-scoop-tank-white/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1212WHT_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-scoop-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Nutmeg",
+      "White Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-layering-tank-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-layering-tank-white/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1385WHT_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-layering-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sea Spray Heather",
+      "Ecru Heather",
+      "Magenta Heather",
+      "Nutmeg Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-tank-2-0-sea-spray-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-tank-2-0-sea-spray-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HSS_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-tank-2-0-sea-spray-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Espresso",
+      "Bluebell",
+      "Vintage Rose",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-boyfriend-tank-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-cove-boyfriend-tank-white/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look051_F_AARON_FEAVER_Oceanside_13039.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-boyfriend-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Spearmint Heather",
+      "Black",
+      "White",
+      "Blue Coast",
+      "Viridian",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-long-spearmint-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-energy-top-long-spearmint-heather/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1156SMH_FA25_W_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-long-spearmint-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sea Spray Heather",
+      "Solid Black",
+      "Chia Heather",
+      "White",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-scoop-tank-sea-spray-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-halo-essential-scoop-tank-sea-spray-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1212HSS_FA25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-scoop-tank-sea-spray-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluebell",
+      "White Heather",
+      "Black",
+      "Java",
+      "Chia",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-bluebell?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-bluebell/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009BBL_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-bluebell/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White Heather Grey",
+      "Nutmeg",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-layering-tank-white-heather-grey?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-layering-tank-white-heather-grey/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1385WHG_FA25_W_ECOMM_TOPS_FRONT_2_1a3e790f-1b3e-42e7-a42f-56d0565a4314.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-layering-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "White",
+      "Java",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-cami-crystal-blue?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-cami-crystal-blue/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1355CLB_FA25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-cami-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.968Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Blurred Torrent",
+      "Black",
+      "White",
+      "Azure",
+      "Raisin",
+      "Marsh",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-black-blurred-torrent?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-black-blurred-torrent/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207BBT_FA25_W_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-black-blurred-torrent/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia",
+      "White Heather",
+      "Black",
+      "Java",
+      "Viridian",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-chia?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-chia/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009CHI_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-chia/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone Heather",
+      "Raisin Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-racerback-tank-bone-heather?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-elevation-racerback-tank-bone-heather/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1210HBN_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-racerback-tank-bone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sea Spray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-sea-spray?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-sea-spray/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1098SAS_SP25_W_ECOMM_TOPS_DETAIL_14.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-sea-spray/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "Marshmallow",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-layered-tank-viridian?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-daily-layered-tank-viridian/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1390VRI_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-layered-tank-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Smokey Taupe",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-corset-tank-blue-coast?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-corset-tank-blue-coast/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1387BCO_FA25_W_ECOMM_TOPS_FRONT_1_87ae61c9-0a73-4bc7-8f7f-4944c39d562b.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-corset-tank-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Black",
+      "White",
+      "Azure",
+      "Raisin",
+      "Black Blurred Torrent",
+      "Marsh"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-huckleberry?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-huckleberry/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207HUK_FA25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Spearmint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-seamless-surge-tank-white?queryId=a356d1764c00c89709227e5ed4b746fb&collection=womens-tanks",
+    "product_id": "womens-seamless-surge-tank-white/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1196WHT_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-seamless-surge-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bright Peach Heather",
+      "Black",
+      "White",
+      "Surf",
+      "Huckleberry Heather",
+      "Spearmint Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-bright-peach-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-energy-top-bright-peach-heather/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW123HBP_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-bright-peach-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Magenta Heather",
+      "Ecru Heather",
+      "Sea Spray Heather",
+      "Nutmeg Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-2-0-magenta-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-2-0-magenta-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HMN_FA25_W_ECOMM_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-2-0-magenta-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluebell",
+      "Black",
+      "Espresso",
+      "White",
+      "Vintage Rose",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-boyfriend-tank-bluebell?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-cove-boyfriend-tank-bluebell/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1266BBL_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-boyfriend-tank-bluebell/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "White Heather",
+      "Black",
+      "Java",
+      "Chia",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-viridian?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-viridian/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009VRI_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Blue Coast",
+      "Smokey Taupe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-corset-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-corset-tank-black/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1387BLK_FA25_W_ECOMM_TOPS_CREATIVE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-corset-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.969Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Spearmint Heather",
+      "Black",
+      "White",
+      "Surf",
+      "Huckleberry Heather",
+      "Bright Peach Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-energy-top-spearmint-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-energy-top-spearmint-heather/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW123SMH_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-energy-top-spearmint-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Spearmint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-seamless-surge-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-seamless-surge-tank-black/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1196BLK_SP25_W_ECOMM_TOPS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-seamless-surge-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black",
+      "Pale Grey Heather",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-halo-bodysuit-solid-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-sleeveless-halo-bodysuit-solid-black/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK101_W_MARK_TESI_NYC_005088.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-halo-bodysuit-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Dust"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-the-rise-the-shine-tank-heather-dust?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-the-rise-the-shine-tank-heather-dust/",
+    "price": 36,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW952HDU_FA23_W_ECOMM_printables_FRONT_ALT_TOPS_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-the-rise-the-shine-tank-heather-dust/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sea Spray",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-sea-spray?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-sea-spray/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249SAS_FA25_W_ECOMM_TOPS_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-sea-spray/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-tube-top-black-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-tube-top-black-heather/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1273HBK_FA25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-tube-top-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Evergreen",
+      "White",
+      "Java",
+      "Magenta"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-2-0-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-2-0-black/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1354BLK_FA25_W_ECOMM_TOPS_DETAIL_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-2-0-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Evergreen",
+      "Black",
+      "Java",
+      "Magenta"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-2-0-white?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-2-0-white/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1354WHT_FA25_W_ECOMM_TOPS_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-2-0-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Light Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cardigan-tank-java?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-pose-cardigan-tank-java/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1265JAV_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cardigan-tank-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-tube-top-ecru-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-tube-top-ecru-heather/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1273HEE_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-tube-top-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marsh",
+      "Black",
+      "White",
+      "Azure",
+      "Raisin",
+      "Black Blurred Torrent",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-marsh?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-marsh/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207MSH_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-marsh/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Solid Black",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-halo-bodysuit-raisin?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-sleeveless-halo-bodysuit-raisin/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1224RSN_FA25_W_ECOMM_TOPS_DETAIL_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-halo-bodysuit-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Evergreen",
+      "Black",
+      "White",
+      "Magenta"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-2-0-java?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-2-0-java/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1354JAV_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-2-0-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.970Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Azure",
+      "Black",
+      "Bright Poppy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cropped-tank-azure?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-villa-cropped-tank-azure/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1214AZR_SP25_W_ECOMM_TOPS_FRONT_14.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cropped-tank-azure/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Azure",
+      "Bright Poppy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cropped-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-villa-cropped-tank-black/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1214BLK_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cropped-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Spring Heather",
+      "Solid Black",
+      "Chia Heather",
+      "White",
+      "Sea Spray Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-scoop-tank-spring-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-essential-scoop-tank-spring-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1212SGH_SP25_W_ECOMM_TOPS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-scoop-tank-spring-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg Heather",
+      "Ecru Heather",
+      "Sea Spray Heather",
+      "Magenta Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-2-0-nutmeg-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-2-0-nutmeg-heather/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HNM_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-2-0-nutmeg-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "White",
+      "Crystal Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-cami-java?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-cami-java/",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1355JAV_FA25_W_ECOMM_TOPS_CREATIVE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-cami-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Spearmint",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-seamless-surge-tank-spearmint?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-seamless-surge-tank-spearmint/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1196SMT_FA25_W_ECOMM_TOPS_CREATIVE_14.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-seamless-surge-tank-spearmint/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-racerback-tank-light-heather-grey?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-lux-racerback-tank-light-heather-grey/",
+    "price": 49,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1208LHG_FA25_W_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-racerback-tank-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vintage Rose",
+      "Black",
+      "Espresso",
+      "White",
+      "Bluebell",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-boyfriend-tank-vintage-rose?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-cove-boyfriend-tank-vintage-rose/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1266VRO_FA25_W_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-boyfriend-tank-vintage-rose/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bright Poppy",
+      "Azure",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cropped-tank-bright-poppy?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-villa-cropped-tank-bright-poppy/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1214BPO_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cropped-tank-bright-poppy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Black",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-layered-tank-marshmallow?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-daily-layered-tank-marshmallow/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1390MSM_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-layered-tank-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Mist",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cardigan-tank-light-mist?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-pose-cardigan-tank-light-mist/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1265LMI_SP25_W_TOPS_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cardigan-tank-light-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Marshmallow",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-layered-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-daily-layered-tank-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1390BLK_FA25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-layered-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Java",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-halter-white?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-halter-white/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1398WHT_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-halter-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smokey Taupe",
+      "Blue Coast",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-corset-tank-smokey-taupe?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-corset-tank-smokey-taupe/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1387STP_FA25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-corset-tank-smokey-taupe/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.971Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Heather Grey",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-racerback-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-lux-racerback-tank-black/",
+    "price": 49,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1208BLK_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-racerback-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Light Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-racerback-tank-white?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-lux-racerback-tank-white/",
+    "price": 49,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1208WHT_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-racerback-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Java",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-halter-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-halter-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1398BLK_SP25_W_ECOMM_APPAREL_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-halter-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-modern-tank-white?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-pose-modern-tank-white/",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1213WHT_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-modern-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Solid Black",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sleeveless-halo-bodysuit-pale-grey-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "sleeveless-halo-bodysuit-pale-grey-heather/",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1224PHG_FA25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sleeveless-halo-bodysuit-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Ivy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-performance-tank-ink-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-lux-performance-tank-ink-heather/",
+    "sale_price": 24,
+    "price": 49,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW108HIN_02037.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-performance-tank-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Milkweed Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-tank-black-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-essential-tank-black-heather/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1089HBK_FA24_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-tank-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Cosmic",
+      "Lavender Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-black/",
+    "sale_price": 59,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1098BLK_SP24_W_ECOMM_TOPS_CREATIVE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Kale",
+      "Lavender Mist Heather",
+      "Dark Metal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-2-0-kale?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-2-0-kale/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172KLE_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-2-0-kale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Moss",
+      "Mist",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-inversion-rib-support-tank-moss?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-inversion-rib-support-tank-moss/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1206MSS_SP25_W_ECOMM_TOPS_CREATIVE_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-inversion-rib-support-tank-moss/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.972Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Mist",
+      "Moss",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-inversion-rib-support-tank-mist?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-inversion-rib-support-tank-mist/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1206MIT_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-inversion-rib-support-tank-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Creek Heather",
+      "Smoke Blue Heather",
+      "Cobblestone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-racerback-tank-creek-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-elevation-racerback-tank-creek-heather/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1210HRK_SP25_W_ECOMM_TOPS_CREATIVE_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-racerback-tank-creek-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Moss",
+      "Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-inversion-rib-support-tank-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-inversion-rib-support-tank-black/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1206BLK_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-inversion-rib-support-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Isle Blue",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-crop-black?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-daily-crop-black/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1027BLK_FA24_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-crop-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Creek Heather",
+      "Cobblestone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-racerback-tank-smoke-blue-heather?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-elevation-racerback-tank-smoke-blue-heather/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1210HAB_FA24_W_ECOMM_TOPS_BACK_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-racerback-tank-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Isle Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-crop-white?queryId=bd2c7d04e8635275c976ddf962e19893&collection=womens-tanks",
+    "product_id": "womens-daily-crop-white/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1027WHT_FA24_M_ECOMM_TOPS_DETAIL_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-crop-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed",
+      "Laurel",
+      "Sunlight",
+      "Light Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-textured-crop-tank-milkweed?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-textured-crop-tank-milkweed/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1235MKW_SP25_W_ECOMM_TOPS_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-textured-crop-tank-milkweed/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/energy-top-long-black-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "energy-top-long-black-heather/",
+    "sale_price": 43,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1156HBK_FA24_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "energy-top-long-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Cobblestone Heather",
+      "Creek Heather",
+      "Smoke Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-racerback-tank-cobblestone-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-elevation-racerback-tank-cobblestone-heather/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1210HBB_SP25_W_ECOMM_TOPS_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-racerback-tank-cobblestone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black Heather",
+      "Azure Heather",
+      "Cedar Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-heather-grey?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-heather-grey/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1005HTG_FA22_W_ECOMM_CURVE_01064_1x1_aa3ea342-0eb7-4149-aefc-5b773c7d2fd2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Laurel",
+      "Sunlight",
+      "Light Mist",
+      "Milkweed"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-textured-crop-tank-laurel?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-textured-crop-tank-laurel/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1235LAU_SP25_W_ECOMM_TOPS_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-textured-crop-tank-laurel/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sutton-relaxed-tank-white?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sutton-relaxed-tank-white/",
+    "sale_price": 34,
+    "price": 49,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1137WHT_SP24_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sutton-relaxed-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.973Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Cosmic",
+      "Lavender Mist",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-cosmic?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-cosmic/",
+    "sale_price": 51,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1098CMC_SP24_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-cosmic/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ivy Heather",
+      "Ink Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-performance-tank-black?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-lux-performance-tank-black/",
+    "sale_price": 34,
+    "price": 49,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW108BLK_FA17_W_ECOMM_TOP_4354.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-performance-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lavender Mist Heather",
+      "Kale",
+      "Dark Metal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-tank-2-0-lavender-mist-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-tank-2-0-lavender-mist-heather/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HLM_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-tank-2-0-lavender-mist-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pinot"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-alltheform-support-tank-pinot?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-alltheform-support-tank-pinot/",
+    "sale_price": 59,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1207PNO_SP25_W_ECOMM_TOPS_CREATIVE_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-alltheform-support-tank-pinot/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Burnt Sienna",
+      "Zion Rose"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cropped-tank-burnt-sienna?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-cropped-tank-burnt-sienna/",
+    "sale_price": 51,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1214BNS_FA25_W_ECOMM_TOPS_CREATIVE_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cropped-tank-burnt-sienna/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sand Dollar"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-trestles-twill-crop-tank-black?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-trestles-twill-crop-tank-black/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1272BLK_FA25_W_ECOMM_TOPS_CREATIVE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-trestles-twill-crop-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Chia",
+      "Milkweed",
+      "Surf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cami-black?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-pose-cami-black/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1291BLK_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cami-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia",
+      "Milkweed",
+      "Surf",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cami-chia?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-pose-cami-chia/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1291CHI_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cami-chia/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-rib-crop-tank-black?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-rib-crop-tank-black/",
+    "sale_price": 38,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW189BLK_SP21_W_ECOMM_TOP_4248.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-rib-crop-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed",
+      "Talc",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-marina-rib-tank-milkweed?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-marina-rib-tank-milkweed/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1217MKW_SP25_W_ECOMM_TOPS_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-marina-rib-tank-milkweed/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sand Dollar",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-trestles-twill-crop-tank-sand-dollar?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-trestles-twill-crop-tank-sand-dollar/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1272SDR_FA25_W_ECOMM_TOPS_CREATIVE_10_84be9cde-a5d3-45f2-bd59-47580e837905.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-trestles-twill-crop-tank-sand-dollar/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.974Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Zion Rose",
+      "Burnt Sienna"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cropped-tank-zion-rose?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-cropped-tank-zion-rose/",
+    "sale_price": 51,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1214ZRS_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cropped-tank-zion-rose/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Pepper",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-cove-v-neck-black?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sleeveless-cove-v-neck-black/",
+    "sale_price": 44,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1157BLK_FA24_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-cove-v-neck-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Dune"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sunrise-high-neck-tank-white?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sunrise-high-neck-tank-white/",
+    "sale_price": 43,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1012WHT_SP24_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sunrise-high-neck-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sunrise-crop-tank-black?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sunrise-crop-tank-black/",
+    "sale_price": 37,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1013BLK_2045_CO22.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sunrise-crop-tank-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed",
+      "Chia",
+      "Surf",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cami-milkweed?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-pose-cami-milkweed/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1291MKW_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cami-milkweed/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sunlight",
+      "Laurel",
+      "Light Mist",
+      "Milkweed"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-textured-crop-tank-sunlight?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-textured-crop-tank-sunlight/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1235SLI_SP25_W_ECOMM_TOPS_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-textured-crop-tank-sunlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pepper",
+      "Light Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-cove-v-neck-pepper?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sleeveless-cove-v-neck-pepper/",
+    "sale_price": 44,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1157PEP_FA24_M_ECOMM_TOPS_DETAIL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-cove-v-neck-pepper/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-tuvalu-scoop-back-tank-light-heather-grey?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-tuvalu-scoop-back-tank-light-heather-grey/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1399LHG_FA25_W_ECOMM_TOPS_FRONT_2_43553b81-5855-4898-b106-051ced0d419e.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-tuvalu-scoop-back-tank-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Bergamot"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-dynamic-tank-light-bergamot?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-dynamic-tank-light-bergamot/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1236LBG_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-dynamic-tank-light-bergamot/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pepper",
+      "Aspen",
+      "Copenhagen",
+      "Kale"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-pepper?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-pepper/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249PEP_FA24_M_ECOMM_TOPS_DETAIL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-pepper/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-cami-azure-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-lux-cami-azure-heather/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1111HAZ_SP24_W_ECOMM_TOPS_FULL_5_v2-2048x2560-78e992f.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-cami-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lavender Mist",
+      "Cosmic",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tank-lavender-mist?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tank-lavender-mist/",
+    "sale_price": 59,
+    "price": 74,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1098LMT_SP25_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tank-lavender-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Heather Grey",
+      "Azure Heather",
+      "Cedar Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-black-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-black-heather/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1005HBK_8100.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Zion Rose Heather",
+      "Cobblestone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-halo-bodysuit-zion-rose-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sleeveless-halo-bodysuit-zion-rose-heather/",
+    "sale_price": 62,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1224HZR_SP25_W_ECOMM_TOPS_FRONT_3_edac0b0b-306e-4798-90f7-c0e9c544d99d.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-halo-bodysuit-zion-rose-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.975Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Aspen",
+      "Pepper",
+      "Copenhagen",
+      "Kale"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-aspen?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-aspen/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249APN_FA24_W_ECOMM_TOPS_CREATIVE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-aspen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-tank-milkweed-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-essential-tank-milkweed-heather/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1089HMW_SP24_W_ECOMM_TOPS_FRONT_ALT_TOPS_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-tank-milkweed-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dune",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sunrise-high-neck-tank-dune?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sunrise-high-neck-tank-dune/",
+    "sale_price": 37,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1012DUN_FA24_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sunrise-high-neck-tank-dune/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Kale",
+      "Pepper",
+      "Aspen",
+      "Copenhagen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-kale?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-kale/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249KLE_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-kale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Metal Heather",
+      "Kale",
+      "Lavender Mist Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-2-0-dark-metal-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-2-0-dark-metal-heather/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1172HMT_FA24_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-2-0-dark-metal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Walnut",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-tube-top-walnut?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-tube-top-walnut/",
+    "sale_price": 34,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1243WAL_FA24_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-tube-top-walnut/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Talc"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-modern-tank-talc?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-pose-modern-tank-talc/",
+    "sale_price": 43,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1213TLC_SP25_W_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-modern-tank-talc/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Copenhagen",
+      "Pepper",
+      "Aspen",
+      "Kale"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-crew-tank-copenhagen?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-crew-tank-copenhagen/",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1249CPP_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-crew-tank-copenhagen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Metal Heather",
+      "Milkweed Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-mock-bodysuit-dark-metal-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-mock-bodysuit-dark-metal-heather/",
+    "sale_price": 54,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1171HMT_FA24_W_ECOMM_TOPS_FRONT_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-mock-bodysuit-dark-metal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Heather Camo",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-plyo-tank-pale-heather-camo?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-elevation-plyo-tank-pale-heather-camo/",
+    "sale_price": 27,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1004PHC_1_f4b9f046-9571-4de7-8be0-ca113692cd40.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-plyo-tank-pale-heather-camo/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Cobblestone Heather",
+      "Zion Rose Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-halo-bodysuit-cobblestone-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sleeveless-halo-bodysuit-cobblestone-heather/",
+    "sale_price": 62,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1224HBB_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-halo-bodysuit-cobblestone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cardigan-tank-white?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-pose-cardigan-tank-white/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1265WHT_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cardigan-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Pepper",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sleeveless-cove-v-neck-light-heather-grey?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-sleeveless-cove-v-neck-light-heather-grey/",
+    "sale_price": 51,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1157LHG_FA24_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sleeveless-cove-v-neck-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.976Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Heather Grey",
+      "Black Heather",
+      "Cedar Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-performance-crop-azure-heather?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-halo-performance-crop-azure-heather/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1005HAZ_SP23_W_ECOMM_TOPS_TOP_00662_1x1_989dbf49-cd22-4f64-8d7a-737995762908.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-performance-crop-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Surf",
+      "Chia",
+      "Milkweed",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-cami-surf?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-pose-cami-surf/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1291SUR_SP25_W_ECOMM_TOPS_CREATIVE_25.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-cami-surf/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Mist",
+      "Laurel",
+      "Sunlight",
+      "Milkweed"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-textured-crop-tank-light-mist?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-villa-textured-crop-tank-light-mist/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1235LMI_SP25_W_ECOMM_TOPS_DETAIL_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-textured-crop-tank-light-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-square-neck-tank-heather-grey?queryId=02e36456c6555123e4897bff3d3efae7&collection=womens-tanks",
+    "product_id": "womens-elevation-square-neck-tank-heather-grey/",
+    "sale_price": 44,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1080HTG_2305.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-square-neck-tank-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Fern"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-funnel-neck-tank-light-heather-grey?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-cove-funnel-neck-tank-light-heather-grey/",
+    "sale_price": 34,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1113LHG_SP23_W_ECOMM_TOPS_2168_TOP_1x1_dd770aac-c689-4a12-8912-5a93740fc292.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-funnel-neck-tank-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Pale Heather Camo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-plyo-tank-black-heather?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-elevation-plyo-tank-black-heather/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1004HBK_FA22_W_ECOMM_CURVE_01889_1x1_aac7213b-2116-4963-b4d0-8ae22e118c5c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-plyo-tank-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Mallorca Heather",
+      "Salt Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-bodysuit-mallorca-heather?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-halo-bodysuit-mallorca-heather/",
+    "sale_price": 54,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1112HMC_SP24_W_ECOMM_TOPS_FRONT_ALT_TOPS_6_v2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-bodysuit-mallorca-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sunrise-crop-tank-white?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-sunrise-crop-tank-white/",
+    "sale_price": 32,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1013WHT_FA22_W_ECOMM_CURVE_02794_1x1_69dd3883-880f-423c-a836-da98c30b1f24.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sunrise-crop-tank-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pebble"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-tube-top-pebble?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-vuori-allthefeels-tube-top-pebble/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1228PGG_SP25_W_ECOMM_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-tube-top-pebble/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Walnut"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-tube-top-black?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-villa-tube-top-black/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1243BLK_FA24_W_ECOMM_TOPS_DETAIL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-tube-top-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.977Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed Heather",
+      "Dark Metal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-mock-bodysuit-milkweed-heather?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-halo-mock-bodysuit-milkweed-heather/",
+    "sale_price": 62,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1171HMW_FA24_W_ECOMM_TOPS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-mock-bodysuit-milkweed-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ivy Heather",
+      "Black",
+      "Ink Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-performance-tank-ivy-heather?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-lux-performance-tank-ivy-heather/",
+    "sale_price": 39,
+    "price": 49,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW108HIY_SP24_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-performance-tank-ivy-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-elevation-square-neck-tank-black-heather?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-elevation-square-neck-tank-black-heather/",
+    "sale_price": 44,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1080HBK_SP24_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-elevation-square-neck-tank-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Talc",
+      "Bluebell",
+      "Milkweed"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-marina-rib-tank-talc?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-marina-rib-tank-talc/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1217TLC_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-marina-rib-tank-talc/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Fern",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-cove-funnel-neck-tank-fern?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-cove-funnel-neck-tank-fern/",
+    "sale_price": 40,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1113FRN_FA23_W_ECOMM_TOPS_FRONT_TOPS_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-cove-funnel-neck-tank-fern/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluebell",
+      "Talc",
+      "Milkweed"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-marina-rib-tank-bluebell?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-marina-rib-tank-bluebell/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1217BBL_SP25_W_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-marina-rib-tank-bluebell/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Isle Blue",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-crop-isle-blue?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-daily-crop-isle-blue/",
+    "sale_price": 47,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1027IBL_SP24_W_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-crop-isle-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Iron"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-quince-seamless-crop-iron?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-quince-seamless-crop-iron/",
+    "sale_price": 44,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1130IRN_FA24_M_ECOMM_TOPS_DETAIL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-quince-seamless-crop-iron/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lemongrass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-seamless-surge-tank-lemongrass?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-seamless-surge-tank-lemongrass/",
+    "sale_price": 46,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1196LGS_SP25_W_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-seamless-surge-tank-lemongrass/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-azure-heather?queryId=14721b154f4cd30c01e1dbf2995b78d6&collection=womens-tanks",
+    "product_id": "womens-pose-plyo-tank-azure-heather/",
+    "sale_price": 38,
+    "price": 64,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1009HAZ_SP23_W_ECOMM_TOPS_0689_1x1_d434d976-303e-46cd-8cdc-db3292a6ed46.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.978Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.979Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:59:59.980Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

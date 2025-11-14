@@ -1,0 +1,659 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.680Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Dark Pewter",
+      "Shiitake",
+      "Smoked Beryl",
+      "Black",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lifestyle-boxer-brief-navy?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "lifestyle-boxer-brief-navy/",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8102NVY_SP25_MENS_ECOMM_ACCESSORIES_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "lifestyle-boxer-brief-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.681Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter",
+      "Navy",
+      "Shiitake",
+      "Smoked Beryl",
+      "Black",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lifestyle-boxer-brief-dark-pewter?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "lifestyle-boxer-brief-dark-pewter/",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8102DPR_SP25_MENS_ECOMM_ACCESSORIES_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "lifestyle-boxer-brief-dark-pewter/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.681Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Dusty Blue",
+      "Black",
+      "Dark Oregano",
+      "Huckleberry",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-charcoal?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-charcoal/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850CCL_SP24_M_ECOMM_SHORTS_PINUP_7.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.681Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Dark Pewter",
+      "Smoked Beryl",
+      "Black",
+      "Raisin",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lifestyle-boxer-brief-shiitake?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "lifestyle-boxer-brief-shiitake/",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8102SII_SP25_MENS_ECOMM_ACCESSORIES_FLAT_LAY_2_5bcbbdf8-31f8-49c6-8a75-2ee6760362d8.jpg"
+    ],
+    "badges": [],
+    "sku": "lifestyle-boxer-brief-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.681Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoked Beryl",
+      "Dark Pewter",
+      "Shiitake",
+      "Black",
+      "Raisin",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lifestyle-boxer-brief-smoked-beryl?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "lifestyle-boxer-brief-smoked-beryl/",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8102DPR_SP25_MENS_ECOMM_ACCESSORIES_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "lifestyle-boxer-brief-smoked-beryl/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.682Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue",
+      "Black",
+      "Dark Oregano",
+      "Huckleberry",
+      "Frost Grey",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-dusty-blue?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-dusty-blue/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850DBL_SP25_MENS_ECOMM_ACCESSORIES_FLAT_LAY_1_1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-dusty-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.682Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Pewter",
+      "Shiitake",
+      "Smoked Beryl",
+      "Raisin",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lifestyle-boxer-brief-black?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "lifestyle-boxer-brief-black/",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8102BLK_SP25_MENS_ECOMM_ACCESSORIES_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "lifestyle-boxer-brief-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.682Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dusty Blue",
+      "Dark Oregano",
+      "Huckleberry",
+      "Frost Grey",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-black?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-black/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850BLK_SP24_MENS_ECOMM_ACCESSORIES_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.682Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Dark Pewter",
+      "Shiitake",
+      "Smoked Beryl",
+      "Black",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lifestyle-boxer-brief-raisin?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "lifestyle-boxer-brief-raisin/",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8102RSN_SP26_M_ECOMM_UNDERWEAR_PINUP_1.jpg"
+    ],
+    "badges": [],
+    "sku": "lifestyle-boxer-brief-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.682Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Charcoal/Dark Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-pack-black-charcoal-dark-oregano?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-pack-black-charcoal-dark-oregano/",
+    "price": 96,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850PACK.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-pack-black-charcoal-dark-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.682Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Oregano",
+      "Dusty Blue",
+      "Black",
+      "Huckleberry",
+      "Frost Grey",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-dark-oregano?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-dark-oregano/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850DOR_SP24_M_ECOMM_BOTTOMS_PINUP_1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-dark-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Dusty Blue",
+      "Black",
+      "Dark Oregano",
+      "Frost Grey",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-huckleberry?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-huckleberry/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850HUK_FA25_M_APPAREL_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Dusty Blue",
+      "Black",
+      "Dark Oregano",
+      "Huckleberry",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-boxer-brief-frost-grey?queryId=1b6144d6cb79fece260396d3b8100fbe&collection=mens-underwear",
+    "product_id": "v1-boxer-brief-frost-grey/",
+    "price": 32,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V850FGR_FA25_M_UNDERWEAR_PINUP_1_31c18b74-f795-4a0a-bc6d-c96dfce3ab9c.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-boxer-brief-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-rib-half-zip-black?",
+    "product_id": "womens-lux-rib-half-zip-black/",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW294BLK_SP23_W_ECOMM_FLEECE_TOPS_3263_1x1_11528e5d-3f9d-461a-abd2-459f0dccac7b.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-rib-half-zip-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.683Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:18:00.684Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

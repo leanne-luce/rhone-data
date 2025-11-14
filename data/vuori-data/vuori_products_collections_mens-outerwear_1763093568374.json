@@ -1,0 +1,4902 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.352Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sea Pine",
+      "Amethyst Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/taika-snow-shell-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "taika-snow-shell-black/",
+    "price": 448,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5002BLK_FA25_M_OUTERWEAR_FRONT_2_fecfa760-d369-4712-bcb2-7ee8eaa69aa3.jpg"
+    ],
+    "badges": [],
+    "sku": "taika-snow-shell-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.352Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Pine",
+      "Black",
+      "Amethyst Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/taika-snow-shell-sea-pine?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "taika-snow-shell-sea-pine/",
+    "price": 448,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5002SPN_FA25_M_OUTERWEAR_FRONT_2_85042551-5dc4-4dfe-be15-1a58f7e3735d.jpg"
+    ],
+    "badges": [],
+    "sku": "taika-snow-shell-sea-pine/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.352Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Amethyst Grey",
+      "Sea Pine",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/taika-snow-shell-amethyst-grey?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "taika-snow-shell-amethyst-grey/",
+    "price": 448,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5002AGY_FA25_M_OUTERWEAR_FRONT_3_f147c855-f31c-4aa5-adf1-fb5d4470f2bd.jpg"
+    ],
+    "badges": [],
+    "sku": "taika-snow-shell-amethyst-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.353Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Moonlight",
+      "River Rock",
+      "Fog",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-jacket-2-0-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-jacket-2-0-black/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK061_M_AARON_FEAVER_BROOKLYN_00015.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-jacket-2-0-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.353Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Ink Heather",
+      "Grey Heather",
+      "Huckleberry Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-agate-green-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-agate-green-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HGN_FA25_M_OUTERWEAR_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.353Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Mushroom",
+      "Dark Pewter"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/range-shirt-jacket-2-0-oregano?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "range-shirt-jacket-2-0-oregano/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK137_M_MARK_TESI_NYC_002787.jpg"
+    ],
+    "badges": [],
+    "sku": "range-shirt-jacket-2-0-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.353Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Slate Blue Heather",
+      "Salt Heather",
+      "Black Heather",
+      "Pumice Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-slate-blue-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-slate-blue-heather/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009EBH_FA25_M_OUTERWEAR_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-slate-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.353Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast",
+      "Dark Pewter",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-cord-jacket-toast?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "vuori-cord-jacket-toast/",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V595TOT_FA25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-cord-jacket-toast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Root",
+      "Ocean Blue",
+      "Marsh"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-half-snap-root?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "aspen-half-snap-root/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5014ROO_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-half-snap-root/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Cavern Grey",
+      "Olive",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-salt?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "seaside-shirt-jacket-salt/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK071_M_AARON_FEAVER_SOHO_00231.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Smokey Taupe",
+      "Blue Haze",
+      "Black",
+      "Evergreen",
+      "Light Heather Grey",
+      "Berry",
+      "French Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-pullover-hoodie-salt?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "seaside-pullover-hoodie-salt/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK005_M_MARKTESI_OCEANSIDE_1732.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-pullover-hoodie-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marsh",
+      "Ocean Blue",
+      "Root"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-half-snap-marsh?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "aspen-half-snap-marsh/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK122_M_AARON_FEAVER_WILLIAMSBURG_00048.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-half-snap-marsh/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pumice Heather",
+      "Slate Blue Heather",
+      "Salt Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-pumice-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-pumice-heather/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009HPM_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-pumice-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "River Rock",
+      "Black",
+      "Moonlight",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-vest-2-0-river-rock?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-vest-2-0-river-rock/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V587RRK_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-vest-2-0-river-rock/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.354Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Moonlight",
+      "Navy",
+      "River Rock"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-vest-2-0-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-vest-2-0-black/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK135_M_MARK_TESI_NYC_021520.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-vest-2-0-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coordinate-down-jacket-sea-fog?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "coordinate-down-jacket-sea-fog/",
+    "price": 298,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK114_M_MARK_TESI_NYC_018285-2048x2560-300ef90.png"
+    ],
+    "badges": [],
+    "sku": "coordinate-down-jacket-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215BLK_FA24_M_ECOMM_jackets_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-ink-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-ink-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215HIN_FA24_M_ECOMM_jackets_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Smokey Taupe",
+      "Salt",
+      "Blue Haze",
+      "Evergreen",
+      "Light Heather Grey",
+      "Berry",
+      "French Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-pullover-hoodie-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "seaside-pullover-hoodie-black/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V299BLK_FA24_M_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-pullover-hoodie-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Moonlight",
+      "Black",
+      "River Rock",
+      "Fog",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-jacket-2-0-moonlight?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-jacket-2-0-moonlight/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK097_M_AARON_FEAVER_WILLIAMSBURG_00001.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-jacket-2-0-moonlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Dark Pewter",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/range-shirt-jacket-2-0-mushroom?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "range-shirt-jacket-2-0-mushroom/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK090_M_MARK_TESI_NYC_005964.jpg"
+    ],
+    "badges": [],
+    "sku": "range-shirt-jacket-2-0-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.355Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Grey Heather",
+      "Huckleberry Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265BLK_FA24_M_ECOMM_jackets_FRONT_TOPS_9.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Black",
+      "Moonlight",
+      "River Rock",
+      "Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-jacket-2-0-navy?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-jacket-2-0-navy/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V593NVY_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-jacket-2-0-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Moonlight",
+      "Black",
+      "Navy",
+      "River Rock"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-vest-2-0-moonlight?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-vest-2-0-moonlight/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V587MNL_FA25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-vest-2-0-moonlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Black",
+      "Ink Heather",
+      "Toast Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-frost-grey?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-frost-grey/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033FGR_FA25_M_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Slate Blue Heather",
+      "Black Heather",
+      "Pumice Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-salt-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-salt-heather/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_CoronadoShirtJacket_SaltHeather_1.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Grey Heather",
+      "Huckleberry Heather",
+      "Agate Green Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-ink-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-ink-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HIN_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Smokey Taupe",
+      "Salt",
+      "Blue Haze",
+      "Black",
+      "Evergreen",
+      "Berry",
+      "French Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-pullover-hoodie-light-heather-grey?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "seaside-pullover-hoodie-light-heather-grey/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V299LHG_FA24_M_ECOMM_fleece_DETAIL_11.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-pullover-hoodie-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Black",
+      "Moonlight",
+      "River Rock"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-vest-2-0-navy?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-vest-2-0-navy/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V587NVY_FA24_M_ECOMM_vests_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-vest-2-0-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Salt",
+      "Cavern Grey",
+      "Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "seaside-shirt-jacket-black/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2016BLK_FA25_M_OUTERWEAR_FRONT_2_1.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "River Rock",
+      "Black",
+      "Moonlight",
+      "Fog",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-jacket-2-0-river-rock?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "echo-insulated-jacket-2-0-river-rock/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V593RRK_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-jacket-2-0-river-rock/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.356Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Blue Coast",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-vest-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-vest-black/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V580BLK_FA24_M_ECOMM_vests_DETAIL_12.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-vest-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Heather",
+      "Black",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-grey-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-grey-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215GYH_FA25_M_ECOMM_OUTERWEAR_DETAIL_13.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Frost Grey",
+      "Ink Heather",
+      "Toast Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033BLK_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ocean Blue",
+      "Mushroom",
+      "Black",
+      "Root"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-ocean-blue?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-ocean-blue/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237OBL_FA25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-ocean-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Salt Heather",
+      "Driftwood Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-novelty-full-zip-midnight-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "coronado-novelty-full-zip-midnight-heather/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK091_M_MARK_TESI_NYC_000313_CROPPED.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-novelty-full-zip-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Ocean Blue",
+      "Black",
+      "Root"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-mushroom?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-mushroom/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237SHR_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter",
+      "Shiitake",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-cord-jacket-dark-pewter?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "vuori-cord-jacket-dark-pewter/",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V595DPR_FA25_M_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-cord-jacket-dark-pewter/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Black",
+      "Agate Green Heather",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-ink-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-ink-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416HIN_FA25_M_BOTTOMS_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Frost Grey",
+      "Black",
+      "Ink Heather",
+      "Toast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-agate-green-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-agate-green-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033HGN_FA25_M_OUTERWEAR_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Ink Heather",
+      "Black",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-frost-grey?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-frost-grey/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V286FGR_FA25_M_OUTERWEAR_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.357Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Blue Coast",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-full-zip-jacket-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-full-zip-jacket-black/",
+    "price": 278,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look033_M_AARON_FEAVER_Oceanside_8294.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-full-zip-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ocean Blue",
+      "Root",
+      "Marsh"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-half-snap-ocean-blue?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "aspen-half-snap-ocean-blue/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5014OBL_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-half-snap-ocean-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink Heather",
+      "Agate Green Heather",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-black?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-black/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V286BLK_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Black",
+      "Ink Heather",
+      "Huckleberry Heather",
+      "Platinum Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-smoke-blue-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-smoke-blue-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215HAB_FA25_M_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cavern Grey",
+      "Salt",
+      "Olive",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-cavern-grey?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "seaside-shirt-jacket-cavern-grey/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK089_M_AARON_FEAVER_SOHO_00041.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-cavern-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Root",
+      "Ocean Blue",
+      "Mushroom",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-root?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-root/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237ROO_FA25_M_OUTERWEAR_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-root/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Slate Blue Heather",
+      "Salt Heather",
+      "Pumice Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-black-heather?queryId=daaf35c2905e21bbd1fd0503fce1797d&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-black-heather/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009HBK_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Sea Fog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-vest-blue-coast?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-vest-blue-coast/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V580BCO_FA25_M_ECOMM_OUTERWEAR_FRONT_3_004069ae-09b4-4385-85d6-67891bfce064.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-vest-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Midnight Heather",
+      "Salt Heather",
+      "Driftwood Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-novelty-full-zip-black-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "coronado-novelty-full-zip-black-heather/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2013HBK_FA24_M_ECOMM_fleece_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-novelty-full-zip-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.358Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Blue Coast",
+      "Elm"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/alpine-fleece-full-zip-bone?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "alpine-fleece-full-zip-bone/",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5039BNE_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "alpine-fleece-full-zip-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ocean Blue",
+      "Mushroom",
+      "Root"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-black/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK069_M_MARK_TESI_NYC_004689.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink Heather",
+      "Frost Grey",
+      "Black",
+      "Toast Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-ink-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-ink-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033HIN_SP25_M_ECOMM_OUTERWEAR_DETAIL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-ink-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-hybrid-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-hybrid-black/",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V279BLK_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-hybrid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Mushroom",
+      "Ocean Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-vest-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "aspen-vest-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5015BLK_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-vest-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter",
+      "Mushroom",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/range-shirt-jacket-2-0-dark-pewter?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "range-shirt-jacket-2-0-dark-pewter/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK067_M_MARK_TESI_NYC_014680.jpg"
+    ],
+    "badges": [],
+    "sku": "range-shirt-jacket-2-0-dark-pewter/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Heather",
+      "Ink Heather",
+      "Huckleberry Heather",
+      "Agate Green Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-grey-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-grey-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265GYH_FA25_M_ECOMM_OUTERWEAR_FULL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Ink Heather",
+      "Grey Heather",
+      "Agate Green Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-huckleberry-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-huckleberry-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK068_M_AARON_FEAVER_WILLIAMSBURG_00015.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Elm",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/alpine-fleece-full-zip-blue-coast?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "alpine-fleece-full-zip-blue-coast/",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5039BCO_FA25_M_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "alpine-fleece-full-zip-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Ocean Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-vest-mushroom?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "aspen-vest-mushroom/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5015SHR_FA25_M_OUTERWEAR_FRONT_27.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-vest-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.359Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Dark Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/plymouth-wool-shirt-jacket-heather-grey?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "plymouth-wool-shirt-jacket-heather-grey/",
+    "price": 228,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_RESTORE_LOOK01_GEORDY_PEARSON_CARLSBAD_3107.jpg"
+    ],
+    "badges": [],
+    "sku": "plymouth-wool-shirt-jacket-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Linen Texture",
+      "Black Linen Texture",
+      "Dusty Blue Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/venture-track-jacket-agate-green-linen-texture?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "venture-track-jacket-agate-green-linen-texture/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V536AGN_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "venture-track-jacket-agate-green-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/malin-hybrid-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "malin-hybrid-jacket-black/",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5000BLK_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "malin-hybrid-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast Heather",
+      "Frost Grey",
+      "Black",
+      "Ink Heather",
+      "Agate Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-toast-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-toast-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033TSH_FA25_M_ECOMM_OUTERWEAR_CREATIVE_10_5e30d9af-2078-4c9f-97cd-0d9293c4b20c.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-toast-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Oatmeal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/berik-cashmere-sweater-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "berik-cashmere-sweater-black/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V294BLK_FA24_M_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "berik-cashmere-sweater-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/bering-down-parka-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "bering-down-parka-black/",
+    "price": 398,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5004BLK_FA25_M_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "bering-down-parka-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Sea Fog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-full-zip-jacket-blue-coast?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-full-zip-jacket-blue-coast/",
+    "price": 278,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V579BCO_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-full-zip-jacket-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Pacific Linen Texture",
+      "Platinum Linen Texture",
+      "Moonlight Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512BLK_FA24_M_ECOMM_jackets_FRONT_TOPS_9.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Mushroom"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-shirt-jacket-ink?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "waffle-shirt-jacket-ink/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look032_F_AARON_FEAVER_Oceanside_13544.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-shirt-jacket-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Elm",
+      "Blue Coast",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/alpine-fleece-full-zip-elm?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "alpine-fleece-full-zip-elm/",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5039ELM_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "alpine-fleece-full-zip-elm/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Black",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Platinum Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-huckleberry-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-huckleberry-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215HHB_FA25_M_OUTERWEAR_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.360Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Black",
+      "Ink Heather",
+      "Smoke Blue Heather",
+      "Huckleberry Heather",
+      "Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-platinum-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-platinum-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215HPT_FA24_M_ECOMM_jackets_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Linen Texture",
+      "Dusty Blue Linen Texture",
+      "Agate Green Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/venture-track-jacket-black-linen-texture?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "venture-track-jacket-black-linen-texture/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V536BKL_FA25_M_OUTERWEAR_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "venture-track-jacket-black-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Black Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/plymouth-wool-shirt-jacket-dark-black-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "plymouth-wool-shirt-jacket-dark-black-heather/",
+    "price": 228,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2036HRB_FA25_M_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "plymouth-wool-shirt-jacket-dark-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pacific Linen Texture",
+      "Platinum Linen Texture",
+      "Moonlight Linen Texture",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-pacific-linen-texture?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-pacific-linen-texture/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512PFT_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-pacific-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Linen Texture",
+      "Pacific Linen Texture",
+      "Moonlight Linen Texture",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-platinum-linen-texture?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-platinum-linen-texture/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512PTL_FA24_M_ECOMM_jackets_FRONT_5.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-platinum-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fog",
+      "Black",
+      "Moonlight",
+      "River Rock",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-jacket-2-0-fog?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "echo-insulated-jacket-2-0-fog/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V593FOG_SP25_M_ECOMM_OUTERWEAR_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-jacket-2-0-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coordinate-down-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "coordinate-down-jacket-black/",
+    "price": 298,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V584BLK_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coordinate-down-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sea Fog",
+      "Kashmir"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "elevate-kore-jacket-black/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V574BLK_SP24_M_ECOMM_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green Heather",
+      "Ink Heather",
+      "Black",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-agate-green-heather?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-agate-green-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V286HGN_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-agate-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Dark Pewter",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-cord-jacket-shiitake?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "vuori-cord-jacket-shiitake/",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V595SII_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-cord-jacket-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ocean Blue",
+      "Mushroom",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-vest-ocean-blue?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "aspen-vest-ocean-blue/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5015OBL_FA25_M_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-vest-ocean-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.361Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Blue Coast",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-full-zip-jacket-sea-fog?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-full-zip-jacket-sea-fog/",
+    "price": 278,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V579SFG_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-full-zip-jacket-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/bering-down-parka-oregano?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "bering-down-parka-oregano/",
+    "price": 398,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5004ORE_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "bering-down-parka-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shale",
+      "Stormy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/oahu-rain-jacket-shale?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "oahu-rain-jacket-shale/",
+    "price": 238,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V553SHA_FA23_M_ECOMM_jackets_FRONT_TOPS_11.jpg"
+    ],
+    "badges": [],
+    "sku": "oahu-rain-jacket-shale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Shiitake",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lawson-tech-shirt-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "lawson-tech-shirt-jacket-black/",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_FletcherElasticWaistPants_Oatmeal_3.jpg"
+    ],
+    "badges": [],
+    "sku": "lawson-tech-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-full-zip-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "aspen-full-zip-jacket-black/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_AspenFZJacket_DeepSea_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-full-zip-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White Color Block"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-jacket-black?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "fleet-jacket-black/",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V598BLK_SP25_M_ECOMM_OUTERWEAR_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-hybrid-sea-fog?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-hybrid-sea-fog/",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V279SFG_FA25_M_OUTERWEAR_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-hybrid-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kashmir",
+      "Black",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-jacket-kashmir?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "elevate-kore-jacket-kashmir/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V574KMR_FA25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-jacket-kashmir/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.362Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Black",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lawson-tech-shirt-jacket-oregano?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "lawson-tech-shirt-jacket-oregano/",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V596ORE_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "lawson-tech-shirt-jacket-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/malin-hybrid-jacket-sea-fog?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "malin-hybrid-jacket-sea-fog/",
+    "price": 248,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5000SFG_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "malin-hybrid-jacket-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Blue Coast",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-vest-sea-fog?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-vest-sea-fog/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V580SFG_FA25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-vest-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Moonlight Linen Texture",
+      "Pacific Linen Texture",
+      "Platinum Linen Texture",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-moonlight-linen-texture?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-moonlight-linen-texture/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512MLN_FA25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-moonlight-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-shirt-jacket-mushroom?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "waffle-shirt-jacket-mushroom/",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2007SHR_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-shirt-jacket-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue Linen Texture",
+      "Black Linen Texture",
+      "Agate Green Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/venture-track-jacket-dusty-blue-linen-texture?queryId=55d4df82c19ec0442f7709de0a4f4d29&collection=mens-outerwear",
+    "product_id": "venture-track-jacket-dusty-blue-linen-texture/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V536DBT_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "venture-track-jacket-dusty-blue-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Black",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lawson-tech-shirt-jacket-shiitake?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "lawson-tech-shirt-jacket-shiitake/",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK059_M_AARON_FEAVER_SOHO_00007.jpg"
+    ],
+    "badges": [],
+    "sku": "lawson-tech-shirt-jacket-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/powergrid-full-zip-jacket-sea-fog?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "powergrid-full-zip-jacket-sea-fog/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5020SFG_FA25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "powergrid-full-zip-jacket-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-full-zip-jacket-heather-grey?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "aspen-full-zip-jacket-heather-grey/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V583HTG_FA25_M_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-full-zip-jacket-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sea Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/powergrid-full-zip-jacket-black-1?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "powergrid-full-zip-jacket-black-1/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5020BLK_FA25_M_ECOMM_OUTERWEAR_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "powergrid-full-zip-jacket-black-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sea Fog",
+      "Black",
+      "Kashmir"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-jacket-sea-fog?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "elevate-kore-jacket-sea-fog/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V574SFG_FA25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-jacket-sea-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.363Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White Color Block",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-jacket-white-color-block?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "fleet-jacket-white-color-block/",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V598WCB_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-jacket-white-color-block/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Shiitake Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevation-blazer-black-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "elevation-blazer-black-heather/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5001HBK_SP25_M_ECOMM_OUTERWEAR_FULL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "elevation-blazer-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Stormy",
+      "Shale"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/oahu-rain-jacket-stormy?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "oahu-rain-jacket-stormy/",
+    "price": 238,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V553SHA_FA23_M_ECOMM_jackets_FRONT_TOPS_1.jpg"
+    ],
+    "badges": [],
+    "sku": "oahu-rain-jacket-stormy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevation-blazer-shiitake-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "elevation-blazer-shiitake-heather/",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5001HII_SP25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "elevation-blazer-shiitake-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-kale-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-kale-heather/",
+    "sale_price": 70,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033HKL_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Mocha Heather",
+      "Platinum Heather",
+      "Dusty Blue Heather",
+      "Vapor Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-kale-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-kale-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HKL_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Kale Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-charcoal-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-charcoal-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V286HCC_FA24_M_ECOMM_vests_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast",
+      "Pacific",
+      "Dark Pewter"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-full-zip-jacket-toast?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "aspen-full-zip-jacket-toast/",
+    "sale_price": 117,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V583TOT_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-full-zip-jacket-toast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-full-zip-hooded-jacket-black?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "steadfast-full-zip-hooded-jacket-black/",
+    "sale_price": 178,
+    "price": 298,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V554BLK_FA24_M_ECOMM_jackets_FRONT_TOPS_14.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-full-zip-hooded-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.364Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-half-zip-platinum-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-half-zip-platinum-heather/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2033HPT_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-half-zip-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter",
+      "Toast",
+      "Pacific"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-full-zip-jacket-dark-pewter?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "aspen-full-zip-jacket-dark-pewter/",
+    "sale_price": 117,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V583DPR_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-full-zip-jacket-dark-pewter/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-vest-aspen?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-vest-aspen/",
+    "sale_price": 118,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V580APN_FA24_M_ECOMM_vests_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-vest-aspen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kale Heather",
+      "Charcoal Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-kale-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-kale-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V286HKL_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-kale-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha Heather",
+      "Kale Heather",
+      "Platinum Heather",
+      "Dusty Blue Heather",
+      "Vapor Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-mocha-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-mocha-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HMO_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-mocha-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dolomite Heather",
+      "Light Heather Grey",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-dolomite-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-dolomite-heather/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009HDL_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-dolomite-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Oatmeal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/beldon-shirt-jacket-knit-twill-oregano?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "beldon-shirt-jacket-knit-twill-oregano/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2012ORE_SP25_M_ECOMM_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "beldon-shirt-jacket-knit-twill-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fog",
+      "Acorn"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-vest-2-0-fog?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "echo-insulated-vest-2-0-fog/",
+    "sale_price": 126,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V587FOG_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-vest-2-0-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cocoa"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fleet-jacket-cocoa?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "fleet-jacket-cocoa/",
+    "sale_price": 142,
+    "price": 178,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V598CCO_SP25_M_ECOMM_OUTERWEAR_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "fleet-jacket-cocoa/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Aspen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-full-zip-jacket-shiitake?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-full-zip-jacket-shiitake/",
+    "sale_price": 166,
+    "price": 278,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V579SII_FA24_M_ECOMM_jackets_FRONT_8.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-full-zip-jacket-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.365Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-insulated-jacket-black-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "ponto-insulated-jacket-black-heather/",
+    "sale_price": 182,
+    "price": 228,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V557HBK_FA24_M_ECOMM_jackets_FRONT_TOPS_11.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-insulated-jacket-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Navy",
+      "Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-jacket-black?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "seaside-jacket-black/",
+    "sale_price": 94,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V296BLK_FA24_M_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Metal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-jacket-2-0-metal?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "echo-insulated-jacket-2-0-metal/",
+    "sale_price": 138,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V593MTL_FA24_M_ECOMM_jackets_FRONT_5.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-jacket-2-0-metal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-full-zip-jacket-aspen?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-full-zip-jacket-aspen/",
+    "sale_price": 166,
+    "price": 278,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V579APN_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-full-zip-jacket-aspen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Charcoal Heather",
+      "Kale Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-vest-platinum-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-vest-platinum-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V286HPT_SP24_M_ECOMM_VEST_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-vest-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oatmeal",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/beldon-shirt-jacket-knit-twill-oatmeal?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "beldon-shirt-jacket-knit-twill-oatmeal/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2012OAT_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "beldon-shirt-jacket-knit-twill-oatmeal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Kale Heather",
+      "Mocha Heather",
+      "Dusty Blue Heather",
+      "Vapor Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-platinum-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-platinum-heather/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HPT_FA23_M_ECOMM_jackets_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.366Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue Heather",
+      "Kale Heather",
+      "Mocha Heather",
+      "Platinum Heather",
+      "Vapor Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-dusty-blue-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-dusty-blue-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HYU_FA24_M_ECOMM_jackets_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-dusty-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sky Grey",
+      "Shale",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/boulevard-shirt-jacket-sky-grey?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "boulevard-shirt-jacket-sky-grey/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V281SDG_current_season_M_ECOMM_OUTERWEAR_FRONT_TOPS_4.jpg"
+    ],
+    "badges": [],
+    "sku": "boulevard-shirt-jacket-sky-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Linen Texture",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/venture-track-jacket-platinum-linen-texture?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "venture-track-jacket-platinum-linen-texture/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V536PLT_07331.jpg"
+    ],
+    "badges": [],
+    "sku": "venture-track-jacket-platinum-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Pacific",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/rainstorm-packable-jacket-black?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "rainstorm-packable-jacket-black/",
+    "sale_price": 198,
+    "price": 248,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V573BLK_SP24_M_ECOMM_OUTERWEAR_FRONT_TOPS_3.jpg"
+    ],
+    "badges": [],
+    "sku": "rainstorm-packable-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Zinc"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-jacket-navy?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "elevate-kore-jacket-navy/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V574NVY_FA24_M_ECOMM_jackets_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-jacket-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/northmost-insulated-parka-black?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "northmost-insulated-parka-black/",
+    "sale_price": 318,
+    "price": 398,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V566BLK_FA23_M_ECOMM_jackets_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "northmost-insulated-parka-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen Heather",
+      "Dolomite Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-novelty-full-zip-aspen-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "coronado-novelty-full-zip-aspen-heather/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2013HAN_FA24_M_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-novelty-full-zip-aspen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Zinc",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/elevate-kore-jacket-zinc?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "elevate-kore-jacket-zinc/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V574ZNC_SP25_M_ECOMM_OUTERWEAR_DETAIL_10_1.jpg"
+    ],
+    "badges": [],
+    "sku": "elevate-kore-jacket-zinc/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.367Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Salt",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-jacket-navy?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "seaside-jacket-navy/",
+    "sale_price": 110,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V296NVY_FA24_M_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-jacket-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Oatmeal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/timor-chore-jacket-charcoal?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "timor-chore-jacket-charcoal/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V599CCL_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "timor-chore-jacket-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-shirt-jacket-shiitake?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "waffle-shirt-jacket-shiitake/",
+    "sale_price": 110,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_MetaPantRelaxed_Charcoal_1_1.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-shirt-jacket-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pacific",
+      "Toast",
+      "Dark Pewter"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-full-zip-jacket-pacific?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "aspen-full-zip-jacket-pacific/",
+    "sale_price": 117,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V583PAC_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-full-zip-jacket-pacific/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Shale",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/boulevard-shirt-jacket-ink?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "boulevard-shirt-jacket-ink/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V281INK_SP23_M_ECOMM_FLEECE_TOP_3837_1x1_47a0cbbd-b698-4023-8ca1-34f293de25f7.jpg"
+    ],
+    "badges": [],
+    "sku": "boulevard-shirt-jacket-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Winter Pear",
+      "Heather Grey",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-winter-pear?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-winter-pear/",
+    "sale_price": 94,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237WPR_FA24_M_ECOMM_jackets_FRONT_2_411745d8-5ccd-42d7-97a9-517855b39074.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-winter-pear/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-shirt-jacket-salt?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "waffle-shirt-jacket-salt/",
+    "sale_price": 126,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2007SAL_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-shirt-jacket-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor Heather",
+      "Kale Heather",
+      "Mocha Heather",
+      "Platinum Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-track-jacket-vapor-heather?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "sunday-element-track-jacket-vapor-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V265HVA_FA24_M_ECOMM_jackets_FRONT_TOPS_11.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-track-jacket-vapor-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.368Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ronan-packable-jacket-black?queryId=47c5a9f0f3708e5db00ebba9360ad9e0&collection=mens-outerwear",
+    "product_id": "ronan-packable-jacket-black/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V572BLK_SP24_M_ECOMM_OUTERWEAR_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "ronan-packable-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Lake",
+      "Winter Grey",
+      "Aspen Linen Texture",
+      "Dark Pewter Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-lake?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-lake/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512LAK_FA23_M_ECOMM_jackets_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-lake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-full-zip-hooded-jacket-shiitake?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "steadfast-full-zip-hooded-jacket-shiitake/",
+    "sale_price": 178,
+    "price": 298,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V554SII_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-full-zip-hooded-jacket-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Aspen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/steadfast-insulated-vest-shiitake?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "steadfast-insulated-vest-shiitake/",
+    "sale_price": 118,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V580SII_FA24_M_ECOMM_vests_FRONT_TOPS_4.jpg"
+    ],
+    "badges": [],
+    "sku": "steadfast-insulated-vest-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aviara-down-jacket-2-0-black?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "aviara-down-jacket-2-0-black/",
+    "sale_price": 230,
+    "price": 288,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V594BLK_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aviara-down-jacket-2-0-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-jacket-salt?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "seaside-jacket-salt/",
+    "sale_price": 110,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V296SAL_FA24_M_ECOMM_fleece_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-jacket-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Acorn",
+      "Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/echo-insulated-vest-2-0-acorn?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "echo-insulated-vest-2-0-acorn/",
+    "sale_price": 110,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V587ACN_FA24_M_ECOMM_vests_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "echo-insulated-vest-2-0-acorn/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dolomite Heather",
+      "Aspen Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-novelty-full-zip-dolomite-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "coronado-novelty-full-zip-dolomite-heather/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2013HDL_FA24_M_ECOMM_fleece_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-novelty-full-zip-dolomite-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Fog",
+      "Kashmir"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/excursion-ripstop-jacket-black?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "excursion-ripstop-jacket-black/",
+    "sale_price": 117,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V551BLK_SP23_M_ECOMM_JACKETS_DETAIL_00509_1x1_eee9f297-c821-4fa1-9ec2-425d817567ca.jpg"
+    ],
+    "badges": [],
+    "sku": "excursion-ripstop-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Winter Grey",
+      "Lake",
+      "Aspen Linen Texture",
+      "Dark Pewter Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-winter-grey?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-winter-grey/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512WIG_FA25_M_ECOMM_OUTERWEAR_CREATIVE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-winter-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Dolomite Heather",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-light-heather-grey?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-light-heather-grey/",
+    "sale_price": 96,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009LHG_FA24_M_ECOMM_jackets_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.369Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/powergrid-full-zip-jacket-black-1?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "powergrid-full-zip-jacket-black-1/",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V5020BLK_FA25_M_ECOMM_OUTERWEAR_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "powergrid-full-zip-jacket-black-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Dolomite Heather",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-midnight-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "coronado-shirt-jacket-midnight-heather/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009HMD_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Winter Pear",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-heather-grey?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-heather-grey/",
+    "sale_price": 126,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237HTG_FA23_M_ECOMM_jackets_FRONT_TOPS_1.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Winter Pear",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-azure-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "aspen-shirt-jacket-azure-heather/",
+    "sale_price": 126,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237HAZ_FA23_M_ECOMM_jackets_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ponto-insulated-jacket-platinum-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "ponto-insulated-jacket-platinum-heather/",
+    "sale_price": 159,
+    "price": 228,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V557HPT_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ponto-insulated-jacket-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen Heather",
+      "Mocha Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-aspen-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-aspen-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215HAN_FA24_M_ECOMM_jackets_DETAIL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-aspen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Vapor Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/del-mar-fleece-shirt-jacket-heather-grey?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "del-mar-fleece-shirt-jacket-heather-grey/",
+    "sale_price": 158,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V563HTG_FA23_M_ECOMM_jackets_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "del-mar-fleece-shirt-jacket-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ballard-shirt-jacket-oregano?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "ballard-shirt-jacket-oregano/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V585ORE_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "ballard-shirt-jacket-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/del-mar-fleece-shirt-jacket-vapor-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "del-mar-fleece-shirt-jacket-vapor-heather/",
+    "sale_price": 158,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V563HVA_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "del-mar-fleece-shirt-jacket-vapor-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen Linen Texture",
+      "Lake",
+      "Winter Grey",
+      "Dark Pewter Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-aspen-linen-texture?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-aspen-linen-texture/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512AST_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-aspen-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.370Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pacific",
+      "Toast",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/rainstorm-packable-jacket-pacific?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "rainstorm-packable-jacket-pacific/",
+    "sale_price": 198,
+    "price": 248,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V573PAC_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "rainstorm-packable-jacket-pacific/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oatmeal",
+      "Charcoal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/timor-chore-jacket-oatmeal?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "timor-chore-jacket-oatmeal/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V599OAT_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "timor-chore-jacket-oatmeal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coastside-shirt-jacket-black?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "coastside-shirt-jacket-black/",
+    "sale_price": 158,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V567BLK_FA24_M_ECOMM_jackets_DETAIL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "coastside-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/reversible-morrow-jacket-toast?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "reversible-morrow-jacket-toast/",
+    "sale_price": 190,
+    "price": 238,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V591TOT_FA24_M_ECOMM_jackets_FRONT_5.jpg"
+    ],
+    "badges": [],
+    "sku": "reversible-morrow-jacket-toast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter Linen Texture",
+      "Lake",
+      "Winter Grey",
+      "Aspen Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/outdoor-trainer-shell-dark-pewter-linen-texture?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "outdoor-trainer-shell-dark-pewter-linen-texture/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V512DLT_FA24_M_ECOMM_jackets_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "outdoor-trainer-shell-dark-pewter-linen-texture/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fog",
+      "Black",
+      "Kashmir"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/excursion-ripstop-jacket-fog?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "excursion-ripstop-jacket-fog/",
+    "sale_price": 117,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V551FOG_SP23_M_ECOMM_JACKETS_DETAIL_5118_1x1_e3abb6b6-b94c-444e-a4cd-7536d164ba3d.jpg"
+    ],
+    "badges": [],
+    "sku": "excursion-ripstop-jacket-fog/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/crosscourt-jacket-white?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "crosscourt-jacket-white/",
+    "sale_price": 117,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V577WHT_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "crosscourt-jacket-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coastside-shirt-jacket-navy?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "coastside-shirt-jacket-navy/",
+    "sale_price": 158,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V567NVY_FA24_M_ECOMM_jackets_PINUP_1.jpg"
+    ],
+    "badges": [],
+    "sku": "coastside-shirt-jacket-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Metal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/tuuli-rain-jacket-dark-metal?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "tuuli-rain-jacket-dark-metal/",
+    "sale_price": 206,
+    "price": 258,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V581DMT_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "tuuli-rain-jacket-dark-metal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/oahu-rain-jacket-blue-coast?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "oahu-rain-jacket-blue-coast/",
+    "sale_price": 190,
+    "price": 238,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V553BCO_FA25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "oahu-rain-jacket-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/powergrid-full-zip-jacket-frost-grey?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "powergrid-full-zip-jacket-frost-grey/",
+    "sale_price": 118,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V588FGR_FA24_M_ECOMM_fleece_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "powergrid-full-zip-jacket-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fairfield-full-zip-jacket-black?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "fairfield-full-zip-jacket-black/",
+    "sale_price": 158,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V582BLK_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "fairfield-full-zip-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.371Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha Heather",
+      "Aspen Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/sunday-element-jacket-mocha-heather?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "sunday-element-jacket-mocha-heather/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V215HMO_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunday-element-jacket-mocha-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ronan-packable-jacket-frost-grey?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "ronan-packable-jacket-frost-grey/",
+    "sale_price": 110,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V572FGR_SP25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ronan-packable-jacket-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ballard-shirt-jacket-charcoal?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "ballard-shirt-jacket-charcoal/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V585CCL_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ballard-shirt-jacket-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Kashmir",
+      "Black",
+      "Fog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/excursion-ripstop-jacket-kashmir?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "excursion-ripstop-jacket-kashmir/",
+    "sale_price": 134,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V551KMR_current_season_M_ECOMM_OUTERWEAR_FRONT_TOPS_4.jpg"
+    ],
+    "badges": [],
+    "sku": "excursion-ripstop-jacket-kashmir/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Platinum Linen Texture"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/venture-track-jacket-white?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "venture-track-jacket-white/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V536WHT_FA23_M_ECOMM_jackets_FRONT_TOPS_12.jpg"
+    ],
+    "badges": [],
+    "sku": "venture-track-jacket-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/fairfield-full-zip-jacket-shiitake?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "fairfield-full-zip-jacket-shiitake/",
+    "sale_price": 158,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V582SII_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "fairfield-full-zip-jacket-shiitake/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Aspen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coordinate-down-jacket-aspen?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "coordinate-down-jacket-aspen/",
+    "sale_price": 238,
+    "price": 298,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V584APN_FA24_M_ECOMM_jackets_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "coordinate-down-jacket-aspen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast",
+      "Pacific",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/rainstorm-packable-jacket-toast?queryId=93ae32462d1aa0c4d4295de9617dae89&collection=mens-outerwear",
+    "product_id": "rainstorm-packable-jacket-toast/",
+    "sale_price": 198,
+    "price": 248,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V573TOT_SP24_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "rainstorm-packable-jacket-toast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.372Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:12:48.373Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

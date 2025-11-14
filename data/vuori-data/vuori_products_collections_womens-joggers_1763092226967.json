@@ -1,0 +1,4115 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.952Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "Washed Black",
+      "Bone Heather",
+      "Blue Haze",
+      "Vintage Rose"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-evergreen?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-evergreen/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK127_W_AARON_FEAVER_SOHO_00111.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.953Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Solid Black",
+      "Bluegrass Heather",
+      "Vintage Rose Heather",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-pale-grey-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313PHG_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.953Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Stellar Sky Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-stellar-sky-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-stellar-sky-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303SYH_FA25_W_BOTTOMS_DETAIL_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-stellar-sky-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.953Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Evergreen Heather",
+      "Java Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-black-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look047_F_AARON_FEAVER_Oceanside_14982-2048x2560-f39a651.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.953Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Java Heather",
+      "Evergreen Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Nutmeg Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.953Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-black-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-black-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK166_W_AARON_FEAVER_SOHO_00097.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen Heather",
+      "Java Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-evergreen-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-evergreen-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK123_W_AARON_FEAVER_SOHO_00168.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-evergreen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-midnight-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-midnight-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HMD_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java Heather",
+      "Evergreen Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-java-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-java-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/0124WomensPDPHaloWidelegJavaVW4023_f376496e-f581-467a-8576-04e721f6d309.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-java-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-black-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-black-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HBK_FA25_W_BOTTOMS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black",
+      "Bluegrass Heather",
+      "Pale Grey Heather",
+      "Vintage Rose Heather",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-charcoal-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-charcoal-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look018_F_AARON_FEAVER_Oceanside_7727.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-java-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-java-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HJV_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-java-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java Heather",
+      "Black Heather",
+      "Evergreen Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Nutmeg Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-short-java-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-short-java-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023HJV_SP25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-short-java-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.954Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen Heather",
+      "Black Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Nutmeg Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-short-evergreen-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-short-evergreen-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023HEV_FA25_W_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-short-evergreen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Evergreen Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-ecru-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-ecru-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK106_W_AARON_FEAVER_BROOKLYN_00364.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black",
+      "Pale Grey Heather",
+      "Bluegrass Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-strght-leg-pant-s-solid-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-strght-leg-pant-s-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-strght-leg-pant-s-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia Heather",
+      "Solid Black",
+      "Bluegrass Heather",
+      "Pale Grey Heather",
+      "Vintage Rose Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-chia-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-chia-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK072_W_AARON_FEAVER_BROOKLYN_00051.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-chia-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Evergreen Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Java Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-long-black-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-long-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-LHBK_FA23_W_ECOMM_PANTS_FRONT_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-long-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Bluegrass",
+      "Lavender Ice",
+      "White",
+      "Viridian",
+      "Crystal Blue",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191BLK_SP25_W_ECOMM_BOTTOMS_SIDE_5_f229b500-9429-4258-8e7f-594cdc2687c1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black",
+      "Raisin",
+      "Bright Iris Heather",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-sweatpant-solid-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-sweatpant-solid-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4190SBK_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-sweatpant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Solid Black",
+      "Bright Iris Heather",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-sweatpant-raisin?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-sweatpant-raisin/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK073_W_MARK_TESI_NYC_004332_014061.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-sweatpant-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Bone Heather",
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-ultra-wideleg-sweatpant-java?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-ultra-wideleg-sweatpant-java/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4349JAV_FA25_W_BOTTOMS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-ultra-wideleg-sweatpant-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Bone Heather",
+      "Blue Haze",
+      "Vintage Rose",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-washed-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453WBL_FA25_W_BOTTOMS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.955Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Black Heather",
+      "Java Heather",
+      "Evergreen Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Nutmeg Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-ecru-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-short-ecru-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHEE_SP24_W_ECOMM_PANTS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.956Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia Heather",
+      "Solid Black",
+      "Raisin",
+      "Bright Iris Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-sweatpant-chia-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-modern-sweatpant-chia-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4190HHI_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-sweatpant-chia-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.956Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "Washed Black",
+      "Bone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-short-evergreen?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-short-evergreen/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453EVG_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-short-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.956Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone Heather",
+      "Washed Black",
+      "Blue Haze",
+      "Vintage Rose",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-bone-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-bone-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453HBN_FA25_W_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-bone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.956Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java Heather",
+      "Black Heather",
+      "Evergreen Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-long-java-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-long-java-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023HJV_SP25_W_ECOMM_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-long-java-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.956Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-midnight-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-midnight-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HMD_FA25_W_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.956Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Evergreen Heather",
+      "Java Heather",
+      "Ecru Heather",
+      "Blue Coast Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-pale-grey-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023PHG_FA25_W_BOTTOMS_SIDE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Bone Heather",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-short-washed-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-short-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453WBL_FA25_W_BOTTOMS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-short-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "Bluegrass",
+      "Lavender Ice",
+      "White",
+      "Viridian",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-light-heather-grey?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-light-heather-grey/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191LHG_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone Heather",
+      "Washed Black",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-ultra-wideleg-sweatpant-bone-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-ultra-wideleg-sweatpant-bone-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK102_W_AARON_FEAVER_SOHO_00256.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-ultra-wideleg-sweatpant-bone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Black Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-charcoal-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-charcoal-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHCC_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Haze",
+      "Washed Black",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-blue-haze?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-blue-haze/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4401BHZ_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-blue-haze/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Blue Haze",
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-pale-grey-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-pale-grey-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK101_W_MARK_TESI_NYC_013817.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-java-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-java-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHJV_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-java-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Heather Grey",
+      "Bluegrass",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-short-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-short-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191BLK_SP25_W_ECOMM_BOTTOMS_FRONT_4_ba16ca66-4e00-40e6-9f14-0eed8a549734.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-short-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass",
+      "Black",
+      "Lavender Ice",
+      "White",
+      "Viridian",
+      "Crystal Blue",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-bluegrass?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-bluegrass/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191BGR_FA25_W_BOTTOMS_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-bluegrass/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.957Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lavender Ice",
+      "Black",
+      "Bluegrass",
+      "White",
+      "Viridian",
+      "Crystal Blue",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-lavender-ice?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-lavender-ice/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191LVI_FA25_W_BOTTOMS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-lavender-ice/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Haze",
+      "Washed Black",
+      "Bone Heather",
+      "Vintage Rose",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-blue-haze?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-blue-haze/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453BHZ_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-blue-haze/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Heather Grey",
+      "Bone",
+      "Bluegrass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-logo-jogger-black?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-sedona-logo-jogger-black/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4202BLK_FA24_W_ECOMM_PANTS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-logo-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen Heather",
+      "Black Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Java Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-long-evergreen-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-long-evergreen-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023HEV_FA25_W_BOTTOMS_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-long-evergreen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-ecru-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-ecru-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HEE_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Black Heather",
+      "Java Heather",
+      "Evergreen Heather",
+      "Blue Coast Heather",
+      "Nutmeg Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-pale-grey-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-short-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023PHG_FA25_W_BOTTOMS_FULL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-pale-grey-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-pale-grey-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303PHG_FA25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-smoke-blue-heather?queryId=b1f32bc6fc1e52f3bc8163d57bc0c73a&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-smoke-blue-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HAB_FA24_W_ECOMM_PANTS_FRONT_7_084ac1d5-a1a4-4aab-841e-84dccd6e3e03.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-jogger-black-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-boyfriend-jogger-black-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW457HBK_SP24_W_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-jogger-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone Heather",
+      "Washed Black",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-short-bone-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-short-bone-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453HBN_FA25_W_BOTTOMS_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-short-bone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.958Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-raisin?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-raisin/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LRSN_FA25_W_ECOMM_BOTTOMS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "Bone",
+      "Bluegrass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-sweatpant-light-heather-grey?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-sweatpant-light-heather-grey/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4202LHG_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-sweatpant-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sea Spray Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-sea-spray-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-sea-spray-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HSS_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-sea-spray-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Blue Haze",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-washed-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4401WBL_FA25_W_BOTTOMS_FRONT_3_c92ce597-35b3-4e7e-b143-ca8c33ff5063.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Bluegrass Heather",
+      "Solid Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-strght-leg-pant-short-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-strght-leg-pant-short-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313PHG_FA25_W_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-strght-leg-pant-short-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black",
+      "Pale Grey Heather",
+      "Bluegrass Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-long-solid-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-long-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313-LSBK_FA25_W_BOTTOMS_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-long-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "Washed Black",
+      "Bone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-long-evergreen?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-long-evergreen/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453EVG_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-long-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vintage Rose",
+      "Washed Black",
+      "Bone Heather",
+      "Blue Haze",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-vintage-rose?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-vintage-rose/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453VRO_FA25_W_BOTTOMS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-vintage-rose/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-pale-grey-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LPHG_FA24_W_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass",
+      "Black",
+      "Light Heather Grey",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-sweatpant-bluegrass?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-sweatpant-bluegrass/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4202BGR_FA25_W_BOTTOMS_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-sweatpant-bluegrass/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Bone Heather",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-ultra-wideleg-sweatpant-washed-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-ultra-wideleg-sweatpant-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4349WBL_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-ultra-wideleg-sweatpant-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Bluegrass",
+      "Light Heather Grey",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-long-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-long-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191BLK_SP25_W_ECOMM_BOTTOMS_FRONT_4_0d29e1bb-624e-43ed-90d5-1926dc15d078.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-long-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.959Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Bluegrass",
+      "Lavender Ice",
+      "Viridian",
+      "Crystal Blue",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-white?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-white/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191WHT_SP25_W_ECOMM_BOTTOMS_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bright Iris Heather",
+      "Solid Black",
+      "Raisin",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-sweatpant-bright-iris-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-sweatpant-bright-iris-heather/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4190BIH_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-sweatpant-bright-iris-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Black Heather",
+      "Evergreen Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Java Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-long-ecru-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-long-ecru-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-LHMC_SP24_W_ECOMM_PANTS_FULL_2_67a0689f-2549-41a1-be38-80dd54cab52d.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-long-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Spring Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Sea Spray Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-spring-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-spring-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303SGH_SP25_W_ECOMM_BOTTOMS_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-spring-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass Heather",
+      "Solid Black",
+      "Pale Grey Heather",
+      "Vintage Rose Heather",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-bluegrass-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-bluegrass-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313BGH_FA25_W_BOTTOMS_FRONT_2_f8fd3e29-42a7-4ec4-80a3-22414654f122.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-bluegrass-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Black Heather",
+      "Evergreen Heather",
+      "Ecru Heather",
+      "Blue Coast Heather",
+      "Java Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-long-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-long-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023PHG_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-long-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-jogger-heather-grey?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-boyfriend-jogger-heather-grey/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW457HTG_FA23_W_ECOMM_PANTS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-jogger-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-cargo-jogger-black-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-boyfriend-cargo-jogger-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4062HBK_FA24_W_ECOMM_PANTS_FRONT_BOTTOMS_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-cargo-jogger-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Evergreen",
+      "Bone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-long-washed-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-long-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453WBL_FA25_W_BOTTOMS_FRONT_3_44c0996c-1e83-4a10-a9e8-6bde60eff33f.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-long-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Stellar Sky Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-stellar-sky-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-stellar-sky-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303SYH_FA25_W_BOTTOMS_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-stellar-sky-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "Black",
+      "Bluegrass",
+      "Lavender Ice",
+      "White",
+      "Crystal Blue",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-viridian?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-viridian/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191VRI_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-ecru-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-ecru-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HEE_FA25_W_BOTTOMS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.960Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cargo-jogger-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-villa-cargo-jogger-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4056BLK_SP24_W_ECOMM_PANTS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cargo-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass Heather",
+      "Pale Grey Heather",
+      "Solid Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-strght-leg-pant-s-bluegrass-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-strght-leg-pant-s-bluegrass-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313BGH_FA25_W_BOTTOMS_CREATIVE_11_8289df5a-f9bc-4b98-ad80-908ed3141665.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-strght-leg-pant-s-bluegrass-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sea Spray Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-sea-spray-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-sea-spray-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHSS_FA25_W_ECOMM_BOTTOMS_FRONT_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-sea-spray-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Bluegrass",
+      "Crystal Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-short-light-heather-grey?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-short-light-heather-grey/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191LHG_FA25_W_BOTTOMS_FRONT_3_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-short-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Black",
+      "Light Heather Grey",
+      "Bluegrass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-logo-jogger-bone?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-logo-jogger-bone/",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4202BNE_FA24_W_ECOMM_PANTS_CREATIVE_11_c7ba79b0-0849-40fa-84f8-b5f145b33f58.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-logo-jogger-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass",
+      "Light Heather Grey",
+      "Crystal Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-short-bluegrass?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-short-bluegrass/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191BGR_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-short-bluegrass/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-short-washed-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-short-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4401WBL_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-short-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone Heather",
+      "Evergreen",
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-straight-leg-sweatpant-long-bone-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-straight-leg-sweatpant-long-bone-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4453HBN_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-straight-leg-sweatpant-long-bone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "Black",
+      "Bluegrass",
+      "Lavender Ice",
+      "White",
+      "Viridian",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-crystal-blue?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-crystal-blue/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look044_F_AARON_FEAVER_Oceanside_10561.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast Heather",
+      "Evergreen Heather",
+      "Java Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-blue-coast-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-blue-coast-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-LBTH_FA25_W_ECOMM_BOTTOMS_SIDE_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-blue-coast-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-short-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-short-pale-grey-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4401PHG_FA25_W_BOTTOMS_FRONT_3_c8883335-e9b9-4d73-b5c6-191910cd6fdb.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-short-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast Heather",
+      "Black Heather",
+      "Java Heather",
+      "Evergreen Heather",
+      "Pale Grey Heather",
+      "Nutmeg Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-short-blue-coast-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-short-blue-coast-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look045_F_AARON_FEAVER_Oceanside_10940-2048x2560-345c9e4_d7bb488f-aa51-4c52-98e6-810c855bf901.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-short-blue-coast-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.961Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Marshmallow",
+      "Espresso",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-compose-wideleg-pant-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-compose-wideleg-pant-black/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4203BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-compose-wideleg-pant-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass",
+      "Light Heather Grey",
+      "Crystal Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-long-bluegrass?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-long-bluegrass/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191BGR_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-long-bluegrass/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-smoke-blue-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-smoke-blue-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHAB_FA24_W_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-smoke-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Bluegrass Heather",
+      "Solid Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-strght-leg-pant-long-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-strght-leg-pant-long-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313PHG_FA25_W_BOTTOMS_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-strght-leg-pant-long-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-long-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-long-pale-grey-heather/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4401PHG_FA25_W_BOTTOMS_FRONT_2_b1f6fed0-7659-4174-aec5-404084cc4b79.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-long-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vintage Rose Heather",
+      "Solid Black",
+      "Bluegrass Heather",
+      "Pale Grey Heather",
+      "Chia Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-vintage-rose-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-vintage-rose-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313VRH_FA25_W_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-vintage-rose-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Pale Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-classic-sweatpant-long-washed-black?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-restore-classic-sweatpant-long-washed-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4401WBL_FA25_W_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-classic-sweatpant-long-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Grey Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-cargo-jogger-pale-grey-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-boyfriend-cargo-jogger-pale-grey-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4062PHG_FA24_W_ECOMM_PANTS_FRONT_ALT_BOTTOMS_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-cargo-jogger-pale-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Bluegrass",
+      "Crystal Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-long-light-heather-grey?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-long-light-heather-grey/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191LHG_FA25_W_BOTTOMS_FRONT_3_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-long-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass Heather",
+      "Pale Grey Heather",
+      "Solid Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-long-bluegrass-heather?queryId=204de7c8149fafa5019228035dc9c721&collection=womens-joggers",
+    "product_id": "womens-halo-modern-straight-leg-pant-long-bluegrass-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313BGH_FA25_W_BOTTOMS_FRONT_3_cab64a5d-5672-41d6-a976-6ea0cc85af1f.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-long-bluegrass-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.962Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Spring Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Huckleberry Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-spring-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-spring-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LSGH_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-spring-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vintage Black",
+      "Silver Cloud",
+      "Army"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-birch-jogger-vintage-black?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-birch-jogger-vintage-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4103VBK_FA24_W_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-birch-jogger-vintage-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Black",
+      "Espresso",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-compose-wideleg-pant-marshmallow?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-compose-wideleg-pant-marshmallow/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4203MSM_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-compose-wideleg-pant-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast Heather",
+      "Black Heather",
+      "Evergreen Heather",
+      "Ecru Heather",
+      "Pale Grey Heather",
+      "Java Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-long-blue-coast-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-long-blue-coast-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-LBTH_FA25_W_ECOMM_BOTTOMS_FRONT_2_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-long-blue-coast-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "Light Heather Grey",
+      "Bluegrass",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-short-crystal-blue?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-short-crystal-blue/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191CLB_FA25_W_ECOMM_BOTTOMS_FRONT_2_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-short-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Espresso",
+      "Black",
+      "Marshmallow",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-compose-wideleg-pant-espresso?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-compose-wideleg-pant-espresso/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4203ESP_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-compose-wideleg-pant-espresso/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Black Heather",
+      "Charcoal Heather",
+      "Java Heather",
+      "Pale Grey Heather",
+      "Midnight Heather",
+      "Smoke Blue Heather",
+      "Ecru Heather",
+      "Stellar Sky Heather",
+      "Raisin",
+      "Sea Spray Heather",
+      "Spring Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-huckleberry-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-huckleberry-heather/",
+    "price": 94,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHHB_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Army",
+      "Vintage Black",
+      "Silver Cloud"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-birch-jogger-army?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-birch-jogger-army/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4103ARM_FA24_W_ECOMM_PANTS_SIDE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-birch-jogger-army/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "Bluegrass",
+      "Light Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-long-crystal-blue?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-long-crystal-blue/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191CLB_FA25_W_ECOMM_BOTTOMS_FRONT_2_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-long-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "Black",
+      "Marshmallow",
+      "Espresso"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-compose-wideleg-pant-crystal-blue?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-compose-wideleg-pant-crystal-blue/",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4203CLB_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-compose-wideleg-pant-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.963Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg Heather",
+      "Black Heather",
+      "Java Heather",
+      "Evergreen Heather",
+      "Pale Grey Heather",
+      "Blue Coast Heather",
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-pant-short-nutmeg-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-halo-essential-wideleg-pant-short-nutmeg-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-LHNM_FA25_W_BOTTOMS_FRONT_2_57e27347-a5f6-43fe-863a-1845c9190f7c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-pant-short-nutmeg-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Silver Cloud",
+      "Vintage Black",
+      "Army"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-birch-jogger-silver-cloud?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-birch-jogger-silver-cloud/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4103SCL_SP25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-birch-jogger-silver-cloud/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-weekend-jogger-black?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-weekend-jogger-black/",
+    "price": 89,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW422BLK_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-weekend-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Iron Heather",
+      "Marsh Heather",
+      "Isle Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-iron-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-iron-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HIR_SP24_W_ECOMM_PANTS_FRONT_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-iron-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Aspen Heather",
+      "Iron Heather",
+      "Cosmic Heather",
+      "Laurel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-aspen-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-aspen-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHAN_SP25_W_ECOMM_BOTTOMS_SIDE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-aspen-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Light Heather Grey",
+      "Milkweed Heather",
+      "Chocolate Milk Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-granite-performance-jogger-black-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-granite-performance-jogger-black-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4148HBK_SP24_W_ECOMM_PANTS_SIDE_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-granite-performance-jogger-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Heron Heather",
+      "Vintage Pistachio Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-jogger-blue-heron-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-boyfriend-jogger-blue-heron-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW457HBH_unknown_opening_season_W_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-jogger-blue-heron-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vintage Pistachio Heather",
+      "Blue Heron Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-jogger-vintage-pistachio-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-boyfriend-jogger-vintage-pistachio-heather/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW457HVP_FA24_W_ECOMM_PANTS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-jogger-vintage-pistachio-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Cosmic Heather",
+      "Iron Heather",
+      "Aspen Heather",
+      "Laurel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-cosmic-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-cosmic-heather/",
+    "sale_price": 65,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LCZH_FA24_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-cosmic-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Mist",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-mist?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-mist/",
+    "sale_price": 86,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191MIT_SP25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marsh Heather",
+      "Iron Heather",
+      "Isle Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-marsh-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-marsh-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HEM_FA24_W_ECOMM_PANTS_FRONT_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-marsh-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-boyfriend-cargo-jogger-milkweed-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-boyfriend-cargo-jogger-milkweed-heather/",
+    "sale_price": 86,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4062HMW_SP24_W_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-boyfriend-cargo-jogger-milkweed-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.964Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Isle Blue Heather",
+      "Marsh Heather",
+      "Iron Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-isle-blue-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-isle-blue-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303HIB_FA23_W_ECOMM_PANTS_FRONT_ALT_BOTTOMS_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-isle-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Laurel",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-jogger-oregano?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-miles-jogger-oregano/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW481ORE_07512.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-jogger-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Oregano",
+      "Laurel"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-jogger-black?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-miles-jogger-black/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW481BLK_0956.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black Heather",
+      "Milkweed Heather",
+      "Chocolate Milk Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-granite-performance-jogger-light-heather-grey?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-granite-performance-jogger-light-heather-grey/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4148LHG_SP24_W_ECOMM_PANTS_SIDE_5_2b384b9d-c42a-4afe-b7a7-8dc86ef7817d.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-granite-performance-jogger-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Laurel Heather",
+      "Iron Heather",
+      "Aspen Heather",
+      "Cosmic Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-laurel-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-laurel-heather/",
+    "sale_price": 75,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHLA_SP25_W_ECOMM_BOTTOMS_FRONT_1_cfe32230-b43d-452d-8cd1-571894816273.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-laurel-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Blue Heron",
+      "Chia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-sweatpant-light-heather-grey?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-restore-sweatpant-light-heather-grey/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4205LHG_SP25_W_ECOMM_BOTTOMS_FRONT_2_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-sweatpant-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia",
+      "Light Heather Grey",
+      "Blue Heron"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-sweatpant-chia?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-restore-sweatpant-chia/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4205CHI_SP25_W_ECOMM_BOTTOMS_FRONT_2_088d2683-80a1-4841-823d-b9328e0271a9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-sweatpant-chia/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-cargo-wideleg-midnight-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-halo-essential-cargo-wideleg-midnight-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4173HMD_FA24_W_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-cargo-wideleg-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chia",
+      "Suede"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cargo-jogger-chia?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-villa-cargo-jogger-chia/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4056CHI_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cargo-jogger-chia/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Army"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-scout-jogger-army?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-scout-jogger-army/",
+    "sale_price": 94,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW494ARM_SP24_W_ECOMM_PANTS_FRONT_BOTTOMS_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-scout-jogger-army/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Iron Heather",
+      "Aspen Heather",
+      "Cosmic Heather",
+      "Laurel Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-performance-jogger-long-iron-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-performance-jogger-long-iron-heather/",
+    "sale_price": 65,
+    "price": 94,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW303-LHIR_SP24_W_ECOMM_PANTS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-performance-jogger-long-iron-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-aspen-jogger-black?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-aspen-jogger-black/",
+    "sale_price": 102,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4114BLK_FA24_W_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-aspen-jogger-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed Heather",
+      "Black Heather",
+      "Light Heather Grey",
+      "Chocolate Milk Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-granite-performance-jogger-milkweed-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-granite-performance-jogger-milkweed-heather/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4148HMW_SP25_W_ECOMM_BOTTOMS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-granite-performance-jogger-milkweed-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.965Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sunlight",
+      "Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-straight-leg-sweatpant-sunlight?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-sedona-straight-leg-sweatpant-sunlight/",
+    "sale_price": 86,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4191SLI_SP25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-straight-leg-sweatpant-sunlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Laurel",
+      "Oregano",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-jogger-laurel?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-miles-jogger-laurel/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW481LAU_SP25_W_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-jogger-laurel/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Heron",
+      "Light Heather Grey",
+      "Chia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-sweatpant-blue-heron?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-restore-sweatpant-blue-heron/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4205BHR_unknown_opening_season_W_ECOMM_PANTS_FULL_6_81000579-97aa-42cd-8211-4d6a7bdb715e.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-sweatpant-blue-heron/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Metal",
+      "Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-logo-jogger-metal?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-sedona-logo-jogger-metal/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4202MTL_FA24_W_ECOMM_PANTS_FRONT_2_8635c0b4-2c6b-47ad-b822-c2ae4685ccb2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-logo-jogger-metal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-aspen-jogger-salt?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-aspen-jogger-salt/",
+    "sale_price": 102,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4114SAL_FA24_W_ECOMM_PANTS_FRONT_2v2_74389f13-ea33-485f-a8b2-c79363705e62.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-aspen-jogger-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pepper",
+      "Atmosphere"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-birch-jogger-pepper?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-birch-jogger-pepper/",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4103PEP_FA24_W_ECOMM_PANTS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-birch-jogger-pepper/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Suede",
+      "Chia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-cargo-jogger-suede?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-villa-cargo-jogger-suede/",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4056SUE_SP24_W_ECOMM_PANTS_SIDE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-cargo-jogger-suede/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue",
+      "Metal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-sedona-logo-jogger-smoke-blue?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-sedona-logo-jogger-smoke-blue/",
+    "sale_price": 68,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4202SKB.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-sedona-logo-jogger-smoke-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chocolate Milk Heather",
+      "Black Heather",
+      "Light Heather Grey",
+      "Milkweed Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-granite-performance-jogger-chocolate-milk-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-granite-performance-jogger-chocolate-milk-heather/",
+    "sale_price": 82,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4148HMK_FA24_W_ECOMM_PANTS_CREATIVE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-granite-performance-jogger-chocolate-milk-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-warm-up-jogger-milkweed-heather?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-halo-warm-up-jogger-milkweed-heather/",
+    "sale_price": 75,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4072HMW_SP24_W_ECOMM_PANTS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-warm-up-jogger-milkweed-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Atmosphere",
+      "Pepper"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-birch-jogger-atmosphere?queryId=8ad0569034f4eacdd26df0288ec77e54&collection=womens-joggers",
+    "product_id": "womens-birch-jogger-atmosphere/",
+    "sale_price": 102,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4103AMP_SP25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-birch-jogger-atmosphere/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.966Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T03:50:26.967Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]

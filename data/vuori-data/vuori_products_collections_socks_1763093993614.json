@@ -1,0 +1,1631 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.606Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Marshmallow Heather",
+      "Lavender Ice"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/cozy-sock-light-heather-grey?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "cozy-sock-light-heather-grey/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8088LHG_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "cozy-sock-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.606Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow Heather",
+      "Lavender Ice",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/cozy-sock-marshmallow-heather?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "cozy-sock-marshmallow-heather/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8088MMH_FA25_UNISEX_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "cozy-sock-marshmallow-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.607Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Salt Heather",
+      "Black",
+      "Charcoal",
+      "Bluebell",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-crew-sock-huckleberry?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-crew-sock-huckleberry/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8123HUK_FA25_UNISEX_SOCKS_FLAT_LAY_6.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-crew-sock-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.607Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Lavender Ice",
+      "Marshmallow Heather",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/cozy-sock-lavender-ice?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "cozy-sock-lavender-ice/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8088LVI_FA25_UNISEX_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "cozy-sock-lavender-ice/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.607Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Slate Blue",
+      "White Heather Grey",
+      "White",
+      "Black",
+      "Sedona Brown",
+      "Light Heather Grey",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-slate-blue?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-slate-blue/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8120SEB_FA25_UNISEX_ACCESSORIES_FLAT_LAY_4.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-slate-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.607Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Heather Grey",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-tab-sock-white-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-tab-sock-white-1/",
+    "price": 14,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V852-WHT.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-tab-sock-white-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.607Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Salt Heather",
+      "Black",
+      "Huckleberry",
+      "Charcoal",
+      "Bluebell"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-crew-sock-white-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-crew-sock-white-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V874WHT_AXS_SP22_ECOMM_FLAT_LAY_1X1_9c46d157-87a9-41c9-9506-f7ecd9103782.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-crew-sock-white-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.607Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Toast Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-no-show-sock-white-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-no-show-sock-white-1/",
+    "price": 12,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V892WHT-AXS-SP23-ECOMM-FLAT-LAY-1X1.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-no-show-sock-white-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White Heather Grey",
+      "White",
+      "Black",
+      "Slate Blue",
+      "Sedona Brown",
+      "Light Heather Grey",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-white-heather-grey?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-white-heather-grey/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8120WHG_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Smokey Taupe",
+      "Bright Iris",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-gripper-sock-black?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-gripper-sock-black/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8097BLK_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-gripper-sock-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Heather Grey",
+      "Smokey Taupe Heather",
+      "Charcoal Heather",
+      "Platinum",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-white-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-white-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V857WHTAXSSP23ECOMMFLATLAY1X1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-white-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Salt Heather",
+      "Black",
+      "Light Heather Grey",
+      "Vintage Rose",
+      "Crystal Blue",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-white-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-white-1/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8052WHT_SP24_UNISEX_ECOMM_ACCESSORIES_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-white-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Black",
+      "Huckleberry",
+      "Charcoal",
+      "Bluebell",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-crew-sock-salt-heather-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-crew-sock-salt-heather-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V874HSTAXSSP23ECOMMFLATLAY1X1a.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-crew-sock-salt-heather-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Toast Heather",
+      "Heather Grey",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-no-show-sock-black-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-no-show-sock-black-1/",
+    "price": 12,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V892BLK_AXS_SP23_ECOMM_FLAT_LAY_1X1_04f713df-1079-4b47-8601-95b630f3c256.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-no-show-sock-black-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-gift-pack-multi?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-gift-pack-multi/",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8138MUL_FA25_UNISEX_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-gift-pack-multi/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "White",
+      "Black",
+      "Heather Grey",
+      "Smokey Taupe Heather",
+      "Charcoal Heather",
+      "Platinum"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-evergreen?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-evergreen/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8121EVG_FA25_UNISEX_ACCESSORIES_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.608Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Heather Grey",
+      "Smokey Taupe Heather",
+      "Charcoal Heather",
+      "Platinum",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-black-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-black-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V857BLK-AXS-SP23-ECOMM-FLAT-LAY-1X1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-black-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Toast Heather",
+      "Black",
+      "Heather Grey",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-no-show-sock-toast-heather-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-no-show-sock-toast-heather-1/",
+    "price": 12,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V892TSH_FA24_UNISEX_ECOMM_misc._axs_FLAT_LAY_1.png"
+    ],
+    "badges": [],
+    "sku": "vuori-no-show-sock-toast-heather-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smokey Taupe",
+      "Black",
+      "Bright Iris",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-gripper-sock-smokey-taupe?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-gripper-sock-smokey-taupe/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8097STP_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-gripper-sock-smokey-taupe/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Heather Grey",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-tab-sock-black-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-tab-sock-black-1/",
+    "price": 14,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V852BLK_FA23_UNISEX_ECOMM_misc.axs_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-tab-sock-black-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "White",
+      "Black",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-tab-sock-heather-grey-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-tab-sock-heather-grey-1/",
+    "price": 14,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V852-B_WHT_BLKHEATHER_LOWSOCK.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-tab-sock-heather-grey-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Salt Heather",
+      "Huckleberry",
+      "Charcoal",
+      "Bluebell",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-crew-sock-black-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-crew-sock-black-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V874BLK_AXS_SP22_ECOMM_FLAT_LAY_1X1_c0ff8063-4fbe-499e-91dd-6860e0582607.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-crew-sock-black-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "White Heather Grey",
+      "Black",
+      "Slate Blue",
+      "Sedona Brown",
+      "Light Heather Grey",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-white?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-white/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8077WHT_SP25_UNISEX_ECOMM_SOCKS_FLAT_LAY_4_d60584cd-c076-4589-8ab8-5f56023a7abe.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black",
+      "Smokey Taupe",
+      "Bright Iris"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-gripper-sock-light-heather-grey?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-gripper-sock-light-heather-grey/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8097LHG_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-gripper-sock-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White Heather Grey",
+      "White",
+      "Slate Blue",
+      "Sedona Brown",
+      "Light Heather Grey",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-black?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-black/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8077BLK_SP25_UNISEX_ECOMM_socks_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.609Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "White",
+      "Black",
+      "Light Heather Grey",
+      "Vintage Rose",
+      "Crystal Blue",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-salt-heather?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-salt-heather/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8052HST_SP25_UNISEX_ECOMM_socks_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "White",
+      "Black",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-tab-sock-charcoal-heather-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-tab-sock-charcoal-heather-1/",
+    "price": 14,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V852-A_BLKHEATHER_LOWSOCK.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-tab-sock-charcoal-heather-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Salt Heather",
+      "Light Heather Grey",
+      "Vintage Rose",
+      "Crystal Blue",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-black-new?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-black-new/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8052BLK_SP24_UNISEX_ECOMM_ACCESSORIES_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-black-new/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "White",
+      "Black",
+      "Smokey Taupe Heather",
+      "Charcoal Heather",
+      "Platinum",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-heather-grey-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-heather-grey-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V857SOCKWHTBLKHEATER.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-heather-grey-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "White",
+      "Salt Heather",
+      "Black",
+      "Vintage Rose",
+      "Crystal Blue",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-light-heather-grey-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-light-heather-grey-1/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8119LHG_FA24_UNISEX_ECOMM_SOCKS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-light-heather-grey-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Smokey Taupe Heather",
+      "White",
+      "Black",
+      "Heather Grey",
+      "Charcoal Heather",
+      "Platinum",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-smokey-taupe-heather?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-smokey-taupe-heather/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8121HYT_FA25_UNISEX_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-smokey-taupe-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Black",
+      "Toast Heather",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-no-show-sock-heather-grey-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-no-show-sock-heather-grey-1/",
+    "price": 12,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V892HTG_AXS_SP23_ECOMM_FLAT_LAY_1X1_0b0c2398-7fba-41bb-9758-28710a7a8a26.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-no-show-sock-heather-grey-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "White",
+      "Black",
+      "Heather Grey",
+      "Smokey Taupe Heather",
+      "Platinum",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-charcoal-heather-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-charcoal-heather-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V857SOCKBLKHEATHER.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-charcoal-heather-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vintage Rose",
+      "White",
+      "Salt Heather",
+      "Black",
+      "Light Heather Grey",
+      "Crystal Blue",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-vintage-rose?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-vintage-rose/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8119VRO_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-vintage-rose/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "Salt Heather",
+      "Black",
+      "Huckleberry",
+      "Bluebell",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-crew-sock-charcoal-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-crew-sock-charcoal-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V874CCL_SP24_UNISEX_ECOMM_ACCESSORIES_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-crew-sock-charcoal-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.610Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Moonlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/performance-tab-sock-white?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "performance-tab-sock-white/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8085WHT_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "performance-tab-sock-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.611Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bright Iris",
+      "Black",
+      "Smokey Taupe",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-gripper-sock-bright-iris?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-gripper-sock-bright-iris/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8097BRI_FA25_UNISEX_SOCKS_BACK_5.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-gripper-sock-bright-iris/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.611Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Moonlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/performance-tab-sock-black?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "performance-tab-sock-black/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8085BLK_FA25_UNISEX_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "performance-tab-sock-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.611Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bluebell",
+      "Salt Heather",
+      "Black",
+      "Huckleberry",
+      "Charcoal",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-crew-sock-bluebell?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-crew-sock-bluebell/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8123BBL_FA25_UNISEX_ECOMM_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-crew-sock-bluebell/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.611Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum",
+      "White",
+      "Black",
+      "Heather Grey",
+      "Smokey Taupe Heather",
+      "Charcoal Heather",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-platinum-1?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "v1-crew-sock-platinum-1/",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V857PTM_FA23_UNISEX_ECOMM_misc.axs_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-platinum-1/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.611Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Moonlight",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/performance-tab-sock-moonlight?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "performance-tab-sock-moonlight/",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8085MNL_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "performance-tab-sock-moonlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "White",
+      "Salt Heather",
+      "Black",
+      "Light Heather Grey",
+      "Vintage Rose",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-crystal-blue?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-crystal-blue/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8119CLB_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "White",
+      "Salt Heather",
+      "Black",
+      "Light Heather Grey",
+      "Vintage Rose",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/half-crew-sock-viridian?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "half-crew-sock-viridian/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8119VRI_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "half-crew-sock-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/performance-crew-sock-white?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "performance-crew-sock-white/",
+    "price": 24,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8054WHT_FA25_UNISEX_SOCKS_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "performance-crew-sock-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sunlight",
+      "White Heather Grey",
+      "White",
+      "Black",
+      "Slate Blue",
+      "Sedona Brown",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-sunlight?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-sunlight/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8120SLI_FA25_UNISEX_SOCKS_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-sunlight/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sedona Brown",
+      "White Heather Grey",
+      "White",
+      "Black",
+      "Slate Blue",
+      "Light Heather Grey",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-sedona-brown?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-sedona-brown/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8077SDB_SP25_UNISEX_ECOMM_socks_FLAT_LAY_1.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-sedona-brown/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "White Heather Grey",
+      "White",
+      "Black",
+      "Slate Blue",
+      "Sedona Brown",
+      "Sunlight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/quarter-crew-v1-sock-light-heather-grey?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "quarter-crew-v1-sock-light-heather-grey/",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8077LHG_SP25_UNISEX_ECOMM_socks_FLAT_LAY_1_be8be1d5-c50d-4390-ade9-8f0e24dc2b52.jpg"
+    ],
+    "badges": [],
+    "sku": "quarter-crew-v1-sock-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-no-show-sock-pack-multi?queryId=36efac8473ec98fd5e557e140daa399c&collection=socks",
+    "product_id": "vuori-no-show-sock-pack-multi/",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8072MUL_FA24_UNISEX_ECOMM_misc.axs_FLAT_LAY_2.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-no-show-sock-pack-multi/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/v1-crew-sock-pack-multi?queryId=a6f8c92e5c559a34400cebbbf1c651ff&collection=socks",
+    "product_id": "v1-crew-sock-pack-multi/",
+    "sale_price": 43,
+    "price": 54,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V8073MUL_2131_170e01c1-18b2-4ad0-a094-57af3303afe4.jpg"
+    ],
+    "badges": [],
+    "sku": "v1-crew-sock-pack-multi/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.612Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-rib-half-zip-black?",
+    "product_id": "womens-lux-rib-half-zip-black/",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW294BLK_SP23_W_ECOMM_FLEECE_TOPS_3263_1x1_11528e5d-3f9d-461a-abd2-459f0dccac7b.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-rib-half-zip-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-fitted-polo-white?",
+    "product_id": "womens-pose-fitted-polo-white/",
+    "sale_price": 40,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW1050WHT_1712.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-fitted-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-speed-short-2-5-black?",
+    "product_id": "womens-daily-speed-short-2-5-black/",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3171BLK_FA25_W_ECOMM_BOTTOMS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-speed-short-2-5-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "price": 134,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Remove Product from Cart"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-short-sleeve-pose-button-up-white-heather-grey?objectId=41437934125159",
+    "product_id": "womens-short-sleeve-pose-button-up-white-heather-grey/",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1394WHG_FA25_W_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [
+      "remove"
+    ],
+    "sku": "womens-short-sleeve-pose-button-up-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-wideleg-short-black-heather?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-essential-wideleg-short-black-heather/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4023-SHBK_SP25_W_ECOMM_BOTTOMS_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-wideleg-short-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-low-slung-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-low-slung-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4361BLK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-low-slung-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-vibes-wideleg-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-vibes-wideleg-black/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4419BLK_FA25_W_ECOMM_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-vibes-wideleg-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-villa-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK078_W_AARON_FEAVER_SOHO_00164_4ac0838b-23ac-45b4-9cde-35b8e0b13c0c.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-trouser-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-modern-straight-leg-pant-solid-black?refSlotId=minicart-ctl",
+    "product_id": "womens-halo-modern-straight-leg-pant-solid-black/",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4313SBK_FA25_W_BOTTOMS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-modern-straight-leg-pant-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-plyo-tank-white-heather-grey?refSlotId=minicart-ctl",
+    "product_id": "womens-pose-plyo-tank-white-heather-grey/",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW1009WHG_FA25_W_TOPS_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-plyo-tank-white-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.613Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?refSlotId=minicart-ctl",
+    "product_id": "womens-alpine-vest-bone/",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-14T04:19:53.614Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-miles-trouser-black?refSlotId=minicart-ctl",
+    "product_id": "womens-miles-trouser-black/",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4357BLK_FA25_W_APPAREL_FRONT_2_4d40c4ab-02b9-42a2-a5e7-6a50fca327df.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-miles-trouser-black/"
+  }
+]
