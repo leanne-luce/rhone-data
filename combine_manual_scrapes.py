@@ -42,8 +42,8 @@ def combine_manual_scrapes(input_dir="data"):
 
     # Find all JSON files in specified directory (Rhone, Vuori, and Lululemon)
     json_files = glob.glob(f"{input_dir}/rhone_products_*.json") + \
-                 glob.glob(f"{input_dir}/vuori_products_*.json") + \
-                 glob.glob(f"{input_dir}/lululemon_products_*.json")
+                 glob.glob(f"{input_dir}/vuori-data/vuori_products_*.json") + \
+                 glob.glob(f"{input_dir}/lululemon-data/lululemon_products_*.json")
 
     if not json_files:
         print(f"No JSON files found in {input_dir}/ directory")

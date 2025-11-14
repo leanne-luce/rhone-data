@@ -18,31 +18,74 @@
     const isHomepage = window.location.pathname === '/';
     const urlPath = window.location.pathname.toLowerCase();
 
+    console.log(`🔍 Current URL: ${window.location.href}`);
+    console.log(`📍 Path: ${urlPath}`);
+
     let category = null;
     let gender = null;
 
-    if (urlPath.includes('mens') || urlPath.includes('/men')) {
-        gender = 'Men';
-    } else if (urlPath.includes('womens') || urlPath.includes('/women')) {
+    // Gender detection - check for womens/women or mens/men in URL path
+    // Vuori uses patterns like: /collections/mens-tops, /collections/womens-leggings
+    // IMPORTANT: Check for "womens" BEFORE "mens" to avoid matching "mens" in "womens"
+    if (urlPath.includes('womens') || urlPath.includes('-women-') || urlPath.includes('/women/') || urlPath.includes('/women-')) {
         gender = 'Women';
+    } else if (urlPath.includes('mens') || urlPath.includes('-men-') || urlPath.includes('/men/') || urlPath.includes('/men-')) {
+        gender = 'Men';
     }
 
     // Vuori-specific category detection
     if (urlPath.includes('tops')) category = 'Tops';
-    else if (urlPath.includes('bottoms') || urlPath.includes('pants') || urlPath.includes('joggers')) category = 'Bottoms';
+    else if (urlPath.includes('pants') || urlPath.includes('joggers')) category = 'Pants';
     else if (urlPath.includes('shorts')) category = 'Shorts';
     else if (urlPath.includes('outerwear') || urlPath.includes('jackets') || urlPath.includes('hoodies')) category = 'Outerwear';
+    else if (urlPath.includes('sweater')) category = 'Sweaters';
     else if (urlPath.includes('bras') || urlPath.includes('sports-bra')) category = 'Sports Bras';
     else if (urlPath.includes('legging')) category = 'Leggings';
+    else if (urlPath.includes('skirt')) category = 'Skirts';
+    else if (urlPath.includes('dress')) category = 'Dresses';
+    else if (urlPath.includes('bags')) category = 'Bags';
+    else if (urlPath.includes('shoes') || urlPath.includes('footwear')) category = 'Shoes';
     else if (urlPath.includes('accessories')) category = 'Accessories';
 
     console.log(`📍 Detected: ${gender || 'Unknown gender'} - ${category || 'Unknown category'}`);
 
     // Wait for products to load (Vuori uses lazy loading)
     console.log('⏳ Waiting for products to load...');
-    console.log('💡 Make sure you\'ve scrolled to the bottom of the page!');
+    console.log('🔄 Auto-scrolling to load all products...');
 
-    await delay(2000); // Wait 2 seconds for initial load
+    // Auto-scroll to load all lazy-loaded products
+    let lastHeight = document.documentElement.scrollHeight;
+    let scrollAttempts = 0;
+    const maxScrollAttempts = 20;
+
+    while (scrollAttempts < maxScrollAttempts) {
+        // Scroll to bottom
+        window.scrollTo(0, document.documentElement.scrollHeight);
+
+        // Wait for new content to load
+        await delay(1500);
+
+        // Check if new content was loaded
+        const newHeight = document.documentElement.scrollHeight;
+        if (newHeight === lastHeight) {
+            // No new content loaded, try one more time to be sure
+            if (scrollAttempts > 2) {
+                console.log('✓ Reached end of page');
+                break;
+            }
+        } else {
+            console.log(`📜 Loaded more content... (scroll ${scrollAttempts + 1})`);
+        }
+
+        lastHeight = newHeight;
+        scrollAttempts++;
+    }
+
+    // Scroll back to top to see results
+    window.scrollTo(0, 0);
+
+    // Wait a bit more for any final lazy loading
+    await delay(1000);
 
     // First, let's debug and find what's actually on the page
     console.log('🔍 Debugging: Looking for product elements...');
@@ -177,46 +220,77 @@
                 }
             }
 
-            // Extract pricing information - Vuori-specific
-            const priceSelectors = [
-                '.price',
-                '.product-price',
-                '[class*="Price"]',
-                '[data-price]',
-                '.money',
-                '[class*="price-item"]'
-            ];
+            // Extract pricing information - Vuori-specific (uses Material-UI)
+            // First, try to find the price container div
+            const priceContainers = card.querySelectorAll('div[class*="mui-style"]');
 
-            let priceContainer = null;
-            for (const selector of priceSelectors) {
-                priceContainer = card.querySelector(selector);
-                if (priceContainer) break;
+            const allPrices = [];
+
+            // Look through all MUI divs for price paragraphs
+            priceContainers.forEach(container => {
+                // Get all <p> tags with MuiTypography that contain dollar signs
+                const priceParagraphs = container.querySelectorAll('p[class*="MuiTypography"]');
+                priceParagraphs.forEach(p => {
+                    const text = p.textContent.trim();
+                    // Match dollar amounts
+                    const match = text.match(/^\$\s*(\d+(?:\.\d{2})?)$/);
+                    if (match) {
+                        const price = parseFloat(match[1]);
+                        if (price > 0 && !allPrices.includes(price)) {
+                            allPrices.push(price);
+                        }
+                    }
+                });
+            });
+
+            // Fallback: scan entire card for dollar amounts if no prices found
+            if (allPrices.length === 0) {
+                // Try finding any p tags with dollar amounts
+                const allParagraphs = card.querySelectorAll('p');
+                allParagraphs.forEach(p => {
+                    const text = p.textContent.trim();
+                    const match = text.match(/^\$\s*(\d+(?:\.\d{2})?)$/);
+                    if (match) {
+                        const price = parseFloat(match[1]);
+                        if (price > 0 && !allPrices.includes(price)) {
+                            allPrices.push(price);
+                        }
+                    }
+                });
             }
 
-            if (priceContainer) {
-                const priceText = priceContainer.textContent;
-
-                // Look for sale price patterns
-                const priceMatches = priceText.match(/\$(\d+(?:\.\d{2})?)/g);
-
-                if (priceMatches && priceMatches.length > 1) {
-                    // Multiple prices found - likely on sale
-                    const prices = priceMatches.map(p => parseFloat(p.replace('$', '')));
-                    product.sale_price = Math.min(...prices);
-                    product.price = Math.max(...prices);
-                    product.on_sale = true;
-                } else if (priceMatches && priceMatches.length === 1) {
-                    // Single price - regular price
-                    product.price = parseFloat(priceMatches[0].replace('$', ''));
-                    product.sale_price = null;
-                    product.on_sale = false;
+            // Last resort: scan all text content
+            if (allPrices.length === 0) {
+                const cardText = card.textContent;
+                const priceMatches = cardText.match(/\$\s*(\d+(?:\.\d{2})?)/g);
+                if (priceMatches) {
+                    priceMatches.forEach(match => {
+                        const price = parseFloat(match.replace(/\$\s*/, ''));
+                        if (price > 0 && price < 1000 && !allPrices.includes(price)) {
+                            allPrices.push(price);
+                        }
+                    });
                 }
+            }
 
-                // Check for sale badge or indicator
-                const saleBadge = card.querySelector('[class*="sale"], [class*="Sale"], .badge--sale, [class*="discount"]');
-                if (saleBadge) {
-                    product.on_sale = true;
-                }
+            // Set prices based on what we found
+            if (allPrices.length > 1) {
+                // Multiple prices found - likely on sale
+                allPrices.sort((a, b) => a - b); // Sort ascending
+                product.sale_price = allPrices[0]; // Lowest is sale price
+                product.price = allPrices[allPrices.length - 1]; // Highest is original price
+                product.on_sale = true;
+            } else if (allPrices.length === 1) {
+                // Single price - regular price
+                product.price = allPrices[0];
+                product.sale_price = null;
+                product.on_sale = false;
+            }
+
+            // Check for sale badge or indicator
+            const saleBadge = card.querySelector('[class*="sale"], [class*="Sale"], .badge--sale, [class*="discount"], [class*="Discount"]');
+            if (saleBadge) {
+                product.on_sale = true;
             }
 
             // Extract color options/swatches - Vuori-specific
