@@ -1,0 +1,1940 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.942Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/evening-retreat-cardigan?variant=43070154309710",
+    "product_id": "evening-retreat-cardigan/",
+    "name": "Evening Retreat Cardigan",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41264_0BLK_1_ECOMM_5b7328d6-7edc-4cd8-8c36-59185a792975.jpg"
+    ],
+    "badges": [],
+    "sku": "evening-retreat-cardigan/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.944Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/evening-retreat-tank?variant=43070159388750",
+    "product_id": "evening-retreat-tank/",
+    "name": "Evening Retreat Tank",
+    "price": 54.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41446_0BLK_1_ECOMM_914004cc-0a2f-40c9-9553-827121c1d333.jpg"
+    ],
+    "badges": [],
+    "sku": "evening-retreat-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.944Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Savannah Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/captivate-mock-neck-top?variant=42659607511118",
+    "product_id": "captivate-mock-neck-top/",
+    "name": "Captivate Mock Neck Top",
+    "price": 64.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41366_0BLK_1_ECOMM_6b5d7747-2bea-406c-ba77-d138af0362eb.jpg"
+    ],
+    "badges": [],
+    "sku": "captivate-mock-neck-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.944Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Savannah Tan",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/captivate-mock-neck-top?variant=42659607740494",
+    "product_id": "captivate-mock-neck-top/",
+    "name": "Captivate Mock Neck Top",
+    "price": 64.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41366_A0050_1_ECOMM_e68b0017-9bb1-4c9b-8d74-c27858119a97.jpg"
+    ],
+    "badges": [],
+    "sku": "captivate-mock-neck-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.945Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Coffee Grounds",
+      "Grape Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/limitless-moveknit-short-sleeve-top?variant=42659624288334",
+    "product_id": "limitless-moveknit-short-sleeve-top/",
+    "name": "Limitless Moveknit Short Sleeve Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41312_D0100_1_ECOMM_43156449-7723-4e77-a1bd-2b419167de61.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-moveknit-short-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.945Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Coffee Grounds",
+      "Heather Graystone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyline-tank-bodysuit?variant=42960851107918",
+    "product_id": "skyline-tank-bodysuit/",
+    "name": "Skyline Tank Bodysuit",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41289_D0097_1_ECOMM_8bded36f-4796-4608-902e-46cfa30cdd44.jpg"
+    ],
+    "badges": [],
+    "sku": "skyline-tank-bodysuit/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.945Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Coffee Grounds"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-bonded-tank?variant=42777534169166",
+    "product_id": "moveknit-bonded-tank/",
+    "name": "Moveknit Bonded Tank",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41236_D0100_1_ECOMM-jpg_f62d7de1-de22-40c4-8cc5-a018497cb895.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-bonded-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.945Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Coffee Grounds"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/friday-doubleknit-top?variant=42659623796814",
+    "product_id": "friday-doubleknit-top/",
+    "name": "Friday DoubleKnit Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41271_D0100_1_ECOMM_5245c7e5-e86e-45bf-abf4-ed19de31715f.jpg"
+    ],
+    "badges": [],
+    "sku": "friday-doubleknit-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.946Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Savannah Tan",
+      "Heather Grape Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyloft-light-celestia-top?variant=42961031364686",
+    "product_id": "skyloft-light-celestia-top/",
+    "name": "Skyloft Light Celestia Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41443_A0050_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-celestia-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.946Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Chestnut",
+      "Black",
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-short-sleeve-top?variant=42565147918414",
+    "product_id": "cloud-rib-short-sleeve-top/",
+    "name": "Cloud Rib Short Sleeve Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG003_2HLC_ECOMM_453d7117-5381-46f0-ba13-6ec14ad1ef17.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-short-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.946Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grape Leaf",
+      "Heather Savannah Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyloft-light-celestia-top?variant=42961031594062",
+    "product_id": "skyloft-light-celestia-top/",
+    "name": "Skyloft Light Celestia Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41443_E0203_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-celestia-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.946Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Grape Leaf",
+      "Coffee Grounds"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/limitless-moveknit-short-sleeve-top?variant=42659624517710",
+    "product_id": "limitless-moveknit-short-sleeve-top/",
+    "name": "Limitless Moveknit Short Sleeve Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41312_E0045_1_ECOMM_2f64acba-e42e-4cdc-b31f-999884589019.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-moveknit-short-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.946Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/limitless-moveknit-long-sleeve-top?variant=42961029922894",
+    "product_id": "limitless-moveknit-long-sleeve-top/",
+    "name": "Limitless Moveknit Long Sleeve Top",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41309_0BLK_1_ECOMM_a95395c0-8f81-44a8-8b04-c6c6f01dadde.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-moveknit-long-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.947Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Light Grey",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-long-sleeve-top?variant=42565134581838",
+    "product_id": "cloud-rib-long-sleeve-top/",
+    "name": "Cloud Rib Long Sleeve Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG002_0BLK_ECOMM_7438fbc3-4844-4ddc-940b-d9f5cbfce162.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-long-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.947Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyloft-light-celestia-tee?variant=42961031823438",
+    "product_id": "skyloft-light-celestia-tee/",
+    "name": "Skyloft Light Celestia Tee",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41442_0HBL_1_ECOMM_020fe392-bd4b-4847-b5bd-68fc7b7a98bf.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-celestia-tee/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.947Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Light Grey",
+      "Heather Light Chestnut"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-short-sleeve-top?variant=42565147852878",
+    "product_id": "cloud-rib-short-sleeve-top/",
+    "name": "Cloud Rib Short Sleeve Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG003_0BLK_ECOMM_33e99dcb-43ab-4bd8-a5b7-ea5bbc75ed31.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-short-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.947Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Chestnut",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-sport-top?variant=42561796800590",
+    "product_id": "moveknit-sport-top/",
+    "name": "Moveknit Sport Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG004_0HBL_1_ECOMM_71f6d210-8293-4ee8-b7fa-d12b3e3b6449.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sport-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.947Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyline-polo-bodysuit?variant=42659256270926",
+    "product_id": "skyline-polo-bodysuit/",
+    "name": "Skyline Polo Bodysuit",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42397_0HBL_1_ECOMM-jpg_a4f9e0cd-6a2e-4e9f-aaba-fd512a4b80c0.jpg"
+    ],
+    "badges": [],
+    "sku": "skyline-polo-bodysuit/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.947Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyline-jersey-tank?variant=42659267018830",
+    "product_id": "skyline-jersey-tank/",
+    "name": "Skyline Jersey Tank",
+    "price": 54.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41290_0HBL_1_ECOMM-jpg_c0315969-c5a6-457f-b621-2f6c8e78dd5f.jpg"
+    ],
+    "badges": [],
+    "sku": "skyline-jersey-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.948Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Brick Dust"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/limitless-moveknit-sleeveless-top?variant=42961030152270",
+    "product_id": "limitless-moveknit-sleeveless-top/",
+    "name": "Limitless Moveknit Sleeveless Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41313_4BLZ_1_ECOMM_4a9daa44-27b8-4169-895e-bd6716034259.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-moveknit-sleeveless-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.948Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Navy Blazer",
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyloft-light-celestia-tee?variant=42961032052814",
+    "product_id": "skyloft-light-celestia-tee/",
+    "name": "Skyloft Light Celestia Tee",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41442_4HBZ_1_ECOMM_0cbda4b3-2e07-4132-b181-b3cd44ed51a9.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-celestia-tee/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.948Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-long-sleeve-top?variant=42565134614606",
+    "product_id": "cloud-rib-long-sleeve-top/",
+    "name": "Cloud Rib Long Sleeve Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG002_0HLG_ECOMM_a42cc411-d77a-4f2d-a3e8-5369260f873d.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-long-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.948Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Black",
+      "Heather Light Chestnut"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-short-sleeve-top?variant=42565147885646",
+    "product_id": "cloud-rib-short-sleeve-top/",
+    "name": "Cloud Rib Short Sleeve Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG003_0HLG_ECOMM_fffe7b90-f207-4a42-bbeb-d4c48421e6f7.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-short-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.948Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-pinot-tank-2-0?variant=42659252731982",
+    "product_id": "cloud-rib-pinot-tank-2-0/",
+    "name": "Cloud Rib Pinot Tank 2.0",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41231_1WHT_1_ECOMM-jpg_3f306c92-8709-4138-b4c1-f6af9d406507.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-pinot-tank-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.949Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Heather Graystone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyloft-light-skyline-top?variant=42659267477582",
+    "product_id": "skyloft-light-skyline-top/",
+    "name": "Skyloft Light Skyline Top",
+    "price": 64.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41291_1WHT_1_ECOMM-jpg_4ff2f873-f3e8-4a1c-945f-dd5576de59ce.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-skyline-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.949Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-long-sleeve-top?variant=42565134647374",
+    "product_id": "cloud-rib-long-sleeve-top/",
+    "name": "Cloud Rib Long Sleeve Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG002_1WHT_ECOMM_3c39e6ef-ad5d-4a60-8a7f-550e77bfe790.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-long-sleeve-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.949Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Navy Blazer",
+      "Heather Black",
+      "Heather Chestnut"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-sport-top?variant=42561796866126",
+    "product_id": "moveknit-sport-top/",
+    "name": "Moveknit Sport Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG004_4HBZ_1_ECOMM_2a8f49ac-d3c1-41c5-a821-93bb24266f78.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sport-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.949Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ombre Blue",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/coastal-rib-charter-cruise-top?variant=42565134319694",
+    "product_id": "coastal-rib-charter-cruise-top/",
+    "name": "Coastal Rib Charter Cruise Top",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE014_4OMB_1_ECOMM_ccb1e70e-0c5d-405f-89d2-5a7a9f0d5b71.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-rib-charter-cruise-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.949Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Ombre Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/coastal-rib-charter-cruise-top?variant=42565134286926",
+    "product_id": "coastal-rib-charter-cruise-top/",
+    "name": "Coastal Rib Charter Cruise Top",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE014_1WHT_1_ECOMM-jpg_1cc5bdcb-6f37-4994-b160-6eb2c995f23e.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-rib-charter-cruise-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.949Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Ombre Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/coastal-rib-charter-cruise-top?variant=42727150846030",
+    "product_id": "coastal-rib-charter-cruise-top/",
+    "name": "Coastal Rib Charter Cruise Top",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE014_0BLK_1_ECOMM_bd5b6655-42d7-484b-acee-bda04f9feb17.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-rib-charter-cruise-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Ombre Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/coastal-rib-yacht-me-tank?variant=42565149360206",
+    "product_id": "coastal-rib-yacht-me-tank/",
+    "name": "Coastal Rib Yacht Me Tank",
+    "price": 54.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG063_1WHT_1_ECOMM_8e5ef3d3-f939-49dd-a0d2-bd93636b7916.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-rib-yacht-me-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Copen Blue",
+      "Heather Granada Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/featherweight-active-quarter-zip?variant=43109978505294",
+    "product_id": "featherweight-active-quarter-zip/",
+    "name": "Featherweight Active Quarter Zip",
+    "price": 74.97,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF077_4HCP_2-jpg_f11d415d-b073-4af5-a6bb-ce0f5ace2e3d.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-quarter-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brunnera Blue",
+      "Foxglove",
+      "Persian Red Multi",
+      "Brick Dust Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/sunfire-zip-tank?variant=42565139628110",
+    "product_id": "sunfire-zip-tank/",
+    "name": "Sunfire Zip Tank",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG042_4BRU_ECOMM_af4baefc-6130-4ca5-8033-bbb2c1f8986d.jpg"
+    ],
+    "badges": [],
+    "sku": "sunfire-zip-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Oatmeal",
+      "Clover",
+      "Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-pinot-tank?variant=42561797292110",
+    "product_id": "cloud-rib-pinot-tank/",
+    "name": "Cloud Rib Pinot Tank",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG009_2HOT_ECOMM_ceb038a9-d35e-4c97-b21b-eb874c6d4de8.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-pinot-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Foxglove",
+      "Brunnera Blue",
+      "Persian Red Multi",
+      "Brick Dust Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/sunfire-zip-tank?variant=42565139693646",
+    "product_id": "sunfire-zip-tank/",
+    "name": "Sunfire Zip Tank",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG042_6FXG_ECOMM_6d358f4d-86ee-4029-b909-56814ce6b4b3.jpg"
+    ],
+    "badges": [],
+    "sku": "sunfire-zip-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Persian Red Multi",
+      "Brunnera Blue",
+      "Foxglove",
+      "Brick Dust Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/sunfire-zip-tank?variant=42565139726414",
+    "product_id": "sunfire-zip-tank/",
+    "name": "Sunfire Zip Tank",
+    "price": 109.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG042_6PRM_1_ECOMM_b729c1ef-9247-4966-a07e-194d587520d8.jpg"
+    ],
+    "badges": [],
+    "sku": "sunfire-zip-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.950Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Persian Red"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/shifting-sands-tank?variant=42565154996302",
+    "product_id": "shifting-sands-tank/",
+    "name": "Shifting Sands Tank",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG087_1WHT_1_ECOMM_bf1f465b-240a-4801-9e44-e032e093cda3.jpg"
+    ],
+    "badges": [],
+    "sku": "shifting-sands-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.951Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Stripe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/tiny-umbrellas-tank?variant=42565165350990",
+    "product_id": "tiny-umbrellas-tank/",
+    "name": "Tiny Umbrellas Tank",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG122_4NVS_1_ECOMM_f021c2d3-ce8c-4722-9c5e-c532fbbd1b9a.jpg"
+    ],
+    "badges": [],
+    "sku": "tiny-umbrellas-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.951Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ombre Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/savanna-top?variant=42565174362190",
+    "product_id": "savanna-top/",
+    "name": "Savanna Top",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG074_4OMB_1_ECOMM_3e014e00-473e-4579-a2f6-0af20bb32ae3.jpg"
+    ],
+    "badges": [],
+    "sku": "savanna-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.951Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Granada Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/octavia-henley?variant=42565141594190",
+    "product_id": "octavia-henley/",
+    "name": "Octavia Henley",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG069_1WHT_1_ECOMM_b8ef48f1-6b53-4eb4-b047-d0e0ba71f748.jpg"
+    ],
+    "badges": [],
+    "sku": "octavia-henley/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.951Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Granada Blue",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/octavia-henley?variant=42565141626958",
+    "product_id": "octavia-henley/",
+    "name": "Octavia Henley",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG069_4GBL_1_ECOMM_8660a0e6-4f55-4928-bf7b-cd77dad08cff.jpg"
+    ],
+    "badges": [],
+    "sku": "octavia-henley/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.951Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ombre Blue Multi",
+      "Smoke Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-resilience-bra-top?variant=42565152342094",
+    "product_id": "moveknit-resilience-bra-top/",
+    "name": "Moveknit Resilience Bra Top",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG052_4OBM_1_ECOMM_f359d99f-118f-42fc-b9be-d0afac53e457.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-resilience-bra-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Chestnut",
+      "Heather Black",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-sport-top?variant=42561796833358",
+    "product_id": "moveknit-sport-top/",
+    "name": "Moveknit Sport Top",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG004_2HCN_ECOMM_42b0e9d7-4de0-4740-9209-1f7f7a4de114.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sport-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Persian Red Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/savanna-cover-up?variant=42595790979150",
+    "product_id": "savanna-cover-up/",
+    "name": "Savanna Cover Up",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG107_6PRM_1_ECOMM_1d124020-a0cf-4ac6-baff-d3ce1ae99e90.jpg"
+    ],
+    "badges": [],
+    "sku": "savanna-cover-up/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Multi",
+      "Ombre Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-resilience-bra-top?variant=42565152374862",
+    "product_id": "moveknit-resilience-bra-top/",
+    "name": "Moveknit Resilience Bra Top",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG052_4SKB_ECOMM_96009913-99a7-41e6-bb09-ca153af80dff.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-resilience-bra-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Navy Blazer",
+      "Black",
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-sunshine-tank?variant=42561793523790",
+    "product_id": "cloud-rib-sunshine-tank/",
+    "name": "Cloud Rib Sunshine Tank",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF079_4HBZ_ECOMM-JPG_e3925b35-85a8-4522-9069-363d0c161211.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-sunshine-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Graystone",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyloft-light-skyline-top?variant=42659267706958",
+    "product_id": "skyloft-light-skyline-top/",
+    "name": "Skyloft Light Skyline Top",
+    "price": 64.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41291_F0274_1_ECOMM-jpg_492de775-4143-486c-83e1-d124a667d3cd.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-skyline-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Light Grey",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-sunshine-tank?variant=42813047275598",
+    "product_id": "cloud-rib-sunshine-tank/",
+    "name": "Cloud Rib Sunshine Tank",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF079_0BLK_1_ECOMM_8b3cd1c5-e221-4100-aed1-27249c24a378.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-sunshine-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.952Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Black",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-sunshine-tank?variant=42561793491022",
+    "product_id": "cloud-rib-sunshine-tank/",
+    "name": "Cloud Rib Sunshine Tank",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF079_0HLG_ECOMM-JPG_42268b75-ee9a-4b5c-b14e-1461d66eb958.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-sunshine-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue Multi",
+      "Brunnera Blue Multi",
+      "Indigo Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-resilience-tank?variant=42565164826702",
+    "product_id": "moveknit-resilience-tank/",
+    "name": "Moveknit Resilience Tank",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG050_4SKB_1_ECOMM_b31359eb-e6af-4c8e-9a19-3b19c69932b3.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-resilience-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Indigo Multi",
+      "Brunnera Blue Multi",
+      "Smoke Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-resilience-tank?variant=42565164793934",
+    "product_id": "moveknit-resilience-tank/",
+    "name": "Moveknit Resilience Tank",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG050_4INM_ECOMM_4f06578b-b5a9-4466-b706-896e484f13f7.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-resilience-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brunnera Blue Multi",
+      "Indigo Multi",
+      "Smoke Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-resilience-tank?variant=42565164761166",
+    "product_id": "moveknit-resilience-tank/",
+    "name": "Moveknit Resilience Tank",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG050_4BBM_ECOMM_cda964f5-88dd-4acd-aaf0-1a52d5773774.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-resilience-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoke Blue",
+      "Brunnera Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-solstice-top?variant=42565152309326",
+    "product_id": "moveknit-solstice-top/",
+    "name": "Moveknit Solstice Top",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG059_4SMB_1_ECOMM_ab959afc-53c7-436e-a8aa-9cf872c7f589.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-solstice-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Graystone",
+      "Heather Coffee Grounds"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyline-tank-bodysuit?variant=42659252338766",
+    "product_id": "skyline-tank-bodysuit/",
+    "name": "Skyline Tank Bodysuit",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41289_F0274_1_ECOMM-jpg_1f37033c-021f-4ecc-9e10-808d686746ce.jpg"
+    ],
+    "badges": [],
+    "sku": "skyline-tank-bodysuit/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brunnera Blue",
+      "Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-solstice-top?variant=42565152243790",
+    "product_id": "moveknit-solstice-top/",
+    "name": "Moveknit Solstice Top",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG059_4BRU_1_ECOMM_514b45ea-98ea-4e48-9e88-44102d2fe2cf.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-solstice-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ombre Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/moveknit-double-strap-tank?variant=42565164892238",
+    "product_id": "moveknit-double-strap-tank/",
+    "name": "Moveknit Double Strap Tank",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG084_4OBM_1_ECOMM_3a251d47-e0b5-42cf-b87b-42d0b3605ef8.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-double-strap-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.953Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Tigerlily",
+      "Gulf Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/ablaze-ribbed-bra-top?variant=42565159747662",
+    "product_id": "ablaze-ribbed-bra-top/",
+    "name": "Ablaze Ribbed Bra Top",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42486_J0188_1_ECOMM_9f847fb7-4eeb-4b68-884a-38bccad4be35.jpg"
+    ],
+    "badges": [],
+    "sku": "ablaze-ribbed-bra-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Gulf Coast",
+      "Tigerlily"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/ablaze-ribbed-bra-top?variant=42565159714894",
+    "product_id": "ablaze-ribbed-bra-top/",
+    "name": "Ablaze Ribbed Bra Top",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42486_C0587_1_ECOMM_e9f98129-fa85-4334-9b88-4981550d0ab7.jpg"
+    ],
+    "badges": [],
+    "sku": "ablaze-ribbed-bra-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brick Dust",
+      "Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/limitless-moveknit-sleeveless-top?variant=42961030381646",
+    "product_id": "limitless-moveknit-sleeveless-top/",
+    "name": "Limitless Moveknit Sleeveless Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41313_6BRK_1_ECOMM_e522c297-e7d5-43ae-a48f-5c1e7dbf835d.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-moveknit-sleeveless-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Persian Red Multi",
+      "Greenbriar",
+      "Poseidon"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/savanna-tank?variant=42425506889806",
+    "product_id": "savanna-tank/",
+    "name": "Savanna Tank",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG073_6PRM_1_ECOMM_dfb5dae2-f046-425d-9edf-0a6369675cf4.jpg"
+    ],
+    "badges": [],
+    "sku": "savanna-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ombre Blue",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/coastal-rib-yacht-me-tank?variant=42565149392974",
+    "product_id": "coastal-rib-yacht-me-tank/",
+    "name": "Coastal Rib Yacht Me Tank",
+    "price": 54.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG063_4OMB_1_ECOMM_fe711c29-cdde-41fa-8016-5466d38d0ed9.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-rib-yacht-me-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Heather Oatmeal",
+      "Clover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-pinot-tank?variant=42425484771406",
+    "product_id": "cloud-rib-pinot-tank/",
+    "name": "Cloud Rib Pinot Tank",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG009_4BLZ_ECOMM_d1d76564-48d1-41b6-b0b2-124763bcf68a.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-pinot-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Granada Blue",
+      "Heather Copen Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/featherweight-active-quarter-zip?variant=42425353273422",
+    "product_id": "featherweight-active-quarter-zip/",
+    "name": "Featherweight Active Quarter Zip",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF077_4HGB_1_ECOMM_a6f4cbef-89b3-4383-b8be-df9f2bb1b57a.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-quarter-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.954Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Clover",
+      "Heather Oatmeal",
+      "Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-rib-pinot-tank?variant=42425484542030",
+    "product_id": "cloud-rib-pinot-tank/",
+    "name": "Cloud Rib Pinot Tank",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG009_3CLO_ECOMM_fe3b1d44-af75-4fab-a8d6-5befb8f565fd.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-pinot-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brick Dust Multi",
+      "Brunnera Blue",
+      "Foxglove",
+      "Persian Red Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/sunfire-zip-tank?variant=42777529679950",
+    "product_id": "sunfire-zip-tank/",
+    "name": "Sunfire Zip Tank",
+    "price": 109.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG042_J0172_1_ECOMM-jpg_6f27a1e0-8417-403c-b07f-a001b425d74d.jpg"
+    ],
+    "badges": [],
+    "sku": "sunfire-zip-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Persian Red",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/shifting-sands-tank?variant=42425512230990",
+    "product_id": "shifting-sands-tank/",
+    "name": "Shifting Sands Tank",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG087_6PRR_1_ECOMM_9a7a6d15-9a0c-468a-89bf-3e3f7807b8cf.jpg"
+    ],
+    "badges": [],
+    "sku": "shifting-sands-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/spa-day-friday-ponte-top?variant=42561775730766",
+    "product_id": "spa-day-friday-ponte-top/",
+    "name": "Spa Day Friday Ponte Top",
+    "price": 119.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF038_4BLZ_ECOMM-JPG_a2481462-dfe4-431a-b544-dac250198b7c.jpg"
+    ],
+    "badges": [],
+    "sku": "spa-day-friday-ponte-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Flint",
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/skyline-jersey-tank?variant=42659267248206",
+    "product_id": "skyline-jersey-tank/",
+    "name": "Skyline Jersey Tank",
+    "price": 54.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41290_5HFT_1_ECOMM-jpg_73e21816-a502-4df2-96f0-31d3496a2c4d.jpg"
+    ],
+    "badges": [],
+    "sku": "skyline-jersey-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ombre Blue",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/midnight-muse-top?variant=42425503875150",
+    "product_id": "midnight-muse-top/",
+    "name": "Midnight Muse Top",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG066_4OMB_1_ECOMM_64434755-7e94-4efd-89e3-701096359bca.jpg"
+    ],
+    "badges": [],
+    "sku": "midnight-muse-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Clover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/everyday-button-down?variant=42425492570190",
+    "product_id": "everyday-button-down/",
+    "name": "Everyday Button Down",
+    "price": 149.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG039_3CLO_ECOMM_6c75ac8a-0d9b-4bfb-ad20-674d57b6df54.jpg"
+    ],
+    "badges": [],
+    "sku": "everyday-button-down/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Ombre Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/midnight-muse-top?variant=42565142118478",
+    "product_id": "midnight-muse-top/",
+    "name": "Midnight Muse Top",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG066_1WHT_1_ECOMM_b3a98b46-4ae7-4195-882b-0d9afdbeda66.jpg"
+    ],
+    "badges": [],
+    "sku": "midnight-muse-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Portabella"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/friday-doubleknit-square-neck-tank?variant=42568024555598",
+    "product_id": "friday-doubleknit-square-neck-tank/",
+    "name": "Friday Doubleknit Square Neck Tank",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG029_2HPR_1_ECOMM_0d98f5a7-51b7-4fbe-a2b9-5a773f489e3e.jpg"
+    ],
+    "badges": [],
+    "sku": "friday-doubleknit-square-neck-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.955Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brunnera Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/featherweight-printed-zip-quarter-zip?variant=42565142020174",
+    "product_id": "featherweight-printed-zip-quarter-zip/",
+    "name": "Featherweight Printed Zip Quarter Zip",
+    "price": 109.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG112_4BBM_1_ECOMM_0418dc64-20a3-4302-a148-9a30d27d47d7.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-printed-zip-quarter-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.956Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Graystone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-terry-top?variant=42659254042702",
+    "product_id": "cloud-terry-top/",
+    "name": "Cloud Terry Top",
+    "price": 119.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41348_1WHT_1_ECOMM-jpg_8950061f-fb64-41c8-a83c-98fd48132391.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-terry-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.956Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Graystone",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/cloud-terry-top?variant=42659254272078",
+    "product_id": "cloud-terry-top/",
+    "name": "Cloud Terry Top",
+    "price": 119.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41348_F0275_1_ECOMM-jpg_48cb37bc-4ab8-445e-b7fe-7080cc905c9d.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-terry-top/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.956Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bronze Green Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/daylight-tank?variant=42565160632398",
+    "product_id": "daylight-tank/",
+    "name": "Daylight Tank",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42489_E0230_1_ECOMM_b3779a88-7e82-4722-b85a-aeef90aa52a3.jpg"
+    ],
+    "badges": [],
+    "sku": "daylight-tank/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:38.956Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Slate"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-shirts-tops/products/solara-cloud-rib-top?variant=42777534726222",
+    "product_id": "solara-cloud-rib-top/",
+    "name": "Solara Cloud Rib Top",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41260_4DKS_1_ECOMM-jpg_52431476-2ddb-457f-90d5-26fad891b843.jpg"
+    ],
+    "badges": [],
+    "sku": "solara-cloud-rib-top/"
+  }
+]

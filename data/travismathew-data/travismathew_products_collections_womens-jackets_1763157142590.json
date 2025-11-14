@@ -1,0 +1,856 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.584Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Oxford Tan Multi",
+      "Clover",
+      "Navy Blazer Floral Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/marin-jacket?variant=42777525485646",
+    "product_id": "marin-jacket/",
+    "name": "Marin Jacket",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF086_4BLZ_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "marin-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.585Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Obsidian",
+      "Pumice Stone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/lights-at-night-quilted-jacket?variant=42568006991950",
+    "product_id": "lights-at-night-quilted-jacket/",
+    "name": "Lights At Night Quilted Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE022_4ODN_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "lights-at-night-quilted-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.585Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Iris"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/sweet-heat-full-zip?variant=42561777074254",
+    "product_id": "sweet-heat-full-zip/",
+    "name": "Sweet Heat Full Zip",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF057_4BLZ_ECOMM-JPG.jpg"
+    ],
+    "badges": [],
+    "sku": "sweet-heat-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.585Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Snow White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/artful-sherpa-jacket?variant=43070166499406",
+    "product_id": "artful-sherpa-jacket/",
+    "name": "Artful Sherpa Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42409_L0012_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "artful-sherpa-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.585Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Coffee Grounds"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/moontide-bonded-puffer-jacket?variant=42659607281742",
+    "product_id": "moontide-bonded-puffer-jacket/",
+    "name": "Moontide Bonded Puffer Jacket",
+    "price": 229.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41297_D0100_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "moontide-bonded-puffer-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.585Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Grape Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/mont-blanc-hood-puffer?variant=42961030742094",
+    "product_id": "mont-blanc-hood-puffer/",
+    "name": "Mont Blanc Hood Puffer",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41382_E0045_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "mont-blanc-hood-puffer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.585Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Grape Leaf",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/moontide-bonded-puffer-vest?variant=42659624091726",
+    "product_id": "moontide-bonded-puffer-vest/",
+    "name": "Moontide Bonded Puffer Vest",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41298_E0045_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "moontide-bonded-puffer-vest/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.586Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Grape Leaf",
+      "Heather Savannah Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/cloudscape-button-down?variant=42961029529678",
+    "product_id": "cloudscape-button-down/",
+    "name": "Cloudscape Button Down",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41282_E0203_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "cloudscape-button-down/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.586Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Eggnog"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/diamond-quilted-shacket?variant=42561782808654",
+    "product_id": "diamond-quilted-shacket/",
+    "name": "Diamond Quilted Shacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG104_0BLK_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "diamond-quilted-shacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.586Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Grape Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/moontide-bonded-puffer-vest?variant=42659623993422",
+    "product_id": "moontide-bonded-puffer-vest/",
+    "name": "Moontide Bonded Puffer Vest",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41298_0BLK_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "moontide-bonded-puffer-vest/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.586Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/rustic-retreat-bomber?variant=42659624747086",
+    "product_id": "rustic-retreat-bomber/",
+    "name": "Rustic Retreat Bomber",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41372_0HLG_1_ECOMM_9d37679d-3d49-4601-935a-359e28cdbf5a.jpg"
+    ],
+    "badges": [],
+    "sku": "rustic-retreat-bomber/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.586Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer Floral Multi",
+      "Oxford Tan Multi",
+      "Clover",
+      "Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/marin-jacket?variant=43109165924430",
+    "product_id": "marin-jacket/",
+    "name": "Marin Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.searchspring.net/ajax_search/img/default_image.png"
+    ],
+    "badges": [],
+    "sku": "marin-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.586Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Chestnut"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/mont-blanc-3-0?variant=42567378665550",
+    "product_id": "mont-blanc-3-0/",
+    "name": "Mont Blanc 3.0",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE102_0BLK_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "mont-blanc-3-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/skyloft-soft-espresso-martini-full-zip?variant=42890920788046",
+    "product_id": "skyloft-soft-espresso-martini-full-zip/",
+    "name": "Skyloft Soft Espresso Martini Full Zip",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG057_0HBL_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-soft-espresso-martini-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Navy Blazer",
+      "Coffee Grounds"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/moveknit-full-zip?variant=42561780154446",
+    "product_id": "moveknit-full-zip/",
+    "name": "Moveknit Full Zip",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG016_0HBL_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Eggnog",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/diamond-quilted-shacket?variant=42425394004046",
+    "product_id": "diamond-quilted-shacket/",
+    "name": "Diamond Quilted Shacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG104_1EGN_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "diamond-quilted-shacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Savannah Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/cloud-coastal-quilted-shacket?variant=42961028808782",
+    "product_id": "cloud-coastal-quilted-shacket/",
+    "name": "Cloud Coastal Quilted Shacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41255_A0050_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-coastal-quilted-shacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Natural",
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/cloud-fleece-shacket?variant=42561789296718",
+    "product_id": "cloud-fleece-shacket/",
+    "name": "Cloud Fleece Shacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE091_2HNT_P_1-JPG_4b793750-2d48-49e5-9ecc-926c4a0e9d8e.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-fleece-shacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pumice Stone",
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/lights-at-night-quilted-jacket?variant=42730366926926",
+    "product_id": "lights-at-night-quilted-jacket/",
+    "name": "Lights At Night Quilted Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE022_2PST_P_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "lights-at-night-quilted-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.587Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chestnut",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/mont-blanc-3-0?variant=42561773207630",
+    "product_id": "mont-blanc-3-0/",
+    "name": "Mont Blanc 3.0",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE102_2CHS_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "mont-blanc-3-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Tigers Eye"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/mont-blanc-long-puffer?variant=42561776713806",
+    "product_id": "mont-blanc-long-puffer/",
+    "name": "Mont Blanc Long Puffer",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF056_2TGE_ECOMM-JPG.jpg"
+    ],
+    "badges": [],
+    "sku": "mont-blanc-long-puffer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Coffee Grounds",
+      "Heather Black",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/moveknit-full-zip?variant=42777525682254",
+    "product_id": "moveknit-full-zip/",
+    "name": "Moveknit Full Zip",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG016_D0100_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pearl Blush Multi",
+      "White",
+      "Chestnut",
+      "Morning Ray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/travel-day-tech-woven-jacket?variant=42960850485326",
+    "product_id": "travel-day-tech-woven-jacket/",
+    "name": "Travel Day Tech Woven Jacket",
+    "price": 149.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE062_H0088_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "travel-day-tech-woven-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Heather Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/cloud-fleece-shacket?variant=42730369679438",
+    "product_id": "cloud-fleece-shacket/",
+    "name": "Cloud Fleece Shacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE091_0HLG_P_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-fleece-shacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Ombre Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/coastal-rib-yacht-me-shacket?variant=42565148508238",
+    "product_id": "coastal-rib-yacht-me-shacket/",
+    "name": "Coastal Rib Yacht Me Shacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG101_1WHT_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-rib-yacht-me-shacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Chestnut",
+      "Pearl Blush Multi",
+      "Morning Ray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/travel-day-tech-woven-jacket?variant=42563249307726",
+    "product_id": "travel-day-tech-woven-jacket/",
+    "name": "Travel Day Tech Woven Jacket",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE062_1WHT_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "travel-day-tech-woven-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.588Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chestnut",
+      "White",
+      "Pearl Blush Multi",
+      "Morning Ray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/travel-day-tech-woven-jacket?variant=42563249340494",
+    "product_id": "travel-day-tech-woven-jacket/",
+    "name": "Travel Day Tech Woven Jacket",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE062_2CHS_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "travel-day-tech-woven-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vanilla Ice"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/boynton-bomber?variant=42659272523854",
+    "product_id": "boynton-bomber/",
+    "name": "Boynton Bomber",
+    "price": 149.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42534_1VAN_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "boynton-bomber/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Iris",
+      "Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/sweet-heat-full-zip?variant=42933277917262",
+    "product_id": "sweet-heat-full-zip/",
+    "name": "Sweet Heat Full Zip",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF057_4IRS_P_1-JPG_eefb0580-e0fa-4d69-9365-f2d081509fc6.jpg"
+    ],
+    "badges": [],
+    "sku": "sweet-heat-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Slate Multi",
+      "Smoke Blue Multi",
+      "Foxglove Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/city-edge-breezeblend-jacket?variant=42777526108238",
+    "product_id": "city-edge-breezeblend-jacket/",
+    "name": "City Edge Breezeblend Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG034_C0582_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "city-edge-breezeblend-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/shifting-sands-jacket?variant=42565139562574",
+    "product_id": "shifting-sands-jacket/",
+    "name": "Shifting Sands Jacket",
+    "price": 149.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG090_1WHT_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "shifting-sands-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Island Fossil",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/timeless-breezeblend-full-zip?variant=42659269771342",
+    "product_id": "timeless-breezeblend-full-zip/",
+    "name": "Timeless Breezeblend Full Zip",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41318_A0044_1_ECOMM-jpg_25604be1-147d-4ad2-bb3a-6be509edcb0a.jpg"
+    ],
+    "badges": [],
+    "sku": "timeless-breezeblend-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Island Fossil"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/timeless-breezeblend-full-zip?variant=42659269541966",
+    "product_id": "timeless-breezeblend-full-zip/",
+    "name": "Timeless Breezeblend Full Zip",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41318_0BLK_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "timeless-breezeblend-full-zip/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:52:22.589Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Savannah Tan",
+      "Heather Grape Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-jackets/products/cloudscape-button-down?variant=42961029267534",
+    "product_id": "cloudscape-button-down/",
+    "name": "Cloudscape Button Down",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41282_A0050_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "cloudscape-button-down/"
+  }
+]

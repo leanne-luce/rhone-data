@@ -1,0 +1,706 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.648Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Heather Quiet Shade",
+      "White/Micro Chip"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/popsicle-2-0-stretch-woven-belt?variant=42561762033742",
+    "product_id": "popsicle-2-0-stretch-woven-belt/",
+    "name": "Popsicle 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA249_0HQS_ECOMM-JPG_84a92026-ae90-43f6-95cd-decc8e805cc2.jpg"
+    ],
+    "badges": [],
+    "sku": "popsicle-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.650Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/voodoo-2-0-stretch-woven-belt?variant=42561762295886",
+    "product_id": "voodoo-2-0-stretch-woven-belt/",
+    "name": "Voodoo 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA252_0BLK_ECOMM-JPG_312d816a-5a1c-4aae-a666-25027275b2b7.jpg"
+    ],
+    "badges": [],
+    "sku": "voodoo-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.650Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/jinx-2-0-leather-belt?variant=42425238716494",
+    "product_id": "jinx-2-0-leather-belt/",
+    "name": "Jinx 2.0 Leather Belt",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA247_0BLK_ECOMM-JPG_cbcb323e-2669-49d2-9c64-c13229e8f227.jpg"
+    ],
+    "badges": [],
+    "sku": "jinx-2-0-leather-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.650Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Dark Brown",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/jinx-2-0-leather-belt?variant=42425238880334",
+    "product_id": "jinx-2-0-leather-belt/",
+    "name": "Jinx 2.0 Leather Belt",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA247_2DBR_ECOMM-JPG_3bb9ad51-b9dc-4bc7-9bff-66655a834e49.jpg"
+    ],
+    "badges": [],
+    "sku": "jinx-2-0-leather-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.651Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Dark Blue/Dark Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/cheers-2-0-stretch-woven-belt?variant=42561759903822",
+    "product_id": "cheers-2-0-stretch-woven-belt/",
+    "name": "Cheers 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA245_4DDG_ECOMM-JPG_c4623927-3862-4cf5-9c84-261c62038f35.jpg"
+    ],
+    "badges": [],
+    "sku": "cheers-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.651Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Blue Nights"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/grade-2-0-stretch-woven-belt?variant=42561760034894",
+    "product_id": "grade-2-0-stretch-woven-belt/",
+    "name": "Grade 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA246_4BLN_ECOMM-JPG_4592e080-0ea8-44c3-85e7-ad33ccc9f8d5.jpg"
+    ],
+    "badges": [],
+    "sku": "grade-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.651Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Blue Nights",
+      "Quiet Shade"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/pilatus-2-0-leather-belt?variant=42425239633998",
+    "product_id": "pilatus-2-0-leather-belt/",
+    "name": "Pilatus 2.0 Leather Belt",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA248_4BLN_ECOMM-JPG_c9ed38ca-9aca-47ff-b191-7530ce36bead.jpg"
+    ],
+    "badges": [],
+    "sku": "pilatus-2-0-leather-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.651Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Quiet Shade",
+      "Blue Nights"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/pilatus-2-0-leather-belt?variant=42425239470158",
+    "product_id": "pilatus-2-0-leather-belt/",
+    "name": "Pilatus 2.0 Leather Belt",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA248_0QSH_ECOMM-JPG_930604c2-c805-4e95-a1e3-1c825dc81303.jpg"
+    ],
+    "badges": [],
+    "sku": "pilatus-2-0-leather-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.652Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/world-link-hybrid-stretch-belt?variant=42425314967630",
+    "product_id": "world-link-hybrid-stretch-belt/",
+    "name": "World Link Hybrid Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40180_4MIN_ECOMM_668b82d7-4e22-4b3d-8e0e-fe0c320eed05.jpg"
+    ],
+    "badges": [],
+    "sku": "world-link-hybrid-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.652Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Micro Chip/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/staggerwing-2-0-stretch-woven-belt?variant=42561761738830",
+    "product_id": "staggerwing-2-0-stretch-woven-belt/",
+    "name": "Staggerwing 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA251_0MCW_ECOMM-JPG_47ec80b3-eeae-4a63-a861-4ae68fe95937.jpg"
+    ],
+    "badges": [],
+    "sku": "staggerwing-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.652Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Eggshell Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/distant-sand-stretch-woven-belt?variant=42561774190670",
+    "product_id": "distant-sand-stretch-woven-belt/",
+    "name": "Distant Sand Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41077_C0443_1_ECOMM_2946cab3-b41f-4111-820b-0aed6aa8a281.jpg"
+    ],
+    "badges": [],
+    "sku": "distant-sand-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.652Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/ocean-flare-canvas-stretch-belt?variant=42425260998734",
+    "product_id": "ocean-flare-canvas-stretch-belt/",
+    "name": "Ocean Flare Canvas Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA254_4TOS_ECOMM-JPG_481c6c6d-df8e-4791-95b8-572864d3a399.jpg"
+    ],
+    "badges": [],
+    "sku": "ocean-flare-canvas-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.653Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Captains Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/midships-hybrid-stretch-belt?variant=42425316573262",
+    "product_id": "midships-hybrid-stretch-belt/",
+    "name": "Midships Hybrid Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40181_C0438_ECOMM_7fce7e80-5ea7-4e04-9fbc-44abdd7df63c.jpg"
+    ],
+    "badges": [],
+    "sku": "midships-hybrid-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.653Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/vine-city-canvas-stretch-belt?variant=42425282953294",
+    "product_id": "vine-city-canvas-stretch-belt/",
+    "name": "Vine City Canvas Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB246_0BLK_ECOMM-jpg_91d5b7d2-d461-4bf8-bb95-e4304d8c2759.jpg"
+    ],
+    "badges": [],
+    "sku": "vine-city-canvas-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.653Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/night-stroll-hybrid-stretch-belt?variant=42425314705486",
+    "product_id": "night-stroll-hybrid-stretch-belt/",
+    "name": "Night Stroll Hybrid Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40178_0BLK_ECOMM_c116dc7d-424b-41e2-aab5-d67be4c27b0e.jpg"
+    ],
+    "badges": [],
+    "sku": "night-stroll-hybrid-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.653Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/full-bar-stretch-woven-belt?variant=42661869387854",
+    "product_id": "full-bar-stretch-woven-belt/",
+    "name": "Full Bar Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42498_3DOL_1_ECOMM-jpg_b11623f3-a85a-4e00-bcfe-7c6cc0f76350.jpg"
+    ],
+    "badges": [],
+    "sku": "full-bar-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.653Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/on-sabbatical-stretch-woven-belt?variant=42661868896334",
+    "product_id": "on-sabbatical-stretch-woven-belt/",
+    "name": "On Sabbatical Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42496_0BLK_1_ECOMM-jpg_2c7d4e92-ec72-4e21-8aef-b48d0999679b.jpg"
+    ],
+    "badges": [],
+    "sku": "on-sabbatical-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.654Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/international-stretch-woven-belt?variant=42661868765262",
+    "product_id": "international-stretch-woven-belt/",
+    "name": "International Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42495_4TOS_1_ECOMM-jpg_9c0e0142-b9d6-4981-b2bb-2dbc8e7db545.jpg"
+    ],
+    "badges": [],
+    "sku": "international-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.654Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "White/Micro Chip",
+      "Heather Quiet Shade"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/popsicle-2-0-stretch-woven-belt?variant=42425252380750",
+    "product_id": "popsicle-2-0-stretch-woven-belt/",
+    "name": "Popsicle 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA249_1WMC_ECOMM-JPG_94ccbe4f-31cf-491a-b326-6811f11e9036.jpg"
+    ],
+    "badges": [],
+    "sku": "popsicle-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.654Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Coffee"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/banks-closed-2-0-stretch-woven-belt?variant=42425231933518",
+    "product_id": "banks-closed-2-0-stretch-woven-belt/",
+    "name": "Banks Closed 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA244_2COF_ECOMM-JPG_47628b0e-be09-4740-ace9-5caf735db92b.jpg"
+    ],
+    "badges": [],
+    "sku": "banks-closed-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.654Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Birch",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/time-zoned-stretch-woven-belt?variant=42678110421070",
+    "product_id": "time-zoned-stretch-woven-belt/",
+    "name": "Time Zoned Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41076_A0007_1_ECOMM-jpg_f639e771-b13e-4519-a61a-b5f7655964cc.jpg"
+    ],
+    "badges": [],
+    "sku": "time-zoned-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.655Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Birch"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/time-zoned-stretch-woven-belt?variant=42561773961294",
+    "product_id": "time-zoned-stretch-woven-belt/",
+    "name": "Time Zoned Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41076_0BLK_1_ECOMM_c2896c53-9442-4c43-8c34-ebe059116a59.jpg"
+    ],
+    "badges": [],
+    "sku": "time-zoned-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.655Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/royal-heritage-canvas-stretch-belt?variant=42425265455182",
+    "product_id": "royal-heritage-canvas-stretch-belt/",
+    "name": "Royal Heritage Canvas Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA256_4TOS_ECOMM-JPG_40bcc18d-4cc7-4f05-be0a-284bf784baa9.jpg"
+    ],
+    "badges": [],
+    "sku": "royal-heritage-canvas-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.655Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Heather Grey Pinstripe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/pueblo-2-0-stretch-woven-belt?variant=42561761771598",
+    "product_id": "pueblo-2-0-stretch-woven-belt/",
+    "name": "Pueblo 2.0 Stretch Woven Belt",
+    "price": 59.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA250_0HGP_ECOMM-JPG_1716a51c-0f10-43ac-a345-4bc5c8c9c675.jpg"
+    ],
+    "badges": [],
+    "sku": "pueblo-2-0-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.655Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Sleet"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/to-and-fro-stretch-woven-belt?variant=42425320865870",
+    "product_id": "to-and-fro-stretch-woven-belt/",
+    "name": "To And Fro Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41075_0SLT_1_ECOMM_625759a3-6a22-4200-a080-2475f889aa8c.jpg"
+    ],
+    "badges": [],
+    "sku": "to-and-fro-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.656Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/local-flavor-strech-woven-belt?variant=42438984073294",
+    "product_id": "local-flavor-strech-woven-belt/",
+    "name": "Local Flavor Strech Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/webimage-A41078_0BLK_ECOMM_4f80b4b0-fdb1-4810-a5d4-ebe205abcf69.png"
+    ],
+    "badges": [],
+    "sku": "local-flavor-strech-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.656Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/local-flavor-stretch-woven-belt?variant=42567375028302",
+    "product_id": "local-flavor-stretch-woven-belt/",
+    "name": "Local Flavor Stretch Woven Belt",
+    "price": 49.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41078_0BLK_ECOMM_9b9fa268-0395-4857-bcdd-d2d33be0b530.jpg"
+    ],
+    "badges": [],
+    "sku": "local-flavor-stretch-woven-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.656Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Micro Chip/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/buried-treasure-hybrid-stretch-belt?variant=42661869912142",
+    "product_id": "buried-treasure-hybrid-stretch-belt/",
+    "name": "Buried Treasure Hybrid Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44925_0MCW_1_ECOMM-jpg_26b68d19-0b19-49a8-855d-c508ddf27f5a.jpg"
+    ],
+    "badges": [],
+    "sku": "buried-treasure-hybrid-stretch-belt/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:12:08.656Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": null,
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/belts/products/local-tour-canvas-stretch-belt?variant=42425286852686",
+    "product_id": "local-tour-canvas-stretch-belt/",
+    "name": "Local Tour Canvas Stretch Belt",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB247_0BLK_ECOMM-jpg_31635866-4e13-40e1-b47a-e9fa361058c8.jpg"
+    ],
+    "badges": [],
+    "sku": "local-tour-canvas-stretch-belt/"
+  }
+]

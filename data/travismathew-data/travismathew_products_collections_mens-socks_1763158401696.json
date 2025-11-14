@@ -1,0 +1,992 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.680Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/all-the-bells-no-show-sock?variant=43070146838606",
+    "product_id": "all-the-bells-no-show-sock/",
+    "name": "All The Bells No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44942_0BLK_1_ECOMM_507064fc-b011-4075-9eb2-2041330ac3e1.jpg"
+    ],
+    "badges": [],
+    "sku": "all-the-bells-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.682Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Grey",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/eighteener-2-0-ankle-sock?variant=42425253888078",
+    "product_id": "eighteener-2-0-ankle-sock/",
+    "name": "Eighteener 2.0 Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA317_0BLG_ECOMM-JPG_65eb602c-7701-430f-807d-50d3e4d2d970.jpg"
+    ],
+    "badges": [],
+    "sku": "eighteener-2-0-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.683Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo",
+      "Black/Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/eighteener-2-0-ankle-sock?variant=42425253986382",
+    "product_id": "eighteener-2-0-ankle-sock/",
+    "name": "Eighteener 2.0 Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA317_4MIN_ECOMM-JPG_62e7a6cf-61d2-4829-bfc1-04cfd315ce05.jpg"
+    ],
+    "badges": [],
+    "sku": "eighteener-2-0-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.684Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Alloy",
+      "Heather Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/shorty-smalls-2-0-ankle-sock?variant=42425259589710",
+    "product_id": "shorty-smalls-2-0-ankle-sock/",
+    "name": "Shorty Smalls 2.0 Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA318_0BLK_ECOMM-JPG_1d064df3-8bd2-4121-995c-077c9d5e047d.jpg"
+    ],
+    "badges": [],
+    "sku": "shorty-smalls-2-0-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.684Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Alloy",
+      "Black",
+      "Heather Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/shorty-smalls-2-0-ankle-sock?variant=42425259622478",
+    "product_id": "shorty-smalls-2-0-ankle-sock/",
+    "name": "Shorty Smalls 2.0 Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA318_0HAL_ECOMM-JPG_a1e9dd39-057b-4a22-9e0f-1eaafdb0dec7.jpg"
+    ],
+    "badges": [],
+    "sku": "shorty-smalls-2-0-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.685Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Mood Indigo",
+      "Black",
+      "Heather Alloy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/shorty-smalls-2-0-ankle-sock?variant=42425259688014",
+    "product_id": "shorty-smalls-2-0-ankle-sock/",
+    "name": "Shorty Smalls 2.0 Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA318_4HMI_ECOMM-JPG_8a9debdc-00b7-4ba0-9bda-86570e72a893.jpg"
+    ],
+    "badges": [],
+    "sku": "shorty-smalls-2-0-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.685Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Alloy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/magic-man-2-0-no-show-sock?variant=42425259884622",
+    "product_id": "magic-man-2-0-no-show-sock/",
+    "name": "Magic Man 2.0 No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA319_0HAL_ECOMM-JPG_12881bb9-ef3f-4812-95c2-0c726ce8f7a0.jpg"
+    ],
+    "badges": [],
+    "sku": "magic-man-2-0-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.685Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Alloy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/magic-man-2-0-no-show-sock?variant=42425259851854",
+    "product_id": "magic-man-2-0-no-show-sock/",
+    "name": "Magic Man 2.0 No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA319_0BLK_ECOMM-JPG_523975ae-e07b-4612-bdec-dfd053819a60.jpg"
+    ],
+    "badges": [],
+    "sku": "magic-man-2-0-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.686Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Grey Pinstripe",
+      "Micro Chip",
+      "Heather Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/baja-2-0-crew-sock?variant=42425265553486",
+    "product_id": "baja-2-0-crew-sock/",
+    "name": "Baja 2.0 Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA320_0BLK_ECOMM-JPG_899199a0-3cf8-4a7d-9e0b-773381f53bcf.jpg"
+    ],
+    "badges": [],
+    "sku": "baja-2-0-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.686Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey Pinstripe",
+      "Black",
+      "Micro Chip",
+      "Heather Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/baja-2-0-crew-sock?variant=42425265586254",
+    "product_id": "baja-2-0-crew-sock/",
+    "name": "Baja 2.0 Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA320_0HGP_ECOMM-JPG_467e70bc-2d72-42ac-a9cd-068f25d9262b.jpg"
+    ],
+    "badges": [],
+    "sku": "baja-2-0-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.687Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Mood Indigo",
+      "Black",
+      "Heather Grey Pinstripe",
+      "Micro Chip"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/baja-2-0-crew-sock?variant=42425265651790",
+    "product_id": "baja-2-0-crew-sock/",
+    "name": "Baja 2.0 Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA320_4HMI_ECOMM-JPG_8fc032a8-60ba-4af2-8e41-d44dfc061e19.jpg"
+    ],
+    "badges": [],
+    "sku": "baja-2-0-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.687Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Micro Chip",
+      "Black",
+      "Heather Grey Pinstripe",
+      "Heather Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/baja-2-0-crew-sock?variant=42425265619022",
+    "product_id": "baja-2-0-crew-sock/",
+    "name": "Baja 2.0 Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA320_0MCR_ECOMM-JPG_9e8db6bf-7996-4d36-9228-e369e677cb9c.jpg"
+    ],
+    "badges": [],
+    "sku": "baja-2-0-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.688Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pacific Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/vacation-home-inv-no-show-sock?variant=42425335021646",
+    "product_id": "vacation-home-inv-no-show-sock/",
+    "name": "Vacation Home Inv No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40299_C0453_1_ECOMM-jpg_068f0fed-a6c9-4f02-9edd-920269fd78bd.jpg"
+    ],
+    "badges": [],
+    "sku": "vacation-home-inv-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.688Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/golf-sucks-ankle-sock?variant=42661870633038",
+    "product_id": "golf-sucks-ankle-sock/",
+    "name": "Golf Sucks Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42434_0BLK_1_ECOMM-jpg_502efd8c-6b89-4b11-9a99-c51e1e5ce6d0.jpg"
+    ],
+    "badges": [],
+    "sku": "golf-sucks-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.688Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/wander-wherever-crew-sock?variant=42425332301902",
+    "product_id": "wander-wherever-crew-sock/",
+    "name": "Wander Wherever Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40292_4MIN_1_ECOMM_6b74ec20-b02f-4d5d-8623-2880b68a41eb.jpg"
+    ],
+    "badges": [],
+    "sku": "wander-wherever-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.688Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/golf-sucks-ankle-sock?variant=42661870665806",
+    "product_id": "golf-sucks-ankle-sock/",
+    "name": "Golf Sucks Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42434_1WHT_1_ECOMM-jpg_bccd9912-ae9b-4528-9b5c-acf982940089.jpg"
+    ],
+    "badges": [],
+    "sku": "golf-sucks-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.689Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Violet Storm"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/coastal-catamaran-no-show-sock?variant=42425334923342",
+    "product_id": "coastal-catamaran-no-show-sock/",
+    "name": "Coastal Catamaran No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40298_I0092_1_ECOMM-jpg_72b91b61-c588-42a3-aedf-716d694dd5f1.jpg"
+    ],
+    "badges": [],
+    "sku": "coastal-catamaran-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.689Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/tm-crew-sock?variant=42661870829646",
+    "product_id": "tm-crew-sock/",
+    "name": "TM Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42715_0BLK_1_ECOMM-jpg_0111f9de-8f53-48e9-a346-fc74fb32bc05.jpg"
+    ],
+    "badges": [],
+    "sku": "tm-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.690Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Jadeite"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/mapes-crew-sock?variant=42425279873102",
+    "product_id": "mapes-crew-sock/",
+    "name": "Mapes Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB214_3JAD_ECOMM-jpg_d2aef23e-9881-4a54-9109-173e53dc99c5.jpg"
+    ],
+    "badges": [],
+    "sku": "mapes-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.690Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rattan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/sunbeam-crew-sock?variant=42425319260238",
+    "product_id": "sunbeam-crew-sock/",
+    "name": "Sunbeam Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40281_M0049_1_ECOMM_6b1fd9fe-cc19-40ff-8a42-4534558d54bd.jpg"
+    ],
+    "badges": [],
+    "sku": "sunbeam-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.691Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/tm-crew-sock?variant=42661870862414",
+    "product_id": "tm-crew-sock/",
+    "name": "TM Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42715_1WHT_1_ECOMM-jpg_5aabe8a8-e23d-4db0-8be7-4dad84338042.jpg"
+    ],
+    "badges": [],
+    "sku": "tm-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.692Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rose Wine"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/overall-mood-crew-sock?variant=42425319227470",
+    "product_id": "overall-mood-crew-sock/",
+    "name": "Overall Mood Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40284_I0089_1_ECOMM_ff2eca87-70ca-4ad8-bfae-c3ad0be8c4e3.jpg"
+    ],
+    "badges": [],
+    "sku": "overall-mood-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.692Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/tm-crew-sock?variant=42661870895182",
+    "product_id": "tm-crew-sock/",
+    "name": "TM Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42715_4TOS_1_ECOMM-jpg_b8aaf3a9-4d7e-4e04-be40-a82ae96f6e31.jpg"
+    ],
+    "badges": [],
+    "sku": "tm-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.693Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/port-call-ankle-sock?variant=42661870600270",
+    "product_id": "port-call-ankle-sock/",
+    "name": "Port Call Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42433_4TOS_1_ECOMM-jpg_245efc71-d336-4ebf-8ddf-3bbc0e69f58b.jpg"
+    ],
+    "badges": [],
+    "sku": "port-call-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.693Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/lost-buckets-crew-sock?variant=42425328042062",
+    "product_id": "lost-buckets-crew-sock/",
+    "name": "Lost Buckets Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40287_1WHT_1_ECOMM_10d67861-3ee0-4cf1-af19-d6ab1e27930f.jpg"
+    ],
+    "badges": [],
+    "sku": "lost-buckets-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.693Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Birch"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/must-see-crew-sock?variant=42661869748302",
+    "product_id": "must-see-crew-sock/",
+    "name": "Must See Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42429_A0007_1_ECOMM-jpg_f6c3a5aa-18e7-4464-99e3-a99ec092cb47.jpg"
+    ],
+    "badges": [],
+    "sku": "must-see-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/flourish-crew-sock?variant=42425322537038",
+    "product_id": "flourish-crew-sock/",
+    "name": "Flourish Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40285_4MIN_1_ECOMM_de309026-64bf-4029-9f25-c96b8c398361.jpg"
+    ],
+    "badges": [],
+    "sku": "flourish-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/paradise-peak-ankle-sock?variant=42425296420942",
+    "product_id": "paradise-peak-ankle-sock/",
+    "name": "Paradise Peak Ankle Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB224_0BLK_ECOMM-jpg_b7c040e8-c387-4579-9db2-13ba0453882d.jpg"
+    ],
+    "badges": [],
+    "sku": "paradise-peak-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/private-bar-no-show-sock?variant=42661870567502",
+    "product_id": "private-bar-no-show-sock/",
+    "name": "Private Bar No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42436_4TOS_1_ECOMM-jpg_84c31050-c027-4d07-abdf-ee9acbe7b760.jpg"
+    ],
+    "badges": [],
+    "sku": "private-bar-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/river-picnic-crew-sock?variant=42661870141518",
+    "product_id": "river-picnic-crew-sock/",
+    "name": "River Picnic Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42430_0HLG_1_ECOMM-jpg_5e176c9e-064e-4e4e-aa4d-4a153bfb60a8.jpg"
+    ],
+    "badges": [],
+    "sku": "river-picnic-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/golf-sucks-crew-sock?variant=42661870338126",
+    "product_id": "golf-sucks-crew-sock/",
+    "name": "Golf Sucks Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42431_3DOL_1_ECOMM-jpg_de8cbb0e-2cd5-4c35-8b8c-9996f6d91c6d.jpg"
+    ],
+    "badges": [],
+    "sku": "golf-sucks-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/deco-crew-crew-sock?variant=42425333153870",
+    "product_id": "deco-crew-crew-sock/",
+    "name": "Deco Crew Crew Sock",
+    "price": 19.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40293_4MIN_3_ECOMM_6dd3e44b-86eb-45d2-a1e7-c141dababbe4.jpg"
+    ],
+    "badges": [],
+    "sku": "deco-crew-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.694Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/river-picnic-ankle-sock?variant=42661870927950",
+    "product_id": "river-picnic-ankle-sock/",
+    "name": "River Picnic Ankle Sock",
+    "price": 14.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44927_0HLG_1_ECOMM-jpg_cf74d526-72d8-4442-a807-991dc198299a.jpg"
+    ],
+    "badges": [],
+    "sku": "river-picnic-ankle-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Island Fossil"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/villa-no-show-sock?variant=42661870534734",
+    "product_id": "villa-no-show-sock/",
+    "name": "Villa No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42438_A0044_1_ECOMM-jpg_908880dc-5273-40d6-97e3-de9831c136a8.jpg"
+    ],
+    "badges": [],
+    "sku": "villa-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/no-goalie-crew-sock?variant=42425344065614",
+    "product_id": "no-goalie-crew-sock/",
+    "name": "No Goalie Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42467_1WHT_1_ECOMM_7d28083f-b6bf-4b1d-9345-489789a794f5.jpg"
+    ],
+    "badges": [],
+    "sku": "no-goalie-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/favorite-hello-crew-sock?variant=42661870698574",
+    "product_id": "favorite-hello-crew-sock/",
+    "name": "Favorite Hello Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44926_4TOS_1_ECOMM-jpg_b5937ef9-5969-4aba-a8a8-be1a80bbf042.jpg"
+    ],
+    "badges": [],
+    "sku": "favorite-hello-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/paradise-peak-crew-sock?variant=42425314410574",
+    "product_id": "paradise-peak-crew-sock/",
+    "name": "Paradise Peak Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB401_0BLK_ECOMM-jpg_7c749ad2-9ad2-46ae-9d90-10993082b35a.jpg"
+    ],
+    "badges": [],
+    "sku": "paradise-peak-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Maple"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/city-tour-no-show-sock?variant=42661870731342",
+    "product_id": "city-tour-no-show-sock/",
+    "name": "City Tour No Show Sock",
+    "price": 13.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42437_D0088_1_ECOMM-jpg_797d7403-9f80-4b18-bf42-119e8617ee5a.jpg"
+    ],
+    "badges": [],
+    "sku": "city-tour-no-show-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/so-far-away-crew-sock?variant=42837679177806",
+    "product_id": "so-far-away-crew-sock/",
+    "name": "So Far Away Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44900_0BLK_1_ECOMM_338df996-a50f-4973-8012-b957dadaf2f5.jpg"
+    ],
+    "badges": [],
+    "sku": "so-far-away-crew-sock/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:21.695Z",
+    "is_homepage_product": false,
+    "category": "Socks",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-socks/products/tapas-bar-crew-sock?variant=42661869191246",
+    "product_id": "tapas-bar-crew-sock/",
+    "name": "Tapas Bar Crew Sock",
+    "price": 24.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42428_0BLK_1_ECOMM-jpg_0dfbded6-dbb8-4c85-b428-f6a702d3af34.jpg"
+    ],
+    "badges": [],
+    "sku": "tapas-bar-crew-sock/"
+  }
+]

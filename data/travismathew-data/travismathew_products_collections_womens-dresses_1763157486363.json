@@ -1,0 +1,528 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.354Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/evening-retreat-dress?variant=42659598106702",
+    "product_id": "evening-retreat-dress/",
+    "name": "Evening Retreat Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41267_0BLK_1_ECOMM_fb39dd34-d79e-4b4f-9bf5-f76faf7f0ea0.jpg"
+    ],
+    "badges": [],
+    "sku": "evening-retreat-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.356Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Savannah Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/skyloft-soft-zip-dress?variant=42659598794830",
+    "product_id": "skyloft-soft-zip-dress/",
+    "name": "Skyloft Soft Zip Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41284_A0050_1_ECOMM_b7b5e921-7fb6-4928-bbea-e019f218bf7a.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-soft-zip-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.356Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Chestnut",
+      "Heather Moonscape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/cloud-rib-hadley-wood-dress?variant=42563247112270",
+    "product_id": "cloud-rib-hadley-wood-dress/",
+    "name": "Cloud Rib Hadley Wood Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF080_0BLK_2-jpg_e64c5139-c917-458f-bcb6-0999ae09beda.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-hadley-wood-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.357Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chestnut",
+      "Black",
+      "Heather Moonscape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/cloud-rib-hadley-wood-dress?variant=42563247145038",
+    "product_id": "cloud-rib-hadley-wood-dress/",
+    "name": "Cloud Rib Hadley Wood Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF080_2CHS_ECOMM_912c7fb2-077b-4ab7-bd60-4a6f66658212.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-rib-hadley-wood-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.357Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/limitless-moveknit-dress?variant=42659599482958",
+    "product_id": "limitless-moveknit-dress/",
+    "name": "Limitless Moveknit Dress",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41308_0BLK_1_ECOMM_661914d7-b197-45a7-9be8-12bc73d0e8d9.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-moveknit-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.358Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/skyloft-light-skyline-dress?variant=42659255255118",
+    "product_id": "skyloft-light-skyline-dress/",
+    "name": "Skyloft Light Skyline Dress",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41293_0HBL_1_ECOMM-jpg_63dc3b81-71e8-4f26-b707-bd24ae7bab61.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-skyline-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.358Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Poseidon",
+      "Black",
+      "White",
+      "Clover",
+      "Navy Blazer",
+      "Heather Baby Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-polo-dress-2-0?variant=42652568191054",
+    "product_id": "moveknit-sleeveless-polo-dress-2-0/",
+    "name": "Moveknit Sleeveless Polo Dress 2.0",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF073_C0431_1_ECOMM-jpg_4709ea06-f8d1-4900-bf0a-1af7a98ba572.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-polo-dress-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.359Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Clover",
+      "Navy Blazer",
+      "Heather Baby Blue",
+      "Heather Moonscape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-polo-dress-2-0?variant=42565129470030",
+    "product_id": "moveknit-sleeveless-polo-dress-2-0/",
+    "name": "Moveknit Sleeveless Polo Dress 2.0",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF073_1WHT_1_ECOMM_43c98e99-35ed-4363-b0ac-bc587a3994fd.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-polo-dress-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.359Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Navy Blazer",
+      "White",
+      "Heather Chestnut",
+      "Morning Ray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-dress?variant=42563257434190",
+    "product_id": "moveknit-sleeveless-dress/",
+    "name": "Moveknit Sleeveless Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG005_4HBZ_1_ECOMM_6dd7c914-8ee9-475e-b229-234894e38ac4.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.359Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Morning Ray",
+      "White",
+      "Heather Chestnut",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-dress?variant=42659596468302",
+    "product_id": "moveknit-sleeveless-dress/",
+    "name": "Moveknit Sleeveless Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG005_M0063_1_ECOMM-jpg_1152b849-ab69-4565-92d8-0756a5728433.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.360Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Chestnut",
+      "White",
+      "Heather Navy Blazer",
+      "Morning Ray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-dress?variant=42563257368654",
+    "product_id": "moveknit-sleeveless-dress/",
+    "name": "Moveknit Sleeveless Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG005_2HCN_ECOMM_46ec3f8e-8a98-4fca-8dba-c42ef62b5c82.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.360Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Heather Chestnut",
+      "Heather Navy Blazer",
+      "Morning Ray"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-dress?variant=42728366112846",
+    "product_id": "moveknit-sleeveless-dress/",
+    "name": "Moveknit Sleeveless Dress",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG005_1WHT_1_ECOMM_fe6cd23f-5a17-4471-8f8e-ec4e96808d7d.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.360Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Poseidon"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/pinot-cloud-midi-dress?variant=42659256041550",
+    "product_id": "pinot-cloud-midi-dress/",
+    "name": "Pinot Cloud Midi Dress",
+    "price": 119.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42714_C0431_1_ECOMM-jpg_a04338c2-7357-4475-b623-69a1cef37775.jpg"
+    ],
+    "badges": [],
+    "sku": "pinot-cloud-midi-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.360Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Moonbeam"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/tie-breaker-polo-dress?variant=42565134843982",
+    "product_id": "tie-breaker-polo-dress/",
+    "name": "Tie Breaker Polo Dress",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42808_1MOB_1_ECOMM_20efa547-27e9-468c-9b00-20a0424d3447.jpg"
+    ],
+    "badges": [],
+    "sku": "tie-breaker-polo-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.361Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Slate"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-afterglow-dress?variant=42777524961358",
+    "product_id": "moveknit-afterglow-dress/",
+    "name": "Moveknit Afterglow Dress",
+    "price": 119.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41272_4DKS_1_ECOMM-jpg_bcca2766-2a1e-435d-8cce-0dce89879c6b.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-afterglow-dress/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.361Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Clover",
+      "Navy Blazer",
+      "Heather Baby Blue",
+      "Heather Moonscape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-polo-dress-2-0?variant=42425289343054",
+    "product_id": "moveknit-sleeveless-polo-dress-2-0/",
+    "name": "Moveknit Sleeveless Polo Dress 2.0",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF073_0BLK_2_ECOMM_250b501c-7577-46ce-a3d0-c8266d48b044.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-polo-dress-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.361Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Black",
+      "White",
+      "Clover",
+      "Heather Baby Blue",
+      "Heather Moonscape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-polo-dress-2-0?variant=42425289998414",
+    "product_id": "moveknit-sleeveless-polo-dress-2-0/",
+    "name": "Moveknit Sleeveless Polo Dress 2.0",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF073_4BLZ_1_ECOMM-JPG_180fd64a-603a-4a8f-9705-b17ebd25bcd2.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-polo-dress-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.362Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Clover",
+      "Black",
+      "White",
+      "Navy Blazer",
+      "Heather Baby Blue",
+      "Heather Moonscape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-polo-dress-2-0?variant=43109958025294",
+    "product_id": "moveknit-sleeveless-polo-dress-2-0/",
+    "name": "Moveknit Sleeveless Polo Dress 2.0",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF073_3CLO_1_ECOMM_f456909a-1700-4971-afca-416e1277930d.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-polo-dress-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.362Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ancient Water",
+      "Black",
+      "White",
+      "Clover",
+      "Navy Blazer",
+      "Heather Baby Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/moveknit-sleeveless-polo-dress-2-0?variant=42659596697678",
+    "product_id": "moveknit-sleeveless-polo-dress-2-0/",
+    "name": "Moveknit Sleeveless Polo Dress 2.0",
+    "price": 139.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF073_C0537_1_ECOMM-jpg_8eb80286-1ea4-4888-b33f-c86788ebc119.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-sleeveless-polo-dress-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:06.362Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Tigerlily Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-dresses/products/reflection-dress?variant=42565132812366",
+    "product_id": "reflection-dress/",
+    "name": "Reflection Dress",
+    "price": 149.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42815_Q1017_1_ECOMM_0f77b1b1-db73-4ea0-bd66-29aa6a22b629.jpg"
+    ],
+    "badges": [],
+    "sku": "reflection-dress/"
+  }
+]

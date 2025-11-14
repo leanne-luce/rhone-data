@@ -1,0 +1,746 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.754Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/palisades-puffer-jacket?variant=42561790672974",
+    "product_id": "palisades-puffer-jacket/",
+    "name": "Palisades Puffer Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB306_0BLK_1_ECOMM_626c001b-585a-4e99-b719-44c0162b10a3.jpg"
+    ],
+    "badges": [],
+    "sku": "palisades-puffer-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.756Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/highlander-jacket?variant=42659615637582",
+    "product_id": "highlander-jacket/",
+    "name": "Highlander Jacket",
+    "price": 269.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41448_3DOL_1_ECOMM-jpg_4ecb804c-e69a-4feb-83ef-95cdef71c543.jpg"
+    ],
+    "badges": [],
+    "sku": "highlander-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.756Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ebony"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/mountain-pass-long-jacket?variant=42659600236622",
+    "product_id": "mountain-pass-long-jacket/",
+    "name": "Mountain Pass Long Jacket",
+    "price": 399.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41451_0EBO_1_ECOMM-jpg_2724d5f8-1548-49f8-bbae-75f08b20f0c6.jpg"
+    ],
+    "badges": [],
+    "sku": "mountain-pass-long-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.757Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/quest-polar-full-zip-jacket?variant=42939089420366",
+    "product_id": "quest-polar-full-zip-jacket/",
+    "name": "Quest Polar Full Zip Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A45695_3DOL_1_ECOMM_ca986287-7e19-43c3-a852-a821bbc9205d.jpg"
+    ],
+    "badges": [],
+    "sku": "quest-polar-full-zip-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.757Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bering Sea",
+      "Black",
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/mountain-pass-jacket?variant=42868104691790",
+    "product_id": "mountain-pass-jacket/",
+    "name": "Mountain Pass Jacket",
+    "price": 369.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MZ272_C0574_1_ECOMM_6c2f7ef0-d2e2-44a2-884a-a6080597ab77.jpg"
+    ],
+    "badges": [],
+    "sku": "mountain-pass-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.758Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/return-flight-shirt-jacket?variant=42659623108686",
+    "product_id": "return-flight-shirt-jacket/",
+    "name": "Return Flight Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42345_0BLG_1_ECOMM_ccb35bf0-f1e5-4825-bda6-6a63936d8652.jpg"
+    ],
+    "badges": [],
+    "sku": "return-flight-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.759Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/highway-men-jacket?variant=42659467427918",
+    "product_id": "highway-men-jacket/",
+    "name": "Highway Men Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42351_3DOL_1_ECOMM-jpg_0f11fc2b-2676-4cde-b6e7-7eba8432deaa.jpg"
+    ],
+    "badges": [],
+    "sku": "highway-men-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.760Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Total Eclipse",
+      "Italian Sand"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/stretchknit-bomber-jacket?variant=42678222159950",
+    "product_id": "stretchknit-bomber-jacket/",
+    "name": "Stretchknit Bomber Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42354_0BLK_1_ECOMM-jpg_7e3bbf22-4188-41f0-a9cf-a1671ca37648.jpg"
+    ],
+    "badges": [],
+    "sku": "stretchknit-bomber-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.760Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Birch",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/you-pick-shirt-jacket?variant=42659612196942",
+    "product_id": "you-pick-shirt-jacket/",
+    "name": "You Pick Shirt Jacket",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44912_A0007_1_ECOMM_cc889276-2062-40f6-a154-c3b0c5d66456.jpg"
+    ],
+    "badges": [],
+    "sku": "you-pick-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.761Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/stretchknit-blazer?variant=42659603972174",
+    "product_id": "stretchknit-blazer/",
+    "name": "Stretchknit Blazer",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42355_4TOS_1_ECOMM-jpg_7111e935-31ba-4151-843e-b9fba6fe3bc3.jpg"
+    ],
+    "badges": [],
+    "sku": "stretchknit-blazer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.762Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Birch"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/you-pick-shirt-jacket?variant=42659612000334",
+    "product_id": "you-pick-shirt-jacket/",
+    "name": "You Pick Shirt Jacket",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44912_0BLK_1_ECOMM_395b5b4c-bb43-4fa8-9371-ab5d5997255d.jpg"
+    ],
+    "badges": [],
+    "sku": "you-pick-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.762Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Roan Rouge"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/winterize-shirt-jacket?variant=42659610361934",
+    "product_id": "winterize-shirt-jacket/",
+    "name": "Winterize Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44935_6ROU_1_ECOMM_fe775b4d-dd03-4c42-8f1f-52855c19876f.jpg"
+    ],
+    "badges": [],
+    "sku": "winterize-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.762Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/highlander-jacket?variant=42659615408206",
+    "product_id": "highlander-jacket/",
+    "name": "Highlander Jacket",
+    "price": 269.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41448_0BLK_1_ECOMM-jpg_a9541ffd-0ad3-4e52-998b-5e11abb75a97.jpg"
+    ],
+    "badges": [],
+    "sku": "highlander-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.762Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/palisades-puffer-jacket?variant=42561790705742",
+    "product_id": "palisades-puffer-jacket/",
+    "name": "Palisades Puffer Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB306_4NAV_1_ECOMM-JPG_c94bc4b3-0ed8-417d-a7f0-6560a031fda8.jpg"
+    ],
+    "badges": [],
+    "sku": "palisades-puffer-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.763Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/highway-men-jacket?variant=42659467231310",
+    "product_id": "highway-men-jacket/",
+    "name": "Highway Men Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42351_0BLK_1_ECOMM-jpg_45705afb-d105-4ea5-ad06-944f8e3594b9.jpg"
+    ],
+    "badges": [],
+    "sku": "highway-men-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.763Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/champions-dinner-jacket?variant=42565140021326",
+    "product_id": "champions-dinner-jacket/",
+    "name": "Champions Dinner Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41080_4TOS_1_ECOMM_89d72230-3b81-4b78-9908-8d8fbd8f22bc.jpg"
+    ],
+    "badges": [],
+    "sku": "champions-dinner-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.763Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/cloud-denim-cord-jacket?variant=42938809188430",
+    "product_id": "cloud-denim-cord-jacket/",
+    "name": "Cloud Denim Cord Jacket",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41319_0BLK_1_ECOMM_647c5868-e475-4596-b386-7a609563677a.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-denim-cord-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.764Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Black",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/mountain-pass-jacket?variant=42561843298382",
+    "product_id": "mountain-pass-jacket/",
+    "name": "Mountain Pass Jacket",
+    "price": 369.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MZ272_3DOL_2_ECOMM-JPG_0d1f15b9-c88b-409e-b1f1-e611d2dfba2e.jpg"
+    ],
+    "badges": [],
+    "sku": "mountain-pass-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.764Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/are-we-there-yet-shirt-jacket?variant=42946838659150",
+    "product_id": "are-we-there-yet-shirt-jacket/",
+    "name": "Are We There Yet Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/MENS-FH25_FallEdit_Holiday_Day1_Zac_SHOT_16_7828_SECONDARY.jpg"
+    ],
+    "badges": [],
+    "sku": "are-we-there-yet-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.764Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/stretchknit-blazer?variant=42917758632014",
+    "product_id": "stretchknit-blazer/",
+    "name": "Stretchknit Blazer",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42355_0BLK_1_ECOMM-jpg_93dc02b9-d0e8-485e-bb8d-3c10cf079a6f.jpg"
+    ],
+    "badges": [],
+    "sku": "stretchknit-blazer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.765Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Olive",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/mountain-pass-jacket?variant=42561843265614",
+    "product_id": "mountain-pass-jacket/",
+    "name": "Mountain Pass Jacket",
+    "price": 369.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MZ272_0BLK_1_ECOMM-jpg_f081b94e-8ee5-46ad-91f5-e78157ef1771.jpg"
+    ],
+    "badges": [],
+    "sku": "mountain-pass-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.765Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse",
+      "Black",
+      "Italian Sand"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/stretchknit-bomber-jacket?variant=42844006383694",
+    "product_id": "stretchknit-bomber-jacket/",
+    "name": "Stretchknit Bomber Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42354_4TOS_1_ECOMM-jpg_bfb306c2-2fc7-4d71-9d55-482339fe6094.jpg"
+    ],
+    "badges": [],
+    "sku": "stretchknit-bomber-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.765Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Italian Sand",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/icy-waters-jacket?variant=42659253813326",
+    "product_id": "icy-waters-jacket/",
+    "name": "Icy Waters Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42731_F0037_1_ECOMM_d2c5eb8e-712a-4cac-97b0-83c8ebd9c2e6.jpg"
+    ],
+    "badges": [],
+    "sku": "icy-waters-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.766Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Italian Sand"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/icy-waters-jacket?variant=42659253616718",
+    "product_id": "icy-waters-jacket/",
+    "name": "Icy Waters Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42731_0BLK_1_ECOMM_fe6f0bbd-5d5c-46ce-ba97-223a930a60ee.jpg"
+    ],
+    "badges": [],
+    "sku": "icy-waters-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.766Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Chocolate Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/touch-down-jacket?variant=42561799913550",
+    "product_id": "touch-down-jacket/",
+    "name": "Touch Down Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41397_D0089_1_ECOMM_fd2305ee-4e68-4ac0-bdc9-8a94709fb1ed.jpg"
+    ],
+    "badges": [],
+    "sku": "touch-down-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.766Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/aves-tech-puffer-jacket?variant=42425462521934",
+    "product_id": "aves-tech-puffer-jacket/",
+    "name": "Aves Tech Puffer Jacket",
+    "price": 269.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MZ269_4TOS_ECOMM-JPG_8f854682-4dcf-414a-98d1-b8278a4acad8.jpg"
+    ],
+    "badges": [],
+    "sku": "aves-tech-puffer-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.766Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/on-course-jacket?variant=42561790443598",
+    "product_id": "on-course-jacket/",
+    "name": "On Course Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB305_0BLK__ECOMM-JPG_07c42445-a8d4-4a1b-a67b-46edee70b09b.jpg"
+    ],
+    "badges": [],
+    "sku": "on-course-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.766Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Italian Sand",
+      "Black",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/stretchknit-bomber-jacket?variant=42844006645838",
+    "product_id": "stretchknit-bomber-jacket/",
+    "name": "Stretchknit Bomber Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42354_F0037_1_ECOMM-jpg_78b395c6-f616-4e7e-aa30-1964449cb431.jpg"
+    ],
+    "badges": [],
+    "sku": "stretchknit-bomber-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.767Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Titan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/long-layover-jacket?variant=42659615866958",
+    "product_id": "long-layover-jacket/",
+    "name": "Long Layover Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42339_C0503_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "long-layover-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:03:45.767Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-jackets/products/climate-drop-jacket?variant=42425464029262",
+    "product_id": "climate-drop-jacket/",
+    "name": "Climate Drop Jacket",
+    "price": 219.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MZ270_0HBL_ECOMM-JPG_71ef592e-2931-4679-8743-b981de38ccd6.jpg"
+    ],
+    "badges": [],
+    "sku": "climate-drop-jacket/"
+  }
+]

@@ -1,0 +1,651 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.783Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Jade",
+      "Navy Blazer",
+      "Brunnera Blue",
+      "Moonlight Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/moveknit-vneck-polo?variant=42565164499022",
+    "product_id": "moveknit-vneck-polo/",
+    "name": "Moveknit Vneck Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE042_0BLK_ECOMM_5a90b237-ea13-4f23-a108-19c3861062f7.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-vneck-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.784Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Clover",
+      "Navy Blazer",
+      "Granada Blue",
+      "Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/midline-moveknit-polo?variant=42425450922062",
+    "product_id": "midline-moveknit-polo/",
+    "name": "Midline Moveknit Polo",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF020_0BLK-jpg_16fada52-aedb-4e23-9fad-55746a59bef7.jpg"
+    ],
+    "badges": [],
+    "sku": "midline-moveknit-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.784Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Jade",
+      "Navy Blazer",
+      "Brunnera Blue",
+      "Moonlight Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/moveknit-vneck-polo?variant=42567376404558",
+    "product_id": "moveknit-vneck-polo/",
+    "name": "Moveknit Vneck Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE042_1WHT_ECOMM-JPG_6bd1caef-200e-4319-a9ac-3e659ed1d4ad.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-vneck-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.785Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Clover",
+      "Navy Blazer",
+      "Granada Blue",
+      "Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/midline-moveknit-polo?variant=42425451151438",
+    "product_id": "midline-moveknit-polo/",
+    "name": "Midline Moveknit Polo",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF020_1WHT_1_ECOMM_6e95fd58-825e-4483-9240-159653261cbc.jpg"
+    ],
+    "badges": [],
+    "sku": "midline-moveknit-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.785Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Heather Black",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue",
+      "Heather Midnight",
+      "Heather Mauve Shadow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-polo?variant=43044742299726",
+    "product_id": "featherweight-active-polo/",
+    "name": "Featherweight Active Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE044_0HLG-jpg_ee21ce02-e7bc-43f1-985c-004aabcd40fa.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.785Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Heather Black",
+      "Heather Ether",
+      "Heather Greenbriar",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42565162336334",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_0HLG_1_ECOMM_6c85cfab-729f-4f58-b3a0-1da69c71c9cd.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.785Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Graystone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/skyloft-light-polo?variant=42659252928590",
+    "product_id": "skyloft-light-polo/",
+    "name": "Skyloft Light Polo",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41306_F0274_1_ECOMM-jpg_4559ac01-5ae8-4220-88fe-6aabb70094c5.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.785Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Black",
+      "White",
+      "Clover",
+      "Granada Blue",
+      "Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/midline-moveknit-polo?variant=42425451610190",
+    "product_id": "midline-moveknit-polo/",
+    "name": "Midline Moveknit Polo",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF020_4BLZ_ECOMM_0903a3b4-1ce9-44f1-9a71-bb5c4ac70bca.jpg"
+    ],
+    "badges": [],
+    "sku": "midline-moveknit-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.785Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Navy Blazer",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Ether",
+      "Heather Greenbriar",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42565162631246",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_4HBZ_1_ECOMM_3efc5f18-db55-45b1-88f4-ed44ed438c67.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.786Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue",
+      "Heather Midnight",
+      "Heather Mauve Shadow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-polo?variant=43044742070350",
+    "product_id": "featherweight-active-polo/",
+    "name": "Featherweight Active Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE044_0HBL-jpg_d36bda2e-229b-426f-bae5-ad58c598c2a0.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.786Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Ether",
+      "Heather Greenbriar",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42565162303566",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_0HBL_1_ECOMM_a4c156e3-4084-497a-b7cf-a024e89d89c3.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.786Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Kentucky Blue",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Navy Blazer",
+      "Heather Midnight",
+      "Heather Mauve Shadow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-polo?variant=42563260940366",
+    "product_id": "featherweight-active-polo/",
+    "name": "Featherweight Active Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE044_4HKB_1_ECOMM_2e6ec374-084a-4665-9364-bb3e91370c09.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.786Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Kentucky Blue",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Ether",
+      "Heather Greenbriar",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42565162664014",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_4HKB_1_ECOMM_1c533a3f-4f2f-4c1f-aaff-82eb23f75a85.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.787Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/skyloft-light-sleeveless-polo?variant=42659272294478",
+    "product_id": "skyloft-light-sleeveless-polo/",
+    "name": "Skyloft Light Sleeveless Polo",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41307_5HFT_1_ECOMM-jpg_b1ebc111-aa1c-4aca-aa4a-8960e23bdabd.jpg"
+    ],
+    "badges": [],
+    "sku": "skyloft-light-sleeveless-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.787Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Porcelain Rose",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Ether",
+      "Heather Greenbriar",
+      "Heather Navy Blazer"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42565162696782",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_6HPO_1_ECOMM_d9c30ac1-7be2-4665-885d-9e613d66fe10.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.787Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Ether",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Greenbriar",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42567406813262",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_3HET_1_ECOMM_022456f8-7c07-4601-995e-866984b4dc78.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.787Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Island Fossil"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/timeless-breezeblend-polo?variant=42659253157966",
+    "product_id": "timeless-breezeblend-polo/",
+    "name": "Timeless Breezeblend Polo",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41239_0BLK_1_ECOMM-jpg_e92e0407-918e-49d2-9b4d-172afc4f737d.jpg"
+    ],
+    "badges": [],
+    "sku": "timeless-breezeblend-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.788Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Island Fossil",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/timeless-breezeblend-polo?variant=42659253387342",
+    "product_id": "timeless-breezeblend-polo/",
+    "name": "Timeless Breezeblend Polo",
+    "price": 79.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41239_A0044_1_ECOMM-jpg_cf4d0a3d-9188-4c41-ab44-9bb76df4817e.jpg"
+    ],
+    "badges": [],
+    "sku": "timeless-breezeblend-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.788Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Granada Blue",
+      "Black",
+      "White",
+      "Clover",
+      "Navy Blazer",
+      "Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/midline-moveknit-polo?variant=42425452036174",
+    "product_id": "midline-moveknit-polo/",
+    "name": "Midline Moveknit Polo",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF020_4GBL_1_ECOMM_4a0ac01d-fb83-4bb1-ba0d-def58d4bca9e.jpg"
+    ],
+    "badges": [],
+    "sku": "midline-moveknit-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.788Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy Blazer",
+      "Black",
+      "White",
+      "Jade",
+      "Brunnera Blue",
+      "Moonlight Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/moveknit-vneck-polo?variant=42425409994830",
+    "product_id": "moveknit-vneck-polo/",
+    "name": "Moveknit Vneck Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE042_4BLZ_ECOMM_216f0d0c-6526-406b-ab1f-92168a454a9a.jpg"
+    ],
+    "badges": [],
+    "sku": "moveknit-vneck-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.788Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Greenbriar",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Ether",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-sleeveless-polo-2-0?variant=42425783353422",
+    "product_id": "featherweight-active-sleeveless-polo-2-0/",
+    "name": "Featherweight Active Sleeveless Polo 2.0",
+    "price": 84.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42673_3HGB_1_ECOMM_fcb33fc1-5c4f-469a-ab9f-1f219840d7cd.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-sleeveless-polo-2-0/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.788Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Persian Red",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Navy Blazer",
+      "Heather Kentucky Blue",
+      "Heather Midnight"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-polo?variant=42592331857998",
+    "product_id": "featherweight-active-polo/",
+    "name": "Featherweight Active Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE044_6HPE_1_ECOMM-jpg_c991dfc1-ee76-4e37-9acb-f6aa9ea7e33f.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-polo/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:54:17.788Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Navy Blazer",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Kentucky Blue",
+      "Heather Midnight",
+      "Heather Mauve Shadow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-polos/products/featherweight-active-polo?variant=42563260907598",
+    "product_id": "featherweight-active-polo/",
+    "name": "Featherweight Active Polo",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE044_4HBZ_1_ECOMM_a1b92194-6ff2-46d3-b6ad-4fa8288ef5e3.jpg"
+    ],
+    "badges": [],
+    "sku": "featherweight-active-polo/"
+  }
+]

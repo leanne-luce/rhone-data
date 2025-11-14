@@ -1,0 +1,134 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:47.385Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Quiet Shade",
+      "Black",
+      "Balsam Green",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-joggers-lounge/products/open-to-close-jogger?variant=42425476644942",
+    "product_id": "open-to-close-jogger/",
+    "name": "Open To Close Jogger",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA392_0QSH_ECOMM-JPG_8237e7a3-6d1d-4ad6-8951-527b4e800f6b.jpg"
+    ],
+    "badges": [],
+    "sku": "open-to-close-jogger/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:47.388Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo",
+      "Black",
+      "Quiet Shade",
+      "Balsam Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-joggers-lounge/products/open-to-close-jogger?variant=42425478152270",
+    "product_id": "open-to-close-jogger/",
+    "name": "Open To Close Jogger",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA392_4MIN_1_ECOMM_91dee088-1815-43d2-b38a-f71a2aff95f3.jpg"
+    ],
+    "badges": [],
+    "sku": "open-to-close-jogger/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:47.389Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Quiet Shade",
+      "Balsam Green",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-joggers-lounge/products/open-to-close-jogger?variant=42425476382798",
+    "product_id": "open-to-close-jogger/",
+    "name": "Open To Close Jogger",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA392_0BLK_1_ECOMM_b86247b5-a333-4225-8669-b68c7844be41.jpg"
+    ],
+    "badges": [],
+    "sku": "open-to-close-jogger/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:47.389Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Balsam Green",
+      "Black",
+      "Quiet Shade",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-joggers-lounge/products/open-to-close-jogger?variant=42659380756558",
+    "product_id": "open-to-close-jogger/",
+    "name": "Open To Close Jogger",
+    "price": 129.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA392_3BAG_ECOMM_4e3e48c6-d65b-4f3c-b4a0-105cc8200c61.jpg"
+    ],
+    "badges": [],
+    "sku": "open-to-close-jogger/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:47.390Z",
+    "is_homepage_product": false,
+    "category": "Pants",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-joggers-lounge/products/cloud-track-pant?variant=42425507512398",
+    "product_id": "cloud-track-pant/",
+    "name": "Cloud Track Pant",
+    "price": 119.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB462_4MIN-jpg_b704971a-d545-41f4-b5d5-34fbf7cd1283.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-track-pant/"
+  }
+]

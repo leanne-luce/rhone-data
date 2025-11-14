@@ -1,0 +1,524 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.336Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/return-flight-shirt-jacket?variant=42659623108686",
+    "product_id": "return-flight-shirt-jacket/",
+    "name": "Return Flight Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42345_0BLG_1_ECOMM_ccb35bf0-f1e5-4825-bda6-6a63936d8652.jpg"
+    ],
+    "badges": [],
+    "sku": "return-flight-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.339Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Black",
+      "Heather Light Grey",
+      "Oxford Tan",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-waffle-shirt-jacket?variant=42659613409358",
+    "product_id": "cloud-waffle-shirt-jacket/",
+    "name": "Cloud Waffle Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42698_3DOL_1_ECOMM_ea8241f1-ae49-4c0c-82a8-176c5aab81a0.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-waffle-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.339Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Weathered Teak",
+      "Sleet",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/peak-fleece-shirt-jacket?variant=42971874852942",
+    "product_id": "peak-fleece-shirt-jacket/",
+    "name": "Peak Fleece Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A46467_A0072_1_ECOMM_11495290-0b28-4d70-8189-e0f08882469a.jpg"
+    ],
+    "badges": [],
+    "sku": "peak-fleece-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.340Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Roan Rouge"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/winterize-shirt-jacket?variant=42659610361934",
+    "product_id": "winterize-shirt-jacket/",
+    "name": "Winterize Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44935_6ROU_1_ECOMM_fe775b4d-dd03-4c42-8f1f-52855c19876f.jpg"
+    ],
+    "badges": [],
+    "sku": "winterize-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.340Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/sunset-season-shirt-jacket?variant=42659601285198",
+    "product_id": "sunset-season-shirt-jacket/",
+    "name": "Sunset Season Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42348_4TOS_1_ECOMM_b7bf2aaf-3e97-4b82-91c0-544ff3e1ccfc.jpg"
+    ],
+    "badges": [],
+    "sku": "sunset-season-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.341Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/wanna-bet-shirt-jacket?variant=42969295159374",
+    "product_id": "wanna-bet-shirt-jacket/",
+    "name": "Wanna Bet Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42361_0HLG_1_ECOMM_319d0a3d-2dda-452e-91e8-ecfb128a9d47.jpg"
+    ],
+    "badges": [],
+    "sku": "wanna-bet-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.341Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/are-we-there-yet-shirt-jacket?variant=42946838659150",
+    "product_id": "are-we-there-yet-shirt-jacket/",
+    "name": "Are We There Yet Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/MENS-FH25_FallEdit_Holiday_Day1_Zac_SHOT_16_7828_SECONDARY.jpg"
+    ],
+    "badges": [],
+    "sku": "are-we-there-yet-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.341Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Birch"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/you-pick-shirt-jacket?variant=42659612000334",
+    "product_id": "you-pick-shirt-jacket/",
+    "name": "You Pick Shirt Jacket",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44912_0BLK_1_ECOMM_395b5b4c-bb43-4fa8-9371-ab5d5997255d.jpg"
+    ],
+    "badges": [],
+    "sku": "you-pick-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.342Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo",
+      "Black",
+      "Chocolate",
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-shirt-jacket?variant=43109999575118",
+    "product_id": "cloud-shirt-jacket/",
+    "name": "Cloud Shirt Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB489_4MIN_1_ECOMM_85ad8bcd-98a1-4b2f-925c-b183c256f576.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.342Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Chocolate",
+      "Black",
+      "Dark Olive",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-shirt-jacket?variant=42561791492174",
+    "product_id": "cloud-shirt-jacket/",
+    "name": "Cloud Shirt Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB489_2CHO_1_ECOMM_03b69752-4f29-4f27-b0c1-57f9ca7e0a5d.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.342Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Black",
+      "Chocolate",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-shirt-jacket?variant=43109999378510",
+    "product_id": "cloud-shirt-jacket/",
+    "name": "Cloud Shirt Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB489_3DOL_1_ECOMM_0e0cf756-4a16-495d-92fd-86108d8c5863.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.342Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oxford Tan",
+      "Black",
+      "Heather Light Grey",
+      "Dark Olive",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-waffle-shirt-jacket?variant=42763778687054",
+    "product_id": "cloud-waffle-shirt-jacket/",
+    "name": "Cloud Waffle Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42698_2OFT_1_ECOMM_3b02da71-631f-4051-ab91-96bd3f0ec7da.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-waffle-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.343Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Light Grey",
+      "Oxford Tan",
+      "Dark Olive",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-waffle-shirt-jacket?variant=42659612819534",
+    "product_id": "cloud-waffle-shirt-jacket/",
+    "name": "Cloud Waffle Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42698_0BLK_1_ECOMM.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-waffle-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.343Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sleet",
+      "Weathered Teak",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/peak-fleece-shirt-jacket?variant=42971874459726",
+    "product_id": "peak-fleece-shirt-jacket/",
+    "name": "Peak Fleece Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A46467_0SLT_1_ECOMM_734ef553-0ced-42b1-811e-f10a6047e117.jpg"
+    ],
+    "badges": [],
+    "sku": "peak-fleece-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.343Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Black",
+      "Oxford Tan",
+      "Dark Olive",
+      "Bering Sea"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-waffle-shirt-jacket?variant=42763778523214",
+    "product_id": "cloud-waffle-shirt-jacket/",
+    "name": "Cloud Waffle Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42698_0HLG_1_ECOMM_77b7c1b3-1db5-408b-8a3f-ace7447228e9.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-waffle-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.343Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bering Sea",
+      "Black",
+      "Heather Light Grey",
+      "Oxford Tan",
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-waffle-shirt-jacket?variant=42763778883662",
+    "product_id": "cloud-waffle-shirt-jacket/",
+    "name": "Cloud Waffle Shirt Jacket",
+    "price": 179.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42698_C0574_1_ECOMM_c7d9fd10-182c-4f95-98e4-535974e3eff8.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-waffle-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.344Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bering Sea",
+      "Sleet",
+      "Weathered Teak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/peak-fleece-shirt-jacket?variant=42971875049550",
+    "product_id": "peak-fleece-shirt-jacket/",
+    "name": "Peak Fleece Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A46467_C0574_1_ECOMM_e37baa0c-d5df-4c8c-b834-e75fa7cdf7c3.jpg"
+    ],
+    "badges": [],
+    "sku": "peak-fleece-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.344Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse",
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/wanna-bet-shirt-jacket?variant=42969295323214",
+    "product_id": "wanna-bet-shirt-jacket/",
+    "name": "Wanna Bet Shirt Jacket",
+    "price": 189.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42361_4TOS_1_ECOMM_8f2701ed-eb8b-41b2-9f78-35829b13a40a.jpg"
+    ],
+    "badges": [],
+    "sku": "wanna-bet-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.344Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Birch",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/you-pick-shirt-jacket?variant=42659612196942",
+    "product_id": "you-pick-shirt-jacket/",
+    "name": "You Pick Shirt Jacket",
+    "price": 159.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44912_A0007_1_ECOMM_cc889276-2062-40f6-a154-c3b0c5d66456.jpg"
+    ],
+    "badges": [],
+    "sku": "you-pick-shirt-jacket/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:04:25.344Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Chocolate",
+      "Dark Olive",
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-shirt-jackets/products/cloud-shirt-jacket?variant=42561791459406",
+    "product_id": "cloud-shirt-jacket/",
+    "name": "Cloud Shirt Jacket",
+    "price": 169.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB489_0BLK_1_ECOMM_b307f418-b71a-4bc3-ad22-901060ecfcdf.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-shirt-jacket/"
+  }
+]

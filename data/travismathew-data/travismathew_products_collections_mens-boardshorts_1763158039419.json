@@ -1,0 +1,584 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.410Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Terra Cotta"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/get-outside-boardshort?variant=42565144772686",
+    "product_id": "get-outside-boardshort/",
+    "name": "Get Outside Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40238_G0061_1_ECOMM_5769eae5-d35f-4759-b7e1-1fbe480578da.jpg"
+    ],
+    "badges": [],
+    "sku": "get-outside-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.412Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Captains Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/lost-cave-boardshort?variant=42425551978574",
+    "product_id": "lost-cave-boardshort/",
+    "name": "Lost Cave Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40233_C0438_1_ECOMM_c4b9caf1-0a45-418f-9e6f-2a1b7da42e33.jpg"
+    ],
+    "badges": [],
+    "sku": "lost-cave-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.412Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/liberty-lights-boardshort?variant=42425564135502",
+    "product_id": "liberty-lights-boardshort/",
+    "name": "Liberty Lights Boardshort",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42110_4TOS_1_ECOMM_dbfc8279-1d78-4a5e-b9f4-cb48cd14702f.jpg"
+    ],
+    "badges": [],
+    "sku": "liberty-lights-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.413Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/deco-boardshort?variant=42565156110414",
+    "product_id": "deco-boardshort/",
+    "name": "Deco Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40237_0HLG_1_ECOMM_14807c8c-4b67-4154-8d5c-eb0b671840d9.jpg"
+    ],
+    "badges": [],
+    "sku": "deco-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.413Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/red-white-and-booyah-boardshort?variant=42425563578446",
+    "product_id": "red-white-and-booyah-boardshort/",
+    "name": "Red White And Booyah Boardshort",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42109_0BLK_1_ECOMM_2674f87f-7bdc-4e78-84a4-bc6acc05f83c.jpg"
+    ],
+    "badges": [],
+    "sku": "red-white-and-booyah-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.413Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo/Vintage Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/flourish-boardshort?variant=42425556533326",
+    "product_id": "flourish-boardshort/",
+    "name": "Flourish Boardshort",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40251_4MIV_1_ECOMM_f6e41111-69f5-4d64-b1da-2dcc44d30862.jpg"
+    ],
+    "badges": [],
+    "sku": "flourish-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.414Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo/Vintage Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/racing-ship-boardshort?variant=42568031174734",
+    "product_id": "racing-ship-boardshort/",
+    "name": "Racing Ship Boardshort",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40235_4MIV_1_ECOMM_be9bf83d-5b81-45f1-b94d-dfdb7f38acea.jpg"
+    ],
+    "badges": [],
+    "sku": "racing-ship-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.414Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Blue Nights"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/starboard-shores-boardshort?variant=42425529237582",
+    "product_id": "starboard-shores-boardshort/",
+    "name": "Starboard Shores Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MW470_4HBN-jpg_8763d617-7ef0-4f42-a7d9-8a9fd2c7ebef.jpg"
+    ],
+    "badges": [],
+    "sku": "starboard-shores-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.415Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/land-to-sea-boardshort?variant=42565158928462",
+    "product_id": "land-to-sea-boardshort/",
+    "name": "Land To Sea Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42470_9HGR_1_ECOMM_5e6c43c6-09b7-4569-ae3d-7ef03ad1976c.jpg"
+    ],
+    "badges": [],
+    "sku": "land-to-sea-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.415Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pacific Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/passport-boardshort?variant=42425560465486",
+    "product_id": "passport-boardshort/",
+    "name": "Passport Boardshort",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41323_C0453_1_ECOMM_25830ef6-7412-47a9-9b84-8d4f38e686c0.jpg"
+    ],
+    "badges": [],
+    "sku": "passport-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.415Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/canoe-cruise-boardshort?variant=42425552109646",
+    "product_id": "canoe-cruise-boardshort/",
+    "name": "Canoe Cruise Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40234_9HGR_1_ECOMM_23ca4c84-5d0b-4869-9fe0-5671dbe80b32.jpg"
+    ],
+    "badges": [],
+    "sku": "canoe-cruise-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.415Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/continental-king-boardshort?variant=42425569706062",
+    "product_id": "continental-king-boardshort/",
+    "name": "Continental King Boardshort",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42379_0BLK_1_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "continental-king-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.416Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Captains Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/under-the-sun-boardshort?variant=42425555976270",
+    "product_id": "under-the-sun-boardshort/",
+    "name": "Under The Sun Boardshort",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40250_C0438_1_ECOMM_e6ba322c-bdda-4212-9608-b95d2f14c414.jpg"
+    ],
+    "badges": [],
+    "sku": "under-the-sun-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.416Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pacific Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/night-ride-boardshort?variant=42425572196430",
+    "product_id": "night-ride-boardshort/",
+    "name": "Night Ride Boardshort",
+    "price": 99.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42471_C0453_1_ECOMM_8d8d8f7a-00d9-4937-adec-ff9f8a24b2a1.jpg"
+    ],
+    "badges": [],
+    "sku": "night-ride-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.416Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Black",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/making-it-reef-boardshort?variant=42425566298190",
+    "product_id": "making-it-reef-boardshort/",
+    "name": "Making It Reef Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42131_3DOL_1_ECOMM_0615bba7-adf2-4f68-98ba-70439437bd62.jpg"
+    ],
+    "badges": [],
+    "sku": "making-it-reef-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.416Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Olive",
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/making-it-reef-boardshort?variant=42425566068814",
+    "product_id": "making-it-reef-boardshort/",
+    "name": "Making It Reef Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42131_0BLK_1_ECOMM_91b922d0-dd58-4a7d-a00b-95077ae31dcf.jpg"
+    ],
+    "badges": [],
+    "sku": "making-it-reef-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.417Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse",
+      "Black",
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/making-it-reef-boardshort?variant=42425566593102",
+    "product_id": "making-it-reef-boardshort/",
+    "name": "Making It Reef Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42131_4TOS_1_ECOMM_1737d312-cf2a-40d4-80f7-74bdbf3e93a1.jpg"
+    ],
+    "badges": [],
+    "sku": "making-it-reef-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.417Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Captains Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/no-wake-zone-boardshort?variant=42425127731278",
+    "product_id": "no-wake-zone-boardshort/",
+    "name": "No Wake Zone Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42132_C0438_1_ECOMM_13198da9-6274-4863-8c74-7fd50470ae90.jpg"
+    ],
+    "badges": [],
+    "sku": "no-wake-zone-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.417Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Eggshell Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/acropolis-boardshort?variant=42425551749198",
+    "product_id": "acropolis-boardshort/",
+    "name": "Acropolis Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40229_C0443_1_ECOMM_e2a63bc3-b5c5-4424-b78a-b615e3647657.jpg"
+    ],
+    "badges": [],
+    "sku": "acropolis-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.417Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/quick-trip-boardshort?variant=42425555353678",
+    "product_id": "quick-trip-boardshort/",
+    "name": "Quick Trip Boardshort",
+    "price": 94.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40249_0BLK_1_ECOMM_e244f00e-8552-44e1-9562-212f72efa697.jpg"
+    ],
+    "badges": [],
+    "sku": "quick-trip-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.418Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/hamakua-boardshort?variant=42425485295694",
+    "product_id": "hamakua-boardshort/",
+    "name": "Hamakua Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA687_4TOS_ECOMM-JPG_486cd1bc-54f9-405a-8032-5d126cba0d9c.jpg"
+    ],
+    "badges": [],
+    "sku": "hamakua-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.418Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/board-control-boardshort?variant=42425558335566",
+    "product_id": "board-control-boardshort/",
+    "name": "Board Control Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A41242_4TOS_ECOMM_6cd9048b-bd84-4fb2-8b32-d9b1ff86b40a.jpg"
+    ],
+    "badges": [],
+    "sku": "board-control-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.418Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Nights"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/dawns-early-light-boardshort?variant=42425543524430",
+    "product_id": "dawns-early-light-boardshort/",
+    "name": "Dawns Early Light Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MY558_4BLN-jpg_0564e235-dee9-4e1b-b987-f1a706d12977.jpg"
+    ],
+    "badges": [],
+    "sku": "dawns-early-light-boardshort/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:07:19.419Z",
+    "is_homepage_product": false,
+    "category": "Shorts",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/mens-boardshorts/products/longboarders-boardshort?variant=42425449545806",
+    "product_id": "longboarders-boardshort/",
+    "name": "Longboarders Boardshort",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA172_0BLK_ECOMM-JPG_025ba449-1f6e-4b64-849c-e2317db3548c.jpg"
+    ],
+    "badges": [],
+    "sku": "longboarders-boardshort/"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.417Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/fancy-time-boxer?variant=42425232523342",
+    "product_id": "fancy-time-boxer/",
+    "name": "Fancy Time Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA065_0BLK_ECOMM-JPG_5839ef80-4583-4294-97eb-5f298b102d38.jpg"
+    ],
+    "badges": [],
+    "sku": "fancy-time-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.418Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/paradise-peak-boxer?variant=42425237012558",
+    "product_id": "paradise-peak-boxer/",
+    "name": "Paradise Peak Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB192_0BLK_ECOMM-jpg_7e526845-1242-47e5-975e-3d19e64e69b5.jpg"
+    ],
+    "badges": [],
+    "sku": "paradise-peak-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.418Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/aloha-beaches-boxer?variant=42425233014862",
+    "product_id": "aloha-beaches-boxer/",
+    "name": "Aloha Beaches Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA066_0BLK_ECOMM_1e50064c-4e75-49c8-87b9-966011547f55.jpg"
+    ],
+    "badges": [],
+    "sku": "aloha-beaches-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.418Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Quiet Shade"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/class-act-boxer?variant=42425236324430",
+    "product_id": "class-act-boxer/",
+    "name": "Class Act Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAA067_0QSH_ECOMM-jpg_beef2508-febe-482b-895f-727be1b7dbcb.jpg"
+    ],
+    "badges": [],
+    "sku": "class-act-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.418Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Roan Rouge"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/unwelcome-guests-boxer?variant=42425250218062",
+    "product_id": "unwelcome-guests-boxer/",
+    "name": "Unwelcome Guests Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB369_6ROU_ECOMM-JPG_b5bea608-032f-4be8-989e-93fc328fd634.jpg"
+    ],
+    "badges": [],
+    "sku": "unwelcome-guests-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.418Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/maybe-so-boxer?variant=42425241501774",
+    "product_id": "maybe-so-boxer/",
+    "name": "Maybe So Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB193_0BLK_ECOMM-jpg_a5c85126-f4f0-4a6b-9bee-318fb6f15fb6.jpg"
+    ],
+    "badges": [],
+    "sku": "maybe-so-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.418Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/day-cruise-boxer?variant=42425267748942",
+    "product_id": "day-cruise-boxer/",
+    "name": "Day Cruise Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40276_4MIN_ECOMM_36a283ee-9e55-4908-b7cd-b6f46a98e0ff.jpg"
+    ],
+    "badges": [],
+    "sku": "day-cruise-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mood Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/lost-city-boxer?variant=42425262145614",
+    "product_id": "lost-city-boxer/",
+    "name": "Lost City Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40271_4MIN_ECOMM_937f85c3-85ea-4812-9eee-2a75efee7426.jpg"
+    ],
+    "badges": [],
+    "sku": "lost-city-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/jungle-bird-boxer?variant=42425251004494",
+    "product_id": "jungle-bird-boxer/",
+    "name": "Jungle Bird Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MAB195_3DOL_ECOMM-jpg_e9e9f3fe-e531-4ee1-9711-5b6e81c44744.jpg"
+    ],
+    "badges": [],
+    "sku": "jungle-bird-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/rome-around-boxer?variant=42661869256782",
+    "product_id": "rome-around-boxer/",
+    "name": "Rome Around Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42368_0BLK_1_ECOMM-jpg_718cab0e-48e9-4c96-9314-1e585e60cfcf.jpg"
+    ],
+    "badges": [],
+    "sku": "rome-around-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/relationship-status-boxer?variant=42661869977678",
+    "product_id": "relationship-status-boxer/",
+    "name": "Relationship Status Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42371_9HGR_1_ECOMM-jpg_753fc945-a09f-439a-bc6b-32ee8bf94197.jpg"
+    ],
+    "badges": [],
+    "sku": "relationship-status-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/cabana-boxer?variant=42661870207054",
+    "product_id": "cabana-boxer/",
+    "name": "Cabana Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42372_3DOL_1_ECOMM-jpg_f843a87b-9377-4c80-b88c-6083fe1c7e63.jpg"
+    ],
+    "badges": [],
+    "sku": "cabana-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Damson"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/spanish-sangria-boxer?variant=42661869551694",
+    "product_id": "spanish-sangria-boxer/",
+    "name": "Spanish Sangria Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42369_J0151_1_ECOMM-jpg_d9ba4c72-31f7-4c74-a462-19cb8a5560ec.jpg"
+    ],
+    "badges": [],
+    "sku": "spanish-sangria-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Total Eclipse"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/galaxy-boxer-2-pack?variant=42661869060174",
+    "product_id": "galaxy-boxer-2-pack/",
+    "name": "Galaxy Boxer 2 Pack",
+    "price": 74.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42367_4TOS_1_ECOMM-jpg_5291a263-8f2b-4f81-b3f7-c049d718e173.jpg"
+    ],
+    "badges": [],
+    "sku": "galaxy-boxer-2-pack/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Captains Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/oceanliner-boxer?variant=42425266339918",
+    "product_id": "oceanliner-boxer/",
+    "name": "Oceanliner Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A40275_C0438_ECOMM_b43708b1-012b-400b-a204-c6ba91aae07c.jpg"
+    ],
+    "badges": [],
+    "sku": "oceanliner-boxer/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:13:43.419Z",
+    "is_homepage_product": false,
+    "category": "Underwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Titan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/boxers/products/au-revoir-boxer?variant=42661870403662",
+    "product_id": "au-revoir-boxer/",
+    "name": "Au Revoir Boxer",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42373_C0503_1_ECOMM-jpg_0da562f6-3ebd-46ee-aeb5-2958b3f2ae58.jpg"
+    ],
+    "badges": [],
+    "sku": "au-revoir-boxer/"
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.590Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/summer-vacation-woven-hat?variant=42425255002190",
+    "product_id": "summer-vacation-woven-hat/",
+    "name": "Summer Vacation Woven Hat",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LC041_2NTL_ECOMM-jpg_a079a511-1283-4237-a627-5187bcfa1cdc.jpg"
+    ],
+    "badges": [],
+    "sku": "summer-vacation-woven-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.592Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "White",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/raymie-flexfit-hat?variant=42813027811406",
+    "product_id": "raymie-flexfit-hat/",
+    "name": "Raymie Flexfit Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE080_0HBL_ECOMM-JPG_137ab8bd-9ad7-47f1-a097-caa69bd139b0.jpg"
+    ],
+    "badges": [],
+    "sku": "raymie-flexfit-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.592Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/summer-air-hat?variant=42425591791694",
+    "product_id": "summer-air-hat/",
+    "name": "Summer Air Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A44946_1WMT_1_ECOMM_ad07a6bf-88a8-4ca4-8813-77b6cad67dc5.jpg"
+    ],
+    "badges": [],
+    "sku": "summer-air-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.593Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Kentucky Blue",
+      "Heather Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/raymie-flexfit-hat?variant=42813027876942",
+    "product_id": "raymie-flexfit-hat/",
+    "name": "Raymie Flexfit Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE080_4HKB_ECOMM-JPG_9266c4c7-1deb-40b9-9f81-8b3e42b294e7.jpg"
+    ],
+    "badges": [],
+    "sku": "raymie-flexfit-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.593Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Heather Black",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/raymie-flexfit-hat?variant=42425259786318",
+    "product_id": "raymie-flexfit-hat/",
+    "name": "Raymie Flexfit Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE080_1WHT_ECOMM-jpg_871c272c-61bf-4826-82b8-2d5cb484ac72.jpg"
+    ],
+    "badges": [],
+    "sku": "raymie-flexfit-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.593Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/sabora-snapback-hat?variant=42425266470990",
+    "product_id": "sabora-snapback-hat/",
+    "name": "Sabora Snapback Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LE081_2NTL_ECOMM-JPG_5ece4fce-07cf-450c-8033-ca54ba2b61c5.jpg"
+    ],
+    "badges": [],
+    "sku": "sabora-snapback-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.594Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Heather Atmosphere"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/cloud-gala-beanie?variant=42425271746638",
+    "product_id": "cloud-gala-beanie/",
+    "name": "Cloud Gala Beanie",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF074_0HLG_ECOMM_cfc61f5f-2c49-44f6-8f7a-d8d5c97bfdb2.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-gala-beanie/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.594Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Flint",
+      "White",
+      "Light Khaki",
+      "Clover",
+      "Dark Slate",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/the-dad-hat?variant=42728365719630",
+    "product_id": "the-dad-hat/",
+    "name": "The Dad Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG121_5FLT_1_ECOMM-jpg_a6a10929-ae9c-47d4-8928-17fe8a2693b2.jpg"
+    ],
+    "badges": [],
+    "sku": "the-dad-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.594Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Slate",
+      "White",
+      "Light Khaki",
+      "Clover",
+      "Navy",
+      "Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/the-dad-hat?variant=42777524863054",
+    "product_id": "the-dad-hat/",
+    "name": "The Dad Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG121_4DKS_1_ECOMM_7a536c06-a2df-4c3e-be67-762b42204f27.jpg"
+    ],
+    "badges": [],
+    "sku": "the-dad-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.595Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Clover",
+      "White",
+      "Light Khaki",
+      "Dark Slate",
+      "Navy",
+      "Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/the-dad-hat?variant=42425286721614",
+    "product_id": "the-dad-hat/",
+    "name": "The Dad Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG121_3CLO_ECOMM_c40a685d-43f1-465b-a1bf-aa0c8e603883.jpg"
+    ],
+    "badges": [],
+    "sku": "the-dad-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.595Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Light Khaki",
+      "Clover",
+      "Dark Slate",
+      "Navy",
+      "Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/the-dad-hat?variant=42425286656078",
+    "product_id": "the-dad-hat/",
+    "name": "The Dad Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG121_1WHT_ECOMM_9778bf6e-55bb-4f7d-a5f6-aa466ee8a596.jpg"
+    ],
+    "badges": [],
+    "sku": "the-dad-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.595Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Khaki",
+      "White",
+      "Clover",
+      "Dark Slate",
+      "Navy",
+      "Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/the-dad-hat?variant=42425286688846",
+    "product_id": "the-dad-hat/",
+    "name": "The Dad Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG121_2LKH_1_ECOMM-jpg_02986432-193a-475b-83ec-c4be52baaba6.jpg"
+    ],
+    "badges": [],
+    "sku": "the-dad-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.596Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "White",
+      "Light Khaki",
+      "Clover",
+      "Dark Slate",
+      "Flint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/the-dad-hat?variant=42425286754382",
+    "product_id": "the-dad-hat/",
+    "name": "The Dad Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG121_4NAV_1_ECOMM_d868e523-25ee-442d-9cd7-6aaab1c4a614.jpg"
+    ],
+    "badges": [],
+    "sku": "the-dad-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.596Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/confidence-boost-hat?variant=42425281183822",
+    "product_id": "confidence-boost-hat/",
+    "name": "Confidence Boost Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG120_1WHT_1_ECOMM-jpg_f205cecd-0d09-4ffb-8733-e85497dc18e7.jpg"
+    ],
+    "badges": [],
+    "sku": "confidence-boost-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.596Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Heather Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/timberline-visor?variant=42425279316046",
+    "product_id": "timberline-visor/",
+    "name": "Timberline Visor",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG117_1WHT_ECOMM_1470649d-4d80-4cee-b371-c1e07dab44e1.jpg"
+    ],
+    "badges": [],
+    "sku": "timberline-visor/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.596Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/timberline-visor?variant=42425279283278",
+    "product_id": "timberline-visor/",
+    "name": "Timberline Visor",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG117_0HBL_ECOMM_e7262dd2-dccd-47a6-a647-0a364a6db437.jpg"
+    ],
+    "badges": [],
+    "sku": "timberline-visor/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.597Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Atmosphere",
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/cloud-gala-beanie?variant=42425271779406",
+    "product_id": "cloud-gala-beanie/",
+    "name": "Cloud Gala Beanie",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LF074_2ATH_1_ECOMM-JPG_ae7edc87-b290-4379-82b5-34b506a829b1.jpg"
+    ],
+    "badges": [],
+    "sku": "cloud-gala-beanie/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.597Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Wash",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/seaview-bucket-hat?variant=42425287934030",
+    "product_id": "seaview-bucket-hat/",
+    "name": "Seaview Bucket Hat",
+    "price": 44.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG125_4DKW_ECOMM_74f94818-d09f-4973-a238-1243ddde543e.jpg"
+    ],
+    "badges": [],
+    "sku": "seaview-bucket-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.597Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/kepler-raffia-hat?variant=42425281019982",
+    "product_id": "kepler-raffia-hat/",
+    "name": "Kepler Raffia Hat",
+    "price": 89.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG118_2NTL_ECOMM-jpg_a14ece26-03cb-4412-ac20-47a1ba273d81.jpg"
+    ],
+    "badges": [],
+    "sku": "kepler-raffia-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.597Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Dark Wash"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/seaview-bucket-hat?variant=42425287901262",
+    "product_id": "seaview-bucket-hat/",
+    "name": "Seaview Bucket Hat",
+    "price": 44.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG125_1WHT_ECOMM_fad35d47-a792-470c-9c11-83ab70a216b6.jpg"
+    ],
+    "badges": [],
+    "sku": "seaview-bucket-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.598Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey",
+      "Heather Black",
+      "Heather Kentucky Blue",
+      "Heather Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/limitless-hat?variant=42425279774798",
+    "product_id": "limitless-hat/",
+    "name": "Limitless Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG115_0HLG_1_ECOMM_c2bb7641-74aa-43fd-9ed4-cb8db2beb5a8.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.598Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Smoke Blue",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Kentucky Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/limitless-hat?variant=42425279840334",
+    "product_id": "limitless-hat/",
+    "name": "Limitless Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG115_4HSM_1_ECOMM_11d42dc4-0c8b-4039-ac8c-38879a632ee7.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.598Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Kentucky Blue",
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/limitless-hat?variant=42425279807566",
+    "product_id": "limitless-hat/",
+    "name": "Limitless Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG115_4HKB_ECOMM_e9eed418-94f9-4c0f-9e58-dc1b3c6aa4fb.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.598Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Black",
+      "Heather Light Grey",
+      "Heather Kentucky Blue",
+      "Heather Smoke Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/limitless-hat?variant=42425279742030",
+    "product_id": "limitless-hat/",
+    "name": "Limitless Hat",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1LG115_0HBL_1_ECOMM_ff55f56f-cff8-4265-bb03-0b173addcae3.jpg"
+    ],
+    "badges": [],
+    "sku": "limitless-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.599Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Savannah Tan/Vanilla Ice"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/gossamer-cord-hat?variant=42890933928014",
+    "product_id": "gossamer-cord-hat/",
+    "name": "Gossamer Cord Hat",
+    "price": 44.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42509_Q0964_1_ECOMM_9bd242a8-8091-4d36-b5e9-1055bce63fec.jpg"
+    ],
+    "badges": [],
+    "sku": "gossamer-cord-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.599Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heather Savannah Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/meadow-beanie?variant=42868076937294",
+    "product_id": "meadow-beanie/",
+    "name": "Meadow Beanie",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42516_0BLK_1_ECOMM_ec8a882a-33f6-4475-a69b-4753d7ac07ae.jpg"
+    ],
+    "badges": [],
+    "sku": "meadow-beanie/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.599Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/season-change-wool-hat?variant=42868076871758",
+    "product_id": "season-change-wool-hat/",
+    "name": "Season Change Wool Hat",
+    "price": 44.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42511_0HLG_1_ECOMM_44bc420d-c2ac-4664-8eaa-03d27fd93aa5.jpg"
+    ],
+    "badges": [],
+    "sku": "season-change-wool-hat/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.599Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Savannah Tan",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/meadow-beanie?variant=42868076970062",
+    "product_id": "meadow-beanie/",
+    "name": "Meadow Beanie",
+    "price": 39.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42516_A0050_1_ECOMM_d3353251-5014-4b22-ae77-9dced58ce7b7.jpg"
+    ],
+    "badges": [],
+    "sku": "meadow-beanie/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T21:58:25.600Z",
+    "is_homepage_product": false,
+    "category": "Hats",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heather Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/womens-hats/products/viola-beanie?variant=42868076904526",
+    "product_id": "viola-beanie/",
+    "name": "Viola Beanie",
+    "price": 69.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/A42515_0HLG_1_ECOMM_16c3b508-e828-422e-a2ec-0513dfebdce7.jpg"
+    ],
+    "badges": [],
+    "sku": "viola-beanie/"
+  }
+]

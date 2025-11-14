@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:15:40.783Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Private Lounge Bluetooth Boombox"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/bumpboxx/products/private-lounge-bluetooth-boombox-1?variant=42441058091086",
+    "product_id": "private-lounge-bluetooth-boombox-1/",
+    "name": "Private Lounge Bluetooth Boombox",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MX652_0BLK_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "private-lounge-bluetooth-boombox-1/"
+  },
+  {
+    "brand": "Travis Mathew",
+    "scraped_at": "2025-11-14T22:15:40.785Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Private Lounge Bluetooth Boombox"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://travismathew.com/collections/bumpboxx/products/private-lounge-bluetooth-boombox?variant=42441055928398",
+    "product_id": "private-lounge-bluetooth-boombox/",
+    "name": "Private Lounge Bluetooth Boombox",
+    "price": 199.95,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0610/4629/2558/files/1MX652_1WHT_ECOMM-jpg.jpg"
+    ],
+    "badges": [],
+    "sku": "private-lounge-bluetooth-boombox/"
+  }
+]
