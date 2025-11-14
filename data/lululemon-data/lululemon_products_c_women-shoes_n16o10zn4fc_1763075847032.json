@@ -1,0 +1,819 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.027Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg/Nutmeg/Nutmeg",
+      "Coconut Ivory/Coconut Ivory/Breakfast Tea",
+      "Black/Black/Black",
+      "Black/Black/Traverse Grey",
+      "Red Clay/Tea Rose/Red Clay",
+      "Dark Chestnut/Dark Chestnut/Espresso",
+      "Silverstone/Silverstone/Warm Ash Grey",
+      "Racer Pink/Racer Pink/Racer Pink",
+      "Light Vapor/Light Vapor/Light Vapor",
+      "Black/Graphite Grey",
+      "Satin Gold/Light Ivory/Satin Gold",
+      "Light Ivory/Light Ivory/Light Ivory",
+      "Faint Lavender/Faint Lavender/Silver",
+      "Bone/Bone/Silver",
+      "Black/Black/Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-SwayDay-Mule/_/prod20004151?color=71254",
+    "product_id": "shoes/",
+    "name": "Women's SwayDay Mule",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.029Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg/Nutmeg/Nutmeg",
+      "Coconut Ivory/Coconut Ivory/Breakfast Tea",
+      "Black/Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-SwayDay-Mule/_/prod20004151?color=71254",
+    "product_id": "shoes/",
+    "name": "Women's SwayDay Mule",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Black/Traverse Grey",
+      "Red Clay/Tea Rose/Red Clay",
+      "Dark Chestnut/Dark Chestnut/Espresso",
+      "Silverstone/Silverstone/Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Wunder-Puff-Mini-Boot/_/prod20005707?color=72897",
+    "product_id": "shoes/",
+    "name": "Women's Wunder Puff Mini Boot",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg/Nutmeg/Nutmeg",
+      "Racer Pink/Racer Pink/Racer Pink",
+      "Light Vapor/Light Vapor/Light Vapor",
+      "Black/Graphite Grey",
+      "Satin Gold/Light Ivory/Satin Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/W-Restfeel-Slide/_/prod11021003?color=71254",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Slide",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Black/Black",
+      "Light Ivory/Light Ivory/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Restfeel-Flip-Flop/_/prod11870400?color=4310",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Flip-Flop",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Faint Lavender/Faint Lavender/Silver",
+      "Bone/Bone/Silver",
+      "Black/Black/Silver",
+      "Dark Chestnut/Dark Chestnut/Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Restfeel-Faux-Fur-Slide/_/prod20003667?color=75585",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Faux Fur Slide",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Walnut Crunch/Espresso/Walnut Crunch",
+      "Porcelain Pink/Ashen Rose/Porcelain Pink",
+      "Serene Blue/Misty Grey/Serene Blue",
+      "Light Ivory/Black/Light Ivory",
+      "Black/Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/W-Restfeel-Slide-Graphic/_/prod11710173?color=75583",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Slide Graphic",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ashen Rose/Holistic White/Porcelain Pink",
+      "White/White/Black",
+      "Light Vapor/Light Vapor/White",
+      "Black/Black/White",
+      "Vapor/Light Ivory/Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Chargefeel-3-Workout-Shoe/_/prod11800937?color=75570",
+    "product_id": "shoes/",
+    "name": "Women's Chargefeel 3 Workout Shoe",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink/Jewelled Magenta/Black",
+      "Atmospheric Purple/Atmospheric Purple/Grape Mist",
+      "Serene Blue/Rock Melon/Nightmoth",
+      "Light Vapor/White/Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Split-Shift-Running-Shoe/_/prod20001267?color=75597",
+    "product_id": "shoes/",
+    "name": "Women's Split Shift Running Shoe",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Riverstone/Riverstone/Black",
+      "Black/Black/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/W-Beyondfeel-Waterproof-Running-Shoe/_/prod11800953?color=71697",
+    "product_id": "shoes/",
+    "name": "Women's Beyondfeel Waterproof Running Shoe",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Vapor/Jewelled Magenta/Black",
+      "Black/Coal/Light Vapor",
+      "Misty Shell/Vapor/Nightmoth",
+      "Dark Chestnut/Fog Green/Black",
+      "Desert Sun/Black/Raspberry Glo",
+      "Light Vapor/Natural Ivory/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Wildfeel-Trail-Running-Shoe/_/prod20003775?color=75572",
+    "product_id": "shoes/",
+    "name": "Women's Wildfeel Trail Running Shoe",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.030Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Black/Luxe Gold",
+      "Light Vapor/Light Vapor/Silver Drop",
+      "Black/Bone/Rover",
+      "Jewelled Magenta/Light Vapor/Berry Rumble"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Beyondfeel-W-Running-Shoe/_/prod11670099?color=75633",
+    "product_id": "shoes/",
+    "name": "Women's Beyondfeel Running Shoe",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White/White/White",
+      "Coconut Ivory/Light Ivory/Satin Gold",
+      "Black/Filbert Tan/Graphite Grey",
+      "White/Filbert Tan/Pink Frosting"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Cityverse-Womens-Sneaker/_/prod11680596?color=4905",
+    "product_id": "shoes/",
+    "name": "Women's Cityverse Sneaker",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Camel Brown/Camel Brown/Trench"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Cityverse-Microsuede-Sneaker/_/prod20003351?color=73433",
+    "product_id": "shoes/",
+    "name": "Women's Cityverse Microsuede Sneaker",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Club Blue/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Restfeel-Slide-Pride/_/prod20003235?color=71409",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Slide Pride",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Angel Wing"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Cashmere-Wool-Slippers/_/prod11800929?color=0001",
+    "product_id": "shoes/",
+    "name": "Women's Cashmere and Wool Slippers",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White/White/Light Vapor",
+      "Black/Asphalt Grey/Light Vapor",
+      "White/Black/Kohlrabi Green",
+      "Faded Zap/Faded Zap/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Blissfeel-2-Womens-Running-Shoe-MD/_/prod11530177?color=61712",
+    "product_id": "shoes/",
+    "name": "Women's Blissfeel 2 Running Shoe",
+    "sale_price": 59,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/White/Anchor",
+      "White/Vapor/Delicate Mint"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/W-Chargefeel-Workout-Mid-2-MD/_/prod11781417?color=55203",
+    "product_id": "shoes/",
+    "name": "Women's Chargefeel 2 Mid Workout Shoe",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Light Ivory/Light Ivory",
+      "Lavender Frost/Lavender Frost/Lavender Frost",
+      "Blissful Pink/Blissful Pink/Blissful Pink",
+      "Bone/Bone/Bone",
+      "Pink Haze/Pink Haze/Pink Haze",
+      "Misty Pink/Misty Pink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/W-Restfeel-Slide-MD/_/prod11260032?color=38605",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Slide",
+    "sale_price": 29,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Graphite Grey/White",
+      "Rose Mauve/White/Red Merlot",
+      "White/Light Vapor/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Strongfeel-Womens-Training-Shoe-MD/_/prod11340012?color=58657",
+    "product_id": "shoes/",
+    "name": "Women's Strongfeel Training Shoe",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sandcastle/Sandcastle/Sandcastle",
+      "Storm Teal/Storm Teal/Storm Teal",
+      "Rose Blush/Rose Blush/Rose Blush"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/W-Restfeel-Slide-Graphic-MD/_/prod11750272?color=71268",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Slide Graphic",
+    "sale_price": 29,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White/White/White",
+      "Raspberry Glo/Vapor/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Beyondfeel-W-Running-Shoe-MD/_/prod11720582?color=4905",
+    "product_id": "shoes/",
+    "name": "Women's Beyondfeel Running Shoe",
+    "sale_price": 99,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White/Nova White/Aero Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Cityverse-Perforated-Sneaker-MD/_/prod20005342?color=72857",
+    "product_id": "shoes/",
+    "name": "Women's Cityverse Perforated Sneaker",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.031Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink/Blissful Pink/Blissful Pink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-SwayDay-Mule-MD/_/prod20004150?color=73436",
+    "product_id": "shoes/",
+    "name": "Women's SwayDay Mule",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Faint Mauve/White/Mauve Grey",
+      "Light Ivory/White/Filbert Tan",
+      "Pink Clay/Butter Cream/Peach Cream"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-CrossCity-Sneaker-MD/_/prod11870502?color=71758",
+    "product_id": "shoes/",
+    "name": "Women's CrossCity Sneaker",
+    "sale_price": 79,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Galactic Cobalt/Galactic Cobalt/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Restfeel-Flip-Flop-MD/_/prod11870402?color=71258",
+    "product_id": "shoes/",
+    "name": "Women's Restfeel Flip-Flop",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Elixir/Serene Blue/Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Split-Shift-Running-Shoe-MD/_/prod20001266?color=72906",
+    "product_id": "shoes/",
+    "name": "Women's Split Shift Running Shoe",
+    "sale_price": 99,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Geranium Pink/Light Vapor/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Chargefeel-3-Workout-Shoe-MD/_/prod11800939?color=70028",
+    "product_id": "shoes/",
+    "name": "Women's Chargefeel 3 Workout Shoe",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Vapor/Nimbus/Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Beyondfeel-W-Trail-Running-Shoe-MD/_/prod11771054?color=68090",
+    "product_id": "shoes/",
+    "name": "Women's Beyondfeel Trail Running Shoe",
+    "sale_price": 109,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chambray/Chambray/Chambray",
+      "Raw Linen/Natural Ivory/Raw Linen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Cityverse-Womens-Sneaker-MD/_/prod11740044?color=70042",
+    "product_id": "shoes/",
+    "name": "Women's Cityverse Sneaker",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:17:27.032Z",
+    "is_homepage_product": false,
+    "category": "Shoes",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Starch Blue/Natural Ivory/Washed Denim",
+      "Washed Denim/Antique White/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Womens-Cityverse-Cotton-Canvas-Sneaker-MD/_/prod11870562?color=71232",
+    "product_id": "shoes/",
+    "name": "Women's Cityverse Cotton Canvas Sneaker",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  }
+]

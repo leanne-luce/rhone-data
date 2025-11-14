@@ -1,0 +1,997 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.242Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Riverside/Sheer Oak",
+      "Black/Graphite Grey",
+      "True Navy",
+      "Black/Sheer Oak",
+      "Brilliant Blue",
+      "Vapor",
+      "Warm Ash Grey",
+      "Black Plum",
+      "Berry Rumble",
+      "Black Plum/Sheer Oak/Gold",
+      "Black/Graphite Grey/Gold",
+      "Chestnut Brown/Sheer Oak/Gold",
+      "Leopardo Shift Desert Khaki Multi/Gold",
+      "Light Ivory/Sheer Oak/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everyday-Backpack-21L/_/prod20002179?color=0001",
+    "product_id": "bags/",
+    "name": "Everyday Backpack 21L",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new",
+      "best gift"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.249Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everyday-Backpack-21L/_/prod20002179?color=0001",
+    "product_id": "bags/",
+    "name": "Everyday Backpack 21L",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.250Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Riverside/Sheer Oak",
+      "Black/Graphite Grey",
+      "True Navy",
+      "Black/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-22L/_/prod11460250?color=75935",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.250Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Brilliant Blue",
+      "Vapor",
+      "Warm Ash Grey",
+      "Black Plum",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/New-Crew-Backpack-22L-Updated/_/prod20002103?color=33190",
+    "product_id": "bags/",
+    "name": "New Crew Backpack 22L Updated",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.250Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Fast-Track-Bag-20-9L/_/prod11870226?color=21363",
+    "product_id": "bags/",
+    "name": "Fast Track Bag 2.0 9L",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.250Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Plum/Sheer Oak/Gold",
+      "Black/Graphite Grey/Gold",
+      "Chestnut Brown/Sheer Oak/Gold",
+      "Leopardo Shift Desert Khaki Multi/Gold",
+      "Light Ivory/Sheer Oak/Gold",
+      "Black/Sheer Oak/Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-22L-Metal-Hardware/_/prod20002247?color=74958",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L Metal Hardware",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.251Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Black",
+      "Natural/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Racket-Bag-19L/_/prod11870412?color=71534",
+    "product_id": "bags/",
+    "name": "Racket Bag 19L",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.251Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Graphite Grey/Silver",
+      "Black/Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/New-Parent-Backpack/_/prod10641750?color=60155",
+    "product_id": "bags/",
+    "name": "New Parent Backpack 17L",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift",
+      "new"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.251Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink/Sheer Oak/Gold",
+      "Black/Graphite Grey/Gold",
+      "Light Ivory/Sheer Oak/Gold",
+      "Black/Sheer Oak/Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-Small-115L-Metal-Hardware/_/prod20003555?color=73413",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack Small 11.5L Metal Hardware",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.252Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Detours Welcome Emboss Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/2-in-1-Travel-Duffle-Bckpack-45L/_/prod11470029?color=65082",
+    "product_id": "bags/",
+    "name": "2-in-1 Travel Duffle Backpack 45L",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.252Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Chestnut Brown/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-Tech-Canvas-22L/_/prod11710424?color=73506",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L Tech Canvas",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.252Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Natural Ivory/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Wunderlust-Backpack-Mini-3L-Fleece/_/prod20006575?color=58392",
+    "product_id": "bags/",
+    "name": "Wunderlust Backpack Mini 3L Fleece",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.252Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-22L-Wunder-Puff/_/prod11800757?color=0001",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L Wunder Puff",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.252Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Traverse Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Triple-Zip-Backpack-28L-Tech-Canvas/_/prod20003043?color=64774",
+    "product_id": "bags/",
+    "name": "Triple-Zip Backpack 28L Tech Canvas",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.253Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey/Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/2-in-1-Convertible-Backpack-21L/_/prod20003427?color=70403",
+    "product_id": "bags/",
+    "name": "2-in-1 Convertible Backpack 21L",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.253Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rockwood/Gunmetal",
+      "Black/Silver",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Wunderlust-Backpack-25L/_/prod10930178?color=72101",
+    "product_id": "bags/",
+    "name": "Wunderlust Backpack 25L",
+    "sale_price": 148,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.253Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Traverse Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Packable-Backpack-32L/_/prod11680196?color=64774",
+    "product_id": "bags/",
+    "name": "Packable Backpack 32L",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.253Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rockwood/Gunmetal",
+      "Black/Silver",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Wanderlust-Backpack-Mini-14L/_/prod11240161?color=72101",
+    "product_id": "bags/",
+    "name": "Wunderlust Backpack Mini 14L",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.253Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Anchor/Black",
+      "Faint Lavender/Grape Mist",
+      "Vapor/Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/All-Sport-Backpack-10L/_/prod11520452?color=31078",
+    "product_id": "bags/",
+    "name": "All Sport Backpack 10L",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.254Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Cruiser-Backpack-23L/_/prod11520271?color=0001",
+    "product_id": "bags/",
+    "name": "Cruiser Backpack 23L",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.254Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Wunderlust-Convertible-Backpack-Mini-3L/_/prod20004023?color=0001",
+    "product_id": "bags/",
+    "name": "Wunderlust Convertible Backpack Mini 3L",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.254Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/New-Crew-Mesh-Backpack-19L-SLNSH/_/prod20003219?color=0001",
+    "product_id": "bags/",
+    "name": "New Crew Mesh Backpack 19L SLNSH Collection",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.254Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Grey Eucalyptus",
+      "Black/Traverse Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Double-Zip-Backpack-22L-MD/_/prod11760167?color=66495",
+    "product_id": "bags/",
+    "name": "Double-Zip Backpack 22L",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.254Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Black",
+      "Thawed Camo Grey Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-Tech-Canvas-22L-MD/_/prod11760168?color=4780",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L Tech Canvas",
+    "sale_price": 49,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.254Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Citra Lime/Ocean Air",
+      "Warm Ash Grey/Sheer Oak",
+      "Calypso Pink/Sheer Oak",
+      "Raspberry Coulis/Sheer Oak",
+      "Lululemon Red/Ocean Air"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-22L-MD/_/prod11580458?color=71913",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L",
+    "sale_price": 49,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue",
+      "Bay Leaf",
+      "Thawed Camo Grey Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/New-Crew-Backpack-22L-Updated-MD/_/prod20002102?color=32507",
+    "product_id": "bags/",
+    "name": "New Crew Backpack 22L Updated",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Red Clay/Rose Gold",
+      "Lavender Frost/Gold",
+      "Bay Leaf/Gold",
+      "Washed Denim/Sheer Oak/Silver",
+      "Raspberry Coulis/Sheer Oak/Silver",
+      "Lavender Frost/Ocean Air/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-22L-Metal-Hardware-MD/_/prod20002246?color=71683",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack 22L Metal Hardware",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Warm Ash Grey",
+      "Crater Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Double-Zip-Backpack-22L-Tech-Canvas-MD/_/prod20002154?color=0001",
+    "product_id": "bags/",
+    "name": "Double-Zip Backpack 22L Tech Canvas",
+    "sale_price": 79,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Pink Haze",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everyday-Backpack-21L-MD/_/prod20002178?color=49106",
+    "product_id": "bags/",
+    "name": "Everyday Backpack 21L",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Blissful Pink",
+      "Kohlrabi Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Fast-Track-Bag-20-9L-MD/_/prod11870228?color=70108",
+    "product_id": "bags/",
+    "name": "Fast Track Bag 2.0 9L",
+    "sale_price": 49,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Red Clay/Sheer Oak/Rose Gold",
+      "Warm Ash Grey/Ocean Air/Silver",
+      "Serene Blue/Sheer Oak/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Everywhere-Backpack-Small-115L-Metal-Hardware-MD/_/prod20003554?color=72819",
+    "product_id": "bags/",
+    "name": "Everywhere Backpack Small 11.5L Metal Hardware",
+    "sale_price": 49,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Racket-Bag-19L-MD/_/prod11870414?color=51302",
+    "product_id": "bags/",
+    "name": "Racket Bag 19L",
+    "sale_price": 99,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.255Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Red Clay/Sheer Oak",
+      "Solar Grey/Ocean Air"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/New-Parent-Backpack-MD/_/prod10642123?color=72274",
+    "product_id": "bags/",
+    "name": "New Parent Backpack 17L",
+    "sale_price": 119,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.256Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Triple-Zip-Backpack-28L-Tech-Canvas-MD/_/prod20003042?color=69046",
+    "product_id": "bags/",
+    "name": "Triple-Zip Backpack 28L Tech Canvas",
+    "sale_price": 79,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.256Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf",
+      "Melrose Tan",
+      "Goodnight Plum/Gunmetal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Wanderlust-Backpack-Mini-14L-MD/_/prod11660134?color=62214",
+    "product_id": "bags/",
+    "name": "Wunderlust Backpack Mini 14L",
+    "sale_price": 79,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.256Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Gilded Yellow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Fast-Track-Bag-2M0-10L-MD/_/prod11770025?color=27597",
+    "product_id": "bags/",
+    "name": "Fast Track Bag 2.0 10L",
+    "sale_price": 49,
+    "price": 78,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.256Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/2-in-1-Convertible-Backpack-21L-MD/_/prod20003426?color=70108",
+    "product_id": "bags/",
+    "name": "2-in-1 Convertible Backpack 21L",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:09:05.256Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Melrose Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/bags/Wunderlust-Backpack-25L-MD/_/prod11200021?color=71194",
+    "product_id": "bags/",
+    "name": "Wunderlust Backpack 25L",
+    "sale_price": 109,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "bags/"
+  }
+]

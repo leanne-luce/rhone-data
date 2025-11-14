@@ -1,0 +1,1450 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.521Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Blue Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-taika-snow-shell-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-taika-snow-shell-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5022BLK_FA25_W_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-taika-snow-shell-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.521Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Haze",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-taika-snow-shell-blue-haze?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-taika-snow-shell-blue-haze/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5022BHZ_FA25_W_OUTERWEAR_FRONT_2_01068814-4327-4fa4-8f83-914358a39589.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-taika-snow-shell-blue-haze/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Dark Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-carmel-corduroy-puffer-raisin?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-carmel-corduroy-puffer-raisin/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK130_W_AARON_FEAVER_WILLIAMSBURG_00513.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-carmel-corduroy-puffer-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Rum",
+      "Crystal Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alta-down-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alta-down-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5030BLK_FA25_W_OUTERWEAR_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alta-down-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Salt",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-carmel-corduroy-puffer-dark-salt?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-carmel-corduroy-puffer-dark-salt/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5077DSA_FA25_W_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-carmel-corduroy-puffer-dark-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Milkweed",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-drift-insulated-jacket-milkweed?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-drift-insulated-jacket-milkweed/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5049MKW_FA25_W_OUTERWEAR_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-drift-insulated-jacket-milkweed/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Natural",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-oaks-hybrid-jacket-natural?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-oaks-hybrid-jacket-natural/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5058NAT_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-oaks-hybrid-jacket-natural/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "Bone",
+      "Black",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-evergreen?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-vest-evergreen/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5070EVG_FA25_W_OUTERWEAR_DETAIL_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.522Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Evergreen",
+      "Black",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-full-zip-evergreen?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-vuori-allthefeels-full-zip-evergreen/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5076EVG_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-full-zip-evergreen/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Olive",
+      "Salt",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-aspen-half-zip-olive?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-aspen-half-zip-olive/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW599OLV_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-aspen-half-zip-olive/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Olive",
+      "Black",
+      "Pumice",
+      "Bone",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-jacket-olive?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-jacket-olive/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW532OLV_FA25_W_OUTERWEAR_FRONT_3_4c346504-e8c2-4e3d-a3ed-783a75c04ec4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-jacket-olive/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Olive",
+      "Black",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-vest-olive?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-vest-olive/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW533OLV_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-vest-olive/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-oaks-hybrid-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-oaks-hybrid-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK129_W_MARK_TESI_NYC_008002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-oaks-hybrid-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Lavender Ice",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alta-down-vest-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alta-down-vest-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5031BLK_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alta-down-vest-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Milkweed"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-drift-insulated-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-drift-insulated-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5049BLK_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-drift-insulated-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vail-long-down-jacket-huckleberry?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-vail-long-down-jacket-huckleberry/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW596HUK_FA25_W_OUTERWEAR_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vail-long-down-jacket-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-icelandic-anorak-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-icelandic-anorak-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW597BLK_FA24_W_ECOMM_jackets_CREATIVE_19.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-icelandic-anorak-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Olive",
+      "Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-aspen-half-zip-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-aspen-half-zip-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW599BLK_FA24_W_ECOMM_jackets_CREATIVE_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-aspen-half-zip-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.523Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Rum",
+      "Crystal Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alta-down-jacket-rum?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alta-down-jacket-rum/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5030RUM_FA25_W_OUTERWEAR_DETAIL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alta-down-jacket-rum/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Olive",
+      "Pumice",
+      "Bone",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW532BLK_FA23_W_ECOMM_jackets_CREATIVE_14_cd9ddfdb-7844-4899-9841-7cba08eb2a2a.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Butterscotch",
+      "Black",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lou-full-zip-jacket-butterscotch?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-lou-full-zip-jacket-butterscotch/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5034BUS_FA25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lou-full-zip-jacket-butterscotch/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dune"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-aspen-full-zip-dune?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-aspen-full-zip-dune/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5023DUN_SP25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-aspen-full-zip-dune/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Olive",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-aspen-half-zip-salt?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-aspen-half-zip-salt/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW599SAL_FA24_W_ECOMM_jackets_DETAIL_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-aspen-half-zip-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Black",
+      "Olive",
+      "Pumice",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-jacket-raisin?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-jacket-raisin/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW532RSN_FA25_W_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-jacket-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Evergreen",
+      "Black",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-bone?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-vest-bone/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00002.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Olive",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-vest-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-vest-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW533BLK_unknown_opening_season_W_ECOMM_vests_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-vest-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Black",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-jacket-java?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-jacket-java/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5104JAV_FA25_W_ECOMM_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-jacket-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Java",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-jacket-bone?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-jacket-bone/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5104BNE_FA25_W_ECOMM_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-jacket-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-trench-coat-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-restore-trench-coat-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW590BLK_FA24_M_ECOMM_jackets_DETAIL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-trench-coat-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.524Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-restore-trench-coat-light-heather-grey?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-restore-trench-coat-light-heather-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK107_W_AARON_FEAVER_BROOKLYN_00313.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-restore-trench-coat-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Butterscotch",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lou-full-zip-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-lou-full-zip-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5034BLK_FA25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lou-full-zip-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Bone",
+      "Evergreen",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-java?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-vest-java/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5070JAV_FA25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pumice",
+      "Black",
+      "Olive",
+      "Bone",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-jacket-pumice?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-jacket-pumice/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW532PMC_FA25_W_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-jacket-pumice/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-mammoth-down-parka-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-mammoth-down-parka-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW556BLK_FA25_W_OUTERWEAR_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-mammoth-down-parka-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Butterscotch",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lou-full-zip-jacket-marshmallow?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-lou-full-zip-jacket-marshmallow/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK076_W_MARK_TESI_NYC_004026.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lou-full-zip-jacket-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Black",
+      "Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-vest-bone?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-vest-bone/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW533BNE_FA24_W_ECOMM_vests_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-vest-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Bone",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-full-zip-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-vuori-allthefeels-full-zip-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5076BLK_FA25_W_OUTERWEAR_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-full-zip-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Bone",
+      "Evergreen",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-vest-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-vest-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5070BLK_FA25_W_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-vest-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Java",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alpine-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alpine-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK104_W_AARON_FEAVER_WILLIAMSBURG_00421.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alpine-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Bright Iris",
+      "Sable"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-venture-jacket-bone?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-venture-jacket-bone/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK082_W_AARON_FEAVER_BROOKLYN_00049.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-venture-jacket-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.525Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Black",
+      "Evergreen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-full-zip-bone?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-vuori-allthefeels-full-zip-bone/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5076BNE_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-full-zip-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Willow Grey Nova Plaid"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-ballard-trench-willow-grey-nova-plaid?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-ballard-trench-willow-grey-nova-plaid/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK099_W_AARON_FEAVER_SOHO_00004.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-ballard-trench-willow-grey-nova-plaid/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lavender Ice",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alta-down-vest-lavender-ice?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alta-down-vest-lavender-ice/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5031LVI_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alta-down-vest-lavender-ice/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vail-long-down-jacket-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-vail-long-down-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW596BLK_FA24_W_ECOMM_jackets_FULL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vail-long-down-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Lavender Ice"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alta-down-vest-white?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-alta-down-vest-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5031WHT_FA25_W_OUTERWEAR_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-alta-down-vest-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Khaki"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-rhodes-trench-coat-khaki?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-rhodes-trench-coat-khaki/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK083_W_AARON_FEAVER_SOHO_00301.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-rhodes-trench-coat-khaki/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-renew-trainer-shell-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-renew-trainer-shell-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5007BLK_SP25_W_ECOMM_OUTERWEAR_CREATIVE_13.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-renew-trainer-shell-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Black",
+      "Natural"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-mackenzie-jacket-washed-black?queryId=d0b1894aabb81c0eaf3fa7b6d58fed41&collection=womens-outerwear",
+    "product_id": "womens-mackenzie-jacket-washed-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5050WBL_SP25_W_ECOMM_OUTERWEAR_CREATIVE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-mackenzie-jacket-washed-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-coordinate-packable-down-jacket-blue-haze?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-coordinate-packable-down-jacket-blue-haze/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5033BHZ_FA25_W_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-coordinate-packable-down-jacket-blue-haze/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Silver Cloud"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pfeiffer-rain-jacket-black?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-pfeiffer-rain-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5009BLK_FA25_W_OUTERWEAR_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pfeiffer-rain-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.526Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bright Iris",
+      "Bone",
+      "Sable"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-venture-jacket-bright-iris?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-venture-jacket-bright-iris/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5068BRI_FA25_W_OUTERWEAR_CREATIVE_14.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-venture-jacket-bright-iris/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sable",
+      "Bone",
+      "Bright Iris"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/canyon-insulated-venture-jacket-sable?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "canyon-insulated-venture-jacket-sable/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5068SAE_FA25_W_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "canyon-insulated-venture-jacket-sable/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Crystal Blue",
+      "Rum",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-alta-down-jacket-crystal-blue?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-alta-down-jacket-crystal-blue/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK105_W_AARON_FEAVER_WILLIAMSBURG_00084-2048x2560-de87ee7.png"
+    ],
+    "badges": [],
+    "sku": "womens-alta-down-jacket-crystal-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Black",
+      "Olive",
+      "Pumice",
+      "Raisin"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-canyon-insulated-jacket-bone?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-canyon-insulated-jacket-bone/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW532BNE_SP24_W_ECOMM_jackets_FRONT_ALT_TOPS_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-canyon-insulated-jacket-bone/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-bayside-jacket-blue-coast?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-bayside-jacket-blue-coast/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5071BCO_FA25_W_ECOMM_OUTERWEAR_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-bayside-jacket-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-jacket-black?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-daily-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5044BLK_FA25_W_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Natural",
+      "Washed Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-mackenzie-jacket-natural?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-mackenzie-jacket-natural/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5050NAT_SP25_W_ECOMM_OUTERWEAR_FRONT_2_2a7b1b34-d6ee-4553-b5cc-8151a326bbd2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-mackenzie-jacket-natural/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Silver Cloud",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pfeiffer-rain-jacket-silver-cloud?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-pfeiffer-rain-jacket-silver-cloud/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5009SCL_FA25_W_ECOMM_OUTERWEAR_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pfeiffer-rain-jacket-silver-cloud/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Viridian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-renew-trainer-shell-white?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-renew-trainer-shell-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5007WHT_SP25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-renew-trainer-shell-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-renew-trainer-shell-viridian?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-renew-trainer-shell-viridian/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5007VRI_FA25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-renew-trainer-shell-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Blue Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-bayside-jacket-white?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-bayside-jacket-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5071WHT_FA25_W_ECOMM_OUTERWEAR_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-bayside-jacket-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.527Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-jacket-viridian?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-daily-jacket-viridian/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5044VRI_FA25_W_ECOMM_OUTERWEAR_FRONT_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-jacket-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.528Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-trestles-twill-blazer-marshmallow?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-trestles-twill-blazer-marshmallow/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5014MSM_FA25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-trestles-twill-blazer-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.528Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lagoon"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-chilled-out-full-zip-lagoon?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-chilled-out-full-zip-lagoon/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5119LAG_FA25_W_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-chilled-out-full-zip-lagoon/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.528Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-trestles-twill-blazer-black?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-trestles-twill-blazer-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5014BLK_SP25_W_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-trestles-twill-blazer-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.528Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Talc"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-endless-elevate-hike-jacket-talc?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-endless-elevate-hike-jacket-talc/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5017TLC_FA25_W_ECOMM_OUTERWEAR_DETAIL_10_5270c293-6d96-466b-b014-2baca32437fa.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-endless-elevate-hike-jacket-talc/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:03:49.528Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-nomadic-packable-rain-shell-black?queryId=365a26bad2dde7d35cb6b4f15262c8a4&collection=womens-outerwear",
+    "product_id": "womens-nomadic-packable-rain-shell-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW5039BLK_FA25_W_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-nomadic-packable-rain-shell-black/"
+  }
+]

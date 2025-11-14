@@ -1,0 +1,818 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.537Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Commission Stripe Heathered White Indochine Blue",
+      "Commission Stripe Heathered White Rockwood",
+      "Dove Grey",
+      "Rainforest Green",
+      "White/Sinatra Blue",
+      "Sequoia",
+      "White/Starch Blue",
+      "White/Grey Sage",
+      "White",
+      "Blue Linen/White",
+      "Check Plaid Indochine Blue Light Onyx",
+      "Check Plaid Nutmeg Dark Chestnut",
+      "Check Plaid Oak Moss Gator Green",
+      "Heathered Bone",
+      "Check Plaid Black Heathered Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Commission-LS-Button-Down-Pockets/_/prod6750191?color=48568",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Commission Long-Sleeve Shirt Pocket",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "trending",
+      "new"
+    ],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.540Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Commission Stripe Heathered White Indochine Blue",
+      "Commission Stripe Heathered White Rockwood",
+      "Dove Grey",
+      "Rainforest Green",
+      "White/Sinatra Blue",
+      "Sequoia",
+      "White/Starch Blue",
+      "White/Grey Sage",
+      "White",
+      "Blue Linen/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Commission-LS-Button-Down-Pockets/_/prod6750191?color=48568",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Commission Long-Sleeve Shirt Pocket",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.540Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Check Plaid Indochine Blue Light Onyx",
+      "Check Plaid Nutmeg Dark Chestnut",
+      "Check Plaid Oak Moss Gator Green",
+      "Heathered Bone",
+      "Check Plaid Black Heathered Graphite Grey",
+      "Heathered True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ls-tops/Soft-Knit-Overshirt/_/prod10760075?color=72184",
+    "product_id": "men-ls-tops/",
+    "name": "Soft Knit Overshirt",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "trending"
+    ],
+    "sku": "men-ls-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.540Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Prospect Plaid True Navy Olive Brown",
+      "Prospect Plaid Super Dark Misty Grey",
+      "Heathered True Navy",
+      "Heathered Raw Linen",
+      "Fusion Plaid Fresco White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Brushed-Woven-Overshirt/_/prod11800777?color=73844",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Brushed Woven Overshirt",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.540Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Irregular Dotty Indochine Blue Multi",
+      "Sequoia",
+      "Lavender Frost",
+      "Bright White",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ss-tops/Airing-Easy-Short-SS-Button/_/prod8980451?color=36865",
+    "product_id": "men-ss-tops/",
+    "name": "Airing Easy Short-Sleeve Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ss-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sartorial Stripe Almost Blue Heathered Windmill",
+      "Double Grid Riverstone Heathered Warm Ash Grey",
+      "Double Grid White Heathered Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/New-Venture-Classic-Fit-LS-Shirt/_/prod11380265?color=72276",
+    "product_id": "mens-button-down-shirts/",
+    "name": "New Venture Classic-Fit Long-Sleeve Shirt",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Dove Grey",
+      "Blue Twill",
+      "Black",
+      "Palm Deco"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Corduroy-Relaxed-Fit-Long-Sleeve-Button-Up-Shirt/_/prod20001807?color=49106",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Corduroy Relaxed-Fit Long-Sleeve Button-Up Shirt",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Proper Stripe White Heathered Lavender Frost",
+      "White",
+      "Starch Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/New-Venture-Long-Sleeve-Shirt-Updated-Classic-Fit/_/prod11870214?color=68578",
+    "product_id": "mens-button-down-shirts/",
+    "name": "New Venture Long-Sleeve Shirt Updated Classic-Fit",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sartorial Stripe Almost Blue Heathered Windmill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/New-Venture-Long-Sleeve-Shirt/_/prod10641751?color=73603",
+    "product_id": "mens-button-down-shirts/",
+    "name": "New Venture Slim-Fit Long-Sleeve Shirt",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Rainforest Green",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ls-tops/Sojourn-Overshirt/_/prod20005935?color=36865",
+    "product_id": "men-ls-tops/",
+    "name": "Sojourn Overshirt",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-ls-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Airing-Easy-Long-Sleeve-Button-Shirt/_/prod11870130?color=0001",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Airing Easy Long-Sleeve Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Proper Stripe White Heathered Starch Blue",
+      "White",
+      "Starch Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/New-Venture-Long-Sleeve-Shirt-Updated-Slim-Fit/_/prod11870234?color=69241",
+    "product_id": "mens-button-down-shirts/",
+    "name": "New Venture Long-Sleeve Shirt Updated Slim-Fit",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Enzyme Dye Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Commission-Long-Sleeve-Shirt/_/prod11760242?color=70040",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Commission Long-Sleeve Shirt",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Vapor"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/M-Jacquard-Mesh-Short-Sleeve-Shirt-SLNSH/_/prod20003291?color=56266",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Men's Jacquard-Mesh Short-Sleeve Shirt SLNSH Collection",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ss-tops/Lightweight-Camp-Collar-Button-Up-Pocket/_/prod11680611?color=68578",
+    "product_id": "men-ss-tops/",
+    "name": "Lightweight Camp Collar Button-Up Shirt Pocket",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ss-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.541Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Cotton-Blend-Open-Knit-Button-Up/_/prod20002243?color=32894",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Cotton-Blend Open-Knit Button Up",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.542Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ocean Air",
+      "Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ss-tops/Lightweight-Camp-Collar-Button-Up-Pocket-MD/_/prod11720433?color=48096",
+    "product_id": "men-ss-tops/",
+    "name": "Lightweight Camp Collar Button-Up Shirt Pocket",
+    "sale_price": 69,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ss-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.542Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Flora Medley Vapor Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Lightweight-Camp-Collar-Button-Up-MD/_/prod11870316?color=70765",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Lightweight Camp Collar Button-Up Shirt",
+    "sale_price": 69,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.542Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fusion Plaid Black Silver Drop",
+      "Fusion Plaid Club Blue Starch Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Brushed-Woven-Overshirt-MD/_/prod11800779?color=69257",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Brushed Woven Overshirt",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.542Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Serene Blue",
+      "Checker Dash Blue Multi",
+      "Checker Dash Green Multi",
+      "Melrose Tan",
+      "Warm Ash Grey",
+      "Fog Green",
+      "Sun Stamp Blue Linen Multi",
+      "Sun Stamp White Multi",
+      "Rainforest Green",
+      "Pool Party",
+      "Dotted Link White Ocean Air"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ss-tops/Airing-Easy-Short-SS-Button-MD/_/prod11720517?color=71148",
+    "product_id": "men-ss-tops/",
+    "name": "Airing Easy Short-Sleeve Shirt",
+    "sale_price": 54,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ss-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.542Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Lined Leopard Blue Multi",
+      "Lined Leopard White Opal Carbon Dust",
+      "Club Blue",
+      "Almond Butter",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ss-tops/Airing-Easy-Camp-Collar-SS-Woven-MD/_/prod11781663?color=63800",
+    "product_id": "men-ss-tops/",
+    "name": "Airing Easy Camp Collar Shirt",
+    "sale_price": 69,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ss-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.542Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Commission Stripe Heathered White Warm Ash Grey",
+      "Commission Stripe White Black",
+      "Windmill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Commission-LS-Button-Down-Pockets-MD/_/prod11771098?color=72181",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Commission Long-Sleeve Shirt Pocket",
+    "sale_price": 59,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Check Plaid Chalk Blue Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ls-tops/Soft-Knit-Overshirt-MD/_/prod10870087?color=72183",
+    "product_id": "men-ls-tops/",
+    "name": "Soft Knit Overshirt",
+    "sale_price": 104,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ls-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Corduroy-Relaxed-Fit-Long-Sleeve-Button-Up-Shirt-MD/_/prod20001806?color=33454",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Corduroy Relaxed-Fit Long-Sleeve Button-Up Shirt",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Proper Stripe White Heathered Starch Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/New-Venture-Long-Sleeve-Shirt-Updated-Classic-Fit-MD/_/prod11870216?color=69241",
+    "product_id": "mens-button-down-shirts/",
+    "name": "New Venture Long-Sleeve Shirt Updated Classic-Fit",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Starch Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/LuluLinen-Long-Sleeve-Shirt-MD/_/prod20002202?color=68839",
+    "product_id": "mens-button-down-shirts/",
+    "name": "LuluLinen Long-Sleeve Shirt",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fog Green",
+      "Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/LuluLinen-Short-Sleeve-Shirt-MD/_/prod20000990?color=70144",
+    "product_id": "mens-button-down-shirts/",
+    "name": "LuluLinen Short-Sleeve Shirt",
+    "sale_price": 69,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Black",
+      "Light Ivory",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Ripstop-Classic-Fit-Short-Sleeve-Shirt-MD/_/prod20003334?color=71148",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Ripstop Classic-Fit Short-Sleeve Shirt",
+    "sale_price": 59,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Fleece-Classic-Fit-Overshirt-MD/_/prod11800194?color=0001",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Fleece Classic-Fit Overshirt",
+    "sale_price": 79,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:00:18.543Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Simple Stripe Washed Blue Chalk Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-button-down-shirts/Textured-Camp-Collar-Short-Sleeve-Shirt-MD/_/prod11870248?color=70295",
+    "product_id": "mens-button-down-shirts/",
+    "name": "Textured Camp Collar Short-Sleeve Shirt",
+    "sale_price": 74,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-button-down-shirts/"
+  }
+]

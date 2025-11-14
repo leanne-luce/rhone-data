@@ -1,0 +1,384 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.643Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Light Ivory",
+      "Black",
+      "Palm Deco",
+      "Blue Twill",
+      "Black Plum",
+      "Heathered Savier Grey",
+      "Heathered Chambray",
+      "Heathered Black",
+      "Heathered Natural Ivory",
+      "Heathered Classic Navy",
+      "Sequoia",
+      "Olive Brown",
+      "Grape Mist",
+      "Rainforest Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ls-tops/Cotton-Blend-Waffle-Knit-Long-Sleeve-Shirt/_/prod20004427?color=38426",
+    "product_id": "men-ls-tops/",
+    "name": "Cotton-Blend Waffle Knit Long-Sleeve Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "trending"
+    ],
+    "sku": "men-ls-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.647Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Light Ivory",
+      "Black",
+      "Palm Deco",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ls-tops/Cotton-Blend-Waffle-Knit-Long-Sleeve-Shirt/_/prod20004427?color=38426",
+    "product_id": "men-ls-tops/",
+    "name": "Cotton-Blend Waffle Knit Long-Sleeve Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ls-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.647Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Plum",
+      "Heathered Savier Grey",
+      "Heathered Chambray",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Wool-Blend-Ribbed-Sweater/_/prod20001963?color=34697",
+    "product_id": "mens-sweaters/",
+    "name": "Wool-Blend Ribbed Sweater",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.648Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Black",
+      "Heathered Natural Ivory",
+      "Heathered Classic Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Textured-Knit-Classic-Fit-Crewneck-Sweater/_/prod20007687?color=1966",
+    "product_id": "mens-sweaters/",
+    "name": "Textured Knit Classic-Fit Crewneck Sweater",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.648Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Sequoia",
+      "Olive Brown",
+      "Grape Mist",
+      "Rainforest Green",
+      "Club Blue",
+      "Light Ivory",
+      "Heathered Black",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Textured-Knit-Crewneck-Sweater/_/prod11130226?color=38426",
+    "product_id": "mens-sweaters/",
+    "name": "Textured Knit Crewneck Sweater",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.648Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Indochine Blue",
+      "Blue Twill",
+      "Black",
+      "Palm Deco"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-jackets-and-hoodies-hoodies/Cotton-Blend-Waffle-Knit-Hoodie/_/prod20001467?color=38426",
+    "product_id": "mens-jackets-and-hoodies-hoodies/",
+    "name": "Cotton-Blend Waffle Knit Hoodie",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "trending"
+    ],
+    "sku": "mens-jackets-and-hoodies-hoodies/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.649Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak/White",
+      "Palm Deco/Palm Deco",
+      "Silver Drop/Graphite Grey",
+      "Palm Deco/Black",
+      "Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Engineered-Warmth-Long-Sleeve-Crew/_/prod10641633?color=68721",
+    "product_id": "mens-sweaters/",
+    "name": "Engineered Warmth Long-Sleeve Crew",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.649Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "From Afar Knit Jacquard Sequaio Muli",
+      "From Afar Knit Jacquard Sheer Oak Muli"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Merino-Wool-Cardigan-SLNSH-Collection/_/prod20004515?color=71285",
+    "product_id": "mens-sweaters/",
+    "name": "Merino Wool Cardigan SLNSH Collection",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.649Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Butter Cream",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Wool-Blend-Ribbed-Polo-Shirt/_/prod20004991?color=46927",
+    "product_id": "mens-polos/",
+    "name": "Wool-Blend Ribbed Polo Shirt",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.650Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mojave Tan/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Two-Tone-Full-Zip-Sweater-SLNSH-Collection/_/prod11860230?color=69722",
+    "product_id": "mens-sweaters/",
+    "name": "Two-Tone Full-Zip Sweater SLNSH Collection",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.650Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Rhino Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Textured-Knit-Classic-Fit-Crewneck-Sweater-MD/_/prod20007686?color=47964",
+    "product_id": "mens-sweaters/",
+    "name": "Textured Knit Classic-Fit Crewneck Sweater",
+    "sale_price": 79,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.650Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Butter Cream"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Wool-Blend-Ribbed-Sweater-MD/_/prod20001962?color=70108",
+    "product_id": "mens-sweaters/",
+    "name": "Wool-Blend Ribbed Sweater",
+    "sale_price": 119,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.650Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Blackened Pine"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Textured-Knit-Crewneck-Sweater-MD/_/prod11240021?color=67969",
+    "product_id": "mens-sweaters/",
+    "name": "Textured Knit Crewneck Sweater",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:18.651Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweaters/Relaxed-Fit-Half-Zip-Knit-Sweater-MD/_/prod11782053?color=0001",
+    "product_id": "mens-sweaters/",
+    "name": "Relaxed-Fit Half-Zip Knit Sweater",
+    "sale_price": 99,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweaters/"
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.397Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey/Warm Ash Grey/Dove Grey",
+      "Black/Black/Graphite Grey",
+      "Camel Brown/Camel Brown/Trench",
+      "White/White/White",
+      "Torched Brown/Light Ivory/Black",
+      "Black/Filbert Tan/Graphite Grey",
+      "Club Blue/Antique White/Graphite Grey",
+      "Solar Grey/Solar Grey/Solar Grey",
+      "Nutmeg/Nutmeg/Nutmeg",
+      "Club Blue/Club Blue/Club Blue",
+      "Black/Graphite Grey",
+      "Walnut Crunch/Espresso/Walnut Crunch",
+      "Bay Leaf/Olive Brown/Bay Leaf",
+      "Black/Black/Black",
+      "Black/Black/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Cityverse-Microsuede-Sneaker/_/prod20005175?color=75576",
+    "product_id": "shoes/",
+    "name": "Men's Cityverse Microsuede Sneaker",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey/Warm Ash Grey/Dove Grey",
+      "Black/Black/Graphite Grey",
+      "Camel Brown/Camel Brown/Trench"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Cityverse-Microsuede-Sneaker/_/prod20005175?color=75576",
+    "product_id": "shoes/",
+    "name": "Men's Cityverse Microsuede Sneaker",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White/White/White",
+      "Torched Brown/Light Ivory/Black",
+      "Black/Filbert Tan/Graphite Grey",
+      "Club Blue/Antique White/Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Cityverse-Mens-Sneaker/_/prod11680592?color=4905",
+    "product_id": "shoes/",
+    "name": "Men's Cityverse Sneaker",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey/Solar Grey/Solar Grey",
+      "Nutmeg/Nutmeg/Nutmeg",
+      "Club Blue/Club Blue/Club Blue",
+      "Black/Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/M-Restfeel-Slide/_/prod11020880?color=70437",
+    "product_id": "shoes/",
+    "name": "Men's Restfeel Slide",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Walnut Crunch/Espresso/Walnut Crunch",
+      "Bay Leaf/Olive Brown/Bay Leaf",
+      "Black/Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/M-Restfeel-Slide-Graphic/_/prod11710181?color=75583",
+    "product_id": "shoes/",
+    "name": "Men's Restfeel Slide Graphic",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Black/White",
+      "Light Vapor/Light Vapor/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Chargefeel-3-Workout-Shoe/_/prod20007879?color=18638",
+    "product_id": "shoes/",
+    "name": "Men's Chargefeel 3 Workout Shoe",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Vapor/Warm Ash Grey/Black",
+      "Black/Coal/Light Vapor",
+      "Black/Natural Ivory/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Wildfeel-Trail-Running-Shoe/_/prod20002239?color=75573",
+    "product_id": "shoes/",
+    "name": "Men's Wildfeel Trail Running Shoe",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Atmospheric Purple/Atmospheric Purple/Grape Mist",
+      "Light Vapor/White/Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Split-Shift-Running-Shoe/_/prod20001375?color=75595",
+    "product_id": "shoes/",
+    "name": "Men's Split Shift Running Shoe",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nutmeg/Nutmeg/Nutmeg",
+      "Black/Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-SwayDay-Mule/_/prod20003143?color=71254",
+    "product_id": "shoes/",
+    "name": "Men's SwayDay Mule",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Riverstone/Riverstone/Black",
+      "Black/Black/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Beyondfeel-Waterproof-Running-Shoe/_/prod11800230?color=71697",
+    "product_id": "shoes/",
+    "name": "Men's Beyondfeel Waterproof Running Shoe",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sinatra Blue/Light Ivory/Cornflower",
+      "Light Vapor/Light Vapor/Silver Drop",
+      "Black/Bone/Rover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Beyondfeel-M-Running-Shoe/_/prod11680002?color=75568",
+    "product_id": "shoes/",
+    "name": "Men's Beyondfeel Running Shoe",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Club Blue/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Restfeel-Slide-Pride/_/prod20005839?color=71409",
+    "product_id": "shoes/",
+    "name": "Men's Restfeel Slide Pride",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Chestnut/Fog Green/Black",
+      "Grey Eucalyptus/Silver Drop/Golden Sap"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Wildfeel-Trail-Running-Shoe-MD/_/prod20002238?color=73573",
+    "product_id": "shoes/",
+    "name": "Men's Wildfeel Trail Running Shoe",
+    "sale_price": 119,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.399Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Vapor/Light Vapor/Light Vapor",
+      "Galactic Cobalt/Galactic Cobalt/Galactic Cobalt",
+      "Beech Wood/Beech Wood/Beech Wood",
+      "Tapestry Green/Tapestry Green/Tapestry Green",
+      "Cacao/Cacao/Cacao",
+      "Mineral Blue/Mineral Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/M-Restfeel-Slide-MD/_/prod11510275?color=71384",
+    "product_id": "shoes/",
+    "name": "Men's Restfeel Slide",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak/Vapor/Black",
+      "White/White/White",
+      "Blue Twill/Vapor/Rock Melon",
+      "Silver Drop/Vapor/Galactic Cobalt",
+      "Silver Drop/Light Ivory/Sunburst Orange",
+      "Graphite Grey/Starch Blue/Red Glow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Beyondfeel-M-Running-Shoe-MD/_/prod11720546?color=72917",
+    "product_id": "shoes/",
+    "name": "Men's Beyondfeel Running Shoe",
+    "sale_price": 99,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/White/Filbert Tan",
+      "Starlight/White/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-CrossCity-Sneaker-MD/_/prod11870699?color=71762",
+    "product_id": "shoes/",
+    "name": "Men's CrossCity Sneaker",
+    "sale_price": 99,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill/Graphite Grey/Blue Twill",
+      "Light Ivory/Black/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/M-Restfeel-Slide-Graphic-MD/_/prod11771058?color=73439",
+    "product_id": "shoes/",
+    "name": "Men's Restfeel Slide Graphic",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Misty Grey/Misty Grey/Misty Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-SwayDay-Mule-MD/_/prod20003142?color=71251",
+    "product_id": "shoes/",
+    "name": "Men's SwayDay Mule",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Elixir/Highlight Yellow/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Split-Shift-Running-Shoe-MD/_/prod20001374?color=73671",
+    "product_id": "shoes/",
+    "name": "Men's Split Shift Running Shoe",
+    "sale_price": 99,
+    "price": 158,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey/Black/Dove Grey",
+      "Grey Oasis/Natural Ivory/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Cityverse-Mens-Sneaker-MD/_/prod11740046?color=73429",
+    "product_id": "shoes/",
+    "name": "Men's Cityverse Sneaker",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White/Nova White/Aero Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Cityverse-Perforated-Sneaker-MD/_/prod20003470?color=72857",
+    "product_id": "shoes/",
+    "name": "Men's Cityverse Perforated Sneaker",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:05:08.400Z",
+    "is_homepage_product": false,
+    "category": null,
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Starch Blue/Natural Ivory/Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/shoes/Mens-Cityverse-Cotton-Canvas-Sneaker-MD/_/prod11870659?color=71232",
+    "product_id": "shoes/",
+    "name": "Men's Cityverse Cotton Canvas Sneaker",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "shoes/"
+  }
+]

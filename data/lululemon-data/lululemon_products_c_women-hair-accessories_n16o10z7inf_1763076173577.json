@@ -1,0 +1,987 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.566Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Java/Gleam/Pale Linen/White/Vapor/Pink Haze",
+      "Berry Rumble",
+      "Indochine Blue",
+      "Black",
+      "White",
+      "Blissful Pink",
+      "True Navy",
+      "Blissful Pink/Red Clay/Rockwood/Gold",
+      "Black/Silver",
+      "Black/Gold",
+      "Gleam/Pale Linen/White/Gold",
+      "Pale Linen/Gleam/White",
+      "Blue Twill",
+      "Starch Blue/Sheer Oak",
+      "Lavender Lux/Pink Organza"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Scrunchie-7-Pack/_/prod10641919?color=69549",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Scrunchies 7 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift",
+      "new"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.570Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Java/Gleam/Pale Linen/White/Vapor/Pink Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Scrunchie-7-Pack/_/prod10641919?color=69549",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Scrunchies 7 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.570Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Indochine Blue",
+      "Black",
+      "White",
+      "Blissful Pink",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/W-Luxtreme-Training-Headband/_/prod11460397?color=21363",
+    "product_id": "hair-accessories/",
+    "name": "Women's Luxtreme Training Headband",
+    "price": 14,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.570Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink/Red Clay/Rockwood/Gold",
+      "Black/Silver",
+      "Black/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/charm-hair-ties-3-pack/eh9tsb8ygo?color=72252",
+    "product_id": "charm-hair-ties-3-pack/",
+    "name": "Charm Hair Ties 3 Pack",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "charm-hair-ties-3-pack/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.570Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Gleam/Pale Linen/White/Gold",
+      "Black/Silver",
+      "Black/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Logo-Charm-Hair-Ties-3-Pack/_/prod11771181?color=69589",
+    "product_id": "hair-accessories/",
+    "name": "Logo Charm Hair Ties 3 Pack",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.570Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Multi-Band-Charm-Hair-Elastics-2-Pack/_/prod20003647?color=3385",
+    "product_id": "hair-accessories/",
+    "name": "Multi-Band Charm Hair Elastics 2 Pack",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.570Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Linen/Gleam/White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Skinny-Scrunchie-6-Pack/_/prod9820526?color=76199",
+    "product_id": "hair-accessories/",
+    "name": "Skinny Scrunchies 6 Pack",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.571Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Gold",
+      "Blissful Pink/Red Clay/Rockwood/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Logo-Hair-Ties-3-Pack/_/prod20006507?color=3385",
+    "product_id": "hair-accessories/",
+    "name": "Logo Hair Ties 3 Pack",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.571Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Blue Twill",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/License-to-Train-Wide-Headband/_/prod11520478?color=35486",
+    "product_id": "hair-accessories/",
+    "name": "License to Train Wide Headband",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.571Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Starch Blue/Sheer Oak",
+      "Lavender Lux/Pink Organza",
+      "Rainforest Green/Herbal",
+      "Solar Grey/Vapor",
+      "Black/Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Metal-Vent-Tech-Seamless-Wide-Headband/_/prod11860280?color=69734",
+    "product_id": "hair-accessories/",
+    "name": "Metal Vent Tech Seamless Wide Headband",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.571Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Gold",
+      "Silver",
+      "Rose Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Mini-Claw-Jewelled-Clips-2-Pack/_/prod20006875?color=4195",
+    "product_id": "hair-accessories/",
+    "name": "Mini Claw Jewelled Clips 2 Pack",
+    "price": 14,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.573Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Black/Rhino Grey/White/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/W-Skinny-Adjustable-Headband-5-Pack/_/prod11460387?color=62642",
+    "product_id": "hair-accessories/",
+    "name": "Women's Skinny Adjustable Headbands 5 Pack",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.573Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Jewelled Magenta/Rockwood",
+      "French Press/Burnt Caramel",
+      "Light Ivory/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Extra-Large-Claw-Hair-Clip/_/prod11440064?color=73564",
+    "product_id": "hair-accessories/",
+    "name": "Extra Large Claw Hair Clip",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.573Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Camel Brown/Blissful Pink/Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Scrunchies-Satin-3Pack/_/prod11840010?color=76319",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Scrunchies Satin 3 Pack",
+    "price": 24,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Jewelled Magenta/Rockwood",
+      "French Press/Burnt Caramel",
+      "Light Ivory/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Medium-Claw-Hair-Clip/_/prod11130399?color=73564",
+    "product_id": "hair-accessories/",
+    "name": "Medium Claw Hair Clip",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Black",
+      "Light Ivory/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Jumbo-Claw-Clip/_/prod11870456?color=41431",
+    "product_id": "hair-accessories/",
+    "name": "Jumbo Claw Clip",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pale Linen/Pale Linen/Gleam/Gleam/White/White",
+      "Black",
+      "Black/Black/French Press/French Press/Java/Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Knit-Hair-Ties-6-Pack/_/prod11801039?color=66365",
+    "product_id": "hair-accessories/",
+    "name": "Knit Hair Ties 6 Pack",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Crossover-Headband/_/prod20002303?color=36865",
+    "product_id": "hair-accessories/",
+    "name": "Crossover Headband",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Oversized-Scrunchie/_/prod20007783?color=21363",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Oversized Scrunchie Velvet",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Gold",
+      "Light Ivory/Gold",
+      "Blissful Pink/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Jewelled-Alligator-Clips-2-Pack/_/prod20000823?color=3385",
+    "product_id": "hair-accessories/",
+    "name": "Jewelled Alligator Clips 2 Pack",
+    "price": 24,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Black",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Oversized-Satin-Scrunchie/_/prod20004595?color=35486",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Oversized Satin Scrunchie",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.574Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Berry Rumble"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Womens-Velour-Headband/_/prod20006167?color=0001",
+    "product_id": "hair-accessories/",
+    "name": "Women's Velour Headband",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Red",
+      "White",
+      "Black",
+      "Strawberry Milkshake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Scrunchie-Big-Bow/_/prod10370203?color=28948",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Scrunchie Big Bow",
+    "price": 16,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Black/Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Scrunchies-3-Pack/_/prod11380613?color=0001",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Scrunchies 3 Pack",
+    "price": 24,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Galactic Cobalt/Lavender Frost",
+      "Deco Pink/Goodnight Plum"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Metal-Vent-Tech-Seamless-Wide-Headband-MD/_/prod11860282?color=70213",
+    "product_id": "hair-accessories/",
+    "name": "Metal Vent Tech Seamless Wide Headband",
+    "sale_price": 9,
+    "price": 18,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Glow-On-Hair-Ties-MD/_/prod8970074?color=0001",
+    "product_id": "hair-accessories/",
+    "name": "Glow On Hair Ties 3 Pack",
+    "sale_price": 9,
+    "price": 14,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blister Check Butter Cream Lavender Frost",
+      "Blister Check White Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Oversized-Scrunchie-MD/_/prod10642293?color=71000",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Oversized Scrunchie",
+    "sale_price": 9,
+    "price": 16,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Black/Black/Black/Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Glow-On-Hair-Ties-6P-MD/_/prod11380055?color=52610",
+    "product_id": "hair-accessories/",
+    "name": "Glow On Hair Ties 6 Pack",
+    "sale_price": 14,
+    "price": 28,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.575Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Small-Metal-Claw-Clips-2-Pack-MD/_/prod11770594?color=4195",
+    "product_id": "hair-accessories/",
+    "name": "Small Metal Claw Clips 2 Pack",
+    "sale_price": 9,
+    "price": 22,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Purple Flint/Persian Violet",
+      "French Press/Burnt Caramel",
+      "Island Breeze/Nimbus",
+      "Racer Pink/Rosey Cheeks"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Jumbo-Claw-Clip-MD/_/prod11870458?color=72251",
+    "product_id": "hair-accessories/",
+    "name": "Jumbo Claw Clip",
+    "sale_price": 14,
+    "price": 28,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Skinny-Scrunchie-6-Pack-MD/_/prod10390209?color=71537",
+    "product_id": "hair-accessories/",
+    "name": "Skinny Scrunchies 6 Pack",
+    "sale_price": 14,
+    "price": 28,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dusty Lilac",
+      "Lululemon Red",
+      "Pink Frosting",
+      "Deep Sea Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/W-Luxtreme-Training-Headband-MD/_/prod11580568?color=71200",
+    "product_id": "hair-accessories/",
+    "name": "Women's Luxtreme Training Headband",
+    "sale_price": 9,
+    "price": 14,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Island Breeze/Nimbus"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Medium-Claw-Hair-Clip-MD/_/prod11340286?color=65743",
+    "product_id": "hair-accessories/",
+    "name": "Medium Claw Hair Clip",
+    "sale_price": 9,
+    "price": 18,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Mini-Metal-Claw-Clips-4-Pack-MD/_/prod11801005?color=4195",
+    "product_id": "hair-accessories/",
+    "name": "Mini Metal Claw Clips 4 Pack",
+    "sale_price": 14,
+    "price": 28,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Pink Organza/Sheer Oak/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Mini-Claw-Logo-Clip-8-Pack-MD/_/prod20003150?color=71295",
+    "product_id": "hair-accessories/",
+    "name": "Mini Claw Logo Clip 8 Pack",
+    "sale_price": 14,
+    "price": 28,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue/Porcelain Pink/Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Multi-Band-Charm-Hair-Elastics-2-Pack-MD/_/prod20003646?color=74794",
+    "product_id": "hair-accessories/",
+    "name": "Multi-Band Charm Hair Elastics 2 Pack",
+    "sale_price": 9,
+    "price": 18,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.576Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Uplifting-Oversized-Satin-Scrunchie-MD/_/prod20004594?color=32507",
+    "product_id": "hair-accessories/",
+    "name": "Uplifting Oversized Satin Scrunchie",
+    "sale_price": 9,
+    "price": 16,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:22:53.577Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Racer Pink/Rosey Cheeks"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hair-accessories/Extra-Large-Claw-Hair-Clip-MD/_/prod11570580?color=72245",
+    "product_id": "hair-accessories/",
+    "name": "Extra Large Claw Hair Clip",
+    "sale_price": 19,
+    "price": 26,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hair-accessories/"
+  }
+]

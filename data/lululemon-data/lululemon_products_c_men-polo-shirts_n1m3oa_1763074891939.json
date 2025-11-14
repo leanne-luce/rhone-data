@@ -1,0 +1,799 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.933Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Berry Rumble",
+      "Club Blue",
+      "Heathered Sequoia",
+      "Blue Twill",
+      "Solar Grey",
+      "Heathered Starch Blue",
+      "Heathered Black",
+      "Nautical Navy",
+      "Black",
+      "Dilute Wash Graphite Grey",
+      "Dilute Wash Rockwood",
+      "Dilute Wash Nightmoth",
+      "Dilute Wash Washed Denim",
+      "Rainforest Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Evolution-Polo/_/prod6020330?color=28022",
+    "product_id": "mens-polos/",
+    "name": "Evolution Short-Sleeve Polo Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.936Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Berry Rumble",
+      "Club Blue",
+      "Heathered Sequoia",
+      "Blue Twill",
+      "Solar Grey",
+      "Heathered Starch Blue",
+      "Heathered Black",
+      "Nautical Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Evolution-Polo/_/prod6020330?color=28022",
+    "product_id": "mens-polos/",
+    "name": "Evolution Short-Sleeve Polo Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.936Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dilute Wash Graphite Grey",
+      "Dilute Wash Rockwood",
+      "Dilute Wash Nightmoth",
+      "Dilute Wash Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Cotton-Pique-Short-Sleeve-Polo-Shirt/_/prod20002327?color=66559",
+    "product_id": "mens-polos/",
+    "name": "Cotton Pique Short-Sleeve Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.936Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Rainforest Green",
+      "Club Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Evolution-Long-Sleeve-Polo-Shirt/_/prod11560102?color=38426",
+    "product_id": "mens-polos/",
+    "name": "Evolution Long-Sleeve Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.936Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Porcelain Beige",
+      "Rustic Red",
+      "Dark Forest",
+      "Black",
+      "Heathered Asphalt Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/New-Venture-Long-Sleeve-Knit-Polo-Shirt/_/prod11750250?color=68463",
+    "product_id": "mens-polos/",
+    "name": "New Venture Long-Sleeve Knit Polo Shirt",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pelican",
+      "Indochine Blue",
+      "Red Clay",
+      "Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Mens-ShowZero-Classic-Fit-Polo-Shirt/_/prod11870322?color=27401",
+    "product_id": "mens-polos/",
+    "name": "Men's ShowZero™ Classic-Fit Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pelican",
+      "Indochine Blue",
+      "Red Clay",
+      "Serene Blue",
+      "Bone",
+      "Club Blue",
+      "Rainforest Green",
+      "Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/ShowZero-Polo/_/prod11710514?color=27401",
+    "product_id": "mens-polos/",
+    "name": "Men's ShowZero™ Slim-Fit Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Heathered Vapor/Heathered Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Soft-Jersey-Short-Sleeve-Polo-Shirt/_/prod11750027?color=68578",
+    "product_id": "mens-polos/",
+    "name": "Soft Jersey Short-Sleeve Polo Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Yachtie Stripe Rockwood Deep Phantom",
+      "Yachtie Stripe Soft Ivory Sky Fall",
+      "Rustic Red",
+      "Black",
+      "Olive Brown",
+      "Melrose Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Long-Sleeve-Rugby-Shirt-Embroidery/_/prod20005775?color=33454",
+    "product_id": "mens-polos/",
+    "name": "Long-Sleeve Rugby Shirt Embroidery",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey/Black",
+      "Vapor/Solar Grey",
+      "White/White",
+      "Slate/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Metal-Vent-Tech-Polo-Shirt-3/_/prod11710151?color=33976",
+    "product_id": "mens-polos/",
+    "name": "Metal Vent Tech Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rustic Red",
+      "Dark Forest",
+      "True Navy",
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/New-Venture-Short-Sleeve-Knit-Polo-Shirt/_/prod11750494?color=71149",
+    "product_id": "mens-polos/",
+    "name": "New Venture Short-Sleeve Knit Polo Shirt",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/UV-Protective-Striped-Mesh-Tennis-Polo-Shirt/_/prod11870142?color=68578",
+    "product_id": "mens-polos/",
+    "name": "UV-Protective Striped Mesh Tennis Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Butter Cream",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Wool-Blend-Ribbed-Polo-Shirt/_/prod20004991?color=46927",
+    "product_id": "mens-polos/",
+    "name": "Wool-Blend Ribbed Polo Shirt",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Rainforest Green",
+      "Black",
+      "Bright White",
+      "Starch Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-ss-tops/WovenAir-Short-Sleeve-Popover-Shirt/_/prod20003079?color=31382",
+    "product_id": "men-ss-tops/",
+    "name": "WovenAir Short-Sleeve Popover Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-ss-tops/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.937Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Daydrift-Oversized-Jersey-Half-Zip-Polo-Shirt/_/prod20001851?color=0001",
+    "product_id": "mens-polos/",
+    "name": "Daydrift Oversized Zip-Neck Polo Shirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Heathered Fog Green",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Logo-Sport-Polo-Short-Sleeve-Updated-Fit/_/prod11870138?color=31382",
+    "product_id": "mens-polos/",
+    "name": "Logo Sport Polo Short Sleeve Updated Fit",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dilute Wash Warm Ash Grey",
+      "Serene Blue",
+      "Mink Berry",
+      "Fog Green",
+      "True Navy",
+      "Warm Ash Grey",
+      "Raceway Green",
+      "Starch Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Cotton-Pique-Short-Sleeve-Polo-Shirt-MD/_/prod20002326?color=71281",
+    "product_id": "mens-polos/",
+    "name": "Cotton Pique Short-Sleeve Polo Shirt",
+    "sale_price": 64,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Warm Ash Grey",
+      "Heathered Bay Leaf",
+      "Red Merlot",
+      "Heathered Light Ivory",
+      "Deco Pink",
+      "True Purple",
+      "Autumn Rust"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Evolution-Polo-MD/_/prod11530433?color=33454",
+    "product_id": "mens-polos/",
+    "name": "Evolution Short-Sleeve Polo Shirt",
+    "sale_price": 59,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Heathered Palm Deco/Heathered Bay Leaf",
+      "Heathered Classic Navy/Heathered True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Soft-Jersey-Short-Sleeve-Polo-Shirt-MD/_/prod11782450?color=38426",
+    "product_id": "mens-polos/",
+    "name": "Soft Jersey Short-Sleeve Polo Shirt",
+    "sale_price": 69,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Daydrift-Oversized-Jersey-Half-Zip-Polo-Shirt-MD/_/prod20001850?color=62214",
+    "product_id": "mens-polos/",
+    "name": "Daydrift Oversized Zip-Neck Polo Shirt",
+    "sale_price": 79,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Party",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/ShowZero-Polo-MD/_/prod11782404?color=25461",
+    "product_id": "mens-polos/",
+    "name": "Men's ShowZero™ Slim-Fit Polo Shirt",
+    "sale_price": 74,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Evolution-Long-Sleeve-Polo-Shirt-MD/_/prod11781457?color=69122",
+    "product_id": "mens-polos/",
+    "name": "Evolution Long-Sleeve Polo Shirt",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mink Berry",
+      "Graphite Grey",
+      "Light Ivory",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Organic-Pima-Cotton-Short-Sleeve-Polo-Shirt-MD/_/prod20000482?color=20392",
+    "product_id": "mens-polos/",
+    "name": "Organic Pima Cotton Short-Sleeve Polo Shirt",
+    "sale_price": 79,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/UV-Protective-Striped-Mesh-Tennis-Polo-Shirt-MD/_/prod11870144?color=32507",
+    "product_id": "mens-polos/",
+    "name": "UV-Protective Striped Mesh Tennis Polo Shirt",
+    "sale_price": 79,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fog Green",
+      "Black",
+      "Solar Grey",
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Textured-Mesh-SS-Polo-Shirt-MD/_/prod11740116?color=70144",
+    "product_id": "mens-polos/",
+    "name": "Textured Mesh Short-Sleeve Polo Shirt",
+    "sale_price": 74,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Classic-Fit-Pique-SS-Polo-Shirt-MD/_/prod11710310?color=33928",
+    "product_id": "mens-polos/",
+    "name": "Pique Classic-Fit Short-Sleeve Polo Shirt",
+    "sale_price": 59,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.938Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue",
+      "Black",
+      "Rainforest Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Relaxed-Fit-Long-Sleeve-Golf-Polo-Shirt-MD/_/prod20005490?color=32507",
+    "product_id": "mens-polos/",
+    "name": "Relaxed-Fit Long-Sleeve Golf Polo Shirt",
+    "sale_price": 79,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.939Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Gingham Stripe Rainforest Green Multi",
+      "Parallel Stripe Print Grey Oasis Vapor"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Logo-Sport-Polo-Short-Sleeve-Updated-Fit-MD/_/prod11870140?color=70187",
+    "product_id": "mens-polos/",
+    "name": "Logo Sport Polo Short Sleeve Updated Fit",
+    "sale_price": 74,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:01:31.939Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Slate/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-polos/Metal-Vent-Tech-Polo-Shirt-2-MD/_/prod11784419?color=0572",
+    "product_id": "mens-polos/",
+    "name": "Metal Vent Tech Polo Shirt",
+    "sale_price": 74,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-polos/"
+  }
+]

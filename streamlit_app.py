@@ -103,8 +103,12 @@ st.markdown("""
 
 
 @st.cache_data(ttl=3600)
-def load_data():
-    """Load product data from Supabase"""
+def load_data(brand_filter=None):
+    """Load product data from Supabase
+
+    Args:
+        brand_filter: Optional brand name to filter (e.g., 'Rhone', 'Vuori')
+    """
     try:
         client = SupabaseClient()
         products = client.get_all_products()
@@ -114,6 +118,10 @@ def load_data():
 
         # Convert to DataFrame
         df = pd.DataFrame(products)
+
+        # Filter by brand if specified
+        if brand_filter and "brand" in df.columns:
+            df = df[df["brand"] == brand_filter].copy()
 
         # Parse JSON fields
         for col in ["colors", "sizes", "fabrics", "images"]:
@@ -379,16 +387,65 @@ def display_category_analysis(df):
     # Show sample products from selected category
     st.markdown(f"### Sample Products from {selected_category}")
 
-    display_cols = ["name", "gender", "price"]
-    if "sale_price" in category_df.columns:
-        display_cols.append("sale_price")
-    if "colors" in category_df.columns:
-        display_cols.append("colors")
+    # Get sample products
+    sample_products = category_df.head(18)
 
-    available_cols = [col for col in display_cols if col in category_df.columns]
-    sample_df = category_df[available_cols].head(10)
+    # Create card layout - 6 columns
+    for i in range(0, len(sample_products), 6):
+        cols = st.columns(6)
+        for col_idx, col in enumerate(cols):
+            product_idx = i + col_idx
+            if product_idx < len(sample_products):
+                product = sample_products.iloc[product_idx]
 
-    st.dataframe(sample_df, hide_index=True, use_container_width=True)
+                with col:
+                    # Display product image
+                    if "images" in product and product["images"]:
+                        # Parse images if it's a JSON string
+                        images = product["images"]
+                        if isinstance(images, str):
+                            try:
+                                images = json.loads(images)
+                            except:
+                                images = []
+
+                        if images and len(images) > 0:
+                            st.image(images[0], use_container_width=True)
+
+                    # Product name
+                    st.markdown(f"**{product['name']}**")
+
+                    # Price info
+                    price_text = ""
+                    if "sale_price" in product and product["sale_price"] and product["sale_price"] != product.get("price"):
+                        price_text = f"~~${product['price']:.2f}~~ **${product['sale_price']:.2f}**"
+                    elif "price" in product and product["price"]:
+                        price_text = f"**${product['price']:.2f}**"
+
+                    if price_text:
+                        st.markdown(price_text)
+
+                    # Gender
+                    if "gender" in product and product["gender"]:
+                        st.caption(f"👤 {product['gender']}")
+
+                    # Colors available
+                    if "colors" in product and product["colors"]:
+                        colors = product["colors"]
+                        if isinstance(colors, str):
+                            try:
+                                colors = json.loads(colors)
+                            except:
+                                colors = []
+
+                        if colors and isinstance(colors, list):
+                            # Display color names
+                            color_text = ", ".join(colors[:5])  # Show first 5 colors
+                            if len(colors) > 5:
+                                color_text += f" +{len(colors) - 5} more"
+                            st.caption(f"🎨 {color_text}")
+
+                    st.markdown("---")
 
 
 def get_color_hex(color_name):
@@ -2530,6 +2587,328 @@ When answering questions:
             st.rerun()
 
 
+def display_vuori_analysis(df):
+    """Display Vuori competitor analysis with detailed metrics"""
+    st.markdown('<div class="section-header">🎽 Vuori Competitor Analysis</div>', unsafe_allow_html=True)
+
+    if df is None or len(df) == 0:
+        st.warning("No Vuori data available")
+        return
+
+    # 1. Total Products Metrics
+    col1, col2, col3 = st.columns(3)
+
+    total_products = len(df)
+    mens_products = len(df[df["gender"] == "Men"]) if "gender" in df.columns else 0
+    womens_products = len(df[df["gender"] == "Women"]) if "gender" in df.columns else 0
+
+    with col1:
+        st.metric("Total Products", f"{total_products:,}")
+
+    with col2:
+        st.metric("Men's Products", f"{mens_products:,}")
+
+    with col3:
+        st.metric("Women's Products", f"{womens_products:,}")
+
+    st.divider()
+
+    # 2. & 3. Men's and Women's Products by Category Pie Charts
+    st.markdown("### 📊 Products by Category")
+
+    if "category" in df.columns and "gender" in df.columns:
+        col1, col2 = st.columns(2)
+
+        with col1:
+            # Men's Products by Category Pie Chart
+            mens_df = df[df["gender"] == "Men"]
+            if len(mens_df) > 0:
+                mens_category_counts = mens_df["category"].value_counts().reset_index()
+                mens_category_counts.columns = ["Category", "Count"]
+                mens_category_counts["Percent"] = (mens_category_counts["Count"] / mens_category_counts["Count"].sum() * 100).round(1)
+                mens_category_counts["Label"] = mens_category_counts.apply(
+                    lambda row: f"{row['Category']}<br>{row['Count']} ({row['Percent']}%)", axis=1
+                )
+
+                fig_mens_cat = px.pie(
+                    mens_category_counts,
+                    values="Count",
+                    names="Category",
+                    title="Men's Products by Category",
+                    hole=0.3
+                )
+                fig_mens_cat.update_traces(
+                    textposition='inside',
+                    textinfo='label+percent',
+                    hovertemplate='<b>%{label}</b><br>Count: %{value}<br>Percent: %{percent}<extra></extra>'
+                )
+                fig_mens_cat.update_layout(height=400, margin=dict(l=20, r=20, t=40, b=20))
+                st.plotly_chart(fig_mens_cat, use_container_width=True)
+            else:
+                st.info("No men's products found")
+
+        with col2:
+            # Women's Products by Category Pie Chart
+            womens_df = df[df["gender"] == "Women"]
+            if len(womens_df) > 0:
+                womens_category_counts = womens_df["category"].value_counts().reset_index()
+                womens_category_counts.columns = ["Category", "Count"]
+                womens_category_counts["Percent"] = (womens_category_counts["Count"] / womens_category_counts["Count"].sum() * 100).round(1)
+                womens_category_counts["Label"] = womens_category_counts.apply(
+                    lambda row: f"{row['Category']}<br>{row['Count']} ({row['Percent']}%)", axis=1
+                )
+
+                fig_womens_cat = px.pie(
+                    womens_category_counts,
+                    values="Count",
+                    names="Category",
+                    title="Women's Products by Category",
+                    hole=0.3
+                )
+                fig_womens_cat.update_traces(
+                    textposition='inside',
+                    textinfo='label+percent',
+                    hovertemplate='<b>%{label}</b><br>Count: %{value}<br>Percent: %{percent}<extra></extra>'
+                )
+                fig_womens_cat.update_layout(height=400, margin=dict(l=20, r=20, t=40, b=20))
+                st.plotly_chart(fig_womens_cat, use_container_width=True)
+            else:
+                st.info("No women's products found")
+
+    st.divider()
+
+    # 4. Average Pricing by Category
+    st.markdown("### 💰 Average Pricing by Category")
+
+    if "price" in df.columns and "category" in df.columns:
+        avg_price_by_cat = df.groupby("category")["price"].mean().sort_values(ascending=True).reset_index()
+        avg_price_by_cat.columns = ["Category", "Avg Price"]
+        avg_price_by_cat["Avg Price"] = avg_price_by_cat["Avg Price"].round(2)
+
+        fig_avg_price = px.bar(
+            avg_price_by_cat,
+            x="Avg Price",
+            y="Category",
+            orientation="h",
+            title="Average Price by Category",
+            text="Avg Price",
+            color="Avg Price",
+            color_continuous_scale="Greens"
+        )
+        fig_avg_price.update_traces(texttemplate='$%{text:.2f}', textposition='outside')
+        fig_avg_price.update_layout(
+            height=400,
+            showlegend=False,
+            margin=dict(l=20, r=20, t=40, b=20),
+            xaxis_title="Average Price ($)",
+            yaxis_title="Category"
+        )
+        st.plotly_chart(fig_avg_price, use_container_width=True)
+
+    st.divider()
+
+    # 5. Top 20 Most Common Colors Bar Chart
+    st.markdown("### 🎨 Color Analysis")
+
+    if "colors" in df.columns:
+        # Explode colors column
+        colors_df = df.explode("colors")
+        colors_df = colors_df[colors_df["colors"].notna()]
+
+        if len(colors_df) > 0:
+            # Top 20 colors overall
+            color_counts = colors_df["colors"].value_counts().head(20).reset_index()
+            color_counts.columns = ["Color", "Count"]
+
+            fig_top_colors = px.bar(
+                color_counts,
+                x="Count",
+                y="Color",
+                orientation="h",
+                title="Top 20 Most Common Colors",
+                text="Count",
+                color="Count",
+                color_continuous_scale="Viridis"
+            )
+            fig_top_colors.update_traces(textposition='outside')
+            fig_top_colors.update_layout(
+                height=600,
+                showlegend=False,
+                margin=dict(l=20, r=20, t=40, b=20),
+                xaxis_title="Number of Products",
+                yaxis_title="Color"
+            )
+            st.plotly_chart(fig_top_colors, use_container_width=True)
+
+            st.divider()
+
+            # 6. & 7. Top 10 Colors in Men's and Women's Products
+            st.markdown("### 🎨 Top Colors by Gender")
+
+            if "gender" in colors_df.columns:
+                col1, col2 = st.columns(2)
+
+                with col1:
+                    # Top 10 Colors in Men's Products
+                    mens_colors_df = colors_df[colors_df["gender"] == "Men"]
+                    if len(mens_colors_df) > 0:
+                        mens_color_counts = mens_colors_df["colors"].value_counts().head(10).reset_index()
+                        mens_color_counts.columns = ["Color", "Count"]
+
+                        fig_mens_colors = px.bar(
+                            mens_color_counts,
+                            x="Count",
+                            y="Color",
+                            orientation="h",
+                            title="Top 10 Colors in Men's Products",
+                            text="Count",
+                            color="Count",
+                            color_continuous_scale="Blues"
+                        )
+                        fig_mens_colors.update_traces(textposition='outside')
+                        fig_mens_colors.update_layout(
+                            height=400,
+                            showlegend=False,
+                            margin=dict(l=20, r=20, t=40, b=20),
+                            xaxis_title="Number of Products",
+                            yaxis_title="Color"
+                        )
+                        st.plotly_chart(fig_mens_colors, use_container_width=True)
+                    else:
+                        st.info("No men's color data available")
+
+                with col2:
+                    # Top 10 Colors in Women's Products
+                    womens_colors_df = colors_df[colors_df["gender"] == "Women"]
+                    if len(womens_colors_df) > 0:
+                        womens_color_counts = womens_colors_df["colors"].value_counts().head(10).reset_index()
+                        womens_color_counts.columns = ["Color", "Count"]
+
+                        fig_womens_colors = px.bar(
+                            womens_color_counts,
+                            x="Count",
+                            y="Color",
+                            orientation="h",
+                            title="Top 10 Colors in Women's Products",
+                            text="Count",
+                            color="Count",
+                            color_continuous_scale="Reds"
+                        )
+                        fig_womens_colors.update_traces(textposition='outside')
+                        fig_womens_colors.update_layout(
+                            height=400,
+                            showlegend=False,
+                            margin=dict(l=20, r=20, t=40, b=20),
+                            xaxis_title="Number of Products",
+                            yaxis_title="Color"
+                        )
+                        st.plotly_chart(fig_womens_colors, use_container_width=True)
+                    else:
+                        st.info("No women's color data available")
+        else:
+            st.warning("No color data available")
+    else:
+        st.warning("Color data not available in dataset")
+
+    st.divider()
+
+    # 8. & 9. Sale vs Full Price by Category
+    st.markdown("### 🏷️ Sale vs Full Price by Category")
+
+    if "on_sale" in df.columns and "category" in df.columns and "gender" in df.columns:
+        col1, col2 = st.columns(2)
+
+        with col1:
+            # Men's Products: Sale vs Full Price by Category
+            mens_df = df[df["gender"] == "Men"]
+            if len(mens_df) > 0:
+                mens_sale_by_cat = mens_df.groupby(["category", "on_sale"]).size().reset_index(name="count")
+                mens_sale_by_cat["Status"] = mens_sale_by_cat["on_sale"].apply(lambda x: "On Sale" if x else "Full Price")
+
+                fig_mens_sale = px.bar(
+                    mens_sale_by_cat,
+                    x="count",
+                    y="category",
+                    color="Status",
+                    orientation="h",
+                    title="Men's Products: Sale vs Full Price by Category",
+                    text="count",
+                    barmode="stack",
+                    color_discrete_map={"On Sale": "#EF553B", "Full Price": "#636EFA"}
+                )
+                fig_mens_sale.update_traces(textposition='inside')
+                fig_mens_sale.update_layout(
+                    height=400,
+                    margin=dict(l=20, r=20, t=40, b=20),
+                    xaxis_title="Number of Products",
+                    yaxis_title="Category"
+                )
+                st.plotly_chart(fig_mens_sale, use_container_width=True)
+            else:
+                st.info("No men's sale data available")
+
+        with col2:
+            # Women's Products: Sale vs Full Price by Category
+            womens_df = df[df["gender"] == "Women"]
+            if len(womens_df) > 0:
+                womens_sale_by_cat = womens_df.groupby(["category", "on_sale"]).size().reset_index(name="count")
+                womens_sale_by_cat["Status"] = womens_sale_by_cat["on_sale"].apply(lambda x: "On Sale" if x else "Full Price")
+
+                fig_womens_sale = px.bar(
+                    womens_sale_by_cat,
+                    x="count",
+                    y="category",
+                    color="Status",
+                    orientation="h",
+                    title="Women's Products: Sale vs Full Price by Category",
+                    text="count",
+                    barmode="stack",
+                    color_discrete_map={"On Sale": "#EF553B", "Full Price": "#636EFA"}
+                )
+                fig_womens_sale.update_traces(textposition='inside')
+                fig_womens_sale.update_layout(
+                    height=400,
+                    margin=dict(l=20, r=20, t=40, b=20),
+                    xaxis_title="Number of Products",
+                    yaxis_title="Category"
+                )
+                st.plotly_chart(fig_womens_sale, use_container_width=True)
+            else:
+                st.info("No women's sale data available")
+
+    st.divider()
+
+    # 10. Sale Statistics
+    st.markdown("### 📊 Sale Statistics")
+
+    if "on_sale" in df.columns and "price" in df.columns:
+        col1, col2, col3 = st.columns(3)
+
+        # Calculate metrics
+        on_sale_count = df["on_sale"].sum()
+        on_sale_pct = (on_sale_count / len(df)) * 100 if len(df) > 0 else 0
+
+        avg_full_price = df["price"].mean() if "price" in df.columns else 0
+
+        # Calculate average sale price (only from products that are on sale)
+        sale_df = df[df["on_sale"] == True]
+        if "sale_price" in df.columns and len(sale_df) > 0:
+            avg_sale_price = sale_df["sale_price"].mean()
+        else:
+            avg_sale_price = 0
+
+        with col1:
+            st.metric("% of Products on Sale", f"{on_sale_pct:.1f}%")
+
+        with col2:
+            st.metric("Average Full Price", f"${avg_full_price:.2f}")
+
+        with col3:
+            st.metric("Average Sale Price", f"${avg_sale_price:.2f}" if avg_sale_price > 0 else "N/A")
+    else:
+        st.info("Sale and pricing data not available")
+
+
 def main():
     """Main dashboard function"""
 
@@ -2549,7 +2928,9 @@ def main():
                 "Line Plan",
                 # "Drop Schedule",  # Hidden for now
                 "Data Chat",
-                "Raw Data"
+                "Raw Data",
+                "--- Competitor Analysis ---",
+                "Vuori Analysis"
             ]
         )
 
@@ -2560,22 +2941,38 @@ def main():
             st.cache_data.clear()
             st.rerun()
 
-    # Load data
-    with st.spinner("Loading product data..."):
-        df = load_data()
+    # Load data based on selected page
+    if page == "Vuori Analysis":
+        # Load Vuori data for competitor analysis
+        with st.spinner("Loading Vuori product data..."):
+            df = load_data(brand_filter="Vuori")
+        brand_name = "Vuori"
+    else:
+        # Load Rhone data for all other pages (filter out competitors)
+        with st.spinner("Loading product data..."):
+            df = load_data(brand_filter="Rhone")
+        brand_name = "Rhone"
 
     if df is None:
         st.error("No data available. Please ensure you have scraped data and uploaded it to Supabase.")
         st.info("Steps to get started:\n1. Run the scraper: `cd scraper && scrapy crawl rhone`\n2. Upload data: `python database/upload_data.py`")
         return
 
-    st.sidebar.success(f"Loaded {len(df)} products")
+    st.sidebar.success(f"Loaded {len(df)} {brand_name} products")
     if "scraped_at" in df.columns:
         latest_scrape = pd.to_datetime(df["scraped_at"]).max()
-        st.sidebar.info(f"Last updated: {latest_scrape.strftime('%Y-%m-%d %H:%M')}")
+        if pd.notna(latest_scrape):
+            st.sidebar.info(f"Last updated: {latest_scrape.strftime('%Y-%m-%d %H:%M')}")
 
     # Display selected page
-    if page == "Overview":
+    if page == "--- Competitor Analysis ---":
+        st.info("Please select a competitor analysis page from the navigation menu.")
+        return
+
+    elif page == "Vuori Analysis":
+        display_vuori_analysis(df)
+
+    elif page == "Overview":
         display_overview(df)
 
     elif page == "Category Analysis":

@@ -1,0 +1,749 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.808Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Graphite Grey",
+      "Heathered Gull Grey",
+      "Heathered Teal Shadow",
+      "Heathered Misty Grey",
+      "Crepe",
+      "Colour Rib White/White",
+      "Colour Rib Black/Black",
+      "Goodnight Plum",
+      "Bone",
+      "Nutmeg",
+      "Heathered Blissful Pink",
+      "Contour Variegated Rib Brilliant Blue",
+      "Contour Variegated Rib Plum/Black Plum",
+      "Contour Variegated Rib Black",
+      "Contour Variegated Rib White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Wool-Blend-Cable-Knit-Sweater/_/prod20004367?color=43639",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Wool-Blend Cable-Knit Sweater",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.815Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Graphite Grey",
+      "Heathered Gull Grey",
+      "Heathered Teal Shadow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Wool-Blend-Cable-Knit-Sweater/_/prod20004367?color=43639",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Wool-Blend Cable-Knit Sweater",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.815Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Misty Grey",
+      "Crepe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Alpaca-Blend-Crewneck-Sweater/_/prod20004407?color=72086",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Alpaca-Blend Crewneck Sweater",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.815Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Colour Rib White/White",
+      "Colour Rib Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/Rest-Less-Pullover/_/prod5020032?color=59405",
+    "product_id": "tops-long-sleeve/",
+    "name": "Rest Less Pullover",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.816Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Goodnight Plum",
+      "Bone",
+      "Nutmeg"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Knit-Button-Front-Cardigan/_/prod11750609?color=68585",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Knit Button-Front Cardigan",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.816Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Graphite Grey",
+      "Heathered Teal Shadow",
+      "Heathered Gull Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Wool-Blend-Button-Up-Cardigan/_/prod20005019?color=43639",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Wool-Blend Button-Up Cardigan",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.816Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Misty Grey",
+      "Crepe",
+      "Heathered Blissful Pink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Alpaca-Blend-Tie-Front-Long-Cardigan/_/prod20001983?color=72086",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Alpaca-Blend Tie-Front Long Cardigan",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.817Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Contour Variegated Rib Brilliant Blue",
+      "Contour Variegated Rib Plum/Black Plum",
+      "Contour Variegated Rib Black",
+      "Contour Variegated Rib White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/Rest-Less-Variegated-Ribbed-Pullover/_/prod20007343?color=75940",
+    "product_id": "tops-long-sleeve/",
+    "name": "Rest Less Variegated Ribbed Pullover",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.817Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Blue Willow",
+      "Heathered Misty Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Alpaca-Blend-Collared-Half-Zip-Sweater/_/prod20004735?color=67131",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Alpaca-Blend Collared Half-Zip Sweater",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.817Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Mojave Tan/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Two-Tone-Fitted-Full-Zip-Sweater-SLNSH/_/prod11870873?color=69722",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Two-Tone Fitted Full-Zip Sweater SLNSH Collection",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.818Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Black",
+      "True Navy",
+      "Dark Red"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cashmere-Slim-Fit-Cardigan-MD/_/prod11790388?color=33454",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cashmere Slim-Fit Cardigan",
+    "sale_price": 179,
+    "price": 228,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.818Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Warm Beige",
+      "Strawberry Milkshake",
+      "Night Sea",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Reversible-Crossover-Sweater-MD/_/prod11783036?color=0001",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Reversible Crossover Sweater",
+    "sale_price": 79,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.818Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cashmere-Slim-Fit-Crewneck-Sweater-MD/_/prod11790380?color=0001",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cashmere Slim-Fit Crewneck Sweater",
+    "sale_price": 149,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.819Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Goodnight Plum Multi",
+      "Heathered Mink Berry Multi",
+      "Heathered Black Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Micro-Cable-Merino-Wool-Hooded-Cardigan-MD/_/prod20005542?color=72110",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Micro Cable Merino Wool Hooded Cardigan",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.819Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Blissful Pink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Alpaca-Blend-Crewneck-Sweater-MD/_/prod20004406?color=71345",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Alpaca-Blend Crewneck Sweater",
+    "sale_price": 119,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.819Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-Blend-Cable-Knit-Cardigan-MD/_/prod20005998?color=69773",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton-Blend Cable-Knit Cardigan",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.819Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Wild Indigo"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Wool-Blend-Button-Up-Cardigan-MD/_/prod20005018?color=59165",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Wool-Blend Button-Up Cardigan",
+    "sale_price": 119,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.819Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-Blend-Cable-Knit-Cardigan-Tennis-Club-MD/_/prod20001106?color=71026",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton-Blend Cable-Knit Cardigan Tennis Club",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Light Ivory",
+      "Club Blue/Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-Blend-Jacquard-Crewneck-Sweater-MD/_/prod20004606?color=42836",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton-Blend Jacquard Crewneck Sweater",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Colour Rib Pomegranate/Pink Peony"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/Rest-Less-Pullover-MD/_/prod11782387?color=59411",
+    "product_id": "tops-long-sleeve/",
+    "name": "Rest Less Pullover",
+    "sale_price": 74,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lululemon Red/Goodnight Plum/Light Ivory",
+      "Light Ivory/Club Blue/Nutmeg"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/Cotton-Blend-Long-Sleeve-Crew-MD/_/prod20005534?color=72786",
+    "product_id": "tops-long-sleeve/",
+    "name": "Cotton-Blend Long-Sleeve Crew",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pink Mist",
+      "Heathered Chroma Pink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/W-Alpaca-Wool-Blend-Cardigan-Sweater-MD/_/prod11790094?color=8313",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Women's Alpaca Wool-Blend Cardigan Sweater",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Medium Grey",
+      "Pink Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Alpaca-Wool-Blend-Cropped-Sweater-MD/_/prod11784367?color=31045",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Alpaca Wool-Blend Cropped Sweater",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Yachtie Stripe Club Blue Light Ivory",
+      "Yachtie Stripe Vapor White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-French-Terry-Crewneck-Pullover-MD/_/prod11870972?color=70966",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton French Terry Crewneck Pullover",
+    "sale_price": 69,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.820Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Storm Teal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cable-Knit-Oversized-Half-Zip-MD/_/prod11783603?color=63407",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cable-Knit Oversized Half Zip",
+    "sale_price": 119,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.821Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pink Haze",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cashmere-Scalloped-Cuff-Crewneck-MD/_/prod11870823?color=69005",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cashmere Scalloped Cuff Crewneck",
+    "sale_price": 129,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.821Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Raceway Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-Crochet-Mesh-Relaxed-Fit-Cardigan-MD/_/prod20000138?color=68578",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton Crochet Mesh Relaxed-Fit Cardigan",
+    "sale_price": 119,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.821Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-Crochet-Pullover-MD/_/prod20001286?color=69773",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton Crochet Pullover",
+    "sale_price": 109,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:21:51.821Z",
+    "is_homepage_product": false,
+    "category": "Sweaters",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cashmere-Scalloped-Cuff-Cardigan-MD/_/prod11871052?color=31664",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cashmere Scalloped Cuff Cardigan",
+    "sale_price": 149,
+    "price": 198,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  }
+]

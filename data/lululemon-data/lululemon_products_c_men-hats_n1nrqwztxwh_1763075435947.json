@@ -1,0 +1,1648 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.932Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Goodnight Plum",
+      "Heathered Sequoia",
+      "Heathered Bone",
+      "True Navy",
+      "Heathered Light Ivory",
+      "Indochine Blue",
+      "Blissful Pink",
+      "White",
+      "Heathered Olive Brown Multi",
+      "Heathered Asphalt Grey Multi",
+      "Heathered Black Multi",
+      "Heathered Porcelain Beige Multi",
+      "Jewelled Magenta/White",
+      "Black/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap/_/prod11520462?color=0001",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap/_/prod11520462?color=0001",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Goodnight Plum",
+      "Heathered Sequoia",
+      "Black",
+      "Heathered Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Close-Wool-Blend-Ribbed-Knit-Beanie/_/prod11130342?color=68585",
+    "product_id": "hats/",
+    "name": "Close-Fit Wool-Blend Ribbed Knit Beanie",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Removable-SweatbAll-Sport-Visor/_/prod11020309?color=0001",
+    "product_id": "hats/",
+    "name": "Removable Sweatband All-Sport Visor",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Light Ivory",
+      "Heathered Bone",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Warm-Revelation-Beanie-Wordmark/_/prod11750186?color=36168",
+    "product_id": "hats/",
+    "name": "Warm Revelation Beanie Wordmark",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Fleece-Run-Ear-Warmer/_/prod11530355?color=0001",
+    "product_id": "hats/",
+    "name": "Fast and Free Fleece Running Ear Warmer",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Heathered Light Ivory",
+      "Blissful Pink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Warm-Revelation-Beanie/_/prod9960888?color=28022",
+    "product_id": "hats/",
+    "name": "Warm Revelation Beanie",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.942Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Run-Hat/_/prod11520255?color=0001",
+    "product_id": "hats/",
+    "name": "Fast and Free Running Hat",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Olive Brown Multi",
+      "Heathered Asphalt Grey Multi",
+      "Heathered Black Multi",
+      "Heathered Porcelain Beige Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Ribbed-Merino-Wool-Beanie/_/prod20001163?color=73728",
+    "product_id": "hats/",
+    "name": "Ribbed Merino Wool Beanie",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Jewelled Magenta/White",
+      "Black/White",
+      "White/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Ball-Cap-Wordmark/_/prod11700328?color=19008",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Wordmark",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Trucker-Hat-Logo/_/prod11020363?color=70108",
+    "product_id": "hats/",
+    "name": "Trucker Hat Logo",
+    "price": 44,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Light Onyx",
+      "Heathered Nutmeg",
+      "Butter Pink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fuzzy-Cashmere-Beanie/_/prod20005755?color=74795",
+    "product_id": "hats/",
+    "name": "Fuzzy Cashmere Beanie",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Velour/_/prod20009483?color=21363",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Velour",
+    "price": 42,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Trucker-Hat-Stack/_/prod20006123?color=28022",
+    "product_id": "hats/",
+    "name": "Trucker Hat Stack",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Riverside",
+      "Black",
+      "Light Ivory",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Soft-Cap/_/prod11520436?color=21363",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Riverside",
+      "Atmospheric Purple",
+      "Black",
+      "Warm Ash Grey",
+      "Blissful Pink",
+      "True Navy",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Running-Hat-WovenAir/_/prod11720261?color=72622",
+    "product_id": "hats/",
+    "name": "Fast and Free Running Hat WovenAir",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Removable-SweatbAll-Sport-Visor-Woodmark/_/prod11460237?color=0024",
+    "product_id": "hats/",
+    "name": "Removable Sweatband All-Sport Visor Wordmark",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/White",
+      "Rainforest Green/White",
+      "Mink Berry/Twilight Rose",
+      "Light Ivory/Olive Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-Script/_/prod20003783?color=68898",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap Script",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.943Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Tennis-Crest/_/prod20007423?color=0002",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Tennis Crest",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy/Melrose Tan/Light Ivory",
+      "Light Ivory/Rockwood/Rockwood"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-Collegiate/_/prod20004167?color=73587",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap Collegiate",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Fleece-Run-Beanie/_/prod11530357?color=0001",
+    "product_id": "hats/",
+    "name": "Fast and Free Fleece Running Beanie",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Water-Resistant-Ball-Cap/_/prod20004555?color=0001",
+    "product_id": "hats/",
+    "name": "Water-Resistant Ball Cap",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Mesh-Panelled-Running-Cap-SLNSH-Collection/_/prod11860190?color=0001",
+    "product_id": "hats/",
+    "name": "Mesh-Panelled Running Cap SLNSH Collection",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Crepe",
+      "Heathered Blissful Pink/Heathered Misty Grey",
+      "Heathered Savier Grey/Black/Heathered Misty Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Alpaca-Wool-Blend-Beanie/_/prod11560134?color=72973",
+    "product_id": "hats/",
+    "name": "Alpaca Wool-Blend Beanie",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Multi-Panel-Reflective-Running-Hat/_/prod20004911?color=0001",
+    "product_id": "hats/",
+    "name": "Multi-Panel Reflective Running Hat",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dilute Wash Indochine Blue",
+      "Dilute Wash Jewelled Magenta",
+      "Dilute Wash Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Wash/_/prod11750198?color=72557",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Wash",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Camel Brown",
+      "Black/Graphite Grey",
+      "Olive Brown/Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Satin-Lined-Wool-Bucket-Hat/_/prod20006555?color=68784",
+    "product_id": "hats/",
+    "name": "Satin-Lined Wool Bucket Hat",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Multi-Panel-Running-Hat/_/prod11720267?color=0001",
+    "product_id": "hats/",
+    "name": "Multi-Panel Running Hat",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Quilted-Fleece-Lined-Bucket-Hat/_/prod20004711?color=21363",
+    "product_id": "hats/",
+    "name": "Quilted Fleece-Lined Bucket Hat",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Five-Panel-Hat/_/prod11870637?color=0001",
+    "product_id": "hats/",
+    "name": "Five-Panel Hat",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Warm Ash Grey",
+      "Black/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Reversible-Bucket-Hat/_/prod20003239?color=70968",
+    "product_id": "hats/",
+    "name": "Reversible Bucket Hat",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.944Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "From Afar Knit Jacquard Sheer Oak Muli"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Ribbed-Merino-Wool-Beanie-SLNSH-Collection/_/prod20005759?color=71284",
+    "product_id": "hats/",
+    "name": "Ribbed Merino Wool Beanie SLNSH Collection",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/All-Sport-Wide-Brim-Hat/_/prod11680367?color=33454",
+    "product_id": "hats/",
+    "name": "All Sport Wide-Brim Hat",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Removable-Sweatband-Formed-Visor/_/prod20002215?color=31382",
+    "product_id": "hats/",
+    "name": "Removable Sweatband Formed Visor",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green/White",
+      "Pool Party/White",
+      "White/True Navy",
+      "Serene Blue/White",
+      "Lululemon Red/White",
+      "True Navy/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Tennis-Club-MD/_/prod11784843?color=69263",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Tennis Club",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Black",
+      "Black/Bone",
+      "Light Ivory/Rainforest Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-1998-MD/_/prod20003454?color=41431",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap 1998",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Pink Organza"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-MD/_/prod11580454?color=70108",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Blissful Pink",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Soft-Cap-MD/_/prod11580453?color=35487",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-Move-in-Nature-MD/_/prod20004286?color=35487",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap Move in Nature",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Starch Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Wordmark-Lemon-MD/_/prod20005254?color=0002",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Wordmark Lemon",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Multi-Panel-Reflective-Running-Hat-MD/_/prod20004910?color=70108",
+    "product_id": "hats/",
+    "name": "Multi-Panel Reflective Running Hat",
+    "sale_price": 34,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Silver Drop",
+      "Blue Twill",
+      "Rockwood",
+      "Bay Leaf",
+      "Red Clay",
+      "Sunburst Orange",
+      "Calypso Pink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Running-Hat-WovenAir-MD/_/prod11770182?color=33454",
+    "product_id": "hats/",
+    "name": "Fast and Free Running Hat WovenAir",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.945Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Lavender Frost/White",
+      "Lululemon Red/White",
+      "Rockwood/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Ball-Cap-Wordmark-MD/_/prod11720554?color=70315",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Wordmark",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Fleece-Run-Beanie-MD/_/prod11660125?color=0001",
+    "product_id": "hats/",
+    "name": "Fast and Free Fleece Running Beanie",
+    "sale_price": 14,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Disney-lulu-Warm-Revelation-Beanie-MD/_/prod11800469?color=35064",
+    "product_id": "hats/",
+    "name": "Disney x lululemon Warm Revelation Beanie",
+    "sale_price": 24,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf",
+      "Olive Brown",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Five-Panel-Hat-MD/_/prod11870639?color=62214",
+    "product_id": "hats/",
+    "name": "Five-Panel Hat",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Run-Hat-M-Mesh-MD/_/prod10900129?color=0002",
+    "product_id": "hats/",
+    "name": "Men's Fast and Free Running Hat",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dilute Wash Lavender Frost",
+      "Dilute Wash Lava Cake",
+      "Dilute Wash Bay Leaf",
+      "Dilute Wash Dusty Lilac",
+      "Dilute Wash Galactic Cobalt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Wash-MD/_/prod11770313?color=71702",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Wash",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-Script-MD/_/prod20003782?color=73591",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap Script",
+    "sale_price": 29,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Spray Leopard Grey Multi/Nimbus",
+      "Wisp Yellow/Beaming Yellow",
+      "Black/Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Both-Ways-Bucket-Hat-MD/_/prod11770149?color=66647",
+    "product_id": "hats/",
+    "name": "Both Ways Reversible Bucket Hat",
+    "sale_price": 24,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pink Frosting/Mink Berry",
+      "Floral Burst Wp Pink Haze Sunburst Orange/Mink Berry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Reversible-Bucket-Hat-MD/_/prod20003238?color=74993",
+    "product_id": "hats/",
+    "name": "Reversible Bucket Hat",
+    "sale_price": 24,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Red Clay/Rockwood",
+      "Blissful Pink/Pink Frosting",
+      "Lavender Frost/Galactic Cobalt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Multi-Panel-Running-Hat-MD/_/prod11770132?color=72116",
+    "product_id": "hats/",
+    "name": "Multi-Panel Running Hat",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Gold Glow",
+      "Light Ivory/Oxblood"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-98-MD/_/prod20004966?color=73580",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap 98",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Blue Twill Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Ribbed-Merino-Wool-Beanie-MD/_/prod20001162?color=72109",
+    "product_id": "hats/",
+    "name": "Ribbed Merino Wool Beanie",
+    "sale_price": 29,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Trucker-Hat-Graphic-MD/_/prod11784778?color=0001",
+    "product_id": "hats/",
+    "name": "Trucker Hat Graphic",
+    "sale_price": 29,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.946Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pink Frosting"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Trucker-Hat-Logo-MD/_/prod11770093?color=71152",
+    "product_id": "hats/",
+    "name": "Trucker Hat Logo",
+    "sale_price": 24,
+    "price": 44,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Galactic Cobalt/Sunburst Orange",
+      "Rockwood/Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Structured-Ball-Cap-Graphic-MD/_/prod20005014?color=73583",
+    "product_id": "hats/",
+    "name": "Structured Ball Cap Graphic",
+    "sale_price": 29,
+    "price": 42,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Lip Gloss"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Disney-lulu-Structured-Classic-Ball-Cap-MD/_/prod11800357?color=28936",
+    "product_id": "hats/",
+    "name": "Disney x lululemon Structured Classic Ball Cap",
+    "sale_price": 24,
+    "price": 42,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Quilted-Fleece-Lined-Bucket-Hat-MD/_/prod20004710?color=32507",
+    "product_id": "hats/",
+    "name": "Quilted Fleece-Lined Bucket Hat",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Nylon-Bucket-Hat-MD/_/prod11710307?color=0001",
+    "product_id": "hats/",
+    "name": "Nylon Bucket Hat",
+    "sale_price": 29,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Removable-SweatbAll-Sport-Visor-MD/_/prod11230006?color=68684",
+    "product_id": "hats/",
+    "name": "Removable Sweatband All-Sport Visor",
+    "sale_price": 24,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Simple Stripe Washed Blue Chalk Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Textured-Stripe-MD/_/prod20001746?color=70295",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Textured Stripe",
+    "sale_price": 24,
+    "price": 42,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Classic-Ball-Cap-Tennis-MD/_/prod20000782?color=0002",
+    "product_id": "hats/",
+    "name": "Classic Ball Cap Tennis",
+    "sale_price": 24,
+    "price": 42,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:10:35.947Z",
+    "is_homepage_product": false,
+    "category": "Accessories",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raspberry Coulis"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/hats/Fast-and-Free-Run-Hat-MD/_/prod11770206?color=62220",
+    "product_id": "hats/",
+    "name": "Fast and Free Running Hat",
+    "sale_price": 29,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "hats/"
+  }
+]

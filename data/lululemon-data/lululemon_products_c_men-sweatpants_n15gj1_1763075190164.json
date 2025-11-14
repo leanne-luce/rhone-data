@@ -1,0 +1,1074 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.156Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Indochine Blue",
+      "Palm Deco",
+      "Rainforest Green",
+      "Blue Twill",
+      "Light Ivory",
+      "Heathered Core Ultra Light Grey",
+      "Black",
+      "True Navy",
+      "Riverside",
+      "Dove Grey",
+      "Olive Brown",
+      "Solar Grey",
+      "Sequoia",
+      "Steel Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger/_/prod11740065?color=70108",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.160Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Indochine Blue",
+      "Palm Deco",
+      "Rainforest Green",
+      "Blue Twill",
+      "Light Ivory",
+      "Heathered Core Ultra Light Grey",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger/_/prod11740065?color=70108",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.160Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Riverside",
+      "Rainforest Green",
+      "Dove Grey",
+      "Olive Brown",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Mens-Big-Cozy-Jogger-Regular/_/prod20003815?color=72622",
+    "product_id": "men-joggers/",
+    "name": "Men's Big Cozy Jogger Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.160Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Black",
+      "Sequoia",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Light Ivory",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Smooth-Spacer-Pintuck-Pant-Regular/_/prod20000527?color=38426",
+    "product_id": "mens-sweatpants/",
+    "name": "Smooth Spacer Pintuck Pant Regular",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.160Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Blue",
+      "Sequoia",
+      "Solar Grey",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Black",
+      "Light Ivory",
+      "Army Green",
+      "Heathered Core Ultra Light Grey",
+      "Nomad",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger/_/prod11710014?color=1179",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Regular",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.161Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Ivory",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Textured-Spacer-Relaxed-Straight-Pant/_/prod20000303?color=0001",
+    "product_id": "mens-sweatpants/",
+    "name": "Textured Spacer Relaxed Straight Pant",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.161Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Blue Twill/Heathered Dove Grey",
+      "Sequoia",
+      "Club Blue",
+      "Heathered Palm Deco/Heathered Bay Leaf",
+      "Rainforest Green",
+      "Black",
+      "Heathered Vapor/Heathered Silver Drop",
+      "Heathered Classic Navy/Heathered True Navy",
+      "Heathered Black/Heathered Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Soft-Jersey-Classic-Fit-Pant-Regular/_/prod11871677?color=72145",
+    "product_id": "mens-sweatpants/",
+    "name": "Soft Jersey Classic-Fit Pant Regular",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.161Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Club Blue",
+      "Heathered Palm Deco/Heathered Bay Leaf",
+      "Heathered Vapor/Heathered Silver Drop",
+      "Heathered Black/Heathered Graphite Grey",
+      "Heathered Classic Navy/Heathered True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger/_/prod11750031?color=49106",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Regular",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.161Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Rover/Black",
+      "Heathered Bone/Black",
+      "Heathered True Navy/Black",
+      "Heathered Melody Light Grey/Black",
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger/_/prod11560053?color=49852",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.161Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Navy",
+      "Heathered Olive Brown",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Merino-Wool-Joggers-Regular/_/prod20007199?color=28694",
+    "product_id": "men-joggers/",
+    "name": "Merino Wool Joggers Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.161Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Heathered Black/Heathered Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger-Tall/_/prod11871657?color=68578",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Tall",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Warm Ash Grey",
+      "Rainforest Green",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger-Tall/_/prod11800026?color=0001",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Tall",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Steel Blue",
+      "Warm Ash Grey",
+      "Black",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Tall/_/prod11800034?color=71148",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Tall",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Melody Light Grey/Black",
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-Tall/_/prod11720215?color=38068",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "True Navy",
+      "Black",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Regular/_/prod11871673?color=49106",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Heathered Core Ultra Light Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Tall/_/prod11871665?color=49106",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Tall",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Heathered Black/Heathered Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger-Shorter/_/prod11871661?color=68578",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Shorter",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Warm Ash Grey",
+      "Black",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger-Shorter/_/prod11800006?color=49106",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Heathered Core Ultra Light Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Shorter/_/prod11871669?color=49106",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Blue",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Black",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Shorter/_/prod11800050?color=1179",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Shorter",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.162Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Nomad/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Cotton-Fleece-Jogger-SLNSH-Collection/_/prod20000431?color=0001",
+    "product_id": "men-joggers/",
+    "name": "Cotton Fleece Jogger SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Ponte-Wide-Leg-Pintuck-Pant-SLNSH-Collection/_/prod20005011?color=0001",
+    "product_id": "mens-sweatpants/",
+    "name": "Ponte Wide-Leg Pintuck Pant SLNSH Collection",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Disney-lulu-Steady-State-Pant/_/prod11800427?color=35064",
+    "product_id": "mens-sweatpants/",
+    "name": "Disney x lululemon Steady State Pant",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Melody Light Grey/Black",
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-Short/_/prod11530026?color=38068",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Ultra Light Grey",
+      "Rockwood",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Jogger-Athletic-Club/_/prod20000907?color=32493",
+    "product_id": "men-joggers/",
+    "name": "Steady State Jogger Athletic Club",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mojave Tan",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Mens-Heavyweight-French-Terry-Pant-SLNSH/_/prod11860248?color=8206",
+    "product_id": "mens-sweatpants/",
+    "name": "Men's Heavyweight French Terry Pant SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heathered Ultra Light Grey/Sea Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/City-Sweat-Jogger-MD/_/prod9340012?color=0001",
+    "product_id": "men-joggers/",
+    "name": "City Sweat Jogger Regular",
+    "sale_price": 59,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf",
+      "Grey Sage",
+      "Oil Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-MD/_/prod11780162?color=62214",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Regular",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Regular-MD/_/prod11871675?color=36763",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Regular",
+    "sale_price": 74,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Classic Navy/Heathered True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Tapered-Pant-MD/_/prod11660162?color=64714",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Tapered Pant Regular",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Grey Sage/Heathered Asphalt Grey",
+      "Legacy Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger-MD/_/prod11780431?color=71128",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Regular",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nightfall"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger-MD/_/prod11780062?color=1263",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Regular",
+    "sale_price": 64,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.163Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor/Gull Grey/Black",
+      "Tri Heather Vapor/Gull Grey/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Engineered-Warmth-Jogger-M-MD/_/prod11780411?color=56949",
+    "product_id": "men-joggers/",
+    "name": "Engineered Warmth Jogger",
+    "sale_price": 104,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Medium Grey/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-MD/_/prod11780500?color=12256",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Regular",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Tall-MD/_/prod11800036?color=36763",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Tall",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Blackened Pine"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Shorter-MD/_/prod11800052?color=36763",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Shorter",
+    "sale_price": 89,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Shorter-MD/_/prod11871671?color=36763",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Shorter",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Tall-MD/_/prod11871667?color=36763",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Tall",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Heavyweight-Fleece-Jogger-MD/_/prod11800142?color=68684",
+    "product_id": "men-joggers/",
+    "name": "Heavyweight Fleece Jogger",
+    "sale_price": 94,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:06:30.164Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Medium Grey/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-Tall-MD/_/prod11780836?color=12256",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Tall",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  }
+]

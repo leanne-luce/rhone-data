@@ -1,0 +1,1670 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.342Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-raisin-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-raisin-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK067_M_MARK_TESI_NYC_015885.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-raisin-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.343Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-navy-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-navy-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HNV_FA24_M_ECOMM_TOPS_FULL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-navy-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.344Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy Heather",
+      "Charcoal Heather",
+      "Thyme Heather",
+      "Frost Grey Heather",
+      "Huckleberry Heather",
+      "Dusty Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-strato-tech-polo-navy-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-strato-tech-polo-navy-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1006HNV_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-strato-tech-polo-navy-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.344Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Raisin Heather",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188BLK_FA24_M_ECOMM_TOPS_FRONT_7.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.345Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Raisin Heather",
+      "Navy Heather",
+      "Black",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-charcoal-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-charcoal-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HCC_FA24_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.345Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Oregano Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-coronado-henley-relaxed-fit-salt-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-coronado-henley-relaxed-fit-salt-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2022HST_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-coronado-henley-relaxed-fit-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.345Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano Heather",
+      "Salt Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-coronado-henley-relaxed-fit-oregano-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-coronado-henley-relaxed-fit-oregano-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2022HOR_FA25_M_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-coronado-henley-relaxed-fit-oregano-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.346Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Navy",
+      "Marshmallow",
+      "Burgundy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-henley-huckleberry?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "waffle-henley-huckleberry/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1049HUK_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-henley-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.346Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Salt Heather",
+      "Oregano Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-coronado-henley-relaxed-fit-black-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-coronado-henley-relaxed-fit-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2022HBK_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-coronado-henley-relaxed-fit-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.346Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Huckleberry",
+      "Marshmallow",
+      "Burgundy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-henley-navy?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "waffle-henley-navy/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1049NVY_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-henley-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.346Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Blue Heather",
+      "Raisin Heather",
+      "Navy Heather",
+      "Black",
+      "Charcoal Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-pool-blue-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-pool-blue-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HPB_SP25_M_ECOMM_TOPS_FRONT_2_dbdf1f64-22aa-4dfd-b04c-cf29a0481c29.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-pool-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.347Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Thyme Heather",
+      "Frost Grey Heather",
+      "Huckleberry Heather",
+      "Dusty Blue Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-strato-tech-polo-charcoal-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-strato-tech-polo-charcoal-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1006HCC_FA24_M_ECOMM_TOPS_FRONT_7.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-strato-tech-polo-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.347Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Azure Heather",
+      "Black Heather",
+      "Flint Heather",
+      "Marsh Heather",
+      "White",
+      "Salt Heather",
+      "Frost Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-azure-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-azure-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HAZ_SP25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-azure-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.347Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Thyme Heather",
+      "Charcoal Heather",
+      "Frost Grey Heather",
+      "Huckleberry Heather",
+      "Dusty Blue Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-strato-tech-polo-thyme-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-strato-tech-polo-thyme-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1006THH_FA25_M_TOPS_FRONT_3_5943bf15-a23e-4151-9982-970772b16df2.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-strato-tech-polo-thyme-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.348Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marshmallow",
+      "Huckleberry",
+      "Navy",
+      "Burgundy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-henley-marshmallow?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "waffle-henley-marshmallow/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1049MSM_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-henley-marshmallow/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.348Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-huckleberry-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-huckleberry-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HHB_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.348Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Thyme Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-thyme-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-thyme-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188THH_FA25_M_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-thyme-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.349Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Flint Heather",
+      "Marsh Heather",
+      "White",
+      "Salt Heather",
+      "Frost Grey Heather",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-black-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HBK_SP25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.349Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-bluegrass-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-bluegrass-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188BGH_FA25_M_TOPS_FULL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-bluegrass-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.349Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-white?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188WHT_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Mist Heather",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-heather-grey?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-heather-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HTG_FA25_M_ECOMM_TOPS_FRONT_2_47fd2fe7-c385-413d-8cd7-eaf65c1b64ae.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mist Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Chambray Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-mist-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-mist-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HMS_SP25_M_ECOMM_TOPS_FULL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-mist-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Chambray Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Platinum Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-chambray-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-chambray-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HTY_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-chambray-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ever-henley-black?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ever-henley-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V165BLK_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ever-henley-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Flint Heather",
+      "Black Heather",
+      "Marsh Heather",
+      "White",
+      "Salt Heather",
+      "Frost Grey Heather",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-flint-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-flint-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HFT_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-flint-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Platinum Heather",
+      "Raisin Heather",
+      "Black",
+      "Charcoal Heather",
+      "Pool Blue Heather",
+      "Huckleberry Heather",
+      "Thyme Heather",
+      "Bluegrass Heather",
+      "White",
+      "Heather Grey",
+      "Mist Heather",
+      "Chambray Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-platinum-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "strato-tech-polo-platinum-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HPT_FA24_M_ECOMM_TOPS_DETAIL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-platinum-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.350Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Marsh Heather",
+      "Black Heather",
+      "Flint Heather",
+      "White",
+      "Salt Heather",
+      "Frost Grey Heather",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-marsh-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-marsh-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HEM_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-marsh-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey Heather",
+      "Charcoal Heather",
+      "Thyme Heather",
+      "Huckleberry Heather",
+      "Dusty Blue Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-strato-tech-polo-frost-grey-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-strato-tech-polo-frost-grey-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1006HFG_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-strato-tech-polo-frost-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Light Grey",
+      "White",
+      "Pond",
+      "Agate Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-ink?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "ace-polo-ink/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164INK_FA24_M_ECOMM_TOPS_FRONT_TOPS_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black Heather",
+      "Flint Heather",
+      "Marsh Heather",
+      "Salt Heather",
+      "Frost Grey Heather",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-white?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099WHT_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Black Heather",
+      "Flint Heather",
+      "Marsh Heather",
+      "White",
+      "Frost Grey Heather",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-salt-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-salt-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HST_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry Heather",
+      "Charcoal Heather",
+      "Thyme Heather",
+      "Frost Grey Heather",
+      "Dusty Blue Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-strato-tech-polo-huckleberry-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "long-sleeve-strato-tech-polo-huckleberry-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1006HHB_FA25_M_ECOMM_TOPS_DETAIL_10.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-strato-tech-polo-huckleberry-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Grey",
+      "Ink",
+      "White",
+      "Pond",
+      "Agate Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-light-grey?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "ace-polo-light-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164LTG_FA24_M_ECOMM_TOPS_FRONT_TOPS_7.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-light-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.351Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Ink",
+      "Light Grey",
+      "Pond",
+      "Agate Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-white?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "ace-polo-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164WHT_FA24_M_ECOMM_TOPS_DETAIL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pond",
+      "Ink",
+      "Light Grey",
+      "White",
+      "Agate Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-pond?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "ace-polo-pond/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164PND_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-pond/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agate Green",
+      "Ink",
+      "Light Grey",
+      "White",
+      "Pond",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-agate-green?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "ace-polo-agate-green/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164AGG_FA25_M_ECOMM_TOPS_FULL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-agate-green/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Burgundy",
+      "Huckleberry",
+      "Navy",
+      "Marshmallow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-henley-burgundy?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "waffle-henley-burgundy/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1049BRG_FA25_M_ECOMM_TOPS_CREATIVE_11_cc3f7e0a-892f-43bf-b760-2dc1420a12d2.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-henley-burgundy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ever-henley-white?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ever-henley-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V165WHT_FA24_M_ECOMM_TOPS_FRONT_TOPS_7_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ever-henley-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Ink",
+      "Light Grey",
+      "White",
+      "Pond",
+      "Agate Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/ace-polo-black?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "ace-polo-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V164BLK_FA24_M_ECOMM_TOPS_FRONT_TOPS_12.jpg"
+    ],
+    "badges": [],
+    "sku": "ace-polo-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Huckleberry",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-tuvalu-henley-huckleberry?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-tuvalu-henley-huckleberry/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V165HUK_FA25_M_ECOMM_TOPS_DETAIL_11.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-tuvalu-henley-huckleberry/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey Heather",
+      "Black Heather",
+      "Flint Heather",
+      "Marsh Heather",
+      "White",
+      "Salt Heather",
+      "Azure Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ponto-performance-polo-frost-grey-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ponto-performance-polo-frost-grey-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1099HFG_SP25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ponto-performance-polo-frost-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal",
+      "White",
+      "Sea Glass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-ace-button-up-charcoal?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-ace-button-up-charcoal/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V183CCL_SP24_M_ECOMM_TOPS_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-ace-button-up-charcoal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cavern Grey",
+      "Sky Grey",
+      "Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-performance-polo-2-0-cavern-grey?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-viewpoint-performance-polo-2-0-cavern-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1114CVG_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-performance-polo-2-0-cavern-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.352Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mist",
+      "Cavern Grey",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-performance-polo-2-0-mist?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-viewpoint-performance-polo-2-0-mist/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1114MIT_FA25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-performance-polo-2-0-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue",
+      "Zion Rose",
+      "Warm Grey",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-feather-polo-dusty-blue?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-feather-polo-dusty-blue/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1069DBL_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-feather-polo-dusty-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Beachsand Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/knit-twill-polo-beachsand-heather?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "knit-twill-polo-beachsand-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1004HBS_FA23_M_ECOMM_TOPS_FRONT_TOPS_18.jpg"
+    ],
+    "badges": [],
+    "sku": "knit-twill-polo-beachsand-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sky Grey",
+      "Cavern Grey",
+      "Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-performance-polo-2-0-sky-grey?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-viewpoint-performance-polo-2-0-sky-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1114SDG_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-performance-polo-2-0-sky-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Dusty Blue",
+      "Zion Rose",
+      "Warm Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-feather-polo-frost-grey?queryId=bb4544eea1d57e6a051945a766a39356&collection=polos-henleys",
+    "product_id": "short-sleeve-feather-polo-frost-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1069FGR_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-feather-polo-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Zion Rose",
+      "Dusty Blue",
+      "Frost Grey",
+      "Warm Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-feather-polo-zion-rose?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "short-sleeve-feather-polo-zion-rose/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1069ZRS_SP25_M_ECOMM_TOPS_FRONT_13.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-feather-polo-zion-rose/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Grey",
+      "Dusty Blue",
+      "Zion Rose",
+      "Frost Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-feather-polo-warm-grey?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "short-sleeve-feather-polo-warm-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1069WGR_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-feather-polo-warm-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Beachsand Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/knit-twill-polo-heather-grey?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "knit-twill-polo-heather-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1004HTG_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "knit-twill-polo-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Blue Heather",
+      "Charcoal Heather",
+      "Thyme Heather",
+      "Frost Grey Heather",
+      "Huckleberry Heather",
+      "Navy Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-strato-tech-polo-dusty-blue-heather?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "long-sleeve-strato-tech-polo-dusty-blue-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1006HYU_SP25_M_ECOMM_TOPS_FRONT_1.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-strato-tech-polo-dusty-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey",
+      "Charcoal Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-ease-performance-henley-light-heather-grey?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "long-sleeve-ease-performance-henley-light-heather-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V194LHG_FA24_M_ECOMM_TOPS_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-ease-performance-henley-light-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mocha Heather",
+      "Frost Grey Heather",
+      "Agave Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-mocha-heather?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "strato-tech-polo-mocha-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_StratoTechPolo_MochaHeather_2.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-mocha-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "White",
+      "Cashew"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/gamepoint-polo-frost-grey?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "gamepoint-polo-frost-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1028FGR_FA24_M_ECOMM_TOPS_FRONT_TOPS_2_844d2da3-34f8-4063-8bc8-4e12afb9abdf.jpg"
+    ],
+    "badges": [],
+    "sku": "gamepoint-polo-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.353Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey Heather",
+      "Mocha Heather",
+      "Agave Green Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-frost-grey-heather?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "strato-tech-polo-frost-grey-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HFG_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-frost-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/zephyr-polo-black-heather?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "zephyr-polo-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V1000HBK_FA22_M_ECOMM_TOP_0396.jpg"
+    ],
+    "badges": [],
+    "sku": "zephyr-polo-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Frost Grey",
+      "Cashew"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/gamepoint-polo-white?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "gamepoint-polo-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1028WHT_SP24_M_ECOMM_TOPS_FRONT_TOPS_3_215999e0-c5d1-4731-838f-853d33d1b826.jpg"
+    ],
+    "badges": [],
+    "sku": "gamepoint-polo-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Charcoal Heather",
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-ease-performance-henley-charcoal-heather?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "long-sleeve-ease-performance-henley-charcoal-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V194HCC_FA24_M_ECOMM_TOPS_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-ease-performance-henley-charcoal-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Navy",
+      "Mist",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-henley-navy?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "short-sleeve-viewpoint-henley-navy/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1063NVY_0440.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-henley-navy/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Agave Green Heather",
+      "Mocha Heather",
+      "Frost Grey Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/strato-tech-polo-agave-green-heather?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "strato-tech-polo-agave-green-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HLA_SP25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "strato-tech-polo-agave-green-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shale",
+      "Ink",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/boulevard-shirt-jacket-shale?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "boulevard-shirt-jacket-shale/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V281SHA_SP23_M_ECOMM_FLEECE_TOP_0965_1x1_944213d7-2deb-469c-9794-cb76fbdaf4f7.jpg"
+    ],
+    "badges": [],
+    "sku": "boulevard-shirt-jacket-shale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cashew",
+      "Frost Grey",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/gamepoint-polo-cashew?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "gamepoint-polo-cashew/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1028CSW_SP24_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "gamepoint-polo-cashew/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.354Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Shale",
+      "Sky Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/boulevard-shirt-jacket-ink?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "boulevard-shirt-jacket-ink/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V281INK_SP23_M_ECOMM_FLEECE_TOP_3837_1x1_47a0cbbd-b698-4023-8ca1-34f293de25f7.jpg"
+    ],
+    "badges": [],
+    "sku": "boulevard-shirt-jacket-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.355Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mist",
+      "Sky Grey",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-henley-mist?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "short-sleeve-viewpoint-henley-mist/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1063MIT_SP25_M_ECOMM_TOPS_CREATIVE_11.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-henley-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.355Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sky Grey",
+      "Mist",
+      "Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/short-sleeve-viewpoint-henley-sky-grey?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "short-sleeve-viewpoint-henley-sky-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1063SDG_SP25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "short-sleeve-viewpoint-henley-sky-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:00:39.355Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/austin-henley-light-heather-grey?queryId=962fca710df98eb3b9547ea0d82f394e&collection=polos-henleys",
+    "product_id": "austin-henley-light-heather-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V175LHG_FA23_M_ECOMM_TOPS_FRONT_TOPS_1.jpg"
+    ],
+    "badges": [],
+    "sku": "austin-henley-light-heather-grey/"
+  }
+]

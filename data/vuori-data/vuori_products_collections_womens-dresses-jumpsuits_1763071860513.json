@@ -1,0 +1,976 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.506Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Viridian",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-one-shot-tennis-dress-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-one-shot-tennis-dress-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW610BLK_SP25_W_ECOMM_dresses_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-one-shot-tennis-dress-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.506Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Black",
+      "Java"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-scoop-dress-blue-coast?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-scoop-dress-blue-coast/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW635BCO_FA25_W_ECOMM_DRESSES_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-scoop-dress-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.506Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Kale",
+      "Black",
+      "Smokey Taupe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-scoop-jumpsuit-kale?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-scoop-jumpsuit-kale/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4128KLE_SP25_W_ECOMM_DRESSES_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-scoop-jumpsuit-kale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.507Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sand Dollar"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-trestles-twill-romper-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-trestles-twill-romper-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3126BLK_FA25_W_ECOMM_DRESSES_CREATIVE_21.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-trestles-twill-romper-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.507Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-tennis-dress-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-daily-tennis-dress-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW629BLK_SP25_W_ECOMM_dresses_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-tennis-dress-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.507Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Light Mist",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-utility-romper-java?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-villa-utility-romper-java/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3137JAV_SP25_W_ECOMM_DRESSES_CREATIVE_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-utility-romper-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.507Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Kale",
+      "Smokey Taupe"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-scoop-jumpsuit-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-scoop-jumpsuit-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4128BLK_SP25_W_ECOMM_dresses_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-scoop-jumpsuit-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.507Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Java",
+      "Blue Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-scoop-dress-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-scoop-dress-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW635BLK_FA25_W_ECOMM_DRESSES_FULL_1_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-scoop-dress-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Viridian",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-one-shot-tennis-dress-viridian?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-one-shot-tennis-dress-viridian/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW610VRI_FA25_W_ECOMM_dresses_FULL_5copy.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-one-shot-tennis-dress-viridian/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Java",
+      "Light Mist"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-utility-romper-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-villa-utility-romper-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3137BLK_SP25_W_ECOMM_DRESSES_CREATIVE_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-utility-romper-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Mist",
+      "Java",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-villa-utility-romper-light-mist?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-villa-utility-romper-light-mist/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3137LMI_SP25_W_DRESSES_CREATIVE_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-villa-utility-romper-light-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smokey Taupe",
+      "Kale",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-scoop-jumpsuit-smokey-taupe?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-scoop-jumpsuit-smokey-taupe/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4128STP_FA25_W_ECOMM_DRESSES_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-scoop-jumpsuit-smokey-taupe/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Solid Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-racerback-dress-solid-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-halo-racerback-dress-solid-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW618SBK_SP25_W_ECOMM_dresses_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-racerback-dress-solid-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black",
+      "Viridian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-one-shot-tennis-dress-white?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-one-shot-tennis-dress-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW610WHT_SP25_W_ECOMM_dresses_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-one-shot-tennis-dress-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sand Dollar",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-trestles-twill-romper-sand-dollar?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-trestles-twill-romper-sand-dollar/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3126SDR_FA25_W_ECOMM_DRESSES_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-trestles-twill-romper-sand-dollar/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.508Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-tennis-dress-white?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-daily-tennis-dress-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW629WHT_SP25_W_ECOMM_dresses_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-tennis-dress-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Black",
+      "Blue Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-scoop-dress-java?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-scoop-dress-java/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW635JAV_FA25_W_ECOMM_DRESSES_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-scoop-dress-java/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-jumpsuit-black-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-halo-essential-jumpsuit-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4022HBK_FA23_W_ECOMM_PANTS_FRONT_BOTTOMS_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-jumpsuit-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Midnight Heather",
+      "Rosemary Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-falls-jumpsuit-black-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-falls-jumpsuit-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4004HBK_SP24_W_ECOMM_jumpsuits_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-falls-jumpsuit-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather",
+      "Rosemary Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-falls-jumpsuit-midnight-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-falls-jumpsuit-midnight-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4004HMD_SP24_W_ECOMM_jumpsuits_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-falls-jumpsuit-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Rosemary Heather",
+      "Black Heather",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-falls-jumpsuit-rosemary-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-falls-jumpsuit-rosemary-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4004HRM_SP24_W_ECOMM_jumpsuits_FULL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-falls-jumpsuit-rosemary-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-long-sleeve-halo-essential-dress-black-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-long-sleeve-halo-essential-dress-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW608HBK_FA23_W_ECOMM_dresses_FULL_ALT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-long-sleeve-halo-essential-dress-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.509Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Dark Metal",
+      "Chocolate"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-henley-jumpsuit-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-henley-jumpsuit-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4066BLK_SP24_W_ECOMM_jumpsuits_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-henley-jumpsuit-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-jumpsuit-midnight-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-halo-essential-jumpsuit-midnight-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4022HMD_SP24_W_ECOMM_jumpsuits_CREATIVE_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-jumpsuit-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Kale"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-jumpsuit-kale?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-vuori-allthefeels-jumpsuit-kale/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4125KLE_SP25_W_ECOMM_dresses_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-jumpsuit-kale/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Surf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-daily-tennis-dress-surf?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-daily-tennis-dress-surf/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW629SUR_SP25_W_ECOMM_DRESSES_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-daily-tennis-dress-surf/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Laurel"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-modern-dress-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-modern-dress-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW628BLK_SP25_W_ECOMM_dresses_FULL_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-modern-dress-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Lavender Mist",
+      "Pistachio"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-onesie-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-vuori-allthefeels-onesie-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3053BLK_SP24_W_ECOMM_SHORTS_SIDE_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-onesie-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Metal",
+      "Chocolate",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-henley-jumpsuit-dark-metal?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-henley-jumpsuit-dark-metal/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4066DMT_FA24_W_ECOMM_jumpsuits_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-henley-jumpsuit-dark-metal/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.510Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sangria"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-bondi-jumpsuit-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-bondi-jumpsuit-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4105BLK_FA24_W_ECOMM_jumpsuits_FULL_3.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-bondi-jumpsuit-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Ecru Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-racerback-dress-ecru-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-halo-racerback-dress-ecru-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW618HEE_SP25_W_ECOMM_dresses_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-racerback-dress-ecru-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-halo-essential-dress-black-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-halo-essential-dress-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW606HBK_4188.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-halo-essential-dress-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Laurel",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-modern-dress-laurel?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-modern-dress-laurel/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW628LAU_SP25_W_ECOMM_dresses_FULL_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-modern-dress-laurel/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-sands-dress-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-sands-dress-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW613BLK_FA23_W_ECOMM_dresses_FRONT_FULL_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-sands-dress-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Bergamot"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-one-shot-tennis-dress-light-bergamot?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-one-shot-tennis-dress-light-bergamot/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW610LBG_SP25_W_ECOMM_DRESSES_FULL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-one-shot-tennis-dress-light-bergamot/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sangria",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-bondi-jumpsuit-sangria?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-bondi-jumpsuit-sangria/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4105SNG_FA24_W_ECOMM_jumpsuits_CREATIVE_10.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-bondi-jumpsuit-sangria/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Mahogany"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-colorblock-corset-jumpsuit-mahogany?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-colorblock-corset-jumpsuit-mahogany/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4076MAH_FA23_W_ECOMM_PANTS_FRONT_BOTTOMS_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-colorblock-corset-jumpsuit-mahogany/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Lavender Mist",
+      "Pistachio",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-onesie-lavender-mist?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-vuori-allthefeels-onesie-lavender-mist/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3053LMT_SP25_W_ECOMM_dresses_CREATIVE_12.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-onesie-lavender-mist/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.511Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Midnight Heather",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-jogger-jumpsuit-midnight-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-lux-jogger-jumpsuit-midnight-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4067HMD_SP24_W_ECOMM_jumpsuits_FULL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-jogger-jumpsuit-midnight-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Midnight Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-jogger-jumpsuit-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-lux-jogger-jumpsuit-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4067BLK_SP24_W_ECOMM_jumpsuits_CREATIVE_1.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-jogger-jumpsuit-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-set-dress-white?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-set-dress-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW611WHT_SP24_W_ECOMM_dresses_FULL_4.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-set-dress-white/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Chocolate",
+      "Dark Metal",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-pose-henley-jumpsuit-chocolate?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-pose-henley-jumpsuit-chocolate/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4066CHO_SP24_W_ECOMM_jumpsuits_FULL_6.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-pose-henley-jumpsuit-chocolate/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Stone Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-lux-jumpsuit-stone-heather?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-lux-jumpsuit-stone-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/VW426HSO_SP23_W_ECOMM_PANTS_0005_FULL_1X1_3ddaf7cd-0cf1-4d83-b119-c6c7ca8f829f.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-lux-jumpsuit-stone-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-set-dress-black?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-set-dress-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW611BLK_SP24_W_ECOMM_dresses_DETAIL_5.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-set-dress-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pistachio",
+      "Lavender Mist",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/womens-vuori-allthefeels-onesie-pistachio?queryId=9e2fd1a868146432b256d12a6789b367&collection=womens-dresses-jumpsuits",
+    "product_id": "womens-vuori-allthefeels-onesie-pistachio/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW3053PSO_FA24_W_ECOMM_jumpsuits_CREATIVE_2.jpg"
+    ],
+    "badges": [],
+    "sku": "womens-vuori-allthefeels-onesie-pistachio/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T22:11:00.512Z",
+    "is_homepage_product": false,
+    "category": "Dresses",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/restore-relaxed-half-zip-hoodie-white?",
+    "product_id": "restore-relaxed-half-zip-hoodie-white/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW2103WHT_FA25_W_ECOMM_LAYERS_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "restore-relaxed-half-zip-hoodie-white/"
+  }
+]

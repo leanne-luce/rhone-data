@@ -1,0 +1,2405 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.687Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Black",
+      "Light Ivory/Gold",
+      "Black Plum",
+      "Light Ivory",
+      "Berry Rumble",
+      "Blush Quartz",
+      "Black Plum/Gold/Gold",
+      "Thawed Camo Black Multi",
+      "Indochine Blue/Gold/Gold",
+      "Mini Filigree Lace Grey Multi",
+      "Black/Gold/Gold",
+      "True Navy/Gold/Gold",
+      "True Navy/Mirror Silver/Mirror Silver",
+      "Nutmeg/Gold/Gold"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-steady-state-oversized-hoodie/e6h07os6mc?color=36865",
+    "product_id": "womens-steady-state-oversized-hoodie/",
+    "name": "Women's Steady State Oversized Hoodie",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new",
+      "best gift",
+      "trending"
+    ],
+    "sku": "womens-steady-state-oversized-hoodie/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.693Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Black",
+      "Light Ivory/Gold",
+      "Black Plum"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-steady-state-oversized-hoodie/e6h07os6mc?color=36865",
+    "product_id": "womens-steady-state-oversized-hoodie/",
+    "name": "Women's Steady State Oversized Hoodie",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-steady-state-oversized-hoodie/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.693Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Light Ivory",
+      "Black",
+      "Berry Rumble"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Womens-Steady-State-Crew/_/prod20008235?color=36865",
+    "product_id": "womens-outerwear/",
+    "name": "Women's Steady State Crew",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.694Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Blush Quartz",
+      "Black Plum/Gold/Gold",
+      "Thawed Camo Black Multi",
+      "Indochine Blue/Gold/Gold",
+      "Mini Filigree Lace Grey Multi",
+      "Black/Gold/Gold",
+      "True Navy/Gold/Gold",
+      "True Navy/Mirror Silver/Mirror Silver",
+      "Nutmeg/Gold/Gold",
+      "Dotted Magnolia Pink Multi",
+      "Heritage 365 Camo Deep Coal Multi",
+      "Sequoia",
+      "Blissful Pink/Gold/Gold",
+      "Rainforest Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Jacket-Nulu/_/prod11020158?color=21363",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Jacket Nulu",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.694Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Indochine Blue/Gold",
+      "Melrose Tan",
+      "Heathered Light Ivory/Gold",
+      "Black/Gold",
+      "Heathered Bone/Gold",
+      "Black",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Funnel-Neck-Long/_/prod11660574?color=21363",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Funnel-Neck Half Zip Long",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.694Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz/Gold/Gold",
+      "Dove Grey",
+      "Black/Gold/Gold",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Hooded-Define-Jacket-Nulu-2/_/prod11500122?color=74328",
+    "product_id": "womens-outerwear/",
+    "name": "Define Hooded Jacket Nulu",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.694Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Plum",
+      "Indochine Blue",
+      "Black/Mirror Silver/Mirror Silver",
+      "Calypso Pink",
+      "Black/Gold/Gold",
+      "Dusty Lilac",
+      "Palm Deco",
+      "Pink Haze/Rose Gold/Rose Gold",
+      "Sequoia",
+      "Blissful Pink",
+      "Goodnight Plum",
+      "Rainforest Green",
+      "True Navy/Mirror Silver/Mirror Silver",
+      "Light Ivory/Gold/Gold",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Nulu-Cropped-Define-Jacket/_/prod10930188?color=34697",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Cropped Jacket Nulu",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brilliant Blue",
+      "Berry Rumble/Gold",
+      "Black/Gold",
+      "Blissful Pink",
+      "Heathered Light Ivory/Gold",
+      "Strawberry Milkshake",
+      "True Navy/Gold",
+      "Heathered Core Ultra Light Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Hoodie-IV/_/prod8351133?color=33190",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Full-Zip Hoodie",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Brilliant Blue",
+      "Berry Rumble",
+      "Black Plum/Gold",
+      "Black/Gold",
+      "Dusty Lilac",
+      "Olive Brown/Gold",
+      "Heathered Nutmeg",
+      "Rainforest Green/Gold",
+      "Heathered Core Medium Grey",
+      "Sea Mist",
+      "Black",
+      "Heathered Bone/Gold",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-12-Zip-Hoodie/_/prod9960807?color=33190",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Half-Zip Hoodie",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Black Plum",
+      "Dove Grey",
+      "Black",
+      "Warm Ash Grey",
+      "Light Ivory",
+      "Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/BeCalm-Oversized-Boatneck-Long-Sleeve-Shirt/_/prod20004283?color=35486",
+    "product_id": "tops-long-sleeve/",
+    "name": "BeCalm Oversized Boatneck Long-Sleeve Shirt",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz",
+      "Brilliant Blue",
+      "Light Ivory/Gold",
+      "Black Plum",
+      "Black",
+      "Light Ivory",
+      "Black/Gold",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Half-Zip-Long-Hoodie/_/prod11871102?color=4397",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Half-Zip Hoodie Long",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Indochine Blue",
+      "Sequoia",
+      "Melrose Tan",
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Half-Zip-Hoodie/_/prod11870178?color=36865",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Half-Zip Long",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "trending"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Faux-Fur-Full-Zip-Hoodie/_/prod20004703?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Faux Fur Full-Zip Hoodie",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.695Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "True Navy/Mirror Silver",
+      "Indochine Blue",
+      "Calypso Pink/Silver",
+      "Oxblood/Silver",
+      "Nutmeg/Gold",
+      "Heathered Core Medium Grey",
+      "Rainforest Green",
+      "Black/Gold",
+      "Black",
+      "Pink Haze/Rose Gold",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Full-Zip/_/prod10440041?color=69780",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Full-Zip Hoodie",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Plush-Velour-Oversized-Half-Zip/_/prod20009319?color=36865",
+    "product_id": "womens-outerwear/",
+    "name": "Plush Velour Oversized Half Zip",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Indochine Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Full-Zip-Hoodie-Long/_/prod20003819?color=41179",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Full-Zip Hoodie Long",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black Plum",
+      "Olive Brown",
+      "Indochine Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Track-Jacket-Luon/_/prod20004331?color=34697",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Track Jacket Luon",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Ultra Light Grey",
+      "Heathered Mink Berry",
+      "Heathered Warm Ash Grey",
+      "Heathered Blue Twill",
+      "Heathered Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Full-Zip-Hoodie-Waffle/_/prod20004531?color=32493",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Full-Zip Hoodie Waffle",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "trending"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Square Heart Jacquard Java Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Define-Jacket-Jacquard/_/prod20000127?color=72338",
+    "product_id": "womens-outerwear/",
+    "name": "Define Jacket Jacquard",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Jacket/_/prod5020054?color=0001",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Jacket Luon",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Blue",
+      "True Navy/Gold/Gold",
+      "Dusty Lilac",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Define-Cropped-Hooded-Jacket-Nulu/_/prod11870681?color=71188",
+    "product_id": "womens-outerwear/",
+    "name": "Define Cropped Hooded Jacket Nulu",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown/Black/Light Ivory",
+      "Melrose Tan/Alpine Wood/True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Tumbled-Fleece-Half-Zip-Jacket/_/prod20001879?color=73108",
+    "product_id": "womens-outerwear/",
+    "name": "Tumbled Fleece Half-Zip Jacket",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Full-Zip-Hoodie/_/prod11680538?color=33454",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Full-Zip Hoodie",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Square Heart Jacquard Java Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Define-Cropped-Jacket-Jacquard/_/prod20000075?color=72338",
+    "product_id": "womens-outerwear/",
+    "name": "Define Cropped Jacket Jacquard",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.696Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Womens-Big-Cozy-Ultra-Oversized-Crew/_/prod20004875?color=71148",
+    "product_id": "womens-outerwear/",
+    "name": "Women's Big Cozy Ultra-Oversized Crew",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Ultra Light Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Loungeful-Relaxed-Fit-Full-Zip-Cropped-Hoodie/_/prod20004719?color=32493",
+    "product_id": "womens-outerwear/",
+    "name": "Loungeful Relaxed-Fit Full-Zip Cropped Hoodie",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Graphite Grey",
+      "Heathered Core Ultra Light Grey",
+      "Heathered Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Cropped-Funnel-Neck-Half-Zip-Waffle/_/prod20005887?color=43639",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Cropped Funnel-Neck Half Zip Waffle",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Nutmeg",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Loungeful-Relaxed-Fit-Crewneck-Sweatshirt/_/prod20005371?color=71343",
+    "product_id": "womens-outerwear/",
+    "name": "Loungeful Relaxed-Fit Crewneck Sweatshirt",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Riverstone",
+      "Bone",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Brushed-Softstreme-Half-Zip/_/prod11680498?color=38438",
+    "product_id": "womens-outerwear/",
+    "name": "Brushed Softstreme Half Zip",
+    "sale_price": 118,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/BeCalm-Hoodie/_/prod20000827?color=70108",
+    "product_id": "womens-outerwear/",
+    "name": "BeCalm Hoodie",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Seal Grey",
+      "Sunburst Orange/Orange Flash",
+      "True Navy/Cerulean Blue",
+      "Heathered Core Ultra Light Grey/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Fleece-Crew-Logo/_/prod20001239?color=54920",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Fleece Crew Logo",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "True Navy",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Its-Rulu-Cropped-Half-Zip-Updated/_/prod11830012?color=27597",
+    "product_id": "womens-outerwear/",
+    "name": "It's Rulu Cropped Half Zip Updated",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Light Ivory",
+      "Palm Deco"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/Its-Rulu-Cropped-Half-Zip-Chevron-Updated/_/prod20008195?color=41179",
+    "product_id": "tops-long-sleeve/",
+    "name": "It's Rulu Cropped Half Zip Chevron Updated",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Nomad/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Cotton-Fleece-Relaxed-Fit-Half-Zip-SLNSH/_/prod20004471?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Cotton Fleece Relaxed-Fit Half Zip SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/tops-long-sleeve/Its-Rulu-Half-Zip-Updated/_/prod20009339?color=41179",
+    "product_id": "tops-long-sleeve/",
+    "name": "It's Rulu Half-Zip Updated",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "tops-long-sleeve/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Palm Deco",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Wunder-Train-Full-Zip-Jacket/_/prod20005783?color=41179",
+    "product_id": "womens-outerwear/",
+    "name": "Wunder Train Full-Zip Jacket",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.697Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Oversized-Jacket-Luon/_/prod20000347?color=0002",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Oversized Jacket Luon",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "White",
+      "Indochine Blue",
+      "Deep Sea Blue",
+      "Calypso Pink",
+      "Palm Deco",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Its-Rulu-Ribbed-Cropped-Half-Zip-Updated/_/prod11840201?color=21363",
+    "product_id": "womens-outerwear/",
+    "name": "It's Rulu Ribbed Cropped Half Zip Updated",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Dove Grey",
+      "Graphite Grey",
+      "Melrose Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Womens-Big-Cozy-Ultra-Oversized-Hoodie/_/prod20005835?color=36865",
+    "product_id": "womens-outerwear/",
+    "name": "Women's Big Cozy Ultra-Oversized Hoodie",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Womens-Big-Cozy-Ultra-Oversized-Full-Zip-Hood-Long/_/prod20004863?color=36865",
+    "product_id": "womens-outerwear/",
+    "name": "Women's Big Cozy Ultra-Oversized Full-Zip Hoodie Long",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Funnel-Neck-Full-Zip/_/prod11250294?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Funnel-Neck Full Zip",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Waffle-Knit-Half-Zip-LS-Shirt/_/prod11580019?color=21363",
+    "product_id": "womens-outerwear/",
+    "name": "Waffle-Knit Half-Zip Long-Sleeve Shirt",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Ivory",
+      "Indochine Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Its-Rulu-Classic-Fit-Half-Zip/_/prod20000835?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "It's Rulu Classic-Fit Half Zip",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Medium Forest",
+      "Terra Orange",
+      "Parachute"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/NY-Sueded-Terry-Front-Overlap-Pullover/_/prod11580160?color=26839",
+    "product_id": "womens-outerwear/",
+    "name": "Lunar New Year Sueded Terry Front-Overlap Pullover",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Terra Orange"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/New-Year-Satin-Balloon-Sleeve-Jacket/_/prod11580191?color=62283",
+    "product_id": "womens-outerwear/",
+    "name": "Lunar New Year Satin Balloon-Sleeve Jacket",
+    "price": 158,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Fleece-Crew-Tennis-Graphic/_/prod20001839?color=0002",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Fleece Crew Tennis Graphic",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "From Afar Knit Jacquard Sheer Oak Muli"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Merino-Wool-Half-Zip-SLNSH-Collection/_/prod20005387?color=71284",
+    "product_id": "womens-outerwear/",
+    "name": "Merino Wool Half Zip SLNSH Collection",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Mystic"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Full-Zip-Hoodie-Pride/_/prod20000051?color=29725",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Full-Zip Hoodie Pride",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.698Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Yellow Serpentine"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Define-Mesh-Full-Zip-SLNSH-Collection/_/prod11870033?color=70622",
+    "product_id": "womens-outerwear/",
+    "name": "Define Mesh Full Zip SLNSH Collection",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-OS-Funnel-Neck-Half-Zip-Long-Boston-Bruins/_/prod20003875?color=0002",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Funnel-Neck Half Zip Long Boston Bruins",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak/Mojave Tan",
+      "Stoney/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Heavyweight-French-Terry-Full-Zip-SLNSH/_/prod11870053?color=68704",
+    "product_id": "womens-outerwear/",
+    "name": "Heavyweight French Terry Full Zip SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Crew-Golf/_/prod20005427?color=0002",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Crew Golf",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Natural Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Womens-Removable-Hood-Full-Zip-Hoodie-SLNSH/_/prod20004643?color=49844",
+    "product_id": "womens-outerwear/",
+    "name": "Women's Removable Hood Full-Zip Hoodie SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Loden Green/Gold",
+      "Aero Blue",
+      "Blissful Pink/Gold",
+      "Warm Ash Grey",
+      "Pink Organza",
+      "Fog Green/Gold",
+      "Starch Blue/Mirror Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Funnel-Neck-Long-MD/_/prod11690117?color=73482",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Funnel-Neck Half Zip Long",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill",
+      "Rockwood",
+      "Lemongrass"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-12-Zip-Hoodie-MD/_/prod10300103?color=71150",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Half-Zip Hoodie",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Bone",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Pullover-Wordmark-MD/_/prod11772635?color=27597",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Pullover Wordmark",
+    "sale_price": 69,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Smoky Red",
+      "Grey Sage",
+      "Silver Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Plush-Fleece-Curved-Hem-Pullover-MD/_/prod11730016?color=34646",
+    "product_id": "womens-outerwear/",
+    "name": "Plush Fleece Curved Hem Pullover",
+    "sale_price": 79,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue",
+      "Deep Sea Blue/Silver",
+      "Raceway Green",
+      "Sunburst Orange",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Full-Zip-MD/_/prod10550073?color=32507",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Full-Zip Hoodie",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.699Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Red Clay",
+      "Serene Blue",
+      "Mystic",
+      "Bay Leaf",
+      "Blue Twill",
+      "Aurora Haze Purple Multi",
+      "Goodnight Plum",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Jacket-Nulu-MD/_/prod11210211?color=71169",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Jacket Nulu",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Mink Berry",
+      "Serene Blue",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Half-Zip-Hoodie-MD/_/prod11870180?color=20392",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Half-Zip Long",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Cotton-Blend-Double-Knit-Oversized-Hoodie-MD/_/prod20004374?color=41179",
+    "product_id": "womens-outerwear/",
+    "name": "Cotton-Blend Double-Knit Oversized Hoodie",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Rockwood",
+      "Blissful Pink",
+      "Bay Leaf/Gold",
+      "Mauve Grey/Gold",
+      "Fog Green",
+      "Taupetastic",
+      "Crater Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Half-Zip-Long-Hoodie-MD/_/prod11871104?color=71195",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Half-Zip Hoodie Long",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Rockwood",
+      "Blue Twill/Gold/Gold",
+      "Serene Blue",
+      "Thawed Camo Warm Ash Grey Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Nulu-Cropped-Define-Jacket-MD/_/prod10980099?color=71195",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Cropped Jacket Nulu",
+    "sale_price": 109,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Riverstone",
+      "White Opal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Oversized-Crop-Crew-Softstreme-MD/_/prod10520781?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Perfectly Oversized Cropped Crew",
+    "sale_price": 59,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Legacy Green/White/Strawberry Milkshake",
+      "Heathered Core Ultra Light Grey/Alouette/White",
+      "Starch Blue/White/Spiced Chai",
+      "White/Alouette/Firecracker",
+      "True Navy/White/Firecracker"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Heavyweight-Fleece-Pullover-Tennis-Club-MD/_/prod11783956?color=73142",
+    "product_id": "womens-outerwear/",
+    "name": "Heavyweight Fleece Pullover Tennis Club",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Sheer Oak",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Crewneck-Oversized-Pullover-MD/_/prod11890037?color=33454",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Crewneck Oversized Pullover",
+    "sale_price": 59,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey/White",
+      "Olive Brown/Black",
+      "Rockwood/Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Track-Jacket-Luon-MD/_/prod20004330?color=70700",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Track Jacket Luon",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.700Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Pink Frosting",
+      "Lilac Ether/Gold",
+      "Citra Lime",
+      "Deep Sea Blue",
+      "Pink Dragonfruit",
+      "Pink Organza",
+      "Dark Forest"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Hoodie-IV-MD/_/prod9660019?color=71152",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Full-Zip Hoodie",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Red Clay",
+      "Palm Deco",
+      "Nightmoth",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Full-Zip-Hoodie-Long-MD/_/prod20003818?color=33454",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Full-Zip Hoodie Long",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heathered Core Ultra Light Grey",
+      "Serene Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Womens-Big-Cozy-Ultra-Oversized-Pullover-Tennis-MD/_/prod20000178?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Women's Big Cozy Ultra-Oversized Pullover Tennis",
+    "sale_price": 119,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Yachtie Stripe Heathered Core Medium Grey White",
+      "Yachtie Stripe True Navy Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Fleece-Crewneck-Pullover-MD/_/prod20002806?color=72999",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Fleece Crewneck Pullover",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Hooded-Define-Jacket-Nulu-2-MD/_/prod11782932?color=70108",
+    "product_id": "womens-outerwear/",
+    "name": "Define Hooded Jacket Nulu",
+    "sale_price": 109,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Vapor",
+      "Beech Wood"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/All-Yours-Hoodie-FT-MD/_/prod11782598?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "All Yours Hoodie French Terry",
+    "sale_price": 49,
+    "price": 108,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Washed Blue",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Full-Zip-Hoodie-MD/_/prod11730022?color=70135",
+    "product_id": "womens-outerwear/",
+    "name": "Softstreme Full-Zip Hoodie",
+    "sale_price": 109,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Teal Lagoon"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Funnel-Neck-Shirt-MD/_/prod10930231?color=48285",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Funnel-Neck Half Zip",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Teal Lagoon"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Side-Slit-Hoodie-MD/_/prod11784344?color=48285",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Side-Slit Hoodie",
+    "sale_price": 69,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Boundless Stripe Cafe Au Lait White Opal"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Cropped-Crew-Stripe-MD/_/prod11570571?color=68316",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Cropped Crew Stripe",
+    "sale_price": 69,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Nightmoth",
+      "Serene Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Smooth-Spacer-Cropped-Hoodie-Emboss-MD/_/prod20000326?color=71168",
+    "product_id": "womens-outerwear/",
+    "name": "Smooth Spacer Cropped Hoodie Emboss",
+    "sale_price": 109,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.701Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Goodnight Plum",
+      "Sheer Oak",
+      "Bone",
+      "Taupetastic",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Heavyweight-Fleece-Oversized-Hoodie-MD/_/prod11784247?color=68585",
+    "product_id": "womens-outerwear/",
+    "name": "Heavyweight Fleece Oversized Hoodie",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green/White",
+      "True Navy/White",
+      "White/Alouette",
+      "Black/White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Cotton-French-Terry-Crew-Pullover-Tennis-Club-MD/_/prod11870755?color=69263",
+    "product_id": "womens-outerwear/",
+    "name": "Cotton French Terry Crewneck Pullover Tennis Club",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Smooth-Spacer-Cropped-Pullover-Graphic-MD/_/prod11850332?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Smooth Spacer Cropped Pullover Graphic",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Black",
+      "Grey Eucalyptus",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Heavyweight-Fleece-Oversized-Pullover-MD/_/prod11870344?color=68684",
+    "product_id": "womens-outerwear/",
+    "name": "Heavyweight Fleece Oversized Pullover",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Crew-Graphic-MD/_/prod11783282?color=32493",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Crew Graphic",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Club Blue/Light Ivory",
+      "Pool Party/Light Ivory",
+      "Heathered Core Ultra Light Grey/Pool Party"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Perfectly-Oversized-Ringer-Crew-MD/_/prod20002534?color=69773",
+    "product_id": "womens-outerwear/",
+    "name": "Perfectly Oversized Ringer Crew",
+    "sale_price": 89,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Yachtie Stripe Club Blue Light Ivory",
+      "Yachtie Stripe Vapor White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sweaters-and-wraps/Cotton-French-Terry-Crewneck-Pullover-MD/_/prod11870972?color=70966",
+    "product_id": "women-sweaters-and-wraps/",
+    "name": "Cotton French Terry Crewneck Pullover",
+    "sale_price": 69,
+    "price": 88,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sweaters-and-wraps/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Aurora Haze Purple Multi",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Cropped-Hooded-Jacket-Mesh-MD/_/prod20002282?color=70212",
+    "product_id": "jackets-and-hoodies-jackets/",
+    "name": "Define Cropped Hooded Jacket Mesh",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "jackets-and-hoodies-jackets/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Funnel-Neck-Half-Zip-Velvet-MD/_/prod11800593?color=0001",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Oversized Funnel-Neck Half Zip Velvet",
+    "sale_price": 84,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Dark Red"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/NY-Relaxed-Fit-Hooded-Tunic-MD/_/prod20004590?color=28948",
+    "product_id": "womens-outerwear/",
+    "name": "Lunar New Year Relaxed-Fit Hooded Tunic",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "womens-outerwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:15:57.702Z",
+    "is_homepage_product": false,
+    "category": "Tops",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Hoodie-Plush-MD/_/prod9201358?color=8650",
+    "product_id": "womens-outerwear/",
+    "name": "Scuba Full-Zip Hoodie Plush",
+    "sale_price": 119,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "womens-outerwear/"
+  }
+]

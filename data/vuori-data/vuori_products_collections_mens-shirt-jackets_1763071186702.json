@@ -1,0 +1,651 @@
+[
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.688Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cavern Grey",
+      "Bluegrass",
+      "Raisin",
+      "Blue Coast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-flannel-button-down-shirt-cavern-grey?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "long-sleeve-flannel-button-down-shirt-cavern-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1142CVG_FA25_M_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-flannel-button-down-shirt-cavern-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.690Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Slate Blue Heather",
+      "Pumice Heather",
+      "Salt Heather",
+      "Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-slate-blue-heather?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "coronado-shirt-jacket-slate-blue-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009EBH_FA25_M_OUTERWEAR_DETAIL_7.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-slate-blue-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.690Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Salt",
+      "Cavern Grey",
+      "Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-black?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "seaside-shirt-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2016BLK_FA25_M_OUTERWEAR_FRONT_2_1.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.690Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raisin",
+      "Bluegrass",
+      "Blue Coast",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-flannel-button-down-shirt-raisin?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "long-sleeve-flannel-button-down-shirt-raisin/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK119_M_MARK_TESI_NYC_002424.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-flannel-button-down-shirt-raisin/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.691Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter",
+      "Shiitake",
+      "Toast"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/vuori-cord-jacket-dark-pewter?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "vuori-cord-jacket-dark-pewter/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V595DPR_FA25_M_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "vuori-cord-jacket-dark-pewter/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.691Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Root",
+      "Black",
+      "Ocean Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-mushroom?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "aspen-shirt-jacket-mushroom/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237SHR_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.692Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Pewter",
+      "Oregano",
+      "Mushroom"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/range-shirt-jacket-2-0-dark-pewter?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "range-shirt-jacket-2-0-dark-pewter/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK067_M_MARK_TESI_NYC_014680.jpg"
+    ],
+    "badges": [],
+    "sku": "range-shirt-jacket-2-0-dark-pewter/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.692Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt",
+      "Black",
+      "Cavern Grey",
+      "Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-salt?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "seaside-shirt-jacket-salt/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK071_M_AARON_FEAVER_SOHO_00231.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-salt/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.693Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Dark Pewter",
+      "Mushroom"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/range-shirt-jacket-2-0-oregano?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "range-shirt-jacket-2-0-oregano/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK137_M_MARK_TESI_NYC_002787.jpg"
+    ],
+    "badges": [],
+    "sku": "range-shirt-jacket-2-0-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.693Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Salt Heather",
+      "Pumice Heather",
+      "Black Heather",
+      "Slate Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-salt-heather?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "coronado-shirt-jacket-salt-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_CoronadoShirtJacket_SaltHeather_1.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-salt-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.693Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bluegrass",
+      "Raisin",
+      "Blue Coast",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-flannel-button-down-shirt-bluegrass?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "long-sleeve-flannel-button-down-shirt-bluegrass/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1142BGR_FA25_M_ECOMM_TOPS_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-flannel-button-down-shirt-bluegrass/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.693Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive",
+      "Salt",
+      "Black",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-olive?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "seaside-shirt-jacket-olive/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK141_M_MARK_TESI_NYC_010303.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-olive/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.693Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Oregano",
+      "Dark Pewter"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/range-shirt-jacket-2-0-mushroom?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "range-shirt-jacket-2-0-mushroom/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK090_M_MARK_TESI_NYC_005964.jpg"
+    ],
+    "badges": [],
+    "sku": "range-shirt-jacket-2-0-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.693Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pumice Heather",
+      "Salt Heather",
+      "Black Heather",
+      "Slate Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-pumice-heather?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "coronado-shirt-jacket-pumice-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009HPM_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-pumice-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.694Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Coast",
+      "Bluegrass",
+      "Raisin",
+      "Cavern Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-flannel-button-down-shirt-blue-coast?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "long-sleeve-flannel-button-down-shirt-blue-coast/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1142BCO_FA25_M_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-flannel-button-down-shirt-blue-coast/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.694Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ocean Blue",
+      "Mushroom",
+      "Root",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-ocean-blue?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "aspen-shirt-jacket-ocean-blue/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237OBL_FA25_M_ECOMM_OUTERWEAR_FRONT_4.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-ocean-blue/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.694Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Cavern Grey",
+      "Salt",
+      "Black",
+      "Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaside-shirt-jacket-cavern-grey?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "seaside-shirt-jacket-cavern-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK089_M_AARON_FEAVER_SOHO_00041.jpg"
+    ],
+    "badges": [],
+    "sku": "seaside-shirt-jacket-cavern-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.694Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Root",
+      "Mushroom",
+      "Black",
+      "Ocean Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-root?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "aspen-shirt-jacket-root/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V237ROO_FA25_M_OUTERWEAR_DETAIL_9.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-root/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.694Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Heather",
+      "Pumice Heather",
+      "Salt Heather",
+      "Slate Blue Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/coronado-shirt-jacket-black-heather?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "coronado-shirt-jacket-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2009HBK_FA24_M_ECOMM_jackets_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "coronado-shirt-jacket-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.695Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Mushroom",
+      "Root",
+      "Ocean Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/aspen-shirt-jacket-black?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "aspen-shirt-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK069_M_MARK_TESI_NYC_004689.jpg"
+    ],
+    "badges": [],
+    "sku": "aspen-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.695Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heather Grey",
+      "Dark Black Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/plymouth-wool-shirt-jacket-heather-grey?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "plymouth-wool-shirt-jacket-heather-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_RESTORE_LOOK01_GEORDY_PEARSON_CARLSBAD_3107.jpg"
+    ],
+    "badges": [],
+    "sku": "plymouth-wool-shirt-jacket-heather-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.695Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Ink",
+      "Mushroom"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-shirt-jacket-ink?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "waffle-shirt-jacket-ink/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_Chapter1_Look032_F_AARON_FEAVER_Oceanside_13544.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-shirt-jacket-ink/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.698Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Winter Grey Heather",
+      "Grey",
+      "Olive Heather"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/long-sleeve-jeffreys-button-down-overshirt-winter-grey-heather?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "long-sleeve-jeffreys-button-down-overshirt-winter-grey-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2031HWN_FA25_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "long-sleeve-jeffreys-button-down-overshirt-winter-grey-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.699Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Frost Grey",
+      "Huckleberry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/seaview-plaid-buttondown-shirt-frost-grey?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "seaview-plaid-buttondown-shirt-frost-grey/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V1050FGR_FA24_M_ECOMM_TOPS_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "seaview-plaid-buttondown-shirt-frost-grey/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.699Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Black Heather",
+      "Heather Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/plymouth-wool-shirt-jacket-dark-black-heather?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "plymouth-wool-shirt-jacket-dark-black-heather/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2036HRB_FA25_M_OUTERWEAR_DETAIL_8.jpg"
+    ],
+    "badges": [],
+    "sku": "plymouth-wool-shirt-jacket-dark-black-heather/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.699Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Oregano",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lawson-tech-shirt-jacket-black?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "lawson-tech-shirt-jacket-black/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/SP25_PDP_Mens_FletcherElasticWaistPants_Oatmeal_3.jpg"
+    ],
+    "badges": [],
+    "sku": "lawson-tech-shirt-jacket-black/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.699Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oregano",
+      "Black",
+      "Shiitake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lawson-tech-shirt-jacket-oregano?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "lawson-tech-shirt-jacket-oregano/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V596ORE_SP25_M_ECOMM_OUTERWEAR_FRONT_3.jpg"
+    ],
+    "badges": [],
+    "sku": "lawson-tech-shirt-jacket-oregano/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.699Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mushroom",
+      "Ink"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/waffle-shirt-jacket-mushroom?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "waffle-shirt-jacket-mushroom/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V2007SHR_FA25_M_ECOMM_OUTERWEAR_FRONT_2.jpg"
+    ],
+    "badges": [],
+    "sku": "waffle-shirt-jacket-mushroom/"
+  },
+  {
+    "brand": "Vuori",
+    "scraped_at": "2025-11-13T21:59:46.699Z",
+    "is_homepage_product": false,
+    "category": "Outerwear",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shiitake",
+      "Black",
+      "Oregano"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://vuoriclothing.com/products/lawson-tech-shirt-jacket-shiitake?queryId=046179422e9a90b578a8872b0defdb61&collection=mens-shirt-jackets",
+    "product_id": "lawson-tech-shirt-jacket-shiitake/",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA25_LOOK059_M_AARON_FEAVER_SOHO_00007.jpg"
+    ],
+    "badges": [],
+    "sku": "lawson-tech-shirt-jacket-shiitake/"
+  }
+]

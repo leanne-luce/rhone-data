@@ -1,0 +1,4032 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.469Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Women",
+    "currency": "USD",
+    "colors": [
+      "Black/Paisley Lace Jacquard Black",
+      "True Navy/Paisley Lace Jacquard True Navy",
+      "Black/Lace/Blissful Pink/Lace/Bone/Lace",
+      "Black/Lace/Strawberry Milkshake/Lace/Bone/Lace",
+      "Black",
+      "Sequoia",
+      "Light Ivory",
+      "Lavender Frost",
+      "Heathered Core Medium Grey",
+      "True Navy",
+      "White",
+      "Pool Party",
+      "Deco Pink",
+      "Goodnight Plum",
+      "Berry Rumble"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Nulu-Paisley-Lace-Back-Yoga-Bra-Light-Support-BC/_/prod20009011?color=72660",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Nulu Paisley Lace-Back Yoga Bra Light Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new",
+      "best gift"
+    ],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.488Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Paisley Lace Jacquard Black",
+      "True Navy/Paisley Lace Jacquard True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Nulu-Paisley-Lace-Back-Yoga-Bra-Light-Support-BC/_/prod20009011?color=72660",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Nulu Paisley Lace-Back Yoga Bra Light Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.489Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Lace/Blissful Pink/Lace/Bone/Lace",
+      "Black/Lace/Strawberry Milkshake/Lace/Bone/Lace",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Lace-Thong-Underwear-3P/_/prod11380593?color=73403",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Thong Underwear  Performance Lace 3 Pack",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.489Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sequoia",
+      "Light Ivory",
+      "Lavender Frost",
+      "Heathered Core Medium Grey",
+      "True Navy",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Focuser-Scoop-Neck-Bra-Nulu-Light-Support-AB-Cup/_/prod11871018?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Focuser Scoop-Neck Bra Nulu Light Support, A/B Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.489Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Sequoia",
+      "Lavender Frost",
+      "Heathered Core Medium Grey",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Focuser-Scoop-Neck-Bra-Nulu-Light-Support-CD-Cup/_/prod11871277?color=0002",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Focuser Scoop-Neck Bra Nulu Light Support, C/D Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.489Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Party",
+      "White",
+      "Deco Pink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Stretch-Cotton-Ribbed-Logo-HR-Thong-Underwear/_/prod11871373?color=25461",
+    "product_id": "women-underwear/",
+    "name": "Stretch Cotton Ribbed Logo High-Rise Thong Underwear",
+    "price": 20,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.489Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Goodnight Plum",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Stretch-Cotton-Ribbed-Logo-Bralette-BC-Cup/_/prod11871449?color=68585",
+    "product_id": "women-sports-bras/",
+    "name": "Stretch Cotton Ribbed Logo Bralette B/C Cup",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.490Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Deco Pink",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Stretch-Cotton-Ribbed-Logo-Super-High-Rise-Shortie/_/prod11871365?color=0002",
+    "product_id": "women-underwear/",
+    "name": "Stretch Cotton Ribbed Logo Super-High-Rise Shortie Underwear",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.490Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Blush Quartz",
+      "Indochine Blue",
+      "Leopardo Shift Micro Emboss Black",
+      "Dark Court Purple",
+      "Calypso Pink",
+      "Dusty Lilac",
+      "White",
+      "Warm Ash Grey",
+      "Washed Blue",
+      "Sequoia",
+      "Goodnight Plum",
+      "Thawed Camo Warm Ash Grey Multi",
+      "Fog Green",
+      "Mauve Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Bra-Nulu/_/prod8910081?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "Flow Y Bra Nulu Light Support, A–C Cups",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.491Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Twilight Rose/Misty Shell",
+      "French Press/Twilight Rose/Misty Shell",
+      "Black/Bone/Lace Dot White Graphite Grey",
+      "Black/Bone/Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-USoft-Nulu-Dip-Waist-Thong-3/_/prod11680720?color=68971",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu Dipped-Waist Thong Underwear 3 Pack",
+    "price": 62,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.491Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz",
+      "Berry Rumble",
+      "Black Plum",
+      "Mini Filigree Lace Grey Multi",
+      "Indochine Blue",
+      "Calypso Pink",
+      "Dusty Lilac",
+      "Red Clay",
+      "Deep Sea Blue",
+      "Washed Blue",
+      "Rainforest Green",
+      "Black",
+      "White",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-Long-Line/_/prod9030660?color=4397",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Longline Bra Medium Support, B–D Cups",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.491Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Atmospheric Purple/Flower Dot Light Vapor Atmospheric Purple",
+      "Black/Java",
+      "Starch Blue/Silver Drop",
+      "Lavender Frost/Pink Organza",
+      "Espresso/Black",
+      "Black/French Press",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-SHR-Shortie-2Pack/_/prod11250346?color=74385",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Super-High-Rise Shortie Underwear 2 Pack",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.491Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Blush Quartz",
+      "Dove Grey",
+      "Rainforest Green",
+      "Sequoia",
+      "Nutmeg",
+      "Ocean Air",
+      "Lavender Frost",
+      "Club Blue",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Bra-Long-Line/_/prod10190199?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Longline Bra Light Support, B/C Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.491Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Light Ivory/Blush Quartz",
+      "Dusty Clay/Misty Shell/Sandcastle",
+      "Deep Sea Blue/Blissful Pink/Calypso Pink",
+      "Floral Burst Wp White Black/Blissful Pink/Misty Shell",
+      "Black/Blue Twill/Floral Burst Wp Starch Blue Dusty Lilac",
+      "Black/Nutmeg/Blissful Pink",
+      "Lavender Frost/Pink Organza/Chilled Grape",
+      "Black/Bone/Pink Organza",
+      "Black/Jumie Stripe White Vapor/Jumie Stripe Rhino Grey Black",
+      "Pink Haze/Light Ivory/Black",
+      "Black/Twilight Rose/Misty Shell",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Thong-Underwear-3Pack/_/prod10520456?color=74389",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Thong Underwear 3 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.492Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Goodnight Plum",
+      "Warm Ash Grey",
+      "Sheer Oak",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wundermost-Nulu-Scoop-Spag-Bra-AD/_/prod11530118?color=36865",
+    "product_id": "women-sports-bras/",
+    "name": "Wundermost Ultra-Soft Nulu Scoop-Neck Bralette A-D Cups",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.492Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Twilight Rose/Misty Shell",
+      "Dusty Clay/Misty Shell/Sandcastle",
+      "Light Ivory/Faint Lavender/Black Plum",
+      "Pink Organza/Starch Blue/Lavender Frost",
+      "Black/Pink Organza/Silver Drop",
+      "Black/Pink Clay/Sandcastle",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-HR-Thong-Underwear-3P/_/prod11130312?color=68971",
+    "product_id": "women-underwear/",
+    "name": "UnderEase High-Rise Thong Underwear 3 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.492Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Variegated Stripe Pink Frosting Rock Melon",
+      "Calypso Pink",
+      "Variegated Stripe Twice Blue Yellow Serpentine",
+      "Pink Frosting",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Bend-This-Scoop-Cross-Bra-A-C-Cups/_/prod11710317?color=72034",
+    "product_id": "women-sports-bras/",
+    "name": "Bend This Scoop and Cross Bra Light Support, A-C Cups",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.492Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-Usoft-Nulu-MR-Bikini-Underwear-3P/_/prod11680314?color=0001",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu Mid-Rise Bikini Underwear 3 Pack",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.492Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mini Filigree Lace Grey Multi",
+      "Blush Quartz",
+      "Berry Rumble",
+      "Indochine Blue",
+      "Black Plum",
+      "Calypso Pink",
+      "Red Clay",
+      "Dusty Lilac",
+      "Bay Leaf",
+      "Deep Sea Blue",
+      "Rainforest Green",
+      "True Navy",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-32925/_/prod9360058?color=72612",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Bra Medium Support, B–D Cups",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.494Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz",
+      "Black Plum",
+      "Indochine Blue",
+      "Calypso Pink",
+      "Dusty Lilac",
+      "Sunburst Orange",
+      "Pool Party",
+      "Palm Deco",
+      "Sequoia",
+      "True Navy",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Longline-Bra-Medium-Support-BD-Cup-Evolve/_/prod11870998?color=4397",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Longline Bra Medium Support, B-D Cups Evolve",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.494Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Sequoia",
+      "Blue Twill",
+      "Leopardo Shift Micro Emboss Black",
+      "True Navy",
+      "Rainforest Green",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Align-V-Neck-Bra-AB-Cup/_/prod11450010?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Align™ V-Neck Bra Light Support, A/B Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.494Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz",
+      "Indochine Blue",
+      "Black Plum",
+      "Calypso Pink",
+      "Rainforest Green",
+      "White",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Free-To-Be-Bra-Wild/_/prod2810229?color=4397",
+    "product_id": "women-sports-bras/",
+    "name": "Free to Be Bra - Wild Light Support, A/B Cup",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.494Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Variegated Stripe Pink Frosting Rock Melon",
+      "Variegated Stripe Twice Blue Yellow Serpentine",
+      "Calypso Pink",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Bend-This-Scoop-Square-Bra-A-C-Cups/_/prod11720010?color=72034",
+    "product_id": "women-sports-bras/",
+    "name": "Bend This Scoop and Square Bra Light Support, A-C Cups",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.494Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Indochine Blue",
+      "Dark Court Purple",
+      "Black",
+      "Leopardo Shift Micro Emboss Brown",
+      "Cosmic Leopard Multi",
+      "Sequoia",
+      "Goodnight Plum",
+      "Rainforest Green",
+      "White",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Race-Bra-Light-AB/_/prod11520056?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Strappy Racer Bra Light Support, A/B Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.495Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Indochine Blue",
+      "Dark Court Purple",
+      "Sequoia",
+      "Cosmic Leopard Multi",
+      "Blue Twill",
+      "Goodnight Plum",
+      "Rainforest Green",
+      "True Navy",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Race-Bra-Light-CD/_/prod11520057?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Strappy Racer Bra Light Support, C/D Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.495Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Washed Denim",
+      "Raspberry Coulis",
+      "Pink Haze",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Run-Times-Bra/_/prod9520104?color=62220",
+    "product_id": "women-sports-bras/",
+    "name": "Run Times Bra High Support, B–G Cups",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.495Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Blush Quartz",
+      "Black Plum",
+      "Palm Deco",
+      "Ocean Air",
+      "Heathered Core Medium Grey",
+      "Club Blue",
+      "Rainforest Green",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Longline-Bra/_/prod10850248?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Longline Bra Light Support, D/DD Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.495Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black Plum",
+      "Indochine Blue",
+      "Blush Quartz",
+      "Calypso Pink",
+      "Sunburst Orange",
+      "Dusty Lilac",
+      "Sequoia",
+      "Blue Twill",
+      "True Navy",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-Medium-Support-B-D-Cups-Evolve/_/prod11870721?color=34697",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Bra Medium Support, B-D Cups Evolve",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.495Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Sequoia",
+      "Blue Twill",
+      "Rainforest Green",
+      "Black",
+      "White",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Align-V-Neck-Bra-CD-Cup/_/prod11440042?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Align™ V-Neck Bra Light Support, C/D Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.495Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Berry Rumble",
+      "Deep Sea Blue",
+      "White",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-High-Support/_/prod10520356?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Bra High Support, B–G Cups",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Dusty Lilac",
+      "Washed Blue",
+      "Rainforest Green",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-LL-Ribbed-BC/_/prod10850247?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Ribbed Longline Bra Light Support, B/C Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dusty Lilac",
+      "Deep Sea Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Wunder-Train-Strappy-Wrapped-Bra-Light-Support-AB/_/prod20001455?color=71200",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Wunder Train Strappy Wrapped Bra Light Support, A/B Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Blue",
+      "Black",
+      "Dusty Lilac"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Wunder-Train-Strappy-Wrapped-Bra-Light-Support-CD/_/prod20001335?color=71188",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Wunder Train Strappy Wrapped Bra Light Support, C/D Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Light Ivory/Misty Shell/Sinatra Blue/Riverside",
+      "Black/Light Ivory/Twilight Rose/Blush Quartz/Black Plum",
+      "Black/Black/Pink Organza/Bone/Lace Dot White Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Bikini-Underwear-5Pack/_/prod10520448?color=74412",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Bikini Underwear 5 Pack",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz",
+      "Dove Grey",
+      "Berry Rumble",
+      "Black Plum",
+      "Sequoia",
+      "Ocean Air",
+      "Starch Blue",
+      "Club Blue",
+      "Rainforest Green",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Bra/_/prod9960745?color=4397",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Bra Light Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-SHR-Shortie/_/prod10830109?color=52868",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Super-High-Rise Shortie Underwear",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.496Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Square Heart Jacquard Java Sequoia",
+      "Square Heart Jacquard Coal Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Flow-Y-Bra-Nulu-Light-Support-AC-Cups-Jacquard/_/prod20004603?color=72338",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Flow Y Bra Nulu Light Support, A–C Cups Jacquard",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black Plum",
+      "Calypso Pink",
+      "Deep Sea Blue",
+      "Palm Deco",
+      "True Navy",
+      "Washed Blue",
+      "Fog Green",
+      "Black",
+      "Pool Party",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/FlexyFlex-Strappy-Yoga-Bra-Light-AC-Cups/_/prod20002119?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "FlexyFlex Strappy Yoga Bra Light Support, A-C Cups",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Serene Blue",
+      "White",
+      "Lululemon Red",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Mid-Support-Bra-Logo-BC-Cup/_/prod20002451?color=49106",
+    "product_id": "women-sports-bras/",
+    "name": "Flow Y Mid-Support Bra Logo B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Rainforest Green",
+      "Sequoia",
+      "True Navy",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Align-V-Neck-Bra-DDDG-Cup/_/prod11750040?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Align™ V-Neck Bra Light Support, DDD/G Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Dusty Lilac",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-LL-Ribbed-D/_/prod11021134?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Ribbed Longline Bra Light Support, D/DD Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Disney Classic Pink",
+      "Disney Classic Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Disney-x-lululemon-Energy-LL-Bra-Med-Sup-BD-Cups/_/prod11790402?color=64079",
+    "product_id": "women-sports-bras/",
+    "name": "Disney x lululemon Energy Longline Bra Medium Support, B–D Cups",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Indochine Blue",
+      "Dusty Lilac",
+      "Rainforest Green",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Ribbed-Bra/_/prod11010053?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Ribbed Bra Light Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.497Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Satin-Spaghetti-Strap-Yoga-Bra-Light-Support-AB/_/prod20000083?color=70108",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Satin Spaghetti-Strap Yoga Bra Light Support, A/B Cup",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Wunder-Train-Mesh-Back-Bra-Medium-Support-BC-Cup/_/prod20001311?color=0001",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Wunder Train Mesh-Back Bra Medium Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Satin-Spaghetti-Strap-Yoga-Bra-Light-Support-CD/_/prod20001471?color=0001",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Satin Spaghetti-Strap Yoga Bra Light Support, C/D Cup",
+    "price": 64,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Light Ivory/Twilight Rose/Blush Quartz/Black Plum",
+      "Black/Twilight Rose/Misty Shell/Sandcastle/Dusty Clay",
+      "Black/Twilight Rose/Pink Clay/Misty Shell/Sandcastle",
+      "Black/Twilight Rose/Misty Shell/Pale Linen/Contour",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-MR-Thong-Underwear-5Pack/_/prod10520468?color=74411",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Mid-Rise Thong Underwear 5 Pack",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Blush Quartz",
+      "Club Blue",
+      "Rainforest Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-A-Cloud-Spag-Strap-Bra-LS-AB-Cup/_/prod11580005?color=36865",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Spaghetti-Strap Bra Light Support, A/B Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Berry Rumble",
+      "Black Plum",
+      "Calypso Pink",
+      "Deep Sea Blue",
+      "Palm Deco",
+      "True Navy",
+      "Washed Blue",
+      "Fog Green",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/FlexyFlex-Strappy-Yoga-Bra-Light-Support-D-DDD-Cup/_/prod20000095?color=21363",
+    "product_id": "women-sports-bras/",
+    "name": "FlexyFlex Strappy Yoga Bra Light Support, D-DDD Cups",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Sheer Oak",
+      "Bone",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-Ultra-Soft-Nulu-MR-Bikini-Underwear/_/prod11680108?color=70108",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu Mid-Rise Bikini Underwear",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Nulux-Strappy-Back-Sports-Bra-Medium-Support-BC/_/prod20005467?color=32507",
+    "product_id": "women-sports-bras/",
+    "name": "Nulux Strappy-Back Sports Bra Medium Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.498Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blush Quartz",
+      "Serene Blue",
+      "Palm Deco",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ultralu-Square-Neck-Workout-Bra-Med-BC/_/prod11710338?color=4397",
+    "product_id": "women-sports-bras/",
+    "name": "Ultralu Square-Neck Workout Bra Medium Support, B/C Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Coconut Ivory/Flower Dot Soft Ivory Mojave Tan",
+      "Dusty Clay/Misty Shell/Sandcastle",
+      "Deep Sea Blue/Blissful Pink/Calypso Pink",
+      "Floral Burst Wp White Black/Blissful Pink/Misty Shell",
+      "Black/Blue Twill/Floral Burst Wp Starch Blue Dusty Lilac",
+      "Black/Nutmeg/Blissful Pink",
+      "Lavender Frost/Pink Organza/Chilled Grape",
+      "Black/Bone/Pink Organza",
+      "Black/Jumie Stripe White Vapor/Jumie Stripe Rhino Grey Black",
+      "Black/Twilight Rose/Misty Shell",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Bikini-Underwear-3Pack/_/prod10520447?color=74394",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Bikini Underwear 3 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Light Ivory/Riverside",
+      "Black/Light Ivory/Blush Quartz",
+      "Black/Nutmeg/Blissful Pink",
+      "Black/Twilight Rose/Misty Shell",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Boyshort-3Pack/_/prod10520450?color=74399",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Boyshort Underwear 3 Pack",
+    "sale_price": 54,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Lace/Blissful Pink/Lace/Bone/Lace",
+      "Black/Lace/Strawberry Milkshake/Lace/Bone/Lace",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Lace-Bikini-Underwear-3P/_/prod11380601?color=73403",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Bikini Underwear Performance Lace 3 Pack",
+    "price": 54,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Twilight Rose/Misty Shell",
+      "French Press/Twilight Rose/Misty Shell",
+      "Black/Pink Organza/Lavender Frost",
+      "Black/Bone/Lace Dot White Graphite Grey",
+      "Black/Bone/Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-Usoft-Nulu-High-Waist-Thong-3P/_/prod11680306?color=68971",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu High-Waist Thong Underwear 3 Pack",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Light Ivory/Misty Shell/Sinatra Blue/Riverside",
+      "Black/Black/Pink Organza/Bone/Lace Dot White Graphite Grey",
+      "Black/Twilight Rose/Pink Clay/Misty Shell/Sandcastle",
+      "Black/Twilight Rose/Misty Shell/Pale Linen/Contour",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-MR-Thong-Underwear-5Pack/_/prod10520457?color=74412",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Thong Underwear 5 Pack",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Faint Lavender/Black Plum",
+      "Dusty Clay/Misty Shell/Sandcastle",
+      "Black/Coconut Ivory/Flower Dot Soft Ivory Mojave Tan",
+      "Pink Organza/Starch Blue/Lavender Frost",
+      "Black/Pink Organza/Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-HR-Bikini-Underwear-3P/_/prod11130416?color=74390",
+    "product_id": "women-underwear/",
+    "name": "UnderEase High-Rise Bikini Underwear 3 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Go-Further-Bra-Support-Code-High-Impact-CD-Cup/_/prod11750305?color=30210",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Go Further Bra with Support Code Technology High Impact, C/D Cup",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.499Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Faint Lavender/Black Plum",
+      "Black/Light Ivory/Blush Quartz",
+      "Black/Coconut Ivory/Flower Dot Soft Ivory Mojave Tan",
+      "Black/Blissful Pink/Nutmeg",
+      "Black/Pink Organza/Silver Drop",
+      "Lavender Frost/Pink Organza/Chilled Grape",
+      "Pink Haze/Light Ivory/Black",
+      "Black/Twilight Rose/Misty Shell",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-MR-Thong-Underwear-3Pack/_/prod10520467?color=74390",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Mid-Rise Thong Underwear 3 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory/Faint Lavender/Black Plum",
+      "Black/Light Ivory/Blush Quartz",
+      "Black/Coconut Ivory/Flower Dot Soft Ivory Mojave Tan",
+      "Black/Blissful Pink/Nutmeg",
+      "Lavender Frost/Pink Organza/Chilled Grape",
+      "Black/Pink Organza/Silver Drop",
+      "Pink Haze/Light Ivory/Black",
+      "Black/Twilight Rose/Misty Shell",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-MR-Bikini-Underwear-3Pack/_/prod10520459?color=74390",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Mid-Rise Bikini Underwear 3 Pack",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dove Grey",
+      "Goodnight Plum",
+      "Pool Party",
+      "Warm Ash Grey",
+      "Sheer Oak",
+      "Bone",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-USoft-Nulu-Dip-Waist-Thong/_/prod11680300?color=36865",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu Dipped-Waist Thong Underwear",
+    "price": 22,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Blue Twill",
+      "Rainforest Green",
+      "White",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Flow-Y-Bra-Light-Support-CD-Cup-Evolve/_/prod20005495?color=41179",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Flow Y Bra Light Support, C/D Cup Evolve",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Ribbed-Nulu-Long-Sleeve-Bra-Top-Light-Support-BC/_/prod20000731?color=0001",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Ribbed Nulu Long-Sleeve Bra Top Light Support, B/C Cup",
+    "price": 88,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Rainforest Green",
+      "White",
+      "Black",
+      "True Navy",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Flow-Y-Bra-Light-Support-AB-Cup-Evolve/_/prod20000979?color=41179",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Flow Y Bra Light Support, A/B Cup Evolve",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Twilight Rose/Misty Shell/Sandcastle/Dusty Clay",
+      "Black/Light Ivory/Twilight Rose/Blush Quartz/Black Plum",
+      "Black/Twilight Rose/Pink Clay/Misty Shell/Sandcastle",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-MR-Bikini-Underwear-5Pack/_/prod10520460?color=74407",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Mid-Rise Bikini Underwear 5 Pack",
+    "price": 74,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Twilight Rose"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/lululemon-Nursing-Bra/_/prod20002843?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Nursing Bra",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-Nulu-SHR-Boxer-Shortie-5/_/prod20006927?color=0001",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu Super-High-Rise Boxer Shortie Underwear 5\"",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.500Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Snake Structure Emboss Black",
+      "True Navy",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/lululemon-Glow-Up-Bra-Light-Medium-BC-Cup/_/prod11900018?color=72690",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Glow Up™ Bra Medium Support, B/C Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Under-SmoothCover-Bra-Light-Support-AB-Cup/_/prod20008403?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Under SmoothCover Bra Light Support, A/B Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oxford Red",
+      "Goodnight Plum",
+      "Pool Party",
+      "Warm Ash Grey",
+      "Bone",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-Usoft-Nulu-High-Waist-Thong/_/prod11680346?color=72757",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu High-Waist Thong Underwear",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Everlux-Triangle-Racerback-Bra-LS-BC-Cup-SLNSH/_/prod20000115?color=0001",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Everlux Triangle Racerback Bra Light Support, B/C Cup SLNSH Collection",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Deep Sea Blue",
+      "Palm Deco",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ultralu-Square-Neck-Workout-Bra-Med-DDD/_/prod11720167?color=71188",
+    "product_id": "women-sports-bras/",
+    "name": "Ultralu Square-Neck Workout Bra Medium Support, D/DD Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Deep Sea Blue",
+      "Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/LightLift-Sports-Bra-Medium-Support-BC-Cup/_/prod20000995?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon LightLift Sports Bra Medium Support, B/C Cup",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Luxe Shine Foil Print Black",
+      "Luxe Shine Foil Print True Navy Silver"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Bend-This-Scoop-and-Square-Bra-Light-AC-Shine/_/prod20006779?color=67945",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Bend This Scoop and Square Bra Light Support, A–C Cups Shine",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/lululemon-Energy-Long-Bra-Med-Sup-BD-Evo-Move-in-N/_/prod20006799?color=35487",
+    "product_id": "women-bras-and-underwear/",
+    "name": "lululemon Energy Longline Bra Medium Support, B–D Cups Evolve Move in Nature",
+    "price": 68,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Mink Berry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Satin-Super-High-Rise-Thong-Underwear/_/prod20004355?color=0001",
+    "product_id": "women-underwear/",
+    "name": "Satin Super-High-Rise Thong Underwear",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mink Berry",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Satin-Extra-High-Rise-Bikini-Underwear/_/prod20001051?color=20392",
+    "product_id": "women-underwear/",
+    "name": "Satin Extra-High-Rise Bikini Underwear",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.501Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Stretch-Cotton-Rib-Logo-Racerback-Bralette-AC-Cups/_/prod20002867?color=0002",
+    "product_id": "women-sports-bras/",
+    "name": "Stretch Cotton Ribbed Logo Racerback Bralette A–C Cups",
+    "price": 38,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.502Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Contour",
+      "Twilight Rose",
+      "Java",
+      "French Press",
+      "Dusty Clay",
+      "Misty Shell",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-Mid-Rise-Bikini-Underwear/_/prod10520449?color=40035",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Bikini Underwear",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.502Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-USoft-Nulu-SHR-Underwear-2/_/prod11680304?color=70108",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu Super-High-Rise Shortie Underwear 2\"",
+    "price": 28,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.502Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Misty Shell",
+      "Twilight Rose",
+      "Java",
+      "French Press",
+      "Dusty Clay",
+      "Contour",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/InvisiWear-Mid-Rise-Thong-Underwear/_/prod10520458?color=40034",
+    "product_id": "women-underwear/",
+    "name": "InvisiWear Mid-Rise Thong Underwear",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.502Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mink Berry",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-bras-and-underwear/Satin-Corsetry-Bralette-BC-Cup/_/prod20000799?color=20392",
+    "product_id": "women-bras-and-underwear/",
+    "name": "Satin Corsetry Bralette B/C Cup",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-bras-and-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.502Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Mid-Support-Bra-BC-Cup/_/prod20002055?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "Flow Y Mid-Support Bra B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.502Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "True Navy",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-High-Support-Zip-Front/_/prod11690178?color=28022",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Zip-Front Bra High-Support, B–G Cups",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "From Afar Black Sable Verbena"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Racerback-Bra-LS-AB-Cup-SLNSH/_/prod11870986?color=68767",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Racerback Bra Light Support, A/B Cup SLNSH Collection",
+    "price": 78,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Stone Twill Light Blue Multi",
+      "Stone Twill Club Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Everlux-Sweetheart-Bra-Light-AB-Cup-Denim-Dr-Set/_/prod20002703?color=70130",
+    "product_id": "women-sports-bras/",
+    "name": "Everlux Sweetheart Bra Light Support, A/B Cup Denim Dreams Set",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Pool Party",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Stretch-Cotton-Rib-Logo-Super-HR-Bikini-Underwear/_/prod20002459?color=0001",
+    "product_id": "women-underwear/",
+    "name": "Stretch Cotton Ribbed Logo Super-High-Rise Bikini Underwear",
+    "price": 26,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Everlux-Strappy-Back-Sports-Bra-Medium-Support-BC/_/prod20003571?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "Everlux Strappy-Back Sports Bra Medium Support, B/C Cup",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Bend-This-Rib-Scoop-and-Square-Bra-Light-AC-Cups/_/prod20000371?color=0002",
+    "product_id": "women-sports-bras/",
+    "name": "Bend This Ribbed Scoop and Square Bra Light Support, A-C Cups",
+    "price": 48,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Java",
+      "Misty Shell",
+      "Twilight Rose"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-HR-Thong-Underwear/_/prod10930198?color=52868",
+    "product_id": "women-underwear/",
+    "name": "UnderEase High-Rise Thong Underwear",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "French Press",
+      "Twilight Rose"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-HR-Bikini-Underwear/_/prod10930199?color=46691",
+    "product_id": "women-underwear/",
+    "name": "UnderEase High-Rise Bikini Underwear",
+    "price": 18,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pixel Rainbow Club Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Racer-Bra-Light-AB-Cup-Pride/_/prod11880283?color=68928",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Strappy Racer Bra Light Support, A/B Cup Pride",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pixel Rainbow Club Blue Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Racer-Bra-Light-Sup-CD-Pride/_/prod20001631?color=68928",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Strappy Racer Bra Light Support, C/D Cup Pride",
+    "price": 58,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.503Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill",
+      "Blissful Pink",
+      "Palm Deco",
+      "Light Ivory",
+      "Warm Ash Grey",
+      "Raspberry Coulis",
+      "Pink Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Focuser-Scoop-Neck-Bra-Nulu-Light-Support-CD-Cup-MD/_/prod11871279?color=71150",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Focuser Scoop-Neck Bra Nulu Light Support, C/D Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.504Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Lavender Frost",
+      "Mink Berry"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Bend-This-Scoop-Square-Bra-A-C-Cups-MD/_/prod11750118?color=35487",
+    "product_id": "women-sports-bras/",
+    "name": "Bend This Scoop and Square Bra Light Support, A-C Cups",
+    "sale_price": 39,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.504Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-LL-Ribbed-BC-MD/_/prod11771306?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Ribbed Longline Bra Light Support, B/C Cup",
+    "sale_price": 59,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.504Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Chroma Drift Multi",
+      "Blue Twill",
+      "Pink Frosting",
+      "Serene Blue",
+      "Lemongrass",
+      "Chroma Drift Green Multi",
+      "Fog Green",
+      "Raspberry Coulis"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-Long-Line-MD/_/prod9091068?color=35487",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Longline Bra Medium Support, B–D Cups",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.504Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Palm Deco",
+      "Serene Blue",
+      "Pink Frosting",
+      "Pink Organza",
+      "Pool Party"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Bra-Long-Line-MD/_/prod10260143?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Longline Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.504Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill",
+      "Lemongrass",
+      "Pink Frosting",
+      "Pink Organza",
+      "Citra Lime",
+      "Lavender Frost",
+      "Chilled Grape",
+      "Lavender Lux",
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Longline-Bra-Medium-Support-BD-Cup-Evolve-MD/_/prod11871000?color=71150",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Longline Bra Medium Support, B-D Cups Evolve",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.504Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Dotted Magnolia Pink Multi",
+      "Aurora Haze Mini Purple Multi",
+      "Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Bra-Nulu-MD/_/prod11500294?color=35487",
+    "product_id": "women-sports-bras/",
+    "name": "Flow Y Bra Nulu Light Support, A–C Cups",
+    "sale_price": 29,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rock Melon",
+      "Raspberry Coulis"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/FlexyFlex-Strappy-Yoga-Bra-Light-AC-Cups-MD/_/prod20002118?color=44893",
+    "product_id": "women-sports-bras/",
+    "name": "FlexyFlex Strappy Yoga Bra Light Support, A-C Cups",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ruched-Yoga-Bra-Shimmer-Light-Support-AB-Cup-MD/_/prod11800561?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "Ruched Yoga Bra Shimmer Light Support, A/B Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Serene Blue",
+      "Pink Frosting",
+      "Pink Haze",
+      "Rock Melon",
+      "Raspberry Coulis",
+      "Pool Party"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/FlexyFlex-Strappy-Yoga-Bra-Light-Support-D-DDD-Cup-MD/_/prod20000094?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "FlexyFlex Strappy Yoga Bra Light Support, D-DDD Cups",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Espresso"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Soft-Foam-Cup-Ribbed-Sleeveless-Crew-Bra-Light-AB-MD/_/prod11800569?color=19746",
+    "product_id": "women-sports-bras/",
+    "name": "Soft Foam Cup Ribbed Sleeveless Crewneck Bra Light Support, C/D Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf",
+      "Nightmoth"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Nulux-Strappy-Back-Sports-Bra-Medium-Support-BC-MD/_/prod20005466?color=62214",
+    "product_id": "women-sports-bras/",
+    "name": "Nulux Strappy-Back Sports Bra Medium Support, B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Blue Twill",
+      "Lavender Frost",
+      "Pink Organza",
+      "Pool Party"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-LL-Ribbed-D-MD/_/prod11750276?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Ribbed Longline Bra Light Support, D/DD Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raceway Green",
+      "Pink Organza"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Mid-Support-Bra-BC-Cup-MD/_/prod20002054?color=62468",
+    "product_id": "women-sports-bras/",
+    "name": "Flow Y Mid-Support Bra B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.505Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dotted Magnolia Pink Multi",
+      "Pink Frosting",
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Align-V-Neck-Bra-DDDG-Cup-MD/_/prod11772270?color=71226",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Align™ V-Neck Bra Light Support, DDD/G Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raceway Green",
+      "Warm Ash Grey",
+      "Lilac Breeze",
+      "Prism Marble Multi",
+      "Raspberry Coulis",
+      "Pool Party",
+      "Pink Dragonfruit",
+      "Starch Blue",
+      "Hawaiian Blue",
+      "Passionate",
+      "Galactic Cobalt",
+      "Lavender Lux"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Race-Bra-Light-CD-MD/_/prod11560004?color=62468",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Strappy Racer Bra Light Support, C/D Cup",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Tropics Tone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ultralu-Square-Neck-Workout-Bra-Med-BC-MD/_/prod11750277?color=37352",
+    "product_id": "women-sports-bras/",
+    "name": "Ultralu Square-Neck Workout Bra Medium Support, B/C Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Shade",
+      "Coral Kiss"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-High-Neck-Long-Line-Tough-MD/_/prod11690137?color=33488",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy High-Neck Longline Bra Medium Support, B-D Cups Tough",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Serene Blue",
+      "Pink Haze",
+      "Strawberry Milkshake"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-High-Support-MD/_/prod11771444?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Bra High Support, B–G Cups",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pool Party",
+      "Rainforest Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/lululemon-Glow-Up-Bra-Light-Medium-BC-Cup-MD/_/prod11900020?color=25461",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Glow Up™ Bra Medium Support, B/C Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sequoia",
+      "Serene Blue",
+      "Pink Frosting",
+      "Washed Blue",
+      "Pink Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Longline-Bra-MD/_/prod10930314?color=41179",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Longline Bra Light Support, D/DD Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Pool Party",
+      "Oil Grey",
+      "Hidden Heritage Lace Black Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Align-V-Neck-Bra-CD-Cup-MD/_/prod11510094?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Align™ V-Neck Bra Light Support, C/D Cup",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.506Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill",
+      "Raceway Green",
+      "Pool Party",
+      "Sour Grape"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wunder-Train-Strappy-Race-Bra-Light-AB-MD/_/prod11560003?color=71150",
+    "product_id": "women-sports-bras/",
+    "name": "Wunder Train Strappy Racer Bra Light Support, A/B Cup",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Blissful Pink",
+      "Blue Twill",
+      "Warm Ash Grey",
+      "Raspberry Coulis",
+      "Pink Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Focuser-Scoop-Neck-Bra-Nulu-Light-Support-AB-Cup-MD/_/prod11871020?color=35487",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Focuser Scoop-Neck Bra Nulu Light Support, A/B Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Palm Deco",
+      "Blue Twill",
+      "Chroma Drift Green Multi",
+      "Chroma Drift Multi",
+      "Serene Blue",
+      "Autumn Rust",
+      "Fog Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-32925-MD/_/prod3520003?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Bra Medium Support, B–D Cups",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Wild Berry",
+      "Date Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Enlite-Bra-Weave-MD/_/prod11771455?color=47862",
+    "product_id": "women-sports-bras/",
+    "name": "Enlite Weave-Back Bra High Support, A–DDD(E) Cups",
+    "sale_price": 79,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Taupetastic",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ribbed-Wool-Bandeau-Bralette-MD/_/prod11772528?color=64820",
+    "product_id": "women-sports-bras/",
+    "name": "Ribbed Wool Bandeau Bralette",
+    "sale_price": 29,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Bend-This-V-Racer-Bra-A-C-Cups-MD/_/prod11750117?color=0002",
+    "product_id": "women-sports-bras/",
+    "name": "Bend This V and Racer Bra Light Support, A-C Cups",
+    "sale_price": 29,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raspberry Coulis",
+      "Washed Denim",
+      "Sonic Teal",
+      "Nightfall"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Go-Further-Bra-Support-Code-High-Impact-CD-Cup-MD/_/prod11772349?color=62220",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Go Further Bra with Support Code Technology High Impact, C/D Cup",
+    "sale_price": 69,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Wundermost-USoft-Nulu-Bandeau-Bralette-AD-MD/_/prod11760170?color=0001",
+    "product_id": "women-sports-bras/",
+    "name": "Wundermost Ultra-Soft Nulu Bandeau Bralette A-D Cups",
+    "sale_price": 19,
+    "price": 38,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Trace Texture Pink Haze",
+      "Trace Texture Starch Blue",
+      "Trace Texture Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/lululemon-Energy-Jacquard-Bra-Medium-BD-Evolve-MD/_/prod20002570?color=68957",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Jacquard Bra Medium Support, B–D Cups Evolve",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.507Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blissful Pink",
+      "Hidden Heritage Lace Black Multi"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Align-V-Neck-Bra-AB-Cup-MD/_/prod11510222?color=35486",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Align™ V-Neck Bra Light Support, A/B Cup",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Lemongrass",
+      "Pink Frosting",
+      "Chilled Grape",
+      "Pink Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-Medium-Support-B-D-Cups-Evolve-MD/_/prod11870723?color=66011",
+    "product_id": "women-sports-bras/",
+    "name": "lululemon Energy Bra Medium Support, B-D Cups Evolve",
+    "sale_price": 39,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green/Sea Mist",
+      "Black/Red Glow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Satin-Shine-Logo-Train-Bra-Light-Support-AB-Cup-MD/_/prod11871363?color=69035",
+    "product_id": "women-sports-bras/",
+    "name": "Satin Shine Logo Train Bra Light Support, A/B Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White",
+      "Bone",
+      "Jade Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Soft-Foam-Cup-Asymmetrical-Bra-LS-DD-MD/_/prod11772452?color=0002",
+    "product_id": "women-sports-bras/",
+    "name": "Soft Foam Cup Asymmetrical Bra Light Support, D/DD Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue",
+      "Lavender Frost",
+      "Pool Party",
+      "Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ultralu-Square-Neck-Workout-Bra-Med-DDD-MD/_/prod11750278?color=32507",
+    "product_id": "women-sports-bras/",
+    "name": "Ultralu Square-Neck Workout Bra Medium Support, D/DD Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Serene Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Everlux-Strappy-Back-Sports-Bra-Medium-Support-BC-MD/_/prod20003570?color=32507",
+    "product_id": "women-sports-bras/",
+    "name": "Everlux Strappy-Back Sports Bra Medium Support, B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Espresso",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Everlux-Corsetry-Sports-Bra-Medium-Support-AB-Cup-MD/_/prod20002862?color=19746",
+    "product_id": "women-sports-bras/",
+    "name": "Everlux Corsetry Sports Bra Medium Support, A/B Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Blue Twill"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-A-Cloud-Spag-Strap-Bra-LS-AB-Cup-MD/_/prod11670002?color=71150",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Spaghetti-Strap Bra Light Support, A/B Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-HR-Thong-Underwear-3P-MD/_/prod11280020?color=0001",
+    "product_id": "women-underwear/",
+    "name": "UnderEase High-Rise Thong Underwear 3 Pack",
+    "sale_price": 39,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Slate Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Cross-Band-High-Neck-Yoga-Bra-LS-BC-MD/_/prod11772296?color=66824",
+    "product_id": "women-sports-bras/",
+    "name": "Cross-Band High-Neck Yoga Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Glaze Pink",
+      "Sundance",
+      "Sheer Blue",
+      "Elixir"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ribbed-Nulu-High-Neck-Yoga-Bra-MD/_/prod11772500?color=64717",
+    "product_id": "women-sports-bras/",
+    "name": "Ribbed Nulu High-Neck Yoga Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Everlux-Train-Bra-CD-MD/_/prod11772365?color=31382",
+    "product_id": "women-sports-bras/",
+    "name": "Everlux Train Bra Medium Support, C/D Cup",
+    "sale_price": 39,
+    "price": 52,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.508Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Belgian Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-HN-Longline-Ribbed-Bra-BC-MD/_/prod11772000?color=34282",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud High-Neck Longline Ribbed Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 68,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Beech Wood"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/In-Alignment-LL-Bra-MD/_/prod11771457?color=44663",
+    "product_id": "women-sports-bras/",
+    "name": "In Alignment Longline Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pink Haze"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Free-To-Be-Bra-Wild-MD/_/prod10080165?color=69005",
+    "product_id": "women-sports-bras/",
+    "name": "Free to Be Bra - Wild Light Support, A/B Cup",
+    "sale_price": 39,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Pink Organza/Starch Blue/Lavender Frost"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/UnderEase-MR-Thong-Underwear-3Pack-MD/_/prod10520897?color=71852",
+    "product_id": "women-underwear/",
+    "name": "UnderEase Mid-Rise Thong Underwear 3 Pack",
+    "sale_price": 39,
+    "price": 48,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dramatic Magenta",
+      "Black",
+      "Blackened Pine"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/SmoothCover-Strappy-Bra-LS-AB-Cup-MD/_/prod11772466?color=30722",
+    "product_id": "women-sports-bras/",
+    "name": "SmoothCover Strappy Bra Light Support, A/B Cup",
+    "sale_price": 29,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Finch Yellow"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Ribbed-Nulu-Asymmetrical-Bra-AB-Cup-MD/_/prod11772118?color=60349",
+    "product_id": "women-sports-bras/",
+    "name": "Ribbed Nulu Asymmetrical Yoga Bra Light Support, A/B Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raspberry Coulis"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Like-a-Cloud-Bra-MD/_/prod10300091?color=62220",
+    "product_id": "women-sports-bras/",
+    "name": "Like a Cloud Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Passionate",
+      "Riverstone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-underwear/Wundermost-Usoft-Nulu-High-Waist-Thong-MD/_/prod11710293?color=68605",
+    "product_id": "women-underwear/",
+    "name": "Wundermost Ultra-Soft Nulu High-Waist Thong Underwear",
+    "sale_price": 19,
+    "price": 26,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-underwear/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:11:57.509Z",
+    "is_homepage_product": false,
+    "category": "Sports Bras",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/women-sports-bras/Softy-Suedey-Bra-Light-Support-BC-Cup-MD/_/prod11800553?color=4780",
+    "product_id": "women-sports-bras/",
+    "name": "Softy Suedey Bra Light Support, B/C Cup",
+    "sale_price": 49,
+    "price": 58,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "women-sports-bras/"
+  }
+]

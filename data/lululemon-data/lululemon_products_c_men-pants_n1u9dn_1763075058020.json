@@ -1,0 +1,6239 @@
+[
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.984Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Black",
+      "Sequoia",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Light Ivory",
+      "True Navy",
+      "Heathered Core Ultra Light Grey",
+      "Riverside",
+      "Rainforest Green",
+      "Dove Grey",
+      "Black/White",
+      "Graphite Grey",
+      "Oil Grey",
+      "Gator Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Smooth-Spacer-Pintuck-Pant-Regular/_/prod20000527?color=38426",
+    "product_id": "mens-sweatpants/",
+    "name": "Smooth Spacer Pintuck Pant Regular",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new",
+      "best gift"
+    ],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.998Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Black",
+      "Sequoia",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Light Ivory",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Smooth-Spacer-Pintuck-Pant-Regular/_/prod20000527?color=38426",
+    "product_id": "mens-sweatpants/",
+    "name": "Smooth Spacer Pintuck Pant Regular",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.998Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Riverside",
+      "Rainforest Green",
+      "Dove Grey",
+      "Olive Brown",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Mens-Big-Cozy-Jogger-Regular/_/prod20003815?color=72622",
+    "product_id": "men-joggers/",
+    "name": "Men's Big Cozy Jogger Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.998Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/White",
+      "Graphite Grey",
+      "Olive Brown",
+      "True Navy",
+      "Warm Ash Grey",
+      "Black",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Mens-Daydrift-Relaxed-Fit-Pleated-Trouser-Regular/_/prod20000427?color=0023",
+    "product_id": "mens-trousers/",
+    "name": "Men's Daydrift Relaxed-Fit Pleated Trouser Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.998Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Mens-Daydrift-Relaxed-Fit-Pleated-Trouser-Tall/_/prod20009307?color=30210",
+    "product_id": "mens-trousers/",
+    "name": "Men's Daydrift Relaxed-Fit Pleated Trouser Tall",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.999Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Mens-Daydrift-Relaxed-Fit-Pleated-Trouser-Short/_/prod20004071?color=0001",
+    "product_id": "mens-trousers/",
+    "name": "Men's Daydrift Relaxed-Fit Pleated Trouser Short",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.999Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/White",
+      "Graphite Grey",
+      "True Navy",
+      "Solar Grey",
+      "Black",
+      "Warm Ash Grey",
+      "Olive Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Mens-Daydrift-Classic-Fit-Trouser-Regular/_/prod20001895?color=0023",
+    "product_id": "mens-trousers/",
+    "name": "Men's Daydrift Classic-Fit Trouser Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.999Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oil Grey",
+      "Gator Green",
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Solar Grey",
+      "Dark Olive",
+      "Obsidian",
+      "Iron Blue",
+      "Grey Sage",
+      "Asphalt Grey",
+      "Silver Drop",
+      "True Navy",
+      "Trench",
+      "Nomad",
+      "Raw Linen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30-Warpstreme/_/prod11500067?color=33123",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.999Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Gator Green",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "Wacky Khaki",
+      "Silver Drop",
+      "Nomad",
+      "Dark Olive",
+      "Iron Blue",
+      "Grey Sage",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Artifact",
+      "Obsidian",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-32/_/prod11500060?color=18615",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.999Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "Iron Blue",
+      "Artifact",
+      "Oil Grey",
+      "Silver Drop",
+      "True Navy",
+      "Army Green",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Abc-Jogger/_/prod8530240?color=71148",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:17.999Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Olive Brown",
+      "Obsidian",
+      "Warm Ash Grey",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/ABC-Regular-Jogger-Brushed-Warpstreme/_/prod20008891?color=0001",
+    "product_id": "men-joggers/",
+    "name": "ABC Regular Jogger Brushed Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Blue",
+      "Sequoia",
+      "Solar Grey",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Black",
+      "Light Ivory",
+      "Army Green",
+      "Heathered Core Ultra Light Grey",
+      "Nomad",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger/_/prod11710014?color=1179",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Regular",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Steel Blue",
+      "Warm Ash Grey",
+      "Blue Twill",
+      "Club Blue",
+      "Solar Grey",
+      "Silver Drop",
+      "True Navy",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Jogger/_/prod11750072?color=49106",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Iron Blue",
+      "Asphalt Grey",
+      "Warm Ash Grey",
+      "Gator Green",
+      "Solar Grey",
+      "Wacky Khaki",
+      "Grey Sage",
+      "Dark Olive",
+      "Oil Grey",
+      "True Navy",
+      "Trench",
+      "Raw Linen",
+      "Silver Drop",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-32/_/prod9000003?color=0001",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 32L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Obsidian",
+      "Olive Brown",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Classic-Fit-5-Pocket-Pant-32L-Brushed-Warps/_/prod20009235?color=70108",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 32L Brushed Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Ivory",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Textured-Spacer-Relaxed-Straight-Pant/_/prod20000303?color=0001",
+    "product_id": "mens-sweatpants/",
+    "name": "Textured Spacer Relaxed Straight Pant",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Blue Twill/Heathered Dove Grey",
+      "Sequoia",
+      "Club Blue",
+      "Heathered Palm Deco/Heathered Bay Leaf",
+      "Rainforest Green",
+      "Black",
+      "Heathered Vapor/Heathered Silver Drop",
+      "Heathered Classic Navy/Heathered True Navy",
+      "Heathered Black/Heathered Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Soft-Jersey-Classic-Fit-Pant-Regular/_/prod11871677?color=72145",
+    "product_id": "mens-sweatpants/",
+    "name": "Soft Jersey Classic-Fit Pant Regular",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.000Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Warm Ash Grey",
+      "Gator Green",
+      "Wacky Khaki",
+      "Dark Olive",
+      "Grey Sage",
+      "Iron Blue",
+      "Oil Grey",
+      "Asphalt Grey",
+      "True Navy",
+      "Trench",
+      "Silver Drop",
+      "Obsidian",
+      "Black",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Slim-30/_/prod9610173?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 30L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Black",
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Slim-Fit-5-Pocket-Pant-30L-Brushed-Warps/_/prod20007747?color=31382",
+    "product_id": "men-pants/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 30L Brushed Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "True Navy",
+      "Indochine Blue",
+      "Dove Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/sojourn-jogger-regular/fm3zu1nwt0?color=49106",
+    "product_id": "sojourn-jogger-regular/",
+    "name": "Sojourn Jogger Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "sojourn-jogger-regular/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Solar Grey",
+      "Vapor",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Textured-Jogger-Regular/_/prod20000551?color=28022",
+    "product_id": "men-joggers/",
+    "name": "License to Train Textured Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Indochine Blue",
+      "Palm Deco",
+      "Rainforest Green",
+      "Blue Twill",
+      "Light Ivory",
+      "Heathered Core Ultra Light Grey",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger/_/prod11740065?color=70108",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Rover/Black",
+      "Heathered Bone/Black",
+      "Heathered True Navy/Black",
+      "Heathered Melody Light Grey/Black",
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger/_/prod11560053?color=49852",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Indochine Blue",
+      "Blue Twill",
+      "Palm Deco",
+      "Vapor",
+      "Grey Sage",
+      "Rhino Grey",
+      "Graphite Grey",
+      "Raw Linen",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Zeroed-In-Slim-Fit-Pant/_/prod11740101?color=28022",
+    "product_id": "men-joggers/",
+    "name": "Zeroed In Slim-Fit Pant Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.001Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Gator Green",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "Wacky Khaki",
+      "Nomad",
+      "Dark Olive",
+      "Silver Drop",
+      "Iron Blue",
+      "Grey Sage",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Trench",
+      "True Navy",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-30/_/prod11500063?color=18615",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 30L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.002Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Surge-Jogger/_/prod8470023?color=30210",
+    "product_id": "men-joggers/",
+    "name": "Surge Jogger Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.002Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Warm Ash Grey",
+      "Gator Green",
+      "Solar Grey",
+      "Wacky Khaki",
+      "Dark Olive",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Silver Drop",
+      "Trench",
+      "Grey Sage",
+      "Iron Blue",
+      "Artifact",
+      "Obsidian",
+      "Raw Linen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=31382",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 34L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.002Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Artifact",
+      "Warm Ash Grey",
+      "Gator Green",
+      "Solar Grey",
+      "Oil Grey",
+      "Wacky Khaki",
+      "True Navy",
+      "Iron Blue",
+      "Asphalt Grey",
+      "Trench",
+      "Raw Linen",
+      "Grey Sage",
+      "Silver Drop",
+      "Black",
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-30/_/prod9640029?color=29283",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 30L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.002Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Warm Ash Grey",
+      "Gator Green",
+      "Wacky Khaki",
+      "Dark Olive",
+      "Iron Blue",
+      "Grey Sage",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Nomad",
+      "True Navy",
+      "Trench",
+      "Artifact",
+      "Silver Drop",
+      "Raw Linen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Abc-Slim-5-Pocket-32/_/prod9390007?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 32L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.002Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Heathered Black/Heathered Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger-Tall/_/prod11871657?color=68578",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Tall",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.002Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Surge-Jogger-27/_/prod9610199?color=30210",
+    "product_id": "men-joggers/",
+    "name": "Surge Jogger Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Wacky Khaki",
+      "Warm Ash Grey",
+      "Sheer Oak",
+      "Solar Grey",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-30L-VersaTwill/_/prod11680094?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 30L Stretch Cotton VersaTwill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Atmospheric Purple",
+      "Vapor",
+      "Raw Linen",
+      "Rainforest Green",
+      "Solar Grey",
+      "Grey Sage",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Zeroed-In-Classic-Fit-Cargo-Jogger-Regular/_/prod11870925?color=63787",
+    "product_id": "men-joggers/",
+    "name": "Zeroed In Classic-Fit Cargo Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Warm Ash Grey",
+      "Rainforest Green",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger-Tall/_/prod11800026?color=0001",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Tall",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Blue",
+      "Rainforest Green",
+      "Warm Ash Grey",
+      "Blue Twill",
+      "Black",
+      "Silver Drop",
+      "Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Pant/_/prod11690172?color=1179",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Pant Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Iron Blue",
+      "Solar Grey",
+      "Warm Ash Grey",
+      "Artifact",
+      "Silver Drop",
+      "True Navy",
+      "Army Green",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/ABC-Jogger-Tall/_/prod9490156?color=26865",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Warpstreme Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Wacky Khaki",
+      "Gator Green",
+      "Oil Grey",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "Dark Olive",
+      "Grey Sage",
+      "True Navy",
+      "Nomad",
+      "Asphalt Grey",
+      "Iron Blue",
+      "Black",
+      "Obsidian",
+      "Artifact",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32-Warpstreme/_/prod11500061?color=19222",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Olive Brown/Warm Ash Grey",
+      "True Navy",
+      "Washed Denim/Starch Blue",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Pace-Breaker-Luxtreme-Track-Pant-Regular/_/prod11871653?color=0001",
+    "product_id": "men-pants/",
+    "name": "Pace Breaker Luxtreme Track Pant Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.003Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Club Blue",
+      "Heathered Palm Deco/Heathered Bay Leaf",
+      "Heathered Vapor/Heathered Silver Drop",
+      "Heathered Black/Heathered Graphite Grey",
+      "Heathered Classic Navy/Heathered True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger/_/prod11750031?color=49106",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Regular",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Terra Brown",
+      "Belgian Blue",
+      "Olive Brown",
+      "Wacky Khaki",
+      "Sheer Oak",
+      "Army Green",
+      "Solar Grey",
+      "Nomad",
+      "Light Ivory",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32L-VersaTwill/_/prod11680066?color=70108",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L Stretch Cotton VersaTwill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raw Linen",
+      "Rhino Grey",
+      "True Navy",
+      "Black",
+      "Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Jogger-Updated/_/prod9600638?color=48432",
+    "product_id": "men-joggers/",
+    "name": "License to Train Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Steel Blue",
+      "Warm Ash Grey",
+      "Black",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Tall/_/prod11800034?color=71148",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Tall",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Obsidian",
+      "Gator Green",
+      "Solar Grey",
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Dark Olive",
+      "Nomad",
+      "Iron Blue",
+      "Grey Sage",
+      "Trench",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Black",
+      "True Navy",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34-Warpstreme/_/prod11500068?color=32476",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "best gift"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Melody Light Grey/Black",
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-Tall/_/prod11720215?color=38068",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Black",
+      "Raw Linen",
+      "Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Zeroed-In-Slim-Fit-Pant-Tall/_/prod11800108?color=35487",
+    "product_id": "men-joggers/",
+    "name": "Zeroed In Slim-Fit Pant Tall",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32L-Twill/_/prod11680054?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L Smooth Twill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.004Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Gator Green",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "Wacky Khaki",
+      "Dark Olive",
+      "Iron Blue",
+      "Grey Sage",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Nomad",
+      "True Navy",
+      "Trench",
+      "Obsidian",
+      "Black",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-34/_/prod11500064?color=18615",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Wacky Khaki",
+      "Warm Ash Grey",
+      "Sheer Oak",
+      "Solar Grey",
+      "Nomad",
+      "Light Ivory",
+      "Belgian Blue",
+      "Army Green",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30L-VersaTwill/_/prod11680048?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L Stretch Cotton VersaTwill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "True Navy",
+      "Black",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Regular/_/prod11871673?color=49106",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Iron Blue",
+      "Silver Drop",
+      "Raw Linen",
+      "Obsidian",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Slim-Warpstreme-32/_/prod8980473?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Commission Slim-Fit Pant 32L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Iron Blue",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "True Navy",
+      "Artifact",
+      "Oil Grey",
+      "Silver Drop",
+      "Obsidian",
+      "Army Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Abc-Jogger-Shorter-28/_/prod9270549?color=26865",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Midnight Navy",
+      "Heathered Olive Brown",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Merino-Wool-Joggers-Regular/_/prod20007199?color=28694",
+    "product_id": "men-joggers/",
+    "name": "Merino Wool Joggers Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30L-Twill/_/prod11680044?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L Smooth Twill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/ABC-Jogger-Shorter-WovenAir/_/prod11020101?color=0001",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Shorter WovenAir",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Indochine Blue",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Rulu-Fleece-Jogger-Regular/_/prod20006515?color=0001",
+    "product_id": "men-joggers/",
+    "name": "Rulu Fleece Jogger Regular",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Iron Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Abc-Jogger-Skinny/_/prod9640028?color=26865",
+    "product_id": "men-joggers/",
+    "name": "ABC Skinny-Fit Jogger Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.005Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Gator Green",
+      "Warm Ash Grey",
+      "Iron Blue",
+      "Wacky Khaki",
+      "Dark Olive",
+      "Oil Grey",
+      "Asphalt Grey",
+      "Silver Drop",
+      "Black",
+      "Grey Sage",
+      "Nomad",
+      "Trench",
+      "True Navy",
+      "Raw Linen"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Abc-Slim-5-Pocket-34/_/prod9090037?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 34L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Heathered Core Ultra Light Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Tall/_/prod11871665?color=49106",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Tall",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Solar Grey",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-32L-VersaTwill/_/prod11680076?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Stretch Cotton VersaTwill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "French Press",
+      "Light Ivory",
+      "Black",
+      "Olive Brown",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32L-Cord/_/prod20004927?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L Corduroy",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Heathered Black/Heathered Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger-Shorter/_/prod11871661?color=68578",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Shorter",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Warm Ash Grey",
+      "Black",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger-Shorter/_/prod11800006?color=49106",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Palm Deco",
+      "Raw Linen",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Zeroed-In-Slim-Fit-Pant-Shorter/_/prod11750464?color=35487",
+    "product_id": "men-joggers/",
+    "name": "Zeroed In Slim-Fit Pant Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Iron Blue",
+      "Silver Drop",
+      "Raw Linen",
+      "True Navy",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Slim-Warpstreme-34/_/prod8600440?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Commission Slim-Fit Pant 34L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Olive Brown",
+      "Black",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Ripstop-Cargo-Pant-Regular/_/prod20001147?color=70108",
+    "product_id": "men-pants/",
+    "name": "Ripstop Cargo Pant Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.006Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Iron Blue",
+      "Silver Drop",
+      "True Navy",
+      "Raw Linen",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Classic-Warpstreme-34/_/prod9510404?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Commission Classic-Fit Pant 34L",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "French Press",
+      "True Navy",
+      "Olive Brown",
+      "Solar Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-32L-Corduroy/_/prod20000535?color=46691",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Corduroy",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Solar Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Cotton-Twill-Pintuck-Pull-On-Pant-Regular/_/prod11860276?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "Cotton Twill Pintuck Pull-On Pant Regular",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Oil Grey",
+      "Grey Sage",
+      "Artifact",
+      "Silver Drop",
+      "Asphalt Grey",
+      "Obsidian",
+      "True Navy",
+      "Trench",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Abc-Slim-5-Pocket-28-US/_/prod10390084?color=70108",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 28L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Iron Blue",
+      "Silver Drop",
+      "True Navy",
+      "Raw Linen",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Classic-Warpstreme-32/_/prod9510026?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Commission Classic-Fit Pant 32L",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Iron Blue",
+      "Silver Drop",
+      "Raw Linen",
+      "True Navy",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Slim/_/prod9600635?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Commission Slim-Fit Pant 30L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Textured-Jogger-Tall/_/prod20001935?color=38426",
+    "product_id": "men-joggers/",
+    "name": "License to Train Textured Jogger Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Waterproof-Golf-Pant-Regular/_/prod20001391?color=0001",
+    "product_id": "men-pants/",
+    "name": "Waterproof Golf Pant Regular",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Black",
+      "Obsidian",
+      "Warm Ash Grey",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-5-Pocket-Pant-30L-Brushed-Warp/_/prod20007431?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 30L Brushed Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Rainforest Green",
+      "Heathered Core Ultra Light Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Shorter/_/prod11871669?color=49106",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.007Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Iron Blue",
+      "Silver Drop",
+      "Raw Linen",
+      "True Navy",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Classic/_/prod9600634?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Commission Classic-Fit Pant 30L",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Onyx Grey",
+      "Club Blue",
+      "White",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Golf-Trouser-32L/_/prod11680064?color=72760",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Golf Trouser 32L",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Blue",
+      "Silver Drop",
+      "True Navy",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Jogger-Shorter/_/prod11750078?color=1179",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Jogger Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oil Grey",
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Grey Sage",
+      "Artifact",
+      "Silver Drop",
+      "Asphalt Grey",
+      "Nomad",
+      "Trench",
+      "True Navy",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-28/_/prod11500062?color=33123",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 28L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Steel Blue",
+      "Olive Brown",
+      "Warm Ash Grey",
+      "Black",
+      "True Navy",
+      "Heathered Core Ultra Light Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Shorter/_/prod11800050?color=1179",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Shorter",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Oil Grey",
+      "Grey Sage",
+      "Artifact",
+      "Silver Drop",
+      "Asphalt Grey",
+      "Black",
+      "Trench",
+      "True Navy",
+      "Obsidian",
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-28-Warpstreme/_/prod11500066?color=70108",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 28L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Nomad/Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Cotton-Fleece-Jogger-SLNSH-Collection/_/prod20000431?color=0001",
+    "product_id": "men-joggers/",
+    "name": "Cotton Fleece Jogger SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Olive Brown",
+      "Wacky Khaki",
+      "Sheer Oak",
+      "Solar Grey",
+      "Nomad",
+      "Light Ivory",
+      "Belgian Blue",
+      "Army Green",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34L-VersaTwill/_/prod11680040?color=70108",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L Stretch Cotton VersaTwill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.008Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Grey Sage",
+      "Oil Grey",
+      "Artifact",
+      "Silver Drop",
+      "Asphalt Grey",
+      "True Navy",
+      "Black",
+      "Trench",
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-28/_/prod10440060?color=70108",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 28L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Mile-Maker-Cold-Weather-Pant-Regular/_/prod20000707?color=0001",
+    "product_id": "men-pants/",
+    "name": "Mile Maker Cold-Weather Pant Regular",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Grey Sage",
+      "Nomad",
+      "Artifact",
+      "Oil Grey",
+      "Silver Drop",
+      "Asphalt Grey",
+      "Black",
+      "True Navy",
+      "Trench",
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-37/_/prod11500065?color=70108",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 37L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Ponte-Wide-Leg-Pintuck-Pant-SLNSH-Collection/_/prod20005011?color=0001",
+    "product_id": "mens-sweatpants/",
+    "name": "Ponte Wide-Leg Pintuck Pant SLNSH Collection",
+    "price": 218,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Surge-Jogger-31/_/prod9610200?color=30210",
+    "product_id": "men-joggers/",
+    "name": "Surge Jogger Tall",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "True Navy",
+      "Black",
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Oversized-Utilitech-Twill-Pant-32L/_/prod11860292?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "Oversized Utilitech Twill Pant 32L",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Olive Brown",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Relaxed-Fit-Trouser-32L-Corduroy/_/prod20000475?color=0001",
+    "product_id": "mens-trousers/",
+    "name": "ABC Relaxed-Fit Trouser 32L Corduroy",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Olive Brown",
+      "Obsidian",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Slim-Fit-5-Pocket-Pant-32L-Brushed-Warps/_/prod20008811?color=70108",
+    "product_id": "men-pants/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 32L Brushed Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-tights/Merino-Wool-Blend-Base-Layer-Tight-29/_/prod20004479?color=0001",
+    "product_id": "men-tights/",
+    "name": "Merino Wool-Blend Base Layer Tight 29L",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-tights/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "True Navy",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Jogger-Tall/_/prod11750068?color=33928",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Jogger Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.009Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Grey Sage",
+      "Oil Grey",
+      "Artifact",
+      "Silver Drop",
+      "Asphalt Grey",
+      "True Navy",
+      "Obsidian",
+      "Trench",
+      "Classic Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-37/_/prod3470052?color=70108",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 37L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Sequoia"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Nylon-Track-Pant-SLNSH-Collection/_/prod20000759?color=0001",
+    "product_id": "men-pants/",
+    "name": "Nylon Track Pant SLNSH Collection",
+    "price": 178,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Silver Drop",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Disney-lulu-Steady-State-Pant/_/prod11800427?color=35064",
+    "product_id": "mens-sweatpants/",
+    "name": "Disney x lululemon Steady State Pant",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Wacky Khaki",
+      "Grey Sage",
+      "Artifact",
+      "Oil Grey",
+      "Silver Drop",
+      "Asphalt Grey",
+      "Black",
+      "Trench",
+      "True Navy",
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Warpstreme-37/_/prod9400064?color=19222",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 37L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Light Ivory",
+      "Black",
+      "Warm Ash Grey",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Ripstop-Pull-On-Pant/_/prod20005107?color=71148",
+    "product_id": "men-pants/",
+    "name": "Ripstop Pull-On Pant",
+    "price": 98,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Textured-Jogger-Shorter/_/prod20004511?color=38426",
+    "product_id": "men-joggers/",
+    "name": "License to Train Textured Jogger Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Wacky Khaki",
+      "Oil Grey",
+      "Grey Sage",
+      "Artifact",
+      "True Navy",
+      "Silver Drop",
+      "Asphalt Grey",
+      "Trench",
+      "Obsidian",
+      "Nomad",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-37-Warpstreme/_/prod11500069?color=70108",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 37L Warpstreme",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Melody Light Grey/Black",
+      "Heathered Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-Short/_/prod11530026?color=38068",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Black",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-32L-Twill/_/prod11680020?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Smooth Twill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-30L-Twill/_/prod11680092?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 30L Smooth Twill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Wacky Khaki",
+      "Warm Ash Grey",
+      "Solar Grey",
+      "True Navy",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-34L-VersaTwill/_/prod11680060?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L Stretch Cotton VersaTwill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.010Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raw Linen",
+      "True Navy",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Jogger-Shorter/_/prod11520458?color=48432",
+    "product_id": "men-joggers/",
+    "name": "License to Train Jogger Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Solar Grey",
+      "Asphalt Grey",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Relaxed-Fit-Pant-32-Warpstreme/_/prod11520251?color=38426",
+    "product_id": "mens-trousers/",
+    "name": "ABC Relaxed-Fit 5 Pocket Pant 32L Warpstreme",
+    "sale_price": 128,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34L-Twill/_/prod11680078?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L Smooth Twill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-tights/Fast-and-Free-Cold-Weather-Tight-28/_/prod11580049?color=0001",
+    "product_id": "men-tights/",
+    "name": "Fast and Free Cold Weather Tight 28\"",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-tights/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Raw Linen",
+      "True Navy",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Jogger-Tall/_/prod11520486?color=48432",
+    "product_id": "men-joggers/",
+    "name": "License to Train Jogger Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-34L-Twill/_/prod11680046?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L Smooth Twill",
+    "price": 138,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Woven-Pintuck-Pant-SLNSH-Collection/_/prod20003323?color=0001",
+    "product_id": "men-pants/",
+    "name": "Woven Pintuck Pant SLNSH Collection",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Warpstreme-Slim-Fit-Pull-On-Pant-Shorter/_/prod11870218?color=32476",
+    "product_id": "men-pants/",
+    "name": "ABC Warpstreme Slim-Fit Pull-On Pant Shorter",
+    "price": 118,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Core Ultra Light Grey",
+      "Rockwood",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Jogger-Athletic-Club/_/prod20000907?color=32493",
+    "product_id": "men-joggers/",
+    "name": "Steady State Jogger Athletic Club",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Fast-and-Free-Running-Pant/_/prod11580241?color=0001",
+    "product_id": "men-joggers/",
+    "name": "Fast and Free Running Pant",
+    "price": 148,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-tights/All-Sport-Workout-Tight-27/_/prod11750224?color=0001",
+    "product_id": "men-tights/",
+    "name": "All-Sport Workout Tight 27\"",
+    "price": 108,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-tights/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Pant-Shorter/_/prod11700308?color=30210",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Pant Shorter",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Vapor"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Balancer-Woven-Relaxed-Fit-Pant-Regular/_/prod20002039?color=0001",
+    "product_id": "men-pants/",
+    "name": "Balancer Woven Relaxed-Fit Pant Regular",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.011Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Natural Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Mens-Lightweight-Woven-Jogger-SLNSH/_/prod20003187?color=49844",
+    "product_id": "men-joggers/",
+    "name": "Men's Lightweight Woven Jogger SLNSH Collection",
+    "price": 168,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "Graphite Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Pant-Tall/_/prod11700310?color=33928",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Pant Tall",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mojave Tan",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Mens-Heavyweight-French-Terry-Pant-SLNSH/_/prod11860248?color=8206",
+    "product_id": "mens-sweatpants/",
+    "name": "Men's Heavyweight French Terry Pant SLNSH Collection",
+    "price": 188,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Asphalt Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Woven-Oversized-Cargo-Pant-SLNSH/_/prod20001123?color=35956",
+    "product_id": "men-pants/",
+    "name": "Woven Oversized Cargo Pant SLNSH Collection",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-tights/Fast-and-Free-Tight-28/_/prod11520444?color=0001",
+    "product_id": "men-tights/",
+    "name": "Fast and Free Tight 28\"",
+    "price": 128,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-tights/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Fast-and-Free-Waterproof-Rain-Pant/_/prod11750488?color=0001",
+    "product_id": "men-pants/",
+    "name": "Fast and Free Waterproof Rain Pant",
+    "price": 198,
+    "sale_price": null,
+    "on_sale": false,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Silver Drop",
+      "Obsidian",
+      "Black",
+      "True Navy",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Abc-Jogger-Skinny-MD/_/prod11780058?color=70108",
+    "product_id": "men-joggers/",
+    "name": "ABC Skinny-Fit Jogger Regular",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "Seal Grey",
+      "Army Green",
+      "Black",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Classic-Utilitech-34-MD/_/prod10390145?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 34L Utilitech",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Belgian Blue",
+      "Light Ivory",
+      "Army Green",
+      "Dark Olive",
+      "Artifact",
+      "Oil Grey",
+      "Rover",
+      "Mojave Tan"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-30L-VersaTwill-MD/_/prod11740035?color=34282",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 30L Stretch Cotton VersaTwill",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.012Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Seal Grey",
+      "Silver Drop",
+      "Army Green",
+      "Black",
+      "Trench",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Slim-Utilitech-34-MD/_/prod10390152?color=23315",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 34L Utilitech",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Sheer Oak",
+      "Army Green",
+      "Belgian Blue",
+      "Dark Olive",
+      "Oil Grey",
+      "Artifact",
+      "Rover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-32L-VersaTwill-MD/_/prod11740029?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Stretch Cotton VersaTwill",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Seal Grey",
+      "Olive Brown",
+      "Black",
+      "Silver Drop",
+      "Army Green",
+      "Trench",
+      "Artifact",
+      "Iron Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Slim-Utilitech-32-MD/_/prod10390149?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 32L Utilitech",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/ABC-Jogger-WovenAir-MD/_/prod11140174?color=33454",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger WovenAir",
+    "sale_price": 79,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Sheer Oak",
+      "Solar Grey",
+      "Obsidian",
+      "Light Ivory",
+      "True Navy",
+      "Black",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Warp-Slim-Fit-Pull-On-Pant-Regular-MD/_/prod11780579?color=70108",
+    "product_id": "men-pants/",
+    "name": "ABC Warpstreme Slim-Fit Pull-On Pant Regular",
+    "sale_price": 84,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Heathered Ultra Light Grey/Sea Salt"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/City-Sweat-Jogger-MD/_/prod9340012?color=0001",
+    "product_id": "men-joggers/",
+    "name": "City Sweat Jogger Regular",
+    "sale_price": 59,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "True Navy",
+      "Trench",
+      "Obsidian",
+      "Black",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Skinny-Pant-Warp-32-MD/_/prod11780082?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "ABC Skinny-Fit 5 Pocket Pant 32L Warpstreme",
+    "sale_price": 64,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf",
+      "Grey Sage",
+      "Oil Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-MD/_/prod11780162?color=62214",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Regular",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Regular-MD/_/prod11871675?color=36763",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Regular",
+    "sale_price": 74,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.013Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "True Navy",
+      "Silver Drop",
+      "Seal Grey",
+      "Army Green",
+      "Black",
+      "Night Sea",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Classic-Utilitech-32-MD/_/prod11580325?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 32L Utilitech",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Washed Denim",
+      "Solar Grey",
+      "Sheer Oak",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-32L-WovenAir-MD/_/prod11771095?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L WovenAir",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "Army Green",
+      "Black",
+      "Artifact",
+      "Green Jasper"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-ClassicFit-Pant-30-Utilitech-MD/_/prod11780330?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 30L Utilitech",
+    "sale_price": 94,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Zeroed-In-Slim-Fit-Pant-MD/_/prod11780095?color=68684",
+    "product_id": "men-joggers/",
+    "name": "Zeroed In Slim-Fit Pant Regular",
+    "sale_price": 69,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "True Navy",
+      "Trench",
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Skinny-Fit-5-Pocket-Pant-30L-Warpstreme-MD/_/prod11780542?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "ABC Skinny-Fit 5 Pocket Pant 30L Warpstreme",
+    "sale_price": 84,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-5-Pocket-Pant-32L-VersaTwill-MD/_/prod11880225?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 32L Stretch Cotton VersaTwill",
+    "sale_price": 94,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Classic Navy/Heathered True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Tapered-Pant-MD/_/prod11660162?color=64714",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Tapered Pant Regular",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Army Green",
+      "Belgian Blue",
+      "Oil Grey",
+      "Dark Olive",
+      "Mojave Tan",
+      "Rover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-34L-VersaTwill-MD/_/prod11740127?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L Stretch Cotton VersaTwill",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Grey Sage/Heathered Asphalt Grey",
+      "Legacy Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Soft-Jersey-Jogger-MD/_/prod11780431?color=71128",
+    "product_id": "men-joggers/",
+    "name": "Soft Jersey Jogger Regular",
+    "sale_price": 49,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Seal Grey",
+      "Silver Drop",
+      "Army Green",
+      "Black",
+      "Artifact"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Slim-30-Utilitech-MD/_/prod11780216?color=23315",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 30L Utilitech",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "Obsidian",
+      "True Navy",
+      "Trench",
+      "Army Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Skinny-MD/_/prod11780149?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "ABC Skinny-Fit 5 Pocket Pant 34L Warpstreme",
+    "sale_price": 64,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.014Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Olive Brown",
+      "Sheer Oak",
+      "True Navy",
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Utilitech-Twill-Relaxed-Pleated-Trouser-MD/_/prod11780680?color=71148",
+    "product_id": "mens-trousers/",
+    "name": "Utilitech Twill Relaxed Pleated Trouser",
+    "sale_price": 99,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/VersaTwill-Relaxed-Fit-Cargo-Pant-MD/_/prod11750266?color=45739",
+    "product_id": "men-pants/",
+    "name": "Stretch Cotton VersaTwill Relaxed-Fit Cargo Pant",
+    "sale_price": 84,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Rainforest Green",
+      "Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-WovenAir-Slim-Pull-On-Pant-Regular-MD/_/prod20002330?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC WovenAir Slim Pull-On Pant Regular",
+    "sale_price": 74,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nomad",
+      "Army Green",
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34-MD/_/prod8250160?color=35955",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 34L Warpstreme",
+    "sale_price": 64,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Espresso"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/New-Venture-Trouser-Flannel-MD/_/prod11780034?color=11969",
+    "product_id": "mens-trousers/",
+    "name": "New Venture Trouser Flannel",
+    "sale_price": 94,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oil Grey",
+      "Mojave Tan",
+      "Dark Olive",
+      "Artifact",
+      "Rover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32L-VersaTwill-MD/_/prod11750745?color=33123",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L Stretch Cotton VersaTwill",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-SlimFit-Pant-30-Cord-MD/_/prod11780792?color=36763",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 30L Cord",
+    "sale_price": 94,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-5Pckt-Pant-32L-Stretch-Cotton-VersaTwi-MD/_/prod11880257?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 32L Stretch Cotton VersaTwill",
+    "sale_price": 94,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Solar Grey",
+      "Sheer Oak",
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-30L-WovenAir-MD/_/prod11771094?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 30L WovenAir",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Trench"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Utilitech-Carpenter-Pant-27-MD/_/prod11270071?color=43731",
+    "product_id": "mens-trousers/",
+    "name": "Utilitech Carpenter Pant",
+    "sale_price": 79,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Obsidian"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Slim-Warpstreme-34-MD/_/prod11780135?color=32476",
+    "product_id": "mens-trousers/",
+    "name": "Commission Slim-Fit Pant 34L Warpstreme",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Obsidian",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Warpstreme-Slim-Fit-Pull-On-Pant-Tall-MD/_/prod11880005?color=32476",
+    "product_id": "men-pants/",
+    "name": "ABC Warpstreme Slim-Fit Pull-On Pant Tall",
+    "sale_price": 84,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Taupetastic"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30-Warpstreme-MD/_/prod11660053?color=64820",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L Warpstreme",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Dark Olive",
+      "Light Ivory",
+      "Bone",
+      "Nomad",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32L-Twill-MD/_/prod11790010?color=36763",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L Smooth Twill",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.015Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Black",
+      "Warm Ash Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Woven-Classic-Fit-Pleated-Trouser-Regular-MD/_/prod20002174?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "Woven Classic-Fit Pleated Trouser Regular",
+    "sale_price": 84,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Silver Drop",
+      "Rover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/New-Venture-Slim-Fit-Trouser-Pique-MD/_/prod11790106?color=33928",
+    "product_id": "mens-trousers/",
+    "name": "New Venture Slim-Fit Pique Trouser Regular",
+    "sale_price": 94,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [
+      "new"
+    ],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nightfall"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Steady-State-Classic-Fit-Jogger-MD/_/prod11780062?color=1263",
+    "product_id": "men-joggers/",
+    "name": "Steady State Classic-Fit Jogger Regular",
+    "sale_price": 64,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor/Gull Grey/Black",
+      "Tri Heather Vapor/Gull Grey/Black",
+      "Black/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Engineered-Warmth-Jogger-M-MD/_/prod11780411?color=56949",
+    "product_id": "men-joggers/",
+    "name": "Engineered Warmth Jogger",
+    "sale_price": 104,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Abc-Jogger-MD/_/prod9660994?color=35955",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Regular",
+    "sale_price": 84,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Light Ivory",
+      "Bone",
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30L-Twill-MD/_/prod11790019?color=36763",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L Smooth Twill",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black/Graphite Grey",
+      "Blue Twill/Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Zeroed-In-Double-Knit-Mesh-Slim-Fit-Pant-MD/_/prod20003618?color=43646",
+    "product_id": "men-pants/",
+    "name": "Zeroed In Double-Knit Mesh Slim-Fit Pant",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bay Leaf",
+      "Washed Denim",
+      "Sheer Oak",
+      "Rover"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Pace-Breaker-Jogger-MD/_/prod11780228?color=62214",
+    "product_id": "men-joggers/",
+    "name": "Pace Breaker Jogger Regular",
+    "sale_price": 74,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Club Blue",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/LuluLinen-Pull-On-Pant-Regular-MD/_/prod11871683?color=68578",
+    "product_id": "men-pants/",
+    "name": "LuluLinen Pull-On Pant Regular",
+    "sale_price": 74,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Washed Denim",
+      "True Navy",
+      "Sheer Oak",
+      "Solar Grey",
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34L-WovenAir-MD/_/prod11771093?color=69122",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L WovenAir",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Abc-Slim-5-Pocket-34-MD/_/prod10880035?color=45739",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 34L Warpstreme",
+    "sale_price": 64,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/License-to-Train-Jogger-Updated-MD/_/prod11780240?color=59164",
+    "product_id": "men-joggers/",
+    "name": "License to Train Jogger Regular",
+    "sale_price": 74,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.016Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Light Ivory",
+      "True Navy",
+      "Solar Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-32L-WovenAir-MD/_/prod11771091?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 32L WovenAir",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Allspice",
+      "Bay Leaf"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Utilitech-Carpenter-Pant-27-Straight-MD/_/prod11740031?color=27216",
+    "product_id": "men-pants/",
+    "name": "Utilitech Carpenter Pant Straight Leg",
+    "sale_price": 84,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Leopardo Jacquard Med Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/LAB-Jacquard-Relaxed-Tapered-Pant-27-MD/_/prod11790027?color=62922",
+    "product_id": "men-pants/",
+    "name": "lululemon lab Jacquard Relaxed-Tapered Pant 27\"L",
+    "sale_price": 119,
+    "price": 178,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Mojave Tan",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34L-VersaTwill-MD/_/prod11740028?color=8206",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L Stretch Cotton VersaTwill",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Espresso",
+      "Dark Forest"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Relaxed-Tapered-Trouser-MD/_/prod11690121?color=19746",
+    "product_id": "mens-trousers/",
+    "name": "Relaxed-Tapered Smooth Twill Trouser Cropped",
+    "sale_price": 74,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30L-VersaTwill-MD/_/prod11740032?color=26083",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L Stretch Cotton VersaTwill",
+    "sale_price": 69,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black",
+      "Light Ivory",
+      "Club Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/LuluLinen-Pleated-Trouser-Regular-MD/_/prod20002322?color=0001",
+    "product_id": "mens-trousers/",
+    "name": "LuluLinen Pleated Trouser Regular",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor",
+      "Silver Drop",
+      "Rhino Grey",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Golf-Pant-27-MD/_/prod11780882?color=0001",
+    "product_id": "mens-trousers/",
+    "name": "Commission Classic-Tapered Golf Pant 27L",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Warm Ash Grey",
+      "Vapor",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Ripstop-Pull-On-Classic-Fit-Pant-30-MD/_/prod11840122?color=70108",
+    "product_id": "men-joggers/",
+    "name": "Ripstop Pull-On Classic-Fit Pant 30L",
+    "sale_price": 69,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Bone"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Slim-Tapered-Heavy-Twill-Trouser-Crop-MD/_/prod11780236?color=27597",
+    "product_id": "mens-trousers/",
+    "name": "Slim-Tapered Heavy Twill Trouser Cropped",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Medium Grey/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-MD/_/prod11780500?color=12256",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Regular",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34-Warpstreme-MD/_/prod11660070?color=45739",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L Warpstreme",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Light Ivory",
+      "Grey Sage",
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-32L-Twill-MD/_/prod11790013?color=26083",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Smooth Twill",
+    "sale_price": 89,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Tall-MD/_/prod11800036?color=36763",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Tall",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.017Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Solar Grey",
+      "Sheer Oak",
+      "Light Ivory",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-34L-WovenAir-MD/_/prod11771096?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L WovenAir",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Leopardo Mini Jacquard Lunar Rock Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/LAB-Double-Knit-Jacquard-Jogger-MD/_/prod11790029?color=63089",
+    "product_id": "men-joggers/",
+    "name": "lululemon lab Double-Knit Jacquard Jogger",
+    "sale_price": 114,
+    "price": 168,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Grey Sage",
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-30L-Twill-MD/_/prod11790021?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 30L Smooth Twill",
+    "sale_price": 94,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nomad",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-32-MD/_/prod8900794?color=35955",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 32L Warpstreme",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Cotton-Twill-Pleat-Front-Trouser-Regular-MD/_/prod11870304?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "Cotton Twill Pleat-Front Trouser Regular",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Vapor",
+      "Black",
+      "Army Green",
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Ripstop-Relaxed-Fit-Cargo-Pant-Regular-MD/_/prod11870200?color=32894",
+    "product_id": "men-pants/",
+    "name": "Ripstop Relaxed-Fit Cargo Pant Regular",
+    "sale_price": 104,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Fawn Brown"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Utilitech-Twill-Utility-Pant-MD/_/prod11780644?color=66854",
+    "product_id": "men-pants/",
+    "name": "Utilitech Twill Utility Pant",
+    "sale_price": 89,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Warpstreme-37-MD/_/prod11780048?color=35955",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 37L Warpstreme",
+    "sale_price": 94,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Light Ivory",
+      "Solar Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-30L-WovenAir-MD/_/prod11771090?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 30L WovenAir",
+    "sale_price": 99,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Black",
+      "White"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Golf-Trouser-32L-MD/_/prod11780713?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Golf Trouser 32L",
+    "sale_price": 109,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "White Opal",
+      "Graphite Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Relaxed-Fit-Back-Pocket-Pant-30-MD/_/prod11840197?color=47748",
+    "product_id": "men-joggers/",
+    "name": "Relaxed-Fit Back Pocket Pant 30”L",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-tights/License-to-Train-Tight-21-MD/_/prod10642062?color=0001",
+    "product_id": "men-tights/",
+    "name": "License to Train Tight 21\"",
+    "sale_price": 54,
+    "price": 98,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-tights/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.018Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "True Navy"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Golf-Trouser-32L-MD/_/prod11740026?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Golf Trouser 32L",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-32-MD/_/prod11660072?color=45739",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 32L Warpstreme",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Dark Olive",
+      "Light Ivory",
+      "Grey Sage",
+      "Bone",
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Fit-Trouser-34L-Twill-MD/_/prod11790018?color=26083",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L Smooth Twill",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Grey Sage",
+      "Bone",
+      "Nomad",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Classic-Fit-Trouser-34L-Twill-MD/_/prod11790015?color=33454",
+    "product_id": "mens-trousers/",
+    "name": "ABC Classic-Fit Trouser 34L Smooth Twill",
+    "sale_price": 79,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Classic-Warpstreme-34-MD/_/prod11780024?color=45739",
+    "product_id": "mens-trousers/",
+    "name": "Commission Classic-Fit Pant 34L",
+    "sale_price": 84,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Relaxed-Fit-Workout-Track-Pant-MD/_/prod11771031?color=0001",
+    "product_id": "men-pants/",
+    "name": "Relaxed-Fit Workout Track Pant",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage",
+      "Blackened Pine"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Smooth-Spacer-Jogger-Shorter-MD/_/prod11800052?color=36763",
+    "product_id": "men-joggers/",
+    "name": "Smooth Spacer Jogger Shorter",
+    "sale_price": 89,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Slim-Warpstreme-32-MD/_/prod11780052?color=45739",
+    "product_id": "mens-trousers/",
+    "name": "Commission Slim-Fit Pant 32L Warpstreme",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-30-MD/_/prod11580324?color=35955",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 30L Warpstreme",
+    "sale_price": 94,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Abc-Slim-5-Pocket-32-MD/_/prod10900247?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 32L Warpstreme",
+    "sale_price": 64,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Iron Blue"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Surge-Jogger-MD/_/prod9201444?color=26865",
+    "product_id": "men-joggers/",
+    "name": "Surge Jogger Regular",
+    "sale_price": 69,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Nomad",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Pant-Slim-30-MD/_/prod11580326?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit 5 Pocket Pant 30L Warpstreme",
+    "sale_price": 64,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Oil Grey"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Spacer-Classic-Tapered-Pant-MD/_/prod11840009?color=33123",
+    "product_id": "men-joggers/",
+    "name": "Textured Spacer Classic-Tapered Pant",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/UV-Protective-Hiking-Pant-MD/_/prod20000478?color=45739",
+    "product_id": "men-joggers/",
+    "name": "UV-Protective Hiking Pant",
+    "sale_price": 99,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.019Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Trench",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Cargo-Pant-Warpstreme-MD/_/prod11800821?color=43731",
+    "product_id": "men-pants/",
+    "name": "ABC Warpsteme Cargo Pant Regular",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak",
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Slim-Trouser-34-MD/_/prod11660135?color=68684",
+    "product_id": "mens-trousers/",
+    "name": "ABC Slim-Fit Trouser 34L Warpstreme",
+    "sale_price": 64,
+    "price": 138,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/ABC-Jogger-Tall-WovenAir-MD/_/prod20003122?color=33454",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Tall WovenAir",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Vapor",
+      "Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-tights/Seamless-Base-Layer-Tight-27-MD/_/prod11780794?color=56266",
+    "product_id": "men-tights/",
+    "name": "Seamless Base Layer Tight 27\"",
+    "sale_price": 69,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-tights/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Light Ivory",
+      "Silver Drop"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/ABC-Jogger-Shorter-WovenAir-MD/_/prod11780332?color=33454",
+    "product_id": "men-joggers/",
+    "name": "ABC Jogger Shorter WovenAir",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Shorter-MD/_/prod11871671?color=36763",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Shorter",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Grey Sage"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-sweatpants/Steady-State-Classic-Fit-Pant-Tall-MD/_/prod11871667?color=36763",
+    "product_id": "mens-sweatpants/",
+    "name": "Steady State Classic-Fit Pant Tall",
+    "sale_price": 94,
+    "price": 118,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-sweatpants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Sheer Oak"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Heavyweight-Fleece-Jogger-MD/_/prod11800142?color=68684",
+    "product_id": "men-joggers/",
+    "name": "Heavyweight Fleece Jogger",
+    "sale_price": 94,
+    "price": 148,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "True Navy",
+      "Trench"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/ABC-Relaxed-Fit-Pant-32-Warpstreme-MD/_/prod11801019?color=31382",
+    "product_id": "mens-trousers/",
+    "name": "ABC Relaxed-Fit 5 Pocket Pant 32L Warpstreme",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Heathered Medium Grey/Black"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-joggers/Textured-Double-Knit-Cotton-Jogger-Tall-MD/_/prod11780836?color=12256",
+    "product_id": "men-joggers/",
+    "name": "Textured Double-Knit Cotton Jogger Tall",
+    "sale_price": 89,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-joggers/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Nomad"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-37-MD/_/prod11500296?color=35955",
+    "product_id": "men-pants/",
+    "name": "ABC Classic-Fit 5 Pocket Pant 37L Warpstreme",
+    "sale_price": 94,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Washed Denim"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/men-pants/Balancer-Woven-Relaxed-Fit-Pant-Regular-MD/_/prod20002038?color=69122",
+    "product_id": "men-pants/",
+    "name": "Balancer Woven Relaxed-Fit Pant Regular",
+    "sale_price": 99,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "men-pants/"
+  },
+  {
+    "brand": "Lululemon",
+    "scraped_at": "2025-11-13T23:04:18.020Z",
+    "is_homepage_product": false,
+    "category": "Bottoms",
+    "gender": "Men",
+    "currency": "USD",
+    "colors": [
+      "Army Green"
+    ],
+    "sizes": [],
+    "fabrics": [],
+    "url": "https://shop.lululemon.com/p/mens-trousers/Commission-Pant-Classic-Warpstreme-32-MD/_/prod11780044?color=45739",
+    "product_id": "mens-trousers/",
+    "name": "Commission Classic-Fit Pant 32L",
+    "sale_price": 84,
+    "price": 128,
+    "on_sale": true,
+    "images": [
+      "data:"
+    ],
+    "badges": [],
+    "sku": "mens-trousers/"
+  }
+]
